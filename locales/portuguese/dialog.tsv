@@ -191,7 +191,7 @@ GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de uma árvore oca titânica, nos
 				"""A trilha percorrida com sorte e fé, capture as melódicas espumas que se veem."""					
 				"""Cinco Espíritos Florestais, ao céu voarão, um milagre realizarão, o Trigono revelarão, juntos trabalharão."""					
 GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de uma árvore oca titânica, nos aproximamos de uma tumba solitária e um fantasma audacioso apareceu para nós.			117	028.jpg	E2A80
-				"""Busque por um sinal dos espíritos silvanos e entoe uma Canção de Espadância no local para revelar um Trigono oculto."""					
+				"""Busque por um sinal dos espíritos florestais e entoe uma Canção de Espadância no local para revelar um Trigono oculto."""					
 GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de uma árvore oca titânica, nos aproximamos de uma tumba solitária e um fantasma audacioso apareceu para nós.			117	028.jpg	E2A80
 				"""A canção do Trigono acabou por enquanto. Me pergunto quando ouvirei novamente."""					
 LOGFELLA_LOSTKEY	The Scythian			O lenhador aflito conhecido como Troncadeiro estava completamente transtornado por algo.					
@@ -326,12 +326,12 @@ GIRL_GHOULTHOUGHTS	Girl			A Citiana sabe que é possível deter a Massa Gogolít
 				Onde estou? O que aconteceu? A última coisa que me lembro é estar caminhando em sonhos pela floresta quando vi uma luz rosa perturbadora.					
 LOGFELLA_GHOULTHOUGHTS	Logfella			A Citiana continua falando sobre sua funesta missão de abrir uma entrada para o Remoinhado Infinito no topo de Mingi Tau.					
 				Tudo tem sido completamente louco desde que a Citiana apareceu muitas luas atrás.					
-LOGFELLA_GHOUL	The Scythian			Acordamos atordoados de um sono profundo perto da Clareira Trigonal com o lenhador conhecido como Tronco ao nosso lado.			88	054.jpg	J5D44
-				Tronco falou sobre como Samae desapareceu na noite anterior.					
+LOGFELLA_GHOUL	The Scythian			Acordamos atordoados de um sono profundo perto da Clareira Trigonal com o lenhador conhecido como Troncadeiro ao nosso lado.			88	054.jpg	J5D44
+				Troncadeiro falou sobre como Samae desapareceu na noite anterior.					
 				O lenhador sabia que estávamos perto do fim e precisávamos voltar a Mingi Tau para concluir nossa funesta missão.					
-LOGFELLA_TRIGONGROVETIPS	The Scythian			O lenhador conhecido como Tronco nunca tinha visto a Clareira Trigonal antes e se perguntava do que se tratava tudo aquilo.					
-LOGFELLA_TRIFECTATIPS	The Scythian			O lenhador conhecido como Tronco estava muito triste com a Ausência de Samae.					
-				Dissemos a Tronco que sabíamos onde ela poderia estar e que logo resolveríamos as coisas.					
+LOGFELLA_TRIGONGROVETIPS	The Scythian			O lenhador conhecido como Troncadeiro nunca tinha visto a Clareira Trigonal antes e se perguntava do que se tratava tudo aquilo.					
+LOGFELLA_TRIFECTATIPS	The Scythian			O lenhador conhecido como Troncadeiro estava muito triste com a Ausência de Samae.					
+				Dissemos a Troncadeiro que sabíamos onde ela poderia estar e que logo resolveríamos as coisas.					
 				Ele olhou para a plataforma próxima e nos agradeceu antecipadamente por tudo relacionado ao martírio.					
 URSULA_AVATAR			Ursula/idleSEhandsonhip						
 DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
@@ -395,8 +395,8 @@ GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Existem muitos ditados estra
 				Há um ditado aqui no Cáucaso que diz que uma floresta precisa de um fogo tanto quanto o fogo precisa da árvore.					
 YELLOWTRIGON_COLLECTED	The Scythian			Conseguimos o Trigono Dourado. Somos incríveis.			85	067.jpg	36G7U
 PINKTRIGON_COLLECTED	The Scythian			Contra todas as probabilidades, conseguimos o Trigono da Lua Radiante.			155	068.jpg	56F8U
-BLUETRIGON_COLLECTED	The Scythian			Apesar de todas as adversidades, conseguimos o Trigono da Lua Sombría.			112	069.jpg	T6G94
-GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece que todos os espíritos da Lua Sombría foram enviados para o céu, então é novamente a época dos milagres. Eu adoro milagres!					
+BLUETRIGON_COLLECTED	The Scythian			Apesar de todas as adversidades, conseguimos o Trigono da Lua Sombria.			112	069.jpg	T6G94
+GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece que todos os espíritos da Lua Sombria foram enviados para o céu, então é novamente a época dos milagres. Eu adoro milagres!					
 JIM_HINT1_OFF	The Scythian			Encontramos um misterioso músico ao lado de uma fogueira crepitante em uma clareira isolada.					
 JIM_PINKDAWN	The Scythian			Encontramos um misterioso músico ao lado de uma fogueira crepitante em uma clareira isolada. #jimguthrie					
 JIM_BRIGHTMOON	The Scythian			Encontramos um misterioso músico ao lado de uma fogueira crepitante enquanto A Lua Radiante surgia, ele se apresentou como Jim Guthrie.			128	070.jpg	07G00
@@ -438,7 +438,7 @@ GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae ouviu em silêncio nossa estranh
 GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Estou realmente preocupada com a Citiana... ela desapareceu por dias depois que a tempestade se dissipou. Espero sinceramente que ela esteja bem.					
 GIRL_URSULAMEADOW_OFF	Girl			Au, então a Citiana estava desacordada na campina? Que loucura.					
 DOGFELLA_GETDARKTRIGON	The Scythian			Depois de ativar outro feixe ascendente na Clareira Trigonal, notamos algo peculiar no cachorro chamado Cachorreiro.					
-			Archetype/trifecta	De repente, parecia que entendíamos o que Cachorreiro estava dizendo, nos instigou a buscar o Trigono da Lua Sombría e completar a Tríade Trigonal.					
+			Archetype/trifecta	De repente, parecia que entendíamos o que Cachorreiro estava dizendo, nos instigou a buscar o Trigono da Lua Sombria e completar a Tríade Trigonal.					
 DOGFELLA_GETBRIGHTTRIGON	The Scythian			Depois de ativar outro feixe ascendente na Clareira Trigonal, notamos algo peculiar no cachorro chamado Cachorreiro.					
 			Archetype/trifecta	De repente, parecia que entendíamos o que Cachorreiro estava dizendo, nos instigou a buscar o Trigono da Lua Radiante e completar a Tríade Trigonal.					
 DOGFELLA_THREETRIGONS	The Scythian			Depois de ativar outro feixe ascendente na Clareira Trigonal, notamos algo peculiar no cachorro chamado Cachorreiro.					
@@ -488,8 +488,8 @@ GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Falamos com Samae 
 LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			O lenhador pôde ver que nossas caminhadas oníricas e a realização de milagres tiveram um grande custo em nossa saúde física.					
 			Archetype/trifecta	Troncadeiro nos perguntou se visitamos Cachorreiro na Clareira Trigonal... Talvez possamos ativar outro feixe ascendente?					
 ARCHETYPE_DARKMOONTRIGONCOLLECTED	The Archetype			Agora a pergunta é... O que vem a seguir?					
-				Apesar da falta de informações úteis que fornecemos, você conseguiu dominar o Trígono da Lua Sombría.					
-				Fui informado de que você recuperou o Trígono da Lua Sombría. Isso é realmente uma notícia extraordinária.					
+				Apesar da falta de informações úteis que fornecemos, você conseguiu dominar o Trígono da Lua Sombria.					
+				Fui informado de que você recuperou o Trígono da Lua Sombria. Isso é realmente uma notícia extraordinária.					
 LOGFELLA_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	O lenhador não reconheceu a chave que encontramos e não tinha ideia para que servia.					
 			AdventureUI/keyItem	...?					
 GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae viu a chave que encontramos e nos incentivou a ficar de olho em uma porta fechada.					
@@ -520,11 +520,11 @@ DOGFELLA_FOUNDATION	Dogfella			...
 				...					
 LOGFELLA_DARKMOON	The Scythian			O lenhador falou sobre caminhadas oníricas pela floresta na hora antes do amanhecer, sob um céu escuro e tempestuoso.					
 				Ele mencionou uma luz rosa perturbadora e uma música misteriosa que surgiam da floresta sem nome atrás da campina.					
-				Supomos que Troncadeiro provavelmente estava se referindo ao show de rock da Lua Sombría.					
+				Supomos que Troncadeiro provavelmente estava se referindo ao show de rock da Lua Sombria.					
 GIRL_DARKMOON	The Scythian			Samae falou sobre caminhadas oníricas pela floresta na hora antes do amanhecer, sob um céu escuro e tempestuoso.					
 				Ela comentou como se abrigou da tempestade em uma árvore oca de proporções titânicas.					
 				Sabíamos exatamente a qual árvore oca titânica ela se referia.					
-ARCHETYPE_DARKMOON	The Archetype			Tenha cuidado. A Lua Sombría reina.			94	076.jpg	I7F69
+ARCHETYPE_DARKMOON	The Archetype			Tenha cuidado. A Lua Sombria reina.			94	076.jpg	I7F69
 LOGFELLA_CRESCENTWAX	The Scythian			O lenhador falou sobre caminhadas oníricas pela floresta na hora antes do amanhecer, sob a luz de uma lua crescente.					
 				Ele falou sobre uma criatura que encontrou, algo ou alguém estranho e nu. Era um urso? Um homem? ou... O Grosso Rabugento?			57	077.jpg	I7G7U
 GIRL_CRESCENTWAX	The Scythian			Samae estava animada, hoje começava um novo mês lunar! Dias longos esperavam por ela sentada em rochas.					
@@ -536,7 +536,7 @@ GIRL_HALFWAX	The Scythian			Em meu sonho de ontem, eu estava caminhando pela flo
 ARCHETYPE_HALFWAX	The Archetype			Alguns folcloristas lunáticos afirmaram que não há relação causal entre a insanidade e o humor da lua.					
 LOGFELLA_ALMOSTWAX	The Scythian			O lenhador disse que nunca costumava pensar muito na Massa Gogolítica e na montanha deserta de Mingi Tau.					
 				No entanto, ele mencionou que ultimamente a presença espectral da Massa Gogolítica começou a atormentá-lo.					
-				O lenhador admitiu que ficava arrepiado quando a Lua Radiante pairava... e quando a Lua Sombría reinava.					
+				O lenhador admitiu que ficava arrepiado quando a Lua Radiante pairava... e quando a Lua Sombria reinava.					
 GIRL_ALMOSTWAX	The Scythian			A garota mencionou algo sobre a lua crescente e perguntou-se quanto tempo levaria até que a Lua Radiante pairasse no céu.					
 ARCHETYPE_ALMOSTWAX	The Archetype			A lua cresce um pouco a cada dia... em poucos dias, a Lua Radiante pairará... E daí?			165	046.jpg	P4B6A
 LOGFELLA_BRIGHTMOON	The Scythian			O lenhador admitiu que seu cachorro se comportava de maneira estranha toda vez que a Lua Radiante pairava no céu.			135	061.jpg	M6F1I
@@ -556,7 +556,7 @@ LOGFELLA_HALFWANE	The Scythian			O lenhador tinha pouca paciência para o folclo
 				O lenhador mencionou os corredores subterrâneos e os espaços cavernosos esculpidos na rocha sob Mingi Tau.					
 				Segundo o lenhador, esses espaços cavernosos foram esculpidos há séculos para proteger O Megatomo.					
 GIRL_HALFWANE	The Scythian			Samae disse ter caminhado além do muro de pedra e sentido a terrível presença da Massa Gogolítica.			30	080.jpg	V8B04
-ARCHETYPE_HALFWANE	The Archetype			O ciclo lunar está diminuindo e a Lua Sombría está a menos de uma semana de distância.					
+ARCHETYPE_HALFWANE	The Archetype			O ciclo lunar está diminuindo e a Lua Sombria está a menos de uma semana de distância.					
 LOGFELLA_CRESCENTWANE	The Scythian			O lenhador tinha pouca paciência para o folclore e admitiu que geralmente o entediava, embora tivesse um bom conhecimento sobre o assunto.					
 				O lenhador conhecia a Massa Gogolítica, o espectro imortal que espreitava na escuridão sob Mingi Tau.					
 				Troncadeiro falou sobre o Remoinhado Infinito, além de nossa compreensão, de onde O Megatomo veio na mal lembrada Idade da Pedra.					
@@ -565,10 +565,10 @@ LOGFELLA_CRESCENTWANE	The Scythian			O lenhador tinha pouca paciência para o fo
 				"""Os cítios tentaram reprimir a insidiosa propagação da civilização e por isso isolaram O Megatomo com seu protetor imortal."""					
 				"""O imortal tem espreitado na escuridão desde então, se deteriorando para se tornar um espectro imortal conhecido como a Massa Gogolítica."""					
 				O lenhador provavelmente teria continuado essa história interminável se não o tivéssemos interrompido de forma respeitosa.					
-GIRL_CRESCENTWANE	The Scythian			Samae observou a lua minguante. Ela disse que em breve partiria e a Lua Sombría reinaria.					
-ARCHETYPE_CRESCENTWANE	The Archetype			O ciclo lunar está quase completo. A Lua Sombría está muito próxima.					
-DARKMOONLOOMS_ARCHETYPE	The Archetype			A Lua Sombría reina, o fim do ciclo lunar está próximo.					
-DARKMOONBEGINS_ARCHETYPE	The Archetype			Aqui está, a Lua Sombría!			94	076.jpg	I7F69
+GIRL_CRESCENTWANE	The Scythian			Samae observou a lua minguante. Ela disse que em breve partiria e a Lua Sombria reinaria.					
+ARCHETYPE_CRESCENTWANE	The Archetype			O ciclo lunar está quase completo. A Lua Sombria está muito próxima.					
+DARKMOONLOOMS_ARCHETYPE	The Archetype			A Lua Sombria reina, o fim do ciclo lunar está próximo.					
+DARKMOONBEGINS_ARCHETYPE	The Archetype			Aqui está, a Lua Sombria!			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			Em meu sonho, encontrei um Parlamento de árvores atingido por um raio e senti a presença de algo profundamente sagrado.					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Ontem à noite, ouvi o som de uma música vibrante filtrando-se pelos bosques atrás de minha cabana. O que poderia ser?					
 DARKMOON_DOGFELLATHOUGHTS	Dogfella			Au Au Au. Em meu estado de sonho, só vislumbrei as brumas sutis dos Espíritos Florestais.					
