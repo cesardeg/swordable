@@ -128,7 +128,7 @@ ERRMSG_UNABLE_TO_SAVE_STEAM	Falha ao criar um arquivo de salvamento do Steam.
 ERRMSG_CORRUPT_SAVE_PROGRESS	Os dados salvos estão corrompidos e não foi possível lê-los. O jogo irá redefinir todos os dados ao pressionar Aceitar.	
 PROMPT_CONFIRM_EXITGAME	DESEJA SAIR DO JOGO?	
 HASHTAG_SWORCERY	#sworcery	
-DIGIT_STRING	123456789	
+DIGIT_STRING	0123456789	
 HOLD_SHIELD_TO_HEAL	SEGURE PARA SE CURAR	
 EXIT_TITLE	Sair de #sworcery?	
 EXIT_PROMPT	Você realmente deseja sair?	

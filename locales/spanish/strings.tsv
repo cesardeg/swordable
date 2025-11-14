@@ -128,7 +128,7 @@ ERRMSG_UNABLE_TO_SAVE_STEAM	Un error impidió crear un archivo de guardado de St
 ERRMSG_CORRUPT_SAVE_PROGRESS	Los datos guardados están corruptos y no fue posible leer la info. El juego reseteará todos los datos al presionar Aceptar.	
 PROMPT_CONFIRM_EXITGAME	¿QUIERES SALIR DEL JUEGO?	
 HASHTAG_SWORCERY	#sworcery	
-DIGIT_STRING	123456789	
+DIGIT_STRING	0123456789	
 HOLD_SHIELD_TO_HEAL	MANTÉN PARA CURARTE	
 EXIT_TITLE	Salir de #sworcery?	
 EXIT_PROMPT	¿En verdad quieres salir?	
