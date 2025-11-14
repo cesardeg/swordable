@@ -6,8 +6,8 @@ Below is a table of correspondence of terms between English, Spanish, and Portug
 |--------------------------|-----------------------------|----------------------------|
 | The Scythian             | La Escita                   | A Citiana                  |
 | The Archetype            | El Arquetipo                | O Arquétipo                |
-| Logfella                 | Troncales                   | Troncadeiro                |
-| Dogfella                 | Perrales                      | Cachorreiro                 |
+| Logfella                 | Amileño                   | Troncadeiro                |
+| Dogfella                 | Amican                      | Cachorreiro                 |
 | Girl                     | Samae                       | Samae                     |
 | The Grizzled Boor        | Tosco Pardo                 | Grosso Rabugento           |
 | The Gogolithic Mass      | La Masa Gogolítica          | A Massa Gogolítica         |

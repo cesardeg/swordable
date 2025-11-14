@@ -5,9 +5,9 @@ SIGN_TADPOL	The Scythian			"""Lar é onde está o coração."" #letsmeetindreams
 SIGN_WALL	The Scythian			"""Cítia, Ciméria, Assíria e Pérsia, esses são todos reinos dos homens. Mingi Tau é o Reino das Nuvens."""					
 SIGN_CHASM	The Scythian			Na beira do Precipício Perigoso, havia uma pedra esculpida com o glifo de uma espada apontando para o céu sob as cores do arco-íris.					
 				Os cítios detestamos os arco-íris. #loathsomerainbows			21	002.jpg	40C27
-SIGN_BIRDTREE	The Scythian			Em uma passagem lateral que se afastava do antigo caminho, encontramos uma pedra esculpida com uma série de glifos indecifráveis.					
+SIGN_BIRDTREE	The Scythian			Em uma trilha lateral que se afastava do antigo caminho, encontramos uma pedra esculpida com uma série de glifos indecifráveis.					
 				No meio dos glifos indecifráveis, reconhecemos uma série de glifos lunares.					
-SIGN_BIRDTREEDECIPHERED	The Scythian			Em uma passagem lateral que se afastava do antigo caminho, encontramos uma pedra esculpida com uma série de glifos lunares anteriormente indecifráveis.					
+SIGN_BIRDTREEDECIPHERED	The Scythian			Em uma trilha lateral que se afastava do antigo caminho, encontramos uma pedra esculpida com uma série de glifos lunares anteriormente indecifráveis.					
 				Os glifos falavam de um lugar secreto nas proximidades «onde se pode alterar o humor da lua».					
 				A Gruta da Lua...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			À margem do antigo caminho, havia uma pedra esculpida com um par de glifos em forma de espada e escudo. #hinthint			16	004.jpg	T0C4X
@@ -21,7 +21,7 @@ DOOR_SIDEBMEADOW	The Scythian			Havia uma pequena porta sem maçaneta feita de u
 DOOR_UPSLOPEWOODS1	The Scythian			Uma porta fechada bloqueava o antigo caminho para Mingi Tau na parede de pedra.					
 DOOR_UPSLOPEWOODS3	The Scythian			Uma porta fechada estava escondida entre a vegetação do bosque, sob o antigo caminho que leva a Mingi Tau. #moongrotto					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
-LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		O lenhador cortava lenha. #obviously #woodchopping			71	007.jpg	7E+71
+LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		O lenhador lenhava sua lenha. #obviously #woodchopping			71	007.jpg	7E+71
 				Os montanheses do Cáucaso o conheciam como Troncadeiro e ele parecia amigável.					
 				Troncadeiro sabia tudo sobre nossa funesta missão e concordou em nos guiar pelo antigo caminho.					
 				Ainda assim, tínhamos a sensação de que ele não estava muito entusiasmado com essa tarefa.					
@@ -83,7 +83,7 @@ GIRL_STORM	The Scythian			A garota de cabelo escuro conhecida como Samae estava 
 			gourd/gourd	Desde o início da tempestade, Samae havia estado observando as melódicas espumas dos Espíritos Florestais que dormiam nas florestas próximas.					
 			gourd/gourd	Ela se perguntou se os três Espíritos Florestais poderiam ajudar a dissipar a tempestade. #yes					
 			gourd/gourd	Ela nos pediu para investigar as melódicas espumas que borbulhavam na lagoa profunda em frente à cabana.					
-			gourd/gourd	Samae mencionou um espírito em uma campina próxima e outro em um ninho, onde três pássaros cantores estavam encharcados pela chuva..					
+			gourd/gourd	Samae mencionou um espírito em uma campina próxima e outro em um ninho, onde três pássaros cantores estavam encharcados pela chuva.					
 			gourd/gourd	Samae nos disse para procurar as melódicas espumas desses três Espíritos Florestais e enviá-las ao céu usando a Canção da Espadância.					
 ARCHETYPE_SWORCERY	The Archetype			"""Chegou a hora de aprender a Canção da Espadância, uma técnica de expansão da consciência que revela uma dimensão musical mística."""					
 			gourd/gourd	"""Mantenha a calma e siga minhas instruções para despertar o Espírito Florestal que dorme nas águas frescas da lagoa profunda."""					
@@ -162,7 +162,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos um conjunto de tumbas em uma moita ao 
 				O fantasma radiante que falou era um gigante que conhecíamos pelas antigas histórias, cuja famosa imagem exigia obediência. #andre					
 			Archetype/trifecta	"""Ano passado, antes das festas do Yule, reuni uma expedição e nos propusemos a reconstruir a Tríade Trigonal."""					
 				"""Tínhamos ouvido falar sobre a entrada ao Infinito no topo de Mingi Tau e parecia algo que valia a pena ver."""					
-			triangle/Triangle	"""Localizamos e domamos O Trigono Dourado facilmente, exploramos a Clareira Trigonal e embarcamos na busca pelo Trigono da Lua Radiante.."""					
+			triangle/Triangle	"""Localizamos e domamos O Trigono Dourado facilmente, exploramos a Clareira Trigonal e embarcamos na busca pelo Trigono da Lua Radiante."""					
 				"""A busca pelo Trigono da Lua Radiante não foi tão bem-sucedida... nos perdemos completamente, para ser honesto."""					
 				"""Pouco a pouco, percebemos a importância dos ciclos lunares e sua influência nos espíritos que dormem nos reinos crepusculares."""					
 				"""Então, nos sentamos aqui para observar o humor da lua e saber quando, como e onde devemos estar."""			7	026.jpg	Q2D6P
@@ -220,7 +220,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	O lenhador estava muito aliv
 				Estava claro que o lenhador conhecido como Troncadeiro parou de prestar atenção.					
 			AdventureUI/keyItem	Percebemos que poderíamos ficar com a chave e dar um passeio pelo antigo caminho além do muro de pedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Perguntamos ao lenhador se seria aceitável pegar sua chave e ele concordou.					
-GIRL_FOUNDKEY	The Scythian			Encontramos Samae encharcada em pé sob a chuva em um caminho lateral.					
+GIRL_FOUNDKEY	The Scythian			Encontramos Samae encharcada pela chuva em uma trilha lateral.					
 			gourd/gourd	Ela ouviu as sutis e melódicas espumas dos Espíritos Florestais além do muro de pedra no antigo caminho para Mingi Tau.					
 			gourd/gourd	Ela falou sobre troncos de árvores altíssimas em ambos os lados de um poderoso rio.					
 			gourd/gourd	Ela falou sobre arco-íris tênues na beira do Precipício Perigoso.					
@@ -258,7 +258,7 @@ ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... interessante a 
 				Não, não se preocupe, está tudo bem, é apenas interessante. Eu nunca tinha visto alguém fazer o que você fez. É excepcional, mas não se alarme.					
 				Bem, vamos continuar. Ainda há muitas coisas para você aproveitar em sua experiência com S:S&S EP, especialmente no Lado B.					
 ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			Para domar o Trigono Dourado, você deve aprender a sobreviver aos três movimentos de sua estranha canção usando uma mistura de ataque e defesa.					
-				É absolutamente fundamental que você mantenha pressionado o botão de escudo sempre que puder para recuperar sua força perdida.					
+				É absolutamente fundamental que você segure o botão de escudo sempre que puder para recuperar sua força perdida.					
 				Vejo que você já invocou e tentou domar o Trigono Dourado. Tenho algumas coisas para te contar que acredito que serão úteis.					
 ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Repila os ataques de projéteis triangulares com sua espada e espere o momento certo para esquivar dos ataques carregados.			83	040.jpg	3.4E+02
 				A lógica inescrutável e insondável do Trigono Dourado reivindicou as almas de todos aqueles que vieram antes de você... eles não tinham tenacidade e coragem.					
@@ -486,7 +486,7 @@ GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Falamos com Samae 
 				Contamos como neutralizamos o odioso ataque arco-íris do Trígono da Lua Sombria e ela simplesmente disse «legal».					
 				Parecia não se importar em ouvir nossas histórias extravagantes.					
 LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			O lenhador pôde ver que nossas caminhadas oníricas e a realização de milagres tiveram um grande custo em nossa saúde física.					
-			Archetype/trifecta	Troncadeiro nos perguntou se visitamos Cachorreiro no Bosque Trigonal... Talvez possamos ativar outro feixe ascendente?					
+			Archetype/trifecta	Troncadeiro nos perguntou se visitamos Cachorreiro na Clareira Trigonal... Talvez possamos ativar outro feixe ascendente?					
 ARCHETYPE_DARKMOONTRIGONCOLLECTED	The Archetype			Agora a pergunta é... O que vem a seguir?					
 				Apesar da falta de informações úteis que fornecemos, você conseguiu dominar o Trígono da Lua Sombría.					
 				Fui informado de que você recuperou o Trígono da Lua Sombría. Isso é realmente uma notícia extraordinária.					
