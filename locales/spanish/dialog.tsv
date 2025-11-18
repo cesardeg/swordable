@@ -65,7 +65,7 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP no busca ofrecer una experiencia t
 				La 'configuración' incluye la comodidad, seguridad y calidez del espacio en el que tendrás la experiencia.					
 				Hemos descubierto que las personas relajadas y curiosas tienden a disfrutar más de S:S&S EP.					
 				'Entorno' se refiere al estado mental y la estructura de personalidad que llevas a la experiencia, como tus pensamientos, estados de ánimo y expectativas.					
-				Hablemos del entorno y la configuración para tener una experiencia positiva con el altamente psicoactivo Superbrothers: Sword & Sworcery EP.					
+				Hablemos del entorno y la configuración para una experiencia positiva con el psicoactivo Superbrothers: Sword & Sworcery EP.					
 				La conciencia expandida, el potencial ilimitado e inexplorado de la mente, es lo que en Superbrothers llamamos 'Espadamancia'. #sworcery					
 				La Espadamancia se puede entender como una técnica psiónica que permite percibir una realidad dentro de la que ya conoces.					
 				Para detener la Canción de Espadamancia, simplemente toca dos veces el aura que rodea a La Escita.					
@@ -273,7 +273,7 @@ ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			El patrón final de El Trigón Luna 
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que has despertado al espectro inmortal que aletargaba en la oscuridad debajo del Mingi Tau... ¡Uff!					
 				En consecuencia, se vislumbra una siniestra tormenta y la gente encantadora que vive en la choza de piedra se siente desolada.					
 			adventureUI/megatomeItem	El resultado es que tienes un pesado libro conocido como El Megatomo. En nuestra próxima sesión hablaremos de su extraño propósito.					
-				Nuestra investigación ha demostrado que la exposición prolongada a la psicosmología mitopoética de S:S&S EP puede tener efectos adversos.					
+				Nuestra investigación muestra que la exposición prolongada a la psicosmología mitopoética de S:S&S EP puede causar efectos adversos.					
 				Así que ahora que has completado la Sesión I, ¿Qué te parece si nos tomamos un pequeño descanso? Estaré justo aquí cuando quieras comenzar con la Sesión II.					
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
 				Me alegra verte de nuevo. ¿Estás listo para comenzar con la Sesión II de S:S&S EP?					
@@ -460,7 +460,7 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Amileño habí
 			gourd/gourd	"""La cuadrilla había aprendido a buscar a los Espíritus Silvanos y enviarlos al cielo... y luego buscaron un lugar para realizar un milagro."""					
 			Archetype/trifecta	"""La cuadrilla esperaba activar los tres rayos ascendentes en la Arboleda Trigonal, pero no sabían dónde ni cuándo estaban los Trigones."""					
 				"""La cuadrilla vagó sin rumbo durante mucho tiempo por el antiguo camino hacia el Mingi Tau... eventualmente se cansaron y decidieron detenerse."""					
-				"""Entonces, la cuadrilla fue diezmada por un espectro inmortal a un costado del antiguo camino, donde todavía quedan algunas tumbas en la actualidad."""					
+				"""Entonces, la cuadrilla fue diezmada por un espectro inmortal junto al camino, donde aún hoy yacen sus tumbas."""					
 				Le dijimos a Amileño que era una historia interesante, aunque en realidad no nos asustó tanto.					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
 ARCHETYPE_MOONGROTTO	The Archetype			Veo que has logrado alterar el temperamento de la luna en la Gruta Lunar. Me pregunto cuánto durará esta paradoja temporal.					
@@ -560,8 +560,8 @@ ARCHETYPE_HALFWANE	The Archetype			El ciclo lunar está disminuyendo y La Luna S
 LOGFELLA_CRESCENTWANE	The Scythian			El leñador tenía poca paciencia para el folclore y admitió que normalmente lo adormecía, aunque poseía un buen conocimiento al respecto.					
 				El leñador conocía a La Masa Gogolítica, el espectro inmortal que acechaba en la oscuridad debajo del Mingi Tau.					
 				Amileño habló del Arremolinado Infinito, más allá de nuestra comprensión, de donde provenía El Megatomo en la apenas recordada Edad de Piedra.					
-				Habló de una raza de seres inmortales del espacio que despertaron en la humanidad una forma rudimentaria de transmisión de pensamiento lingüístico.					
-				"""Estos inmortales bendijeron a la humanidad con la capacidad de ser una civilización, y por lo tanto, los condenaron a una extinción eventual e inevitable."""					
+				Habló de seres inmortales del espacio que despertaron en la humanidad una forma rudimentaria de transmisión de pensamiento.					
+				"""Estos inmortales dieron a la humanidad el don de la civilización, y con ello, la condena de una inevitable extinción."""					
 				"""Los escitas trataron de reprimir la insidiosa propagación de la civilización y por eso aislaron El Megatomo con su protector inmortal."""					
 				"""El inmortal ha acechado en la oscuridad desde entonces, deteriorándose para convertirse en un espectro inmortal conocido como La Masa Gogolítica."""					
 				El leñador probablemente habría continuado con esta historia sin fin si no lo hubiéramos detenido de manera respetuosa.					
@@ -585,43 +585,43 @@ RABBITS_107MURDERS	The Scythian			Inexplicablemente, hemos asesinado a 107 conej
 ARCHETYPE_CREDITS	The Archetype								
 				S:S&S EP es un proyecto colaborativo de tipo videojuego realizado en Toronto. Ponte en contacto o manténte informado en swordandsworcery.com					
 			Logos/superbrothers	El concepto original a cargo de la organización de arte y diseño conocida como Superbrothers Inc. en superbrothers.ca					
-				Las canciones y algunos sonidos a cargo del amado compositor y estrella de rock conocido como Jim Guthrie en jimguthrie.org					
-			Logos/capy	La ingeniería y los milagros a cargo del estudio independiente de videojuegos conocido como Capy en capybaragames.com					
-			Logos/eightfour	La traducción al japonés, marketing, relaciones públicas y cariño proporcionados por 8-4, Ltd. Todo el equipo en 8-4.jp					
+				Canciones y algunos sonidos por el amado compositor y estrella de rock conocido como Jim Guthrie en jimguthrie.org					
+			Logos/capy	Ingeniería y milagros por el estudio independiente de videojuegos conocido como Capy en capybaragames.com					
+			Logos/eightfour	Traducción al japonés, marketing, relaciones públicas y cariño por 8-4, Ltd. Todo el equipo en 8-4.jp					
 				* * * EL EQUIPO de S:S&S EP * * *					
-				El concepto, arte, diseño, dirección y guión a cargo de representantes de Superbrothers Inc.					
-				El diseño, líder de proyecto, incansable apoyo y más a cargo de Kris Piotrowski, director creativo en Capy.					
-				Los sistemas, arquitectura técnica, interfaz de usuario, motor y más a cargo de Jon Maur, programador técnico líder de S:S&S EP en Capy.					
-				Los guiones, combates y milagros a cargo de Frankie Leung, programador de jugabilidad líder de S:S&S EP en Capy.					
-				La inspiración, canciones, sonidos, alma y mucho más a cargo de Jim Guthrie, compositor, héroe del folk y rockero por excelencia.					
+				Concepto, arte, diseño, dirección y guión por representantes de Superbrothers Inc.					
+				Diseño, líder de proyecto, incansable apoyo y más por Kris Piotrowski, director creativo en Capy.					
+				Sistemas, arquitectura técnica, interfaz de usuario, motor y más por Jon Maur, programador técnico líder de S:S&S EP en Capy.					
+				Guiones, combates y milagros por Frankie Leung, programador de jugabilidad líder de S:S&S EP en Capy.					
+				Inspiración, canciones, sonidos, alma y mucho más por Jim Guthrie, compositor, héroe del folk y rockero por excelencia.					
 				* * * ADEMÁS DE * * *					
-				La voz de Amileño a cargo de Robert Ashley, creador del programa de radio 'A Life Well Wasted' en alifewellwasted.com					
-				La voz de La Escita a cargo de la fotógrafa Robyn Cumming en robyncumming.com					
-				La voz de El Arquetipo a cargo del artista y cineasta Clive Holden en cliveholden.com					
-				Los sonidos cósmicos de la Gruta Lunar a cargo de Scientific American en scntfc.com					
+				Voz de Amileño por Robert Ashley, creador del programa de radio 'A Life Well Wasted' en alifewellwasted.com					
+				Voz de La Escita por la fotógrafa Robyn Cumming en robyncumming.com					
+				Voz de El Arquetipo por el artista y cineasta Clive Holden en cliveholden.com					
+				Sonidos cósmicos de la Gruta Lunar por Scientific American en scntfc.com					
 				* * * APOYO DE CAPY * * *					
 				Nathan Vella, presidente en Capy, productor ejecutivo, héroe del pueblo gracias a su liderazgo y habilidades estratégicas.					
 				Sean 'Uber' Lohrisch, cofundador de Capy, productor de PC, asistencia técnica de audio, integración FMOD y muchos sonidos encantadores.					
 				Matt 'Juggalord' Repetski, cofundador en Capy, asistencia administrativa y comercial.					
 				Christian 'Sea Dawg' Meyer, control de calidad y mega-héroe de pruebas.					
-				Adaptación para computadoras de uso doméstico y la mejora a 1080p fueron realizadas por el talentoso Hubert Wong.					
-				Drew Grainge brindó soporte de programación para PC/Mac/Linux, experiencia en Steam y colaboró en diversas tareas técnicas.					
-				Vic 'Meow' Nguyen de Super TIME Force contribuyó con increíbles recursos artísticos y trajo sonrisas al equipo.					
-				La calidad adicional del proyecto fue asegurada por el único e inigualable Aaron Eves.					
-				Phil Sandhop, Crystal Edwards y Sebastian Andersson de GameInstinct brindaron apoyo adicional en control de calidad para PC.					
+				Adaptación para computadoras de uso doméstico y mejora a 1080p por el talentoso Hubert Wong.					
+				Soporte de programación para PC/Mac/Linux, experiencia en Steam y diversas tareas técnicas por Drew Grainge.					
+				Recursos artísticos increíbles y sonrisas al equipo por Vic 'Meow' Nguyen de Super TIME Force.					
+				Calidad adicional del proyecto asegurada por el único e inigualable Aaron Eves.					
+				Apoyo adicional en control de calidad para PC por Phil Sandhop, Crystal Edwards y Sebastian Andersson de GameInstinct.					
 				Agradecimientos a Xavier Xaden Xen, Joseph Theodore Blocco, Hank Hudson.					
-				Un agradecimiento especial a Thea Gaerlan por brindar deliciosas galletas y otras delicias.					
+				Agradecimiento especial a Thea Gaerlan por deliciosas galletas y otras delicias.					
 				* * * APOYO DE SUPERBROTHERS * * *					
-				Coordinación, comunicaciones, control de calidad, inspiración, paciencia infinita y apoyo moral inagotable cortesía de Jori Baldwin.					
+				Coordinación, comunicaciones, control de calidad, inspiración, paciencia infinita y apoyo moral inagotable por Jori Baldwin.					
 				Mack C. Adams, asistencia de negocios, apoyo financiero y apoyo moral inquebrantable.					
 				Muchos agradecimientos a Sheila Precious, David Adams, Sarah Adams y Cimarron Corpe por mantener el barco a flote ante mares tormentosos.					
 				Muchas gracias a Jim Guthrie por embarcarse en esta aventura loca hacia lo desconocido.					
-				Con sonidos adicionales de un millón de dólares cortesía de Timothy Muirhead.					
+				Sonidos adicionales de un millón de dólares por Timothy Muirhead.					
 				* * * APOYO DE 8-4 * * *					
-				Maestro de las palabras y traducción al japonés a cargo de RYUTA YAZAWA.					
-				Edición japonesa, consejo crucial y apoyo interminable a cargo de MASAHIRO YUKI de Grasshopper Manufacture en grasshopper.co.jp					
-				Diseño del increíble logotipo japonés a cargo de POLYGRAPH en polygraph.jp					
-				Magia del sitio web japonés a cargo de Jonathan Lumb en jonnyram.com					
+				Maestro de las palabras y traducción al japonés por RYUTA YAZAWA.					
+				Edición japonesa, consejo crucial y apoyo interminable por MASAHIRO YUKI de Grasshopper Manufacture en grasshopper.co.jp					
+				Diseño del increíble logotipo japonés por POLYGRAPH en polygraph.jp					
+				Magia del sitio web japonés por Jonathan Lumb en jonnyram.com					
 				Y finalmente, agradecimientos por el apoyo y amistad de JPN: Suda 51, Tomoaki Takahashi, Hideto Yamada...					
 				Y los artistas de remezcla Baiyon, Akira Yamaoka, Michiru Yamane, macotom3 y Decassegui Hip					
 				* * * EL DOMINIO DE CANADÁ * * *					
@@ -633,10 +633,10 @@ ARCHETYPE_CREDITS	The Archetype
 				A todos los que han apoyado y alentado este proyecto: ¡muchas gracias por su paciencia, curiosidad y fe!					
 				* * * PROCESO * * *					
 				El arte de píxeles se creó por completo en Promotion de Cosmigo, mientras que otros elementos visuales se realizaron en Illustrator y Photoshop de Adobe.					
-				Los sonidos y canciones se crearon utilizando MTV Music Generator de Codemasters para PSOne y/o Garageband y Logic Studio de Apple.					
-			Logos/FMOD	Los sonidos y canciones se integraron en el proyecto utilizando FMOD de Firelight Technologies.					
-				El código fue programado en C++ y Lua script con tolua++. Los mapas y elementos del mundo fueron creados con herramientas propietarias en Capy.					
-				Cálculo de ciclos lunares y algoritmos astronómicos cortesía de voidware.com/moon_phase.htm					
+				Sonidos y canciones creados utilizando MTV Music Generator de Codemasters para PSOne y/o Garageband y Logic Studio de Apple.					
+			Logos/FMOD	Sonidos y canciones integrados en el proyecto utilizando FMOD de Firelight Technologies.					
+				Código programado en C++ y Lua script con tolua++. Mapas y elementos del mundo creados con herramientas propietarias en Capy.					
+				Cálculo de ciclos lunares y algoritmos astronómicos por voidware.com/moon_phase.htm					
 				Las APIs utilizadas en la creación de S:S&S EP incluyen twitcurl, tinyxml, libpng/zlib, SDL, cmake, y minizip.					
 				Una versión extremadamente temprana del juego fue enviada al Independent Games Festival el 1 de noviembre de 2009.					
 				S:S&S EP fue anunciado el 1 de diciembre de 2009.					

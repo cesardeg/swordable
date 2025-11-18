@@ -65,7 +65,7 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP não busca oferecer uma experiênc
 				A 'configuração' inclui o conforto, a segurança e o aconchego do espaço em que você terá a experiência.					
 				Descobrimos que pessoas relaxadas e curiosas tendem a desfrutar mais de S:S&S EP.					
 				'Ambiente' refere-se ao estado mental e à estrutura de personalidade que você traz para a experiência, como seus pensamentos, estados de espírito e expectativas.					
-				Vamos falar sobre o ambiente e a configuração para ter uma experiência positiva com o altamente psicoativo Superbrothers: Sword & Sworcery EP.					
+				Vamos falar sobre o ambiente e a configuração para uma experiência positiva com o psicoativo Superbrothers: Sword & Sworcery EP.					
 				A consciência expandida, o potencial ilimitado e inexplorado da mente, é o que chamamos de 'Espadância' em Superbrothers. #sworcery					
 				A Espadância pode ser entendida como uma técnica psíquica que permite perceber uma realidade dentro daquilo que você já conhece.					
 				Para interromper a Canção da Espadância, simplesmente toque duas vezes na aura que cerca a Citiana.					
@@ -273,7 +273,7 @@ ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			O padrão final do Trigono da Lua So
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então você despertou o espectro imortal que estava adormecido nas trevas sob o Mingi Tau... Au!					
 				Consequentemente, uma sinistra tempestade se avizinha e as pessoas adoráveis que vivem na cabana de pedra se sentem desoladas.					
 			adventureUI/megatomeItem	O resultado é que você tem um livro pesado chamado O Megatomo. Em nossa próxima sessão, falaremos sobre seu estranho propósito.					
-				Nossa pesquisa mostrou que a exposição prolongada à psicosmologia mitopoética de S:S&S EP pode ter efeitos adversos.					
+				Nossa pesquisa mostra que a exposição prolongada à psicosmologia mitopoética de S:S&S EP pode causar efeitos adversos.					
 				Agora que você completou a Sessão I, que tal darmos uma pequena pAusa? Estarei aqui quando você estiver pronto para começar a Sessão II.					
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
 				É bom te ver novamente. Você está pronto para começar a Sessão II de S:S&S EP?					
@@ -301,7 +301,7 @@ ARCHETYPE_TRIFECTAINTRO	The Archetype
 				Advertimos que, daqui em diante, estaremos monitorando suas ações em relativo silêncio.					
 ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	Então você dominou os dois Trigones restantes e reconstruiu a Tríade Trigonal?			165	046.jpg	P4B6A
 			Archetype/trifecta	Você é especial e é exatamente por isso que eu gosto tanto de você.					
-				Foi muito corajoso e generoso oferecer-se para tornar a Citiana uma mártir no topo do Mingi Tau.					
+				Foi corajoso e generoso oferecer a Citiana como mártir no topo do Mingi Tau.					
 				Sério, lhe devemos uma.					
 				Tudo o que resta é arrastar a Citiana até o topo e testemunhar o Remoinhado Infinito.					
 				Tenha coragem, o fim está próximo!					
@@ -460,7 +460,7 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			O lenhador conhecido como Troncadeiro vo
 			gourd/gourd	"""A expedição havia aprendido a buscar os Espíritos Florestais e enviá-los ao céu... e depois procuraram um lugar para realizar um milagre."""					
 			Archetype/trifecta	"""A expedição esperava ativar os três feixes ascendentes na Floresta Trigonal, mas não sabiam onde nem quando estavam os Trigones."""					
 				"""A expedição vagou sem rumo por muito tempo pelo antigo caminho para o Mingi Tau... eventualmente, se cansaram e decidiram parar."""					
-				"""Então, a expedição foi aniquilada por um espectro imortal ao lado do antigo caminho, onde ainda existem algumas tumbas até hoje."""					
+				"""Então, a expedição foi aniquilada por um espectro imortal junto ao caminho, onde suas tumbas jazem até hoje."""					
 				Dissemos a Troncadeiro que era uma uma história interessante, mas na verdade não nos assustou tanto.					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
 ARCHETYPE_MOONGROTTO	The Archetype			Vejo que você conseguiu alterar o humor da lua na Gruta da Lua. Me pergunto quanto tempo essa paradoxa temporal durará.					
@@ -560,8 +560,8 @@ ARCHETYPE_HALFWANE	The Archetype			O ciclo lunar está diminuindo e a Lua Sombri
 LOGFELLA_CRESCENTWANE	The Scythian			O lenhador tinha pouca paciência para o folclore e admitiu que geralmente o entediava, embora tivesse um bom conhecimento sobre o assunto.					
 				O lenhador conhecia a Massa Gogolítica, o espectro imortal que espreitava na escuridão sob o Mingi Tau.					
 				Troncadeiro falou sobre o Remoinhado Infinito, além de nossa compreensão, de onde O Megatomo veio na mal lembrada Idade da Pedra.					
-				Ele falou sobre uma raça de seres imortais do espaço que despertaram na humanidade uma forma rudimentar de transmissão de pensamento linguístico.					
-				"""Esses imortais abençoaram a humanidade com a capacidade de ser uma civilização e, assim, os condenaram a uma extinção eventual e inevitável."""					
+				Ele falou de seres imortais do espaço que despertaram na humanidade uma forma rudimentar de transmissão de pensamento.					
+				"""Esses imortais deram à humanidade o dom da civilização e, com isso, a condenação de uma inevitável extinção."""					
 				"""Os cítios tentaram reprimir a insidiosa propagação da civilização e por isso isolaram O Megatomo com seu protetor imortal."""					
 				"""O imortal tem espreitado na escuridão desde então, se deteriorando para se tornar um espectro imortal conhecido como a Massa Gogolítica."""					
 				O lenhador provavelmente teria continuado essa história interminável se não o tivéssemos interrompido de forma respeitosa.					
@@ -585,38 +585,38 @@ RABBITS_107MURDERS	The Scythian			Inexplicavelmente, matamos 107 coelhos indefes
 ARCHETYPE_CREDITS	The Archetype								
 				S:S&S EP é um projeto colaborativo de um videogame realizado em Toronto. Mantenha-se informado ou entre em contato através do site swordandsworcery.com					
 			Logos/superbrothers	O conceito original foi desenvolvido pela Superbrothers Inc., uma organização de arte e design em superbrothers.ca					
-				As músicas e alguns sons foram criados pelo amado compositor e estrela do rock conhecido como Jim Guthrie em jimguthrie.org					
-			Logos/capy	A engenharia e os milagres foram realizados pelo estúdio independente de videogames conhecido como Capy em capybaragames.com					
-			Logos/eightfour	A tradução para o japonês, marketing, relações públicas e carinho foram fornecidos pela 8-4, Ltd. Equipe completa em 8-4.jp					
+				Músicas e alguns sons pelo amado compositor e estrela do rock conhecido como Jim Guthrie em jimguthrie.org					
+			Logos/capy	Engenharia e milagres pelo estúdio independente de videogames conhecido como Capy em capybaragames.com					
+			Tradução para o japonês, marketing, relações públicas e carinho por 8-4, Ltd. Equipe completa em 8-4.jp					
 				* * * A EQUIPE DE S:S&S EP * * *					
-				O conceito, arte, design, direção e roteiro foram desenvolvidos pelos representantes da Superbrothers Inc.					
-				O design, liderança do projeto, apoio incansável e muito mais foram feitos por Kris Piotrowski, diretor criativo na Capy.					
-				Os sistemas, arquitetura técnica, interface do usuário, motor e muito mais foram realizados por Jon MAur, principal programador técnico de S:S&S EP na Capy.					
-				Os roteiros, combates e milagres foram feitos por Frankie Leung, principal programador de jogabilidade de S:S&S EP na Capy.					
-				A inspiração, músicas, sons, alma e muito mais foram fornecidos por Jim Guthrie, compositor, herói do folk e rocker por excelência.					
-				* * * ALEM DISSO * * *					
-				A voz de Troncadeiro foi feita por Robert Ashley, criador do programa de rádio 'A Life Well Wasted' em alifewellwasted.com					
-				A voz da Citiana foi feita pela fotógrafa Robyn Cumming em robyncumming.com					
-				A voz do Arquetipo foi feita pelo artista e cineasta Clive Holden em cliveholden.com					
-				Os sons cósmicos da Gruta da Lua foram feitos pela Scientific American em scntfc.com					
+				Conceito, arte, design, direção e roteiro por representantes da Superbrothers Inc.					
+				Design, liderança do projeto, apoio incansável e muito mais por Kris Piotrowski, diretor criativo na Capy.					
+				Sistemas, arquitetura técnica, interface do usuário, motor e muito mais por Jon Maur, principal programador técnico de S:S&S EP na Capy.					
+				Roteiros, combates e milagres por Frankie Leung, principal programador de jogabilidade de S:S&S EP na Capy.					
+				Inspiração, músicas, sons, alma e muito mais por Jim Guthrie, compositor, herói do folk e rocker por excelência.					
+				* * * ALÉM DISSO * * *					
+				Voz de Troncadeiro por Robert Ashley, criador do programa de rádio 'A Life Well Wasted' em alifewellwasted.com					
+				Voz da Citiana pela fotógrafa Robyn Cumming em robyncumming.com					
+				Voz do Arquetipo pelo artista e cineasta Clive Holden em cliveholden.com					
+				Sons cósmicos da Gruta da Lua por Scientific American em scntfc.com					
 				* * * APOIO DA CAPY * * *					
 				Nathan Vella, presidente na Capy, produtor executivo, herói do povo graças à sua liderança e habilidades estratégicas.					
 				Sean 'Uber' Lohrisch, co-fundador da Capy, produtor de PC, suporte técnico de áudio, integração do FMOD e muitos sons encantadores.					
 				Matt 'Juggalord' Repetski, co-fundador na Capy, suporte administrativo e comercial.					
 				Christian 'Sea Dawg' Meyer, controle de qualidade e mega-herói de testes.					
-				Adaptação para computadores domésticos e melhoria em 1080p foi realizada pelo talentoso Hubert Wong.					
-				Drew Grainge forneceu suporte adicional de programação para PC/Mac/Linux, expertise em Steam e auxiliou em várias tarefas técnicas.					
-				Vic 'Meow' Nguyen, do Super TIME Force, contribuiu com incríveis recursos artísticos e trouxe sorrisos para a equipe.					
-				A garantia de qualidade adicional do projeto foi realizada pelo único e inigualável Aaron Eves.					
-				Phil Sandhop, Crystal Edwards e Sebastian Andersson, da GameInstinct, forneceram suporte adicional de controle de qualidade para PC.					
+				Adaptação para computadores domésticos e melhoria para 1080p por o talentoso Hubert Wong.					
+				Suporte adicional de programação para PC/Mac/Linux, expertise em Steam e auxílio em várias tarefas técnicas por Drew Grainge.					
+				Recursos artísticos incríveis e sorrisos para a equipe por Vic 'Meow' Nguyen, do Super TIME Force.					
+				Garantia de qualidade adicional do projeto por o único e inigualável Aaron Eves.					
+				Suporte adicional de controle de qualidade para PC por Phil Sandhop, Crystal Edwards e Sebastian Andersson, da GameInstinct.					
 				Agradecimentos a Xavier Xaden Xen, Joseph Theodore Blocco, Hank Hudson.					
-				Agradecimentos especiais a Thea Gaerlan por fornecer deliciosos biscoitos e outras delícias.					
+				Agradecimentos especiais a Thea Gaerlan por deliciosos biscoitos e outras delícias.					
 				* * * APOIO DA SUPERBROTHERS * * *					
-				Ligação, comunicações, controle de qualidade, inspiração, paciência infinita e apoio moral inesgotável cortesia de Jori Baldwin.					
+				Ligação, comunicações, controle de qualidade, inspiração, paciência infinita e apoio moral inesgotável por Jori Baldwin.					
 				Mack C. Adams, suporte de negócios, apoio financeiro e apoio moral inabalável.					
 				Muitos agradecimentos a Sheila Precious, David Adams, Sarah Adams e Cimarron Corpe por manter o barco à tona em mares turbulentos.					
 				Muito obrigado a Jim Guthrie por embarcar nesta aventura louca rumo ao desconhecido.					
-				Com sons adicionais no valor de um milhão de dólares, cortesia de Timothy Muirhead.					
+				Sons adicionais no valor de um milhão de dólares por Timothy Muirhead.					
 				* * * APOIO DA 8-4 * * *					
 				Mestre das palavras e tradução para o japonês por RYUTA YAZAWA.					
 				Edição japonesa, conselho crucial e apoio contínuo por MASAHIRO YUKI da Grasshopper Manufacture em grasshopper.co.jp					
@@ -633,10 +633,10 @@ ARCHETYPE_CREDITS	The Archetype
 				A todos que apoiaram e encorajaram este projeto: muito obrigado pela paciência, curiosidade e fé!					
 				* * * PROCESSO * * *					
 				A arte em pixel foi totalmente criada no Promotion de Cosmigo, enquanto outros elementos visuais foram feitos no Illustrator e Photoshop da Adobe.					
-				Os sons e músicas foram criados usando o MTV Music Generator da Codemasters para PSOne e/ou o Garageband e o Logic Studio da Apple.					
-			Logos/FMOD	Os sons e músicas foram integrados ao projeto usando o FMOD da Firelight Technologies.					
-				O código foi programado em C++ e Lua script com tolua++. Os mapas e elementos do mundo foram criados com ferramentas proprietárias na Capy.					
-				O cálculo dos ciclos lunares e algoritmos astronômicos foram cortesia de voidware.com/moon_phase.htm					
+				Sons e músicas criados usando o MTV Music Generator da Codemasters para PSOne e/ou o Garageband e o Logic Studio da Apple.					
+			Logos/FMOD	Sons e músicas integrados ao projeto usando o FMOD da Firelight Technologies.					
+				Código programado em C++ e Lua script com tolua++. Mapas e elementos do mundo criados com ferramentas proprietárias na Capy.					
+				Cálculo dos ciclos lunares e algoritmos astronômicos por voidware.com/moon_phase.htm					
 				As APIs utilizadas na criação de S:S&S EP incluem twitcurl, tinyxml, libpng/zlib, SDL, cmake e minizip.					
 				Uma versão extremamente inicial do jogo foi enviada para o Independent Games Festival em 1º de novembro de 2009.					
 				S:S&S EP foi anunciado em 1º de dezembro de 2009.					
