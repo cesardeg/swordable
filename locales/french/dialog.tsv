@@ -60,10 +60,10 @@ ARCHETYPE_FOUNDATION	The Archetype			"S:S&S EP en lui-même ne produit pas l'exp
 				"L'""état"" fait référence à l'état mental & à la structure de la personnalité que vous apportez à l'expérience - vos pensées, humeurs et/ou attentes."					
 				Parlons un peu de l'état & du cadre requis pour obtenir une expérience positive avec le très psychoactif Superbrothers: Sword & Sworcery EP.					
 				"La conscience développée, le potentiel inexploité & sans limite de l'esprit, c'est ce que, chez Superbrothers, nous nommons la ""sworcellerie""."					
-				La chanson de sworcellerie peut être appréhendée comme une technique psionique & elle vous permet de percevoir une autre réalité contenue à l'intérieur de celle que vous connaissez déjà.					
-				"Pour arrêter la chanson de sworcellerie à n'importe quel moment, double-cliquez simplement sur l'aura de sworcellerie qui entoure la Scythe."					
-				"Une fois que vous avez commencé à chanter une chanson de sworcellerie, cliquez & maintenez le curseur sur l'aura de sworcellerie & glissez-le pour regarder autour de vous."					
-				"Pour chanter une chanson de sworcellerie à n'importe quel moment, cliquez & maintenez le curseur sur la Scythe pendant quelques instants & l'aura de sworcellerie apparaîtra."					
+				La chanson de sworcellerie peut être appréhendée comme une technique psionique & elle vous permet de percevoir une autre réalité contenue à l'intérieur de celle que vous connaissez déjà.										
+				"Pour arrêter la chanson de sworcellerie à n'importe quel moment, double-cliquez simplement sur l'aura de sworcellerie qui entoure la Scythienne."										
+				"Une fois que vous avez commencé à chanter une chanson de sworcellerie, cliquez & maintenez le curseur sur l'aura de sworcellerie & glissez-le pour regarder autour de vous."										
+				"Pour chanter une chanson de sworcellerie à n'importe quel moment, cliquez & maintenez le curseur sur la Scythienne pendant quelques instants & l'aura de sworcellerie apparaîtra."										
 				"Comme vous pouvez le voir, le Mégagrimoire rassemble & collecte les transmissions de pensée linguistique. Défilez vers le bas pour voir ce que j'ai pensé avant."					
 ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Très bien joué - vous avez appris la chanson de Sworcellerie & maintenant l'insondable pouvoir du mégagrimoire est vôtre."""			47	012.jpg	31E2F
 			adventureUI/megatomeItem	"""Le mégagrimoire intercepte les transmissions de pensée linguistique & il contient tout ce dont vous avez besoin pour terminer votre triste errance."""					
@@ -78,7 +78,7 @@ GIRL_STORM	The Scythian			La jeune fille aux cheveux sombres connue sous le nom 
 			gourd/gourd	Elle nous demanda de rechercher les bulles sonores qui bouillonnaient dans le profond étang à l'extérieur de la hutte.					
 			gourd/gourd	La Fille parla d'un esprit situé dans une prairie proche & d'un autre esprit dans un nichoir qui servait d'abri pour trois oiseaux chanteurs trempés par la pluie.					
 			gourd/gourd	La Fille nous dit de chercher les bulles sonores de ces trois esprits de la forêt & de les envoyer vers le ciel avec la chanson de Sworcellerie.					
-ARCHETYPE_SWORCERY	The Archetype			"""C'est le moment d'apprendre la chanson de Sworcellerie - une technique de développement de la conscience qui révèle une dimension mystique musicale."""					
+ARCHETYPE_SWORCERY	The Archetype			"""C'est le moment d'apprendre la chanson de Sworcellerie - une technique de développement de la conscience qui révèle une dimension mystique musicale."""										
 			gourd/gourd	"""Restez calme & suivez mes instructions pour réveiller l'esprit de la forêt qui fait doucement des bulles dans les eaux froides de ce profond étang."""					
 ARCHETYPE_TADPOLES	The Archetype			"Il était 100 % évident que cet homme bizarrement vêtu attendait quelque chose de nous, mais nous ne savions pas quoi."					
 			gourd/gourd	"""Avez-vous vu les bulles sonores dans le profond étang ? Un esprit de la forêt dort tranquillement ici & vous devez le réveiller."""					
@@ -149,7 +149,7 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			"Dans le bosquet du trigone, au-delà de l
 			Archetype/trifecta	"Nous le questionnâmes sur le trigone trifecta & sur l'emplacement des deux trigones restants, mais son irritante réponse n'était pas très claire."					
 				"""Les deux trigones restants existent seulement dans les rêves des montagnards."""			43	024.jpg	8.2E+46
 				"""Trouver les deux trigones restants n'est pas tant une question de 'où' que de 'quand' & de 'comment'."""					
-				Le fantôme lumineux n'avait parlé que d'inepties inutiles.					
+				Le fantôme lumineux n'avait parlé que d'inepties inutiles.										
 GRAVE_LOGBRIDGE	The Scythian			Nous aperçûmes plusieurs tombes derrière un buisson sur le bord de la vieille route & nous nous demandâmes ce que ça signifiait.					
 GRAVE_LOGBRIDGEGHOST	The Scythian			Nous approchâmes d'une série de tombes derrière un buisson sur le bord de la vieille route & nous rencontrâmes des fantômes qui semblaient amicaux.			116	025.jpg	62B55
 				Le fantôme lumineux qui parla était un personnage célèbre des vieilles légendes dont la grande prestance imposait le respect. #andre					
@@ -218,9 +218,9 @@ GIRL_FOUNDKEY	The Scythian			"Nous rencontrâmes la fille aux cheveux sombres, t
 			gourd/gourd	Elle parla de troncs d'arbres immenses situés de chaque côté d'une puissante rivière.					
 			gourd/gourd	Elle parla d'un léger arc-en-ciel au bord du dangereux précipice.					
 			adventureUI/megatomeItem	... Puis elle devint apeurée & nous dit de consulter le Mégagrimoire si nous nous perdions ou ne savions plus quoi faire.					
-LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Je suis entièrement pour que la Scythe prenne la clé si cela signifie qu'elle va calmer la tempête.					
-				J'ai dû m'assoupir à un moment pendant l'histoire super épique de la Scythe. J'ai vraiment une très faible résistance aux longues explications.					
-				Je demandai à la Scythe sans-attache de me parler de sa triste errance... elle commença à parler des steppes & du doigt d'un Dieu.					
+LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Je suis entièrement pour que la Scythienne prenne la clé si cela signifie qu'elle va calmer la tempête.										
+				J'ai dû m'assoupir à un moment pendant l'histoire super épique de la Scythienne. J'ai vraiment une très faible résistance aux longues explications.										
+				Je demandai à la Scythienne sans-attache de me parler de sa triste errance... elle commença à parler des steppes & du doigt d'un Dieu.										
 GIRL_FOUNDKEYTHOUGHTS	Girl			Un ou deux esprits de la forêt supplémentaires envoyés vers le ciel calmeront la tempête sans fin... et ce sera ensuite le temps des miracles ! #miracles			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			"Lorsque j'arpente mes rêves, tout est à la fois tranquille et excitant quand la lune est claire... et quand la lune est sombre, les bois sont sauvages."					
 				Je vois toujours les mêmes endroits & les mêmes choses dans mes rêves. Seules les humeurs de la lune changent ça.					
@@ -298,7 +298,7 @@ ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	Donc vous avez maîtri
 				"Sérieusement, nous vous en devons une."					
 				Tout ce qu'il vous reste à faire est d'emmener la Scythe vers le sommet & voir le tourbillon infini.					
 				Courage - la fin est proche !					
-ARCHETYPE_GHOULINTRO	The Archetype								
+ARCHETYPE_GHOULINTRO	The Archetype													
 				"Bien, nous y voilà. Cette brève session achèvera le traitement S:S&S EP."					
 				La triste errance de la Scythe est pratiquement terminée.					
 				"Malheureusement, le corps & la psyché de la Scythe ont été très affaiblis par la sworcellerie - elle est à la porte de la mort."			162	047.jpg	J4F7B
@@ -314,11 +314,11 @@ END_MOONGROTTO_LOVE	The Scythian			Au sommet de Mingi Taw nous envoyâmes le Mé
 END_HONEST_PSYCHO	The Scythian			Au sommet de Mingi Taw nous envoyâmes le Mégagrimoire dans l'éternelle sécurité du tourbillon infini. #honest #psycho			179	051.jpg	M5C1H
 END_HONEST_LOVE	The Scythian			Au sommet de Mingi Taw nous envoyâmes le Mégagrimoire dans l'éternelle sécurité du tourbillon infini. #honest #love			177	052.jpg	55E2B
 END_HONEST_NOBOOR	The Scythian			Au sommet de Mingi Taw nous envoyâmes le Mégagrimoire dans l'éternelle sécurité du tourbillon infini. #honest #noboor			178	053.jpg	75G3V
-GIRL_GHOULTHOUGHTS	Girl			Est-ce que la Scythe sait qu'il est possible d'arrêter la Messe Gogolitique en touchant son crâne avec la Sworcellerie ? Sans doute que non.					
-				"J'espère vraiment que la Scythe sait cliquer & maintenir sur le chemin pour avancer, avancer très vite, sinon elle sera cuite."					
+GIRL_GHOULTHOUGHTS	Girl			Est-ce que la Scythienne sait qu'il est possible d'arrêter la Messe Gogolitique en touchant son crâne avec la Sworcellerie ? Sans doute que non.					
+				"J'espère vraiment que la Scythienne sait cliquer & maintenir sur le chemin pour avancer, avancer très vite, sinon elle sera cuite."					
 				Où suis-je ? Qu'est-ce que s'est passé ? La dernière chose dont je me souvienne est que j'étais dans mon rêve... je marchais dans les bois quand je vis une étrange lumière rose.					
-LOGFELLA_GHOULTHOUGHTS	Logfella			"La Scythe parle en permanence de sa triste errance, dont le but serait d'ouvrir un portail vers l'infini sur les sommets de Mingi Taw."					
-				"Tout est devenu complètement fou depuis l'arrivée de la Scythe, il y a de nombreux mois."					
+LOGFELLA_GHOULTHOUGHTS	Logfella			"La Scythienne parle en permanence de sa triste errance, dont le but serait d'ouvrir un portail vers l'infini sur les sommets de Mingi Taw."										
+				"Tout est devenu complètement fou depuis l'arrivée de la Scythienne, il y a de nombreux mois."					
 LOGFELLA_GHOUL	The Scythian			"Nous nous réveillâmes difficilement d'un très lourd sommeil auprès du bosquet, avec le bûcheron connu sous le nom de Logfella à nos côtés."			88	054.jpg	J5D44
 				Logfella nous raconta comment la fille avait disparu la nuit dernière.					
 				Le bûcheron savait que nous touchions au but & que nous devions retourner à Mingi Taw pour terminer notre triste errance.					
@@ -352,9 +352,9 @@ GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Wouaf Wouaf Wouaf Woua
 				"À certains moments aboyer tout le temps me fatiguait, mais un chien doit faire ce qu'un chien doit faire ce qu'un chien doit faire faire."					
 				Wouaf Sniff Wouaf. #mixingitup					
 				Wouaf Wouaf Wouaf Wouaf Wouaf Wouaf.					
-GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		"Le comportement de la Scythe est assez étrange, comme si elle était contrôlée par une force invisible."					
-				J'aimerais bien en savoir plus à propos de la captivante & épique histoire de la Scythe. Je parie que ça donnerait du sens à tout le reste.					
-GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		J'espère vraiment que la Scythe travaille sur cette histoire d'esprit de la forêt.					
+GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		"Le comportement de la Scythienne est assez étrange, comme si elle était contrôlée par une force invisible."					
+				J'aimerais bien en savoir plus à propos de la captivante & épique histoire de la Scythienne. Je parie que ça donnerait du sens à tout le reste.					
+GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		J'espère vraiment que la Scythienne travaille sur cette histoire d'esprit de la forêt.					
 				"La tempête est vraiment en train de me déprimer, je souhaiterais que le jeu vidéo existe... quoi que ça puisse être."					
 GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Tout a été tellement dingue depuis l'arrivée de la Scythe.			3	062.jpg	36E2Z
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Toute cette histoire de tempête était vraiment en train de me déprimer. C'était tellement sinistre.					
@@ -423,7 +423,7 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			"Nous nous réveillâmes difficile
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			Le bûcheron connu sous le nom de Logfella était super heureux que la tempête se soit calmée & il était super ravi de couper du bois à nouveau.					
 				Il nous demanda si nous savions quelque chose sur la Porte de Fer bloquant la grotte caverneuse de la prairie... Qu'est-ce que ça pouvait bien être ?					
 LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Étrange... Je vois un rayon doré dans le ciel au-dessus du bois derrière la prairie... Quelqu'un aurait appris les secrets du Bosquet du Trigone ?			89	072.jpg	67F24
-LOGFELLA_URSULAMEADOW	Logfella			"Je suis très inquiet pour la Scythe, elle a l'air vraiment mal."					
+LOGFELLA_URSULAMEADOW	Logfella			"Je suis très inquiet pour la Scythienne, elle a l'air vraiment mal."					
 SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			Le bûcheron & la fille nous fixaient alors que nous revenions à nous.					
 				"Nous remarquâmes que la prairie était intacte, notre adversaire mystique était à l'évidence parti."					
 GIRL_YELLOWTRIGONCOLLECTED	The Scythian			La fille écouta en silence l'étrange récit de notre rencontre avec le Trigone Doré.					
@@ -501,9 +501,9 @@ LOGFELLA_FOUNDATION	Logfella			...
 				...					
 				...					
 SCYTHIAN_FOUNDATION	The Scythian			Nous réveillâmes un esprit de la forêt dans un profond étang bordé de lys près d'une hutte en pierre. Nous ne sommes pas certain de ce que ça signifie.					
-				"Avec une tempête sans fin au-dessus de nous, nous avons appris à chanter une Chanson de Sworcellerie & à réveiller un esprit de la forêt endormi."					
+				"Avec une tempête sans fin au-dessus de nous, nous avons appris à chanter une Chanson de Sworcellerie & à réveiller un esprit de la forêt endormi."										
 				Attends... pourquoi est-ce que je fais référence à moi-même à la première personne ? Je croyais que notre histoire était racontée à la deuxième personne ?					
-				"Mes pensées sont-elles ordonnées chronologiquement, dans l'ordre dans lequel je les ai pensées ? Donc ceci doit être ce que j'ai pensé il y a quelques secondes ?"					
+				"Mes pensées sont-elles ordonnées chronologiquement, dans l'ordre dans lequel je les ai pensées ? Donc ceci doit être ce que j'ai pensé il y a quelques secondes ?"										
 				Donc ceci est le Mégagrimoire ? Il absorbe les 'transmissions de pensée linguistique' ? Suis-je en train de lire mes pensées en même temps que je les pense ? Hmm...					
 GIRL_FOUNDATION	Girl			...					
 				...					
@@ -590,7 +590,7 @@ ARCHETYPE_CREDITS	The Archetype
 				* * * AUSSI * * *					
 				"La voix de Logfella par Robert Ashley, créateur de l'émission de radio A Life Well Wasted sur www.alifewellwasted.com"					
 				La voix de The Scythian par la photographe Robyn Cumming sur robyncumming.com					
-				La voix de The Archetype par l'artiste et cinéaste Clive Holden sur cliveholden.com					
+				La voix de The Archetype par l'artiste et cinéaste Clive Holden sur cliveholden.com										
 				Les sons cosmiques de The Moon Grotto par Scientific American sur scntfc.com					
 				* * * SOUTIEN DE CAPY * * *					
 				"Producteur exécutif, héros du peuple, leadership et stratégie assurés par Nathan Vella, président de Capy."					
