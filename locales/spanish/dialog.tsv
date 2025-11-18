@@ -585,7 +585,7 @@ RABBITS_107MURDERS	The Scythian			Inexplicablemente, hemos asesinado a 107 conej
 ARCHETYPE_CREDITS	The Archetype								
 				S:S&S EP es un proyecto colaborativo de tipo videojuego realizado en Toronto. Ponte en contacto o manténte informado en swordandsworcery.com					
 			Logos/superbrothers	El concepto original a cargo de la organización de arte y diseño conocida como Superbrothers Inc. en superbrothers.ca					
-				Canciones y algunos sonidos por el amado compositor y estrella de rock conocido como Jim Guthrie en jimguthrie.org					
+				Canciones y sonidos por el amado compositor y estrella de rock Jim Guthrie en jimguthrie.org					
 			Logos/capy	Ingeniería y milagros por el estudio independiente de videojuegos conocido como Capy en capybaragames.com					
 			Logos/eightfour	Traducción al japonés, marketing, relaciones públicas y cariño por 8-4, Ltd. Todo el equipo en 8-4.jp					
 				* * * EL EQUIPO de S:S&S EP * * *					
@@ -600,22 +600,22 @@ ARCHETYPE_CREDITS	The Archetype
 				Voz de El Arquetipo por el artista y cineasta Clive Holden en cliveholden.com					
 				Sonidos cósmicos de la Gruta Lunar por Scientific American en scntfc.com					
 				* * * APOYO DE CAPY * * *					
-				Nathan Vella, presidente en Capy, productor ejecutivo, héroe del pueblo gracias a su liderazgo y habilidades estratégicas.					
-				Sean 'Uber' Lohrisch, cofundador de Capy, productor de PC, asistencia técnica de audio, integración FMOD y muchos sonidos encantadores.					
-				Matt 'Juggalord' Repetski, cofundador en Capy, asistencia administrativa y comercial.					
-				Christian 'Sea Dawg' Meyer, control de calidad y mega-héroe de pruebas.					
-				Adaptación para computadoras de uso doméstico y mejora a 1080p por el talentoso Hubert Wong.					
-				Soporte de programación para PC/Mac/Linux, experiencia en Steam y diversas tareas técnicas por Drew Grainge.					
-				Recursos artísticos increíbles y sonrisas al equipo por Vic 'Meow' Nguyen de Super TIME Force.					
-				Calidad adicional del proyecto asegurada por el único e inigualable Aaron Eves.					
-				Apoyo adicional en control de calidad para PC por Phil Sandhop, Crystal Edwards y Sebastian Andersson de GameInstinct.					
+				Nathan Vella, presidente de Capy: productor ejecutivo, héroe del pueblo por su liderazgo y estrategia.					
+				Sean 'Uber' Lohrisch, cofundador de Capy: productor de PC, soporte de audio, integración FMOD y muchos sonidos geniales.					
+				Matt 'Juggalord' Repetski, cofundador de Capy: soporte administrativo y de negocios.					
+				Christian 'Sea Dawg' Meyer: control de calidad y mega-héroe de las pruebas.					
+				Adaptación a escritorio y mejora a 1080p por el talentoso Hubert Wong.					
+				Programación adicional para PC/Mac/Linux, experiencia en Steam y otras tareas pesadas por Drew Grainge.					
+				Arte increíble y sonrisas para el equipo por Vic 'Meow' Nguyen de Super TIME Force.					
+				Control de calidad adicional por el único e inigualable Aaron Eves.					
+				Soporte de QA adicional para PC por Phil Sandhop, Crystal Edwards y Sebastian Andersson de GameInstinct.					
 				Agradecimientos a Xavier Xaden Xen, Joseph Theodore Blocco, Hank Hudson.					
 				Agradecimiento especial a Thea Gaerlan por deliciosas galletas y otras delicias.					
-				* * * APOYO DE SUPERBROTHERS * * *					
+				* * * APOYO DE SUPERBROTHERS * * *										
 				Coordinación, comunicaciones, control de calidad, inspiración, paciencia infinita y apoyo moral inagotable por Jori Baldwin.					
 				Mack C. Adams, asistencia de negocios, apoyo financiero y apoyo moral inquebrantable.					
 				Muchos agradecimientos a Sheila Precious, David Adams, Sarah Adams y Cimarron Corpe por mantener el barco a flote ante mares tormentosos.					
-				Muchas gracias a Jim Guthrie por embarcarse en esta aventura loca hacia lo desconocido.					
+				Un enorme gracias a Jim Guthrie por embarcarse en esta loca aventura hacia lo desconocido.					
 				Sonidos adicionales de un millón de dólares por Timothy Muirhead.					
 				* * * APOYO DE 8-4 * * *					
 				Maestro de las palabras y traducción al japonés por RYUTA YAZAWA.					
@@ -623,7 +623,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Diseño del increíble logotipo japonés por POLYGRAPH en polygraph.jp					
 				Magia del sitio web japonés por Jonathan Lumb en jonnyram.com					
 				Y finalmente, agradecimientos por el apoyo y amistad de JPN: Suda 51, Tomoaki Takahashi, Hideto Yamada...					
-				Y los artistas de remezcla Baiyon, Akira Yamaoka, Michiru Yamane, macotom3 y Decassegui Hip					
+				Y a los artistas de remixes Baiyon, Akira Yamaoka, Michiru Yamane, macotom3 y Decassegui Hip.					
 				* * * EL DOMINIO DE CANADÁ * * *					
 			Logos/omdc	Este proyecto fue posible gracias al apoyo financiero de la Ontario Media Development Corporation (OMDC).					
 				* * * LOS QUEREMOS MUCHÍSIMO * * *					
@@ -633,21 +633,21 @@ ARCHETYPE_CREDITS	The Archetype
 				A todos los que han apoyado y alentado este proyecto: ¡muchas gracias por su paciencia, curiosidad y fe!					
 				* * * PROCESO * * *					
 				El arte de píxeles se creó por completo en Promotion de Cosmigo, mientras que otros elementos visuales se realizaron en Illustrator y Photoshop de Adobe.					
-				Sonidos y canciones creados utilizando MTV Music Generator de Codemasters para PSOne y/o Garageband y Logic Studio de Apple.					
-			Logos/FMOD	Sonidos y canciones integrados en el proyecto utilizando FMOD de Firelight Technologies.					
-				Código programado en C++ y Lua script con tolua++. Mapas y elementos del mundo creados con herramientas propietarias en Capy.					
-				Cálculo de ciclos lunares y algoritmos astronómicos por voidware.com/moon_phase.htm					
+				Los sonidos y canciones fueron creados con MTV Music Generator de Codemasters para PSOne y/o Garageband y Logic Studio de Apple.					
+			Logos/FMOD	La integración de sonidos y canciones se hizo con FMOD de Firelight Technologies.					
+				Programado en C++ y Lua script con tolua++. Los mapas y elementos del mundo fueron creados con herramientas propietarias de Capy.					
+				Cálculo de ciclos lunares y algoritmos astronómicos cortesía de voidware.com/moon_phase.htm					
 				Las APIs utilizadas en la creación de S:S&S EP incluyen twitcurl, tinyxml, libpng/zlib, SDL, cmake, y minizip.					
 				Una versión extremadamente temprana del juego fue enviada al Independent Games Festival el 1 de noviembre de 2009.					
 				S:S&S EP fue anunciado el 1 de diciembre de 2009.					
 				A principios de 2010 se anunció que el proyecto había ganado el premio 'Achievement in Art' en el IGF Mobile, lo cual fue increíblemente genial.					
 				La primera demostración pública en vivo de S:S&S EP ocurrió en un evento social de Hand Eye Society en Toronto el 14 de febrero de 2010.					
 				La primera versión jugable de S:S&S EP fue presentada a los asistentes y amigos en la GDC 2010 en San Francisco del 9 al 13 de marzo de 2010.					
-				Las primeras imágenes de juego sin editar del prototipo presentado en la GDC aparecieron en línea al mismo tiempo y causaron cierto revuelo.					
+				Las primeras imágenes sin editar del prototipo de la GDC aparecieron en línea al mismo tiempo y causaron cierto revuelo.					
 				'Less Talk, More Rock: The Native Language of Videogames' fue publicado en línea en Boing Boing en marzo de 2010, puedes buscarlo en Google.					
 				El proyecto 'se mantuvo en silencio' durante unos meses mientras, ya sabes, realmente hacíamos el videojuego. Clic, clic, clic, clic.					
 				Tomó un poco más de tiempo hacerlo realidad.					
-				Craig D. Adams presentó 'The Intoxication of Mythology' el 22 de septiembre de 2010 en el Fantastic Arcade en Austin.					
+				Craig D. Adams presentó 'The Intoxication of Mythology' el 22 de septiembre de 2010 en el Fantastic Arcade de Austin.					
 				Jim Guthrie, Kris Piotrowski y Craig D. Adams presentaron 'Aiming for Audiovisual Alchemy' en Gamercamp en Toronto.					
 				Se publicó un nuevo clip titulado 'Audience Calibration Procedure' el jueves 24 de febrero de 2011 para dar inicio al lanzamiento.					
 				S:S&S EP estuvo finalmente disponible para iPad alrededor del equinoccio de primavera en 2011, poco antes del fin del mundo.					
@@ -657,25 +657,25 @@ ARCHETYPE_CREDITS	The Archetype
 				Se le pidió a Jim Guthrie crear la banda sonora del documental 'Indie Game: The Movie'.					
 				Capy ya está inmerso en la creación de la próxima oleada de videojuegos, incluido el alucinante SUPER T.I.M.E. FORCE.					
 				El personal de Superbrothers Inc. se está tomando un tiempo para soñar nuevos sueños.					
-				S:S&S EP fue uno de los Top 10 de videojuegos en 2011 de la revista Time, junto con grandes esfuerzos AAA como Dark Souls y Skyrim. ¡Increíble!					
+				S:S&S EP fue uno de los 10 mejores videojuegos de 2011 según la revista Time, junto a gigantes como Dark Souls y Skyrim. ¡Increíble!					
 				Kirk Hamilton de Kotaku reconoció la música de Jim Guthrie como 'la mejor música de videojuego en 2011'.					
 				La tormenta de Twitter con el hashtag 'sworcery' en su lanzamiento fue considerada 'uno de los mayores eventos de Internet de 2011' según Co.Design y Syzygy.					
 				S:S&S EP ganó un Game Developer's Choice Award en GDC 2012, superando a títulos AAA... lo cual fue increíblemente asombroso.					
 				Jim Guthrie lanzó un nuevo álbum llamado 'The Children of the Clone' que presenta obras maestras perdidas en sintonía con S:S&S EP.					
 				Después de eso, la historia se vuelve un poco confusa, así que sintoniza swordandsworcery.com para obtener más información.					
 				Ha sido un viaje increíblemente positivo, esperamos que sigas profundizando.					
-				No dejes de revisar el boletín en superbrothers.ca para obtener las últimas novedades del equipo de Superbrothers Inc.					
+				No dejes de revisar el boletín en superbrothers.ca para las últimas novedades del equipo de Superbrothers Inc.					
 				* * * ¿QUÉ ES S:S&S EP? * * *					
-				S:S&S EP se concibe como un valiente experimento en Cine Interactivo, sea lo que sea que signifique eso.					
-				S:S&S EP es un nuevo enfoque para el videojuego de aventuras de la vieja escuela con un énfasis en el estilo audiovisual.					
+				S:S&S EP es un valiente experimento de Cine Interactivo, sea lo que sea que eso signifique.					
+				S:S&S EP es un nuevo enfoque para los juegos de aventura de la vieja escuela, con énfasis en el estilo audiovisual.					
 				S:S&S EP se inspira en el trabajo de creadores de videojuegos pioneros como Shigeru Miyamoto, Jordan Mechner, Eric Chahi y Fumito Ueda.					
 				S:S&S EP es un febril sueño Famicom.			38	082.jpg	28B24
-				S:S&S EP ha sido construido teniendo en cuenta la mitopoética psicocosmológica de las historias de espadas y brujería de Robert E. Howard.					
+				S:S&S EP se basa en la psicocosmología mitopoética de las historias de espada y brujería de Robert E. Howard.					
 				S:S&S EP es un enlace al pasado.			167	083.jpg	18E3V
 				S:S&S EP es un primer esfuerzo, así que sí, es un poco experimental.					
 				El concepto estético de S:S&S EP es 'la aventura de videojuego arquetípica'.					
 				S:S&S EP hace referencias indirectas a Carl G. Jung y su fascinante 'Libro Rojo' en muchos lugares.					
-				S:S&S EP es una pequeña y genial creación que no entiendo del todo, pero que creo que todos deberían jugar en su dispositivo táctil o PC.					
+				S:S&S EP es una pequeña y genial creación que no entiendo del todo, pero que creo que todos deberían jugar en su dispositivo móvil o PC.					
 				S:S&S EP es un haiku de videojuego crudo sobre la vida, el amor y la muerte.					
 				S:S&S EP trata sobre mitos y sueños.					
 				S:S&S EP ha sido creado teniendo en cuenta a un amplio y culto público.					
