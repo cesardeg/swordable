@@ -22,26 +22,26 @@ DOOR_UPSLOPEWOODS1	The Scythian			La vieille route conduisant à Mingi Taw étai
 DOOR_UPSLOPEWOODS3	The Scythian			"Une porte fermée à clé était dissimulée dans les broussailles, sous la vieille route qui conduit à Mingi Taw. #moongrotto"					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
 LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		Le bûcheron coupeur de bois coupait du bois. #obviously #woodchopping			71	007.jpg	7E+71
-				Il était connu des montagnards du Caucase sous le nom de 'Logfella' & semblait gentil.					
-				Logfella connaissait bien notre triste errance & il accepta de nous mener jusqu'à la vieille route.					
+				Il était connu des montagnards du Caucase sous le nom de 'Père Bûche' & semblait gentil.					
+				Père Bûche connaissait bien notre triste errance & il accepta de nous mener jusqu'à la vieille route.					
 				"Néanmoins, nous eûmes vraiment l'impression que ça ne le rendait pas très enthousiaste."					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		Le bûcheron nous attendait pour avancer sur le chemin conduisant à la vieille route.			12	008.jpg	U0D88
 LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Nous avions trouvé comment traverser le gouffre & nous nous sentions super intelligents.			22	009.jpg	L0B9S
-			adventureUI/megatomeItem	Nous dîmes à Logfella que nous recherchions un épais livre de sinistre sworcellerie connu sous le nom de Mégagrimoire.					
+			adventureUI/megatomeItem	Nous dîmes à Père Bûche que nous recherchions un épais livre de sinistre sworcellerie connu sous le nom de Mégagrimoire.					
 			adventureUI/megatomeItem	"Le Mégagrimoire était enterré quelque part dans les ténèbres hantées, au-delà du dangereux précipice, sous Mingi Taw."					
 			adventureUI/megatomeItem	Nous étions résolus à trouver le Mégagrimoire & à revenir en vie.					
 LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	Le bûcheron confirma à 100 % qu'il possédait l'unique clé ouvrant la porte du mur de pierre.					
 			AdventureUI/keyItem	C'était vraiment une très belle clé.					
 				Nous étions fin prêts à cliquer & maintenir sur le chemin proche pour avancer avancer avancer.					
-LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Le bûcheron connu sous le nom de Logfella était simplement en train d'attendre ici notre retour avec le Mégagrimoire.					
-LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Le bûcheron connu sous le nom de Logfella avait choisi de se reposer sous un abri de pierre près du dangereux précipice.					
-				Logfella semblait tout savoir à propos de l'horrible arc-en-ciel & des glyphes proches représentant l'épée pointée vers le ciel.					
+LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Le bûcheron connu sous le nom de Père Bûche était simplement en train d'attendre ici notre retour avec le Mégagrimoire.					
+LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Le bûcheron connu sous le nom de Père Bûche avait choisi de se reposer sous un abri de pierre près du dangereux précipice.					
+				Père Bûche semblait tout savoir à propos de l'horrible arc-en-ciel & des glyphes proches représentant l'épée pointée vers le ciel.					
 				"Et pourtant Logfella n'était d'aucune aide pour découvrir ce qu'il fallait faire ensuite, ce qui - pour être parfaitement honnête - nous mit de mauvais poil."					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		Le bûcheron avait vu une espèce de monstre effrayant & il pensait qu'il valait mieux nous laisser nous en occuper.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Nous avions récupéré le Mégagrimoire & Logfella était 100 % prêt à partir - partir retrouver la sécurité de son foyer.					
 				Nous sentîmes l'arrivée d'un orage & une petite chanson naquit dans nos cœurs.					
-LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		"À la lumière des éclairs de la tempête qui approchait, Logfella admit que ça commençait sérieusement à lui filer la frousse."					
-				Logfella était-il en train d'essayer de nous faire péter un plomb ? #yes #no #maybe					
+LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		"À la lumière des éclairs de la tempête qui approchait, Père Bûche admit que ça commençait sérieusement à lui filer la frousse."					
+				Père Bûche était-il en train d'essayer de nous faire péter un plomb ? #yes #no #maybe					
 				"Dans tous les cas, il était probablement sans danger de simplement se mettre à l'abri un moment."					
 QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Nous avons le Mégagrimoire & nous sommes les plus forts. #gotmegatome			40	011.jpg	81C1E
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
@@ -71,7 +71,7 @@ ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Très bien 
 				"""Cherchez un triangle blanc dans le coin supérieur droit... cliquez dessus & utilisez le mégagrimoire pour voir ce qui est dissimulé."""					
 LOGFELLA_STORM	The Scythian			Le bûcheron connu sous le nom de Logfella avait abandonné sa coupe du bois à cause de l'effrayante tempête. #wetboots					
 			adventureUI/megatomeItem	Logfella nous rappela que la tempête était apparue juste après que nous ayons rapporté le mégagrimoire des profondeurs de Mingi Taw.					
-				Était-ce une manière pas si subtile que ça pour Logfella de dire que nous devions essayer de faire quelque chose pour calmer la tempête ? #yes #no #maybe					
+				Était-ce une manière pas si subtile que ça pour Père Bûche de dire que nous devions essayer de faire quelque chose pour calmer la tempête ? #yes #no #maybe					
 GIRL_STORM	The Scythian			La jeune fille aux cheveux sombres connue sous le nom de la Fille avait pressenti l'arrivée des malheurs. #woe					
 			gourd/gourd	"Même après l'arrivée de la tempête, la Fille avait vu les bulles sonores des esprits de la forêt qui se cachaient dans les bois tout proches."					
 			gourd/gourd	Elle demanda si les trois esprits de la forêt ne pourraient pas aider à calmer la tempête ? #yes					
@@ -85,7 +85,7 @@ ARCHETYPE_TADPOLES	The Archetype			"Il était 100 % évident que cet homme bizar
 			gourd/gourd	"""Vous pouvez chanter une chanson de Sworcellerie à n'importe quel moment en cliquant & en maintenant sur la faux. Vous percevrez une autre réalité, contenue à l'intérieur de celle que vous connaissez déjà."""					
 			gourd/gourd	"""Guidez les deux petites choses qui nagent vers l'esprit endormi & envoyez-le ensuite vers le ciel avec trois touches de Sworcellerie."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			La Fille s'abritait de la pluie en restant sous le large toit en bois du puits.					
-				Elle avait quitté la douceur du foyer de la hutte car Logfella était apparemment énervé à propos de quelque chose.					
+				Elle avait quitté la douceur du foyer de la hutte car Père Bûche était apparemment énervé à propos de quelque chose.					
 INFO_BIRDEYESCULPTURE	The Scythian			Nous aperçûmes une sculpture représentant un oiseau en colère qui se dressait au-dessus de la prairie. #subtlereference			6	014.jpg	F1D48
 INFO_MEADOWSHEEP	The Scythian			Nous aperçûmes quelques moutons sans intérêt qui traînaient dans la prairie. #worthlesssheep					
 INFO_CABINSHEEP	The Scythian			Un autre mouton sans intérêt - pourquoi continuons-nous à le regarder ? #worthlesssheep					
@@ -98,7 +98,7 @@ INFO_LOCKEDDOORSTONEWALL	The Scythian			La porte fermée à clé dans le mur de 
 INFO_LOOMINGBIRDSCULPTURES	The Scythian			Nous aperçûmes une sculpture représentant un oiseau en colère qui se dressait au-dessus de la prairie. #subtlereference					
 INFO_MEADOWSUNSTICK	The Scythian			Nous aperçûmes un bâton de forme étrange dominant la prairie.					
 INFO_CABINWELL	The Scythian			Nous aperçûmes un puits solidement bâti avec un large toit en bois.					
-INFO_UNWELLWELL	The Scythian			Le puits a l'air louche. #unwell #well					
+INFO_UNWELLWELL	The Scythian			Le puits est sans répit. #unwell #well					
 INFO_WELLNESS	The Scythian			Tout est bien qui finit bien. #unwell #well #wellness					
 INFO_WELLWHITESTAG	The Scythian			LONGUE VIE À LA NOUVELLE CHAIR					
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
@@ -187,30 +187,30 @@ GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Nous nous approchâmes d'une tombe solita
 				"""Cherchez un signal des esprits de la forêt & chantez une chanson de sworcellerie pour révéler un trigone caché."""					
 GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Nous nous approchâmes d'une tombe solitaire dans un gigantesque arbre creux & un impressionnant fantôme apparut. Il nous parla.			117	028.jpg	E2A80
 				"""Donc la chanson du trigone est terminée pour l'instant. Je me demande si je l'entendrai à nouveau ?"""					
-LOGFELLA_LOSTKEY	The Scythian			Le malheureux bûcheron connu sous le nom de Logfella était énervé et inquiet à propos de quelque chose.					
-			AdventureUI/keyItem	Apparemment Logfella avait perdu la clé de la porte dans le mur de pierre qui bloque la vieille route de Mingi Taw.					
+LOGFELLA_LOSTKEY	The Scythian			Le malheureux bûcheron connu sous le nom de Père Bûche était énervé et inquiet à propos de quelque chose.					
+			AdventureUI/keyItem	Apparemment Père Bûche avait perdu la clé de la porte dans le mur de pierre qui bloque la vieille route de Mingi Taw.					
 				"Nous râlions car nous n'avions plus d'objet à aller chercher, pas vrai ?"					
-				"Logfella nous dit qu'il était assis ici, à côté du feu, lorsqu'il tomba dans un profond sommeil."					
-			AdventureUI/keyItem	Logfella dit qu'il pensait avoir perdu sa clé dans l'obscurité du royaume des rêves.					
+				"Père Bûche nous dit qu'il était assis ici, à côté du feu, lorsqu'il tomba dans un profond sommeil."					
+			AdventureUI/keyItem	Père Bûche dit qu'il pensait avoir perdu sa clé dans l'obscurité du royaume des rêves.					
 				"Nous avions entendu parler des étranges rêves des montagnards aux cheveux sombres du Caucase, donc cela ne nous surprit pas."					
-				Logfella nous invita à réchauffer nos bottes auprès du feu & à rêver avec lui.			63	029.jpg	U2C92
+				Père Bûche nous invita à réchauffer nos bottes auprès du feu & à rêver avec lui.			63	029.jpg	U2C92
 ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			"Nous concevons le fait d'être éveillé & la psycho-cosmologie mytho-poétique des rêves comme des états différents, cependant ils interagissent de curieuse façon."					
 				"Le seuil de la liminalité est un lieu à mi-chemin entre l'état éveillé & le monde des rêves, où contrôler sa pensée est impossible."			56	030.jpg	13A0A
 				Trouvez un endroit chaud qui vous permette de dormir pour découvrir le seuil de la liminalité.					
-ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	"Et si vous alliez vous asseoir à côté du foyer, dans la hutte, & franchissiez le seuil liminal pour trouver la clé perdue de Logfella ?"			55	031.jpg	23C1X
-GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		"Whaou, Logfella est énervé à propos de quelque chose... Je me demande ce qui se passe ? Je vais juste sortir & le laisser un petit peu seul."					
+ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	"Et si vous alliez vous asseoir à côté du foyer, dans la hutte, & franchissiez le seuil liminal pour trouver la clé perdue de Père Bûche ?"			55	031.jpg	23C1X
+GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		"Whaou, Père Bûche est énervé à propos de quelque chose... Je me demande ce qui se passe ? Je vais juste sortir & le laisser un petit peu seul."					
 				J'ai vu la Scythe chanter une Chanson de Sworcellerie & envoyer trois esprits de la forêt vers le ciel - je me demande s'ils aideront à apaiser la tempête ?					
 LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			J'espère vraiment que la Scythe arpenteuse-de-rêve pourra retrouver ma clé... Je l'ai perdu sur la rive sablonneuse d'un lac tranquille.			62	032.jpg	U3A20
 LOGFELLA_LOSTKEYTHOUGHTS	Logfella			"Oh malheur, si seulement il ne pleuvait pas dehors... Si seulement mes bottes n'étaient pas si trempées... Je voudrais pouvoir retourner couper du bois."					
 				Oh couilles - où est partie ma clé !? Je suis tellement inquiet & honteux que maintenant je panique totalement !					
 LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Le bûcheron était super soulagé de voir que nous avions réussi à retrouver sa clé perdue dans l'obscurité du royaume des rêves.					
-				Le bûcheron connu sous le nom de Logfella demanda comment nous étions devenus si gentils & il nous questionna sur notre triste errance.					
+				Le bûcheron connu sous le nom de Père Bûche demanda comment nous étions devenus si gentils & il nous questionna sur notre triste errance.					
 				"Nous racontâmes au bûcheron comment, il y a longtemps, nous étions venus des steppes au côté de nos frères & sœurs scythes - aucun ne connaissait la peur."					
-				Nous expliquâmes à Logfella pourquoi nous voyageâmes jusqu'à ces montagnes sauvages & comment nous fûmes guidés par le doigt d'un dieu bien connu.					
+				Nous expliquâmes à Père Bûche pourquoi nous voyageâmes jusqu'à ces montagnes sauvages & comment nous fûmes guidés par le doigt d'un dieu bien connu.					
 			adventureUI/megatomeItem	Nous expliquâmes à Logfella ce que nous suspicions à propos de la signification des écrits ésotériques du Mégagrimoire.					
 			gourd/gourd	Nous eûmes l'intuition que nous aurions besoin de réveiller quelques esprits de la forêt supplémentaires pour apaiser la tempête.			104	033.jpg	W3D3G
 			triangle/Triangle	"Dans un murmure, nous parlâmes de notre intention de trouver & d'apprivoiser une géométrie cosmique appelée le Trigone Doré."					
-				Il était 100 % clair que le bûcheron connu sous le nom de Logfella avait arrêté d'écouter depuis longtemps.					
+				Il était 100 % clair que le bûcheron connu sous le nom de Père Bûche avait arrêté d'écouter depuis longtemps.					
 			AdventureUI/keyItem	Nous en conclûmes que nous pouvions juste prendre la clé & partir faire un tour sur la vieille route derrière le mur de pierre.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Nous demandâmes au bûcheron si nous pouvions prendre la clé & il dit qu'il n'y avait aucun problème.					
 GIRL_FOUNDKEY	The Scythian			"Nous rencontrâmes la fille aux cheveux sombres, trempée par la pluie. Elle se tenait au bord du chemin."					
@@ -218,9 +218,9 @@ GIRL_FOUNDKEY	The Scythian			"Nous rencontrâmes la fille aux cheveux sombres, t
 			gourd/gourd	Elle parla de troncs d'arbres immenses situés de chaque côté d'une puissante rivière.					
 			gourd/gourd	Elle parla d'un léger arc-en-ciel au bord du dangereux précipice.					
 			adventureUI/megatomeItem	... Puis elle devint apeurée & nous dit de consulter le Mégagrimoire si nous nous perdions ou ne savions plus quoi faire.					
-LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Je suis entièrement pour que la Scythienne prenne la clé si cela signifie qu'elle va calmer la tempête.										
+LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Je suis entièrement pour que la Scythienne prenne la clé si cela signifie qu'elle va calmer la tempête.					
 				J'ai dû m'assoupir à un moment pendant l'histoire super épique de la Scythienne. J'ai vraiment une très faible résistance aux longues explications.										
-				Je demandai à la Scythienne sans-attache de me parler de sa triste errance... elle commença à parler des steppes & du doigt d'un Dieu.										
+				Je demandai à la Scythienne sans-attache de me parler de sa triste errance... elle commença à parler des steppes & du doigt d'un Dieu.					
 GIRL_FOUNDKEYTHOUGHTS	Girl			Un ou deux esprits de la forêt supplémentaires envoyés vers le ciel calmeront la tempête sans fin... et ce sera ensuite le temps des miracles ! #miracles			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			"Lorsque j'arpente mes rêves, tout est à la fois tranquille et excitant quand la lune est claire... et quand la lune est sombre, les bois sont sauvages."					
 				Je vois toujours les mêmes endroits & les mêmes choses dans mes rêves. Seules les humeurs de la lune changent ça.					
@@ -238,7 +238,7 @@ ARCHETYPE_TRIGONGROVE	The Archetype			Pouvez-vous le sentir ? Commencez-vous à 
 GIRL_CABINSHEEP	The Scythian			Nous questionnâmes la fille à propos des moutons qui traînaient autour de la hutte & elle dit qu'ils avaient été effrayés quelque temps auparavant.					
 			gourd/gourd	Nous dîmes à la fille que nous avions envoyé cinq esprits de la forêt vers le ciel & elle nous dit que c'était peut-être un temps de miracle qui commençait.					
 				Nous pensâmes que nous devrions peut-être enquêter dans la prairie où les moutons avaient l'habitude d'aller.					
-LOGFELLA_CABINSHEEP	The Scythian			Logfella avait le sentiment que le temps des miracles avait commencé & il demanda si quelque chose d'extraordinaire allait se produire.			79	036.jpg	V3G62
+LOGFELLA_CABINSHEEP	The Scythian			Père Bûche avait le sentiment que le temps des miracles avait commencé & il demanda si quelque chose d'extraordinaire allait se produire.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			Qu'est-ce qui... la pluie s'est arrêtée ! La tempête commencerait enfin à se calmer ? Je l'espère vraiment.					
 				Toute cette histoire de tempête était vraiment en train de me déprimer. C'était tellement sinistre.					
 LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... J'en ai les poils qui se hérissent... quelque chose est en train d'arriver... est-ce que la tempête commence à se calmer ?					
@@ -317,14 +317,14 @@ END_HONEST_NOBOOR	The Scythian			Au sommet de Mingi Taw nous envoyâmes le Méga
 GIRL_GHOULTHOUGHTS	Girl			Est-ce que la Scythienne sait qu'il est possible d'arrêter la Messe Gogolitique en touchant son crâne avec la Sworcellerie ? Sans doute que non.					
 				"J'espère vraiment que la Scythienne sait cliquer & maintenir sur le chemin pour avancer, avancer très vite, sinon elle sera cuite."					
 				Où suis-je ? Qu'est-ce que s'est passé ? La dernière chose dont je me souvienne est que j'étais dans mon rêve... je marchais dans les bois quand je vis une étrange lumière rose.					
-LOGFELLA_GHOULTHOUGHTS	Logfella			"La Scythienne parle en permanence de sa triste errance, dont le but serait d'ouvrir un portail vers l'infini sur les sommets de Mingi Taw."										
+LOGFELLA_GHOULTHOUGHTS	Logfella			"La Scythienne parle en permanence de sa triste errance, dont le but serait d'ouvrir un portail vers l'infini sur les sommets de Mingi Taw."					
 				"Tout est devenu complètement fou depuis l'arrivée de la Scythienne, il y a de nombreux mois."					
-LOGFELLA_GHOUL	The Scythian			"Nous nous réveillâmes difficilement d'un très lourd sommeil auprès du bosquet, avec le bûcheron connu sous le nom de Logfella à nos côtés."			88	054.jpg	J5D44
+LOGFELLA_GHOUL	The Scythian			"Nous nous réveillâmes difficilement d'un très lourd sommeil auprès du bosquet, avec le bûcheron connu sous le nom de Père Bûche à nos côtés."			88	054.jpg	J5D44
 				Logfella nous raconta comment la fille avait disparu la nuit dernière.					
 				Le bûcheron savait que nous touchions au but & que nous devions retourner à Mingi Taw pour terminer notre triste errance.					
-LOGFELLA_TRIGONGROVETIPS	The Scythian			Le bûcheron connu sous le nom de Logfella n'avait jamais vu le bosquet du Trigone auparavant & il nous questionna à son propos.					
-LOGFELLA_TRIFECTATIPS	The Scythian			Le bûcheron connu sous le nom de Logfella était extrêmement inquiet pour la fille disparue.					
-				Nous dîmes à Logfella que nous savions où elle pouvait être & que nous allions rapidement remettre les choses en ordre.					
+LOGFELLA_TRIGONGROVETIPS	The Scythian			Le bûcheron connu sous le nom de Père Bûche n'avait jamais vu le bosquet du Trigone auparavant & il nous questionna à son propos.					
+LOGFELLA_TRIFECTATIPS	The Scythian			Le bûcheron connu sous le nom de Père Bûche était extrêmement inquiet pour la fille disparue.					
+				Nous dîmes à Père Bûche que nous savions où elle pouvait être & que nous allions rapidement remettre les choses en ordre.					
 				Il regarda le piédestal & il nous remercia par avance pour toutes ces choses de martyre.					
 URSULA_AVATAR			Ursula/idleSEhandsonhip						
 DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
@@ -418,9 +418,9 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			"Nous nous réveillâmes difficile
 			triangle/Triangle	Nous nous souvînmes du miracle de la prairie & de notre rencontre avec le Trigone Doré... 					
 			triangle/Triangle	... Quels nouveaux pouvoirs avions-nous acquis ?					
 			triangle/Triangle	"Logfella était étonné de voir à quel point notre combat contre le Trigone semblait extraordinaire & fou, d'après la description que nous lui en fîmes."			81	071.jpg	R7C14
-			triangle/Triangle	Logfella demanda de quelle manière le Trigone Doré pouvait être relié aux sombres mystères au-delà de la Porte de Fer de la prairie.					
-				"Logfella ne cherchait pas les sombres mystères, il choisit donc de retourner chez lui & de couper du bois. #woodchopping"					
-LOGFELLA_BEFOREYELLOWBEAM	The Scythian			Le bûcheron connu sous le nom de Logfella était super heureux que la tempête se soit calmée & il était super ravi de couper du bois à nouveau.					
+			triangle/Triangle	Père Bûche demanda de quelle manière le Trigone Doré pouvait être relié aux sombres mystères au-delà de la Porte de Fer de la prairie.					
+				"Père Bûche ne cherchait pas les sombres mystères, il choisit donc de retourner chez lui & de couper du bois. #woodchopping"					
+LOGFELLA_BEFOREYELLOWBEAM	The Scythian			Le bûcheron connu sous le nom de Père Bûche était super heureux que la tempête se soit calmée & il était super ravi de couper du bois à nouveau.					
 				Il nous demanda si nous savions quelque chose sur la Porte de Fer bloquant la grotte caverneuse de la prairie... Qu'est-ce que ça pouvait bien être ?					
 LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Étrange... Je vois un rayon doré dans le ciel au-dessus du bois derrière la prairie... Quelqu'un aurait appris les secrets du Bosquet du Trigone ?			89	072.jpg	67F24
 LOGFELLA_URSULAMEADOW	Logfella			"Je suis très inquiet pour la Scythienne, elle a l'air vraiment mal."					
@@ -431,11 +431,11 @@ GIRL_YELLOWTRIGONCOLLECTED	The Scythian			La fille écouta en silence l'étrange
 GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Je m'inquiète vraiment pour la Scythe... elle avait disparut pendant des jours après que la tempête se soit calmée. Je suis sûre qu'elle va bien.					
 GIRL_URSULAMEADOW_OFF	Girl			"Whaou, donc la Scythe a réussi à passer de l'autre côté de la prairie ? Incroyable."					
 DOGFELLA_GETDARKTRIGON	The Scythian			"Après avoir activé un autre rayon dans le bosquet, nous nous aperçûmes d'une chose étrange concernant le chien connu sous le nom de Dogfella."					
-			Archetype/trifecta	Il semblait que nous pouvions subitement comprendre Dogfella - il devenait urgent de trouver le Trigone de la Lune Sombre & d'assembler le Trigone Trifecta.					
+			Archetype/trifecta	Il semblait que nous pouvions subitement comprendre Père Cabot - il devenait urgent de trouver le Trigone de la Lune Sombre & d'assembler le Trigone Trifecta.					
 DOGFELLA_GETBRIGHTTRIGON	The Scythian			"Après avoir activé un autre rayon dans le bosquet, nous nous aperçûmes d'une chose étrange concernant le chien connu sous le nom de Dogfella."					
-			Archetype/trifecta	Il semblait que nous pouvions subitement comprendre Dogfella - il devenait urgent de trouver le Trigone de la Lune Claire & d'assembler le Trigone Trifecta.					
+			Archetype/trifecta	Il semblait que nous pouvions subitement comprendre Père Cabot - il devenait urgent de trouver le Trigone de la Lune Claire & d'assembler le Trigone Trifecta.					
 DOGFELLA_THREETRIGONS	The Scythian			"Après avoir activé un autre rayon dans le bosquet, nous nous aperçûmes d'une chose étrange concernant le chien connu sous le nom de Dogfella."					
-			Archetype/trifecta	Il semblait que nous pouvions subitement comprendre Dogfella - il devenait urgent d'activer le troisième rayon céleste & d'ouvrir un portail vers l'infini.					
+			Archetype/trifecta	Il semblait que nous pouvions subitement comprendre Père Cabot - il devenait urgent d'activer le troisième rayon céleste & d'ouvrir un portail vers l'infini.					
 DOGFELLA_TRUTHBOMB	Dogfella			Wouaf Wouaf Wouaf.					
 				Wouaf Wouaf Sniff Wouaf.					
 				Le tourbillon infini du cosmos attend celle qui transporte le Mégagrimoire au sommet de Mingi Taw.					
@@ -449,12 +449,12 @@ GIRL_AFTERYELLOWBEAM	The Scythian			La fille aux cheveux sombres était assise s
 LOGFELLA_AFTERYELLOWBEAM	The Scythian			Le bûcheron connu sous le nom de Logfella était retourné à sa découpe du bois & il semblait s'y consacrer pleinement.					
 			triangle/Triangle	Logfella avait vu le rayon dans le ciel derrière la prairie & nous l'interrogeâmes sur les secrets du Bosquet du Trigone.					
 				Il parla d'une vieille histoire que son peuple racontait habituellement aux enfants pour les effrayer.					
-			Archetype/trifecta	"Logfella parla d'un groupe venu de Scythie il y a plusieurs mois de ça, qui cherchait le Trigone Trifecta dans ces montagnes oubliées."					
+			Archetype/trifecta	"Père Bûche parla d'un groupe venu de Scythie il y a plusieurs mois de ça, qui cherchait le Trigone Trifecta dans ces montagnes oubliées."					
 			gourd/gourd	Le groupe avait appris à trouver les esprits de la forêt & à les envoyer vers le ciel... Et ils cherchèrent ensuite un lieu propice à la réalisation d'un miracle.					
 			Archetype/trifecta	"Le groupe espérait activer les trois rayons célestes dans le Bosquet du Trigone, mais ils ne savaient pas où - ou 'quand' - les Trigones étaient."					
 				Le groupe erra longtemps sans but sur la vieille route conduisant à Mingi Taw... Ils en eurent finalement assez & ils s'arrêtèrent.					
-				"Ensuite, le groupe fut soudainement tué par un spectre immortel sur le bord de la vieille route. Depuis ce jour, des tombes marquent cet endroit."					
-				"Nous dîmes à Logfella que c'était une jolie histoire, mais qu'elle ne nous avait pas effrayé plus que ça."					
+				"Ensuite, le groupe fut soudainement tué par un spectre immortel sur le bord de la vieille route. Depuis ce jour, des tombes marquent cet endroit."										
+				"Nous dîmes à Père Bûche que c'était une jolie histoire, mais qu'elle ne nous avait pas effrayé plus que ça."					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
 ARCHETYPE_MOONGROTTO	The Archetype			Je vois que vous avez réussi à changer l'humeur de la lune dans cette grotte - je me demande combien de temps ce paradoxe temporel va durer ?					
 MIRACLE2_ISLAND	The Scythian			"Alors que la lune claire brillait, nous avons fait un miracle lunaire très bizarre sur une île impossible située au milieu d'un lac tranquille."			136	073.jpg	W7A3K
@@ -463,12 +463,12 @@ MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			"Nous fûmes tentés de simple
 				"Bon, ce n'était sans doute pas si important au final. Ce n'est pas comme si entrer dans le Tourbillon Infini nécessitait un examen physique."					
 				Nous eûmes la nette impression que toute cette marche onirique & la maîtrise du Trigone commençaient à prendre leur dû.					
 				"Après que la lumière & le bruit se soient arrêtés, nous nous retrouvâmes sur le bord du lac avec un terrible mal de crâne & un nez ensanglanté."					
-GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Nous parlâmes à la fille de notre rencontre onirique avec le Trigone de la Lune Claire & de notre intention de ré-assembler le Trigone Trifecta.					
+GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Nous parlâmes à la fille de notre rencontre onirique avec le Trigone de la Lune Claire & de notre intention de ré-assembler le Trigone Trifecta.										
 				La fille dit que notre rencontre onirique semblait vraiment cool & qu'elle regrettait de ne pas avoir été là. #mensonges					
 				Elle nous demanda si nous étions repassés au bosquet du Trigone... peut-être que nous pouvions activer un autre rayon céleste ?					
-LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			Le bûcheron pouvait voir que notre marche onirique & notre travail sur les miracles avaient beaucoup affecté notre santé.					
-				Logfella semblait suspecter que notre triste errance n'allait pas bien se terminer.					
-				Logfella nous rappela de nous asseoir près du foyer dans la hutte & de faire une pause aussi souvent que nécessaire afin de reprendre des forces.					
+LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			Le bûcheron pouvait voir que notre marche onirique & notre travail sur les miracles avaient beaucoup affecté notre santé.										
+				Père Bûche semblait suspecter que notre triste errance n'allait pas bien se terminer.					
+				Père Bûche nous rappela de nous asseoir près du foyer dans la hutte & de faire une pause aussi souvent que nécessaire afin de reprendre des forces.					
 ARCHETYPE_BRIGHTMOONTRIGONCOLLECTED	The Archetype			Nos données de recherche montrent une grande corrélation entre les progrès des participants à S:S&S EP & leur capacité à être géniaux.			45	074.jpg	87A43
 				Je vois que vous avez réussi à trouver & à rapporter le Trigone de la Lune Claire - c'est une excellente nouvelle.					
 MIRACLE3_HUGETREE	The Scythian			"Alors que la Lune Sombre régnait, nous avons fait un miracle électrique au milieu d'une assemblée d'arbres."					
@@ -478,8 +478,8 @@ MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			"Aussi... transporter le Mégagr
 GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Nous parlâmes à la fille de notre rencontre onirique avec le Trigone de la Lune Sombre & de notre intention de ré-assembler le Trigone Trifecta.					
 				Nous lui racontâmes comment nous avions anéanti le Trigone de la Lune Sombre et ses attaques en arc-en-ciel & elle trouva tout ça 'cool'.					
 				Elle n'avait pas l'air de vraiment écouter nos folles histoires.					
-LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			Le bûcheron pouvait voir que notre marche onirique & notre travail sur les miracles avaient beaucoup affecté notre santé.					
-			Archetype/trifecta	Logfella nous demanda si nous étions repassé au bosquet du Trigone avec Dogfella... peut-être que nous pouvions activer un autre rayon céleste ?					
+LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			Le bûcheron pouvait voir que notre marche onirique & notre travail sur les miracles avaient beaucoup affecté notre santé.										
+			Archetype/trifecta	Père Bûche nous demanda si nous étions repassé au bosquet du Trigone avec Père Cabot... peut-être que nous pouvions activer un autre rayon céleste ?					
 ARCHETYPE_DARKMOONTRIGONCOLLECTED	The Archetype			"Maintenant, la question est... que faire ensuite ? Rappelez-vous que les réseaux sociaux jouent un rôle dans ce que vous allez retirer de cette expérience."					
 				"Malgré le manque d'informations utiles, vous avez réussi à vaincre le Trigone de la Lune Sombre."					
 				Je viens juste d'être informé que vous aviez récupéré le Trigone de la Lune Sombre - ceci est une excellente nouvelle.					
@@ -586,9 +586,9 @@ ARCHETYPE_CREDITS	The Archetype
 				"Design, leadership de projet, soutien indéfectible et bien plus encore par Kris Piotrowski, directeur créatif chez Capy."					
 				"Systèmes, architecture technique, interface utilisateur, moteur et bien plus encore par Jon Maur, programmeur technique principal sur S:S&S EP chez Capy."					
 				"Scripting, combat et travail miraculeux par Frankie Leung, programmeur principal de gameplay sur S:S&S EP chez Capy."					
-				"Inspiration, chansons, sons, âme et bien plus encore, gracieuseté de Jim Guthrie, compositeur, héros folklorique et rockstar-at-large."					
+				"Inspiration, chansons, sons, âme et bien plus encore, gracieuseté de Jim Guthrie, compositeur, héros folklorique et rockstar-at-large."										
 				* * * AUSSI * * *					
-				"La voix de Logfella par Robert Ashley, créateur de l'émission de radio A Life Well Wasted sur www.alifewellwasted.com"					
+				"La voix de Père Bûche par Robert Ashley, créateur de l'émission de radio A Life Well Wasted sur www.alifewellwasted.com"					
 				La voix de The Scythian par la photographe Robyn Cumming sur robyncumming.com					
 				La voix de The Archetype par l'artiste et cinéaste Clive Holden sur cliveholden.com										
 				Les sons cosmiques de The Moon Grotto par Scientific American sur scntfc.com					
