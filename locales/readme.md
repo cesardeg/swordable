@@ -13,7 +13,7 @@ Below is a table of correspondence of terms between English, Spanish, and Portug
 | The Grizzled Boor        | El Tosco Pardo              | O Grosso Rabugento         |
 | The mountain folk of The Caucasus | Los montañeses del Cáucaso | Os montanheses do Cáucaso |
 | **Places & World**       |                             |                            |
-| The Gogolithic Mass      | La Masa Gogolítica          | A Massa Gogolítica         |
+| The Gogolithic Mass      | La Calamidad Lítica         | A Calamidade Lítica        |
 | The Perilous Precipice   | El Precipicio Peligroso     | O Precipício Perigoso      |
 | The old road to Mingi Taw| El antiguo camino hacia Mingi Taw | O antigo caminho para Mingi Taw |
 | The Trigon Grove         | La Arboleda Trigonal        | A Clareira Trigonal        |
@@ -25,11 +25,11 @@ Below is a table of correspondence of terms between English, Spanish, and Portug
 | Titanic hollow tree      | Árbol hueco titánico        | Árvore oca titânica        |
 | Immovable iron gate      | Portón de hierro inamovible | Portão de ferro inamovível |
 | **Key Concepts**         |                             |                            |
-| The Megatome             | El Megatomo                 | O Megatomo                 |
+| The Megatome             | El Códice Primordial        | O Códice Primordial        |
 | The Bright Moon          | La Luna Radiante            | A Lua Radiante             |
 | The Dark Moon            | La Luna Sombría             | A Lua Sombría              |
 | The moods of the moon    | El temperamento de la luna  | O humor da lua             |
-| The Trigon Trifecta      | La Tríada Trigonal          | A Tríade Trigonal          |
+| The Trigon Trifecta      | La Convergencia Trigonal    | A Convergência Trigonal    |
 | The Golden Trigon        | El Trigón Dorado            | O Trigono Dourado          |
 | The Bright Moon Trigon   | El Trigón Luna Radiante     | O Trigono da Lua Radiante  |
 | The Dark Moon Trigon     | El Trigón Luna Sombría      | O Trigono da Lua Sombria   |
