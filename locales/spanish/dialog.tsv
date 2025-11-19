@@ -16,7 +16,7 @@ INFO_CROSSMOUNTAINLEFT	The Scythian			En la escarpada ladera del Mingi Tau, una 
 INFO_CROSSMOUNTAINRIGHT	The Scythian			En la escarpada ladera del Mingi Tau, una tumba solitaria marcaba el final de un sendero de grava.					
 INFO_RIDGESKULLPOLE	The Scythian			En la dentada cresta que conduce a la cima del Mingi Tau, había un poste siniestro adornado con una calavera con astas.					
 INFO_CROSSRIDGE	The Scythian			En la dentada cresta que llevaba a la cima del Mingi Tau, descansaba una tumba solitaria, un siniestro recuerdo de las muchas personas que habían muerto allí.					
-INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos el Megatomo aferrado entre dos manos esqueléticas y sentimos que nuestra espada se agitaba en su vaina. #megatome			33	006.jpg	30D6C
+INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos el Megatomo aferrado entre dos manos esqueléticas y sentimos que nuestra espada palpitaba en su vaina. #megatome			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Había una puerta pequeña sin pomo hecha de un material desconocido. El letrero dice «Solo personal autorizado».					
 DOOR_UPSLOPEWOODS1	The Scythian			Una puerta cerrada bloqueaba el antiguo camino hacia el Mingi Tau en el muro de piedra.					
 DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se escondía entre la maleza del bosque, debajo del antiguo camino que lleva hacia el Mingi Tau. #moongrotto					
@@ -26,7 +26,7 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador leñaba 
 				Amileño sabía todo acerca de nuestro funesto cometido y accedió a guiarnos por el antiguo camino.					
 				Aún así, tuvimos la sensación de que no le entusiasmaba la idea.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		El leñador nos esperó para seguir por el sendero hacia donde comenzaba el antiguo camino.			12	008.jpg	U0D88
-LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos cruzado el abismo y nos sentíamos muy listos.			22	009.jpg	L0B9S
+LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos cruzado el abismo y nos sentíamos unos genios.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Le informamos a Amileño que estábamos en busca de un inquietante libro de magia oscura llamado el Megatomo.										
 			adventureUI/megatomeItem	El Megatomo acechaba más allá del Precipicio Peligroso, en algún lugar de la oscuridad encantada debajo del Mingi Tau.										
 			adventureUI/megatomeItem	Decidimos ir en busca del Megatomo y después escapar con vida.										
@@ -43,7 +43,7 @@ LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Habíamos recuperado e
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		A la luz de la inminente tormenta, Amileño admitió que en ese momento tenía la piel de gallina.					
 				¿Amileño nos estaba asustando a propósito? #yes #no #maybe					
 				En cualquier caso, lo más inteligente era permanecer en el refugio durante algún tiempo.					
-QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Hemos conseguido el Megatomo y somos los más listos. #gotmegatome			40	011.jpg	81C1E
+QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Hemos conseguido el Megatomo. ¡Somos unos genios!. #gotmegatome			40	011.jpg	81C1E
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
@@ -175,7 +175,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un conjunto de tumbas en un matorral a
 GRAVE_CHASM	The Scythian			Divisamos una tumba solitaria en el borde del Precipicio Peligroso que despertó nuestra curiosidad.										
 GRAVE_CHASMGHOST	The Scythian			Nos acercamos a la tumba solitaria del tramposo bribón en el Precipicio Peligroso y conocimos a un fantasma radiante.										
 			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, André 'El Gigante' organizó una partida y nos propusimos reconstruir la Tríada Trigonal."""										
-				"""Los demás miembros de la cuadrilla están enterrados en un matorral al lado del antiguo camino, cerca del puente de troncos."""					
+				"""Los demás miembros de la partida están enterrados en un matorral al lado del antiguo camino, cerca del puente de troncos."""					
 			triangle/Triangle	"""Logramos localizar y domar el Trigón Dorado con bastante facilidad, pero después de eso nos quedamos totalmente estancados."""					
 				"""Buscamos el Trigón Luna Radiante, así que decidimos sentarnos y observar el cielo, esperando a que el temperamento de la luna cambiara."""					
 				"""Resultaba sumamente tedioso. No estaba dispuesto a esperar días y días hasta que La Luna Radiante surgiera."""					
@@ -393,7 +393,7 @@ GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solo el final de tu fu
 GCLUE_WATERFALLS	Girl			¿Alguna vez has notado que a veces las palabras simplemente suenan como ruido, pero otras veces el ruido produce el sonido más bello?			132	058.jpg	G5F8U
 GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Hay un montón de dichos extraños aquí, entre los montañeses del Cáucaso.					
 				Hay un dicho aqui en el Cáucaso que dice que un bosque necesita un fuego tanto como el fuego necesita al árbol.					
-YELLOWTRIGON_COLLECTED	The Scythian			Hemos conseguido El Trigón Dorado. Somos impresionantes.			85	067.jpg	36G7U
+YELLOWTRIGON_COLLECTED	The Scythian			Hemos conseguido El Trigón Dorado. ¡Somos impresionantes!.			85	067.jpg	36G7U
 PINKTRIGON_COLLECTED	The Scythian			Contra todo pronóstico, hemos conseguido El Trigón Luna Radiante.			155	068.jpg	56F8U
 BLUETRIGON_COLLECTED	The Scythian			A pesar de todas las adversidades, hemos conseguido El Trigón Luna Sombría.			112	069.jpg	T6G94
 GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece como si todos los espíritus de la Luna Sombría hubieran sido enviados al cielo, así que de nuevo es la temporada de milagros. ¡Adoro los milagros!										
@@ -457,9 +457,9 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Amileño habí
 			triangle/Triangle	Amileño había visto el haz celestial en el bosque detrás del prado, así que le preguntamos sobre los secretos de la Arboleda Trigonal.										
 				Nos contó una antigua historia que su gente solía contarles a sus hijos para asustarlos.					
 			Archetype/trifecta	Amileño habló de una partida de escitas que llegó hace muchas lunas a estas montañas olvidadas en busca de la Tríada Trigonal.					
-			gourd/gourd	"""La cuadrilla había aprendido a buscar a los Espíritus Silvanos y enviarlos al cielo... y luego buscaron un lugar para realizar un milagro."""					
+			gourd/gourd	"""La partida había aprendido a buscar a los Espíritus Silvanos y enviarlos al cielo... y luego buscaron un lugar para realizar un milagro."""					
 			Archetype/trifecta	"""La partida esperaba activar los tres haces celestiales en la Arboleda Trigonal, pero no sabían dónde ni cuándo estaban los trigones."""					
-				"""La cuadrilla vagó sin rumbo durante mucho tiempo por el antiguo camino hacia el Mingi Tau... eventualmente se cansaron y decidieron detenerse."""					
+				"""La partida vagó sin rumbo durante mucho tiempo por el antiguo camino hacia el Mingi Tau... eventualmente se cansaron y decidieron detenerse."""					
 				"""Entonces, la partida fue diezmada por un espectro inmortal junto al camino, donde aún hoy yacen sus tumbas."""										
 				Le dijimos a Amileño que era una historia interesante, aunque en realidad no nos asustó tanto.					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
