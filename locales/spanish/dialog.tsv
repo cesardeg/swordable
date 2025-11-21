@@ -39,7 +39,7 @@ LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		El leñad
 				Sin embargo, Amileño no ofreció ninguna pista sobre qué hacer, lo cual nos fastidió bastante, hemos de admitir.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador había visto alguna criatura monstruosa y decidió dejárnosla a nosotros.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Habíamos recuperado el Megatomo y Amileño estaba completamente listo para llevarlo a la seguridad de su morada.					
-				Sentimos que una tormenta se aproximaba y, no obstante, una pequeña canción brotó en nuestro corazón.					
+				Sentimos una inminente tormenta y, no obstante, una pequeña canción brotó en nuestro corazón.					
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		A la luz de la inminente tormenta, Amileño admitió que en ese momento tenía los nervios de punta.					
 				¿Amileño nos estaba asustando a propósito? #yes #no #maybe					
 				En cualquier caso, lo más inteligente era permanecer en el refugio durante algún tiempo.					
@@ -47,14 +47,14 @@ QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Hemos conseguido el Megatomo. 
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			Damas y caballeros, ¿qué tal si tocas estos dos pequeños Espíritus Silvanos para apreciar tu sistema de sonido estéreo?					
+	The Archetype			Damas y caballeros, ¿qué tal si tocas estos dos pequeños espíritus silvanos para apreciar tu sistema de sonido estéreo?					
 	The Archetype			Desde nuestro experimento anterior en 2011, hemos comprobado que las redes sociales tienen un impacto perjudicial en la sociedad.					
 				En esta ocasión, promovemos el aislamiento y la reflexión llena de arrepentimiento.					
 				Agradecemos sinceramente que hayas decidido participar en este tratamiento experimental para la aflicción profunda del alma.					
 				Encontrarás que esta primera sesión de S:S&S EP es bastante sencilla y suele durar entre 15 y 30 minutos.					
 				¿Tienes auriculares? ¿Listo para comenzar? Presiona 'jugar' y ¡empecemos!					
 ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			Damas y caballeros, ¿qué tal si tocas estos dos pequeños Espíritus Silvanos para apreciar tu sistema de sonido estéreo?					
+	The Archetype			Damas y caballeros, ¿qué tal si tocas estos dos pequeños espíritus silvanos para apreciar tu sistema de sonido estéreo?					
 	The Archetype			Desde nuestro experimento anterior en 2011, hemos comprobado que las redes sociales tienen un impacto perjudicial en la sociedad.					
 				En esta ocasión, promovemos el aislamiento y la reflexión llena de arrepentimiento.					
 				Agradecemos sinceramente que hayas decidido participar en este tratamiento experimental para la aflicción profunda del alma.					
@@ -68,7 +68,7 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP no busca producir la experiencia t
 				Hablemos del 'set and setting' para una experiencia positiva con el altamente psicoactivo Superbrothers: Sword & Sworcery EP.					
 				La conciencia expandida, el potencial ilimitado e inexplorado de la mente, es lo que en Superbrothers llamamos 'Espadamancia'. #sworcery					
 				La Espadamancia se puede entender como una técnica psiónica que permite percibir una realidad dentro de la que ya conoces.					
-				Para detener la Canción de Espadamancia, simplemente toca dos veces el aura que rodea a La Escita.					
+				Para detener la Canción de Espadamancia, simplemente haz tap tap en el aura que rodea a La Escita.					
 				Una vez que hayas comenzado a entonar la Canción de Espadamancia, desliza el aura para mirar alrededor.					
 				Para entonar la Canción de Espadamancia, mantén pulsado sobre La Escita durante un momento y observa cómo se forma el aura.					
 				Como puedes ver, el Megatomo recopila y almacena transmisiones de pensamiento lingüístico. Desplázate hacia abajo para ver en qué estaba pensando antes.					
@@ -80,11 +80,11 @@ LOGFELLA_STORM	The Scythian			El leñador conocido como Amileño había renuncia
 			adventureUI/megatomeItem	Amileño nos recordó que la tormenta había estallado justo después de recuperar el Megatomo bajo el Mingi Tau.					
 				¿Estaba Amileño insinuando sutilmente que deberíamos intentar hacer algo para disipar la tormenta? #yes #no #maybe					
 GIRL_STORM	The Scythian			La chica de cabello oscuro conocida como Samae estaba muy afligida. #woe					
-			gourd/gourd	Desde que estalló la tormenta, Samae había observado las melodiosas brumas de los Espíritus Silvanos que dormían en los bosques cercanos.					
-			gourd/gourd	Se preguntó si los tres Espíritus Silvanos podrían ayudar a disipar la tormenta. #yes					
+			gourd/gourd	Desde que estalló la tormenta, Samae había observado las melodiosas brumas de los espíritus silvanos que dormían en los bosques cercanos.					
+			gourd/gourd	Se preguntó si los tres espíritus silvanos podrían ayudar a disipar la tormenta. #yes					
 			gourd/gourd	Nos pidió que investigáramos las melodiosas brumas que burbujeaban en el estanque profundo frente a la choza.					
 			gourd/gourd	Samae habló de un espíritu en un prado cercano y de otro en un nido, hogar de tres pájaros cantores empapados por la lluvia.					
-			gourd/gourd	Samae nos dijo que buscáramos las melodiosas brumas de estos tres Espíritus Silvanos y los enviáramos al cielo usando la Canción de Espadamancia.					
+			gourd/gourd	Samae nos dijo que buscáramos las melodiosas brumas de estos tres espíritus silvanos y los enviáramos al cielo usando la Canción de Espadamancia.					
 ARCHETYPE_SWORCERY	The Archetype			"""Ha llegado el momento de aprender la Canción de Espadamancia, una técnica de expansión de la conciencia que revela una dimensión musical mística."""					
 			gourd/gourd	"""Mantén la calma y sigue mis instrucciones para despertar al espíritu silvano que duerme en las frescas aguas del estanque profundo."""					
 ARCHETYPE_TADPOLES	The Archetype			Era obvio que el hombre de ropa extraña esperaba que hiciéramos algo, pero no teníamos ni idea de qué.					
@@ -154,7 +154,7 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			En la Arboleda Trigonal, más allá de la 
 				No supimos si el fantasma radiante nos alentaba o nos advertía.					
 				Le contamos al fantasma de nuestras intenciones de detonar el Megatomo en la cima del Mingi Tau y liberar a la Masa Gogolítica de la inmortalidad.					
 			Archetype/trifecta	Le preguntamos sobre la Tríada Trigonal y la ubicación de los trigones restantes, pero su respuesta fue irritantemente ambigua.					
-				"""Los trigones restantes solo existen en los sueños de la gente de la montaña."""			43	024.jpg	8.2E+46
+				"""Los trigones restantes solo existen en los sueños de los montañeses."""			43	024.jpg	8.2E+46
 				"""Localizar los trigones restantes no es cuestión de dónde, sino de cuándo y cómo."""					
 				Sin duda, el fantasma radiante hablaba en acertijos crípticos de poca ayuda.					
 GRAVE_LOGBRIDGE	The Scythian			Vimos un conjunto de tumbas en un matorral a un costado del antiguo camino que despertaron nuestra curiosidad.					
@@ -165,7 +165,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos un conjunto de tumbas en un matorral a
 			triangle/Triangle	"""Logramos domar fácilmente el Trigón Dorado y exploramos la Arboleda Trigonal antes de emprender la búsqueda del Trigón Luna Radiante."""										
 				"""La búsqueda del Trigón Luna Radiante no fue tan exitosa... nos perdimos por completo, para ser honestos."""					
 				"""Poco a poco nos dimos cuenta de la importancia del ciclo lunar y su influencia en los espíritus que duermen en los reinos crepusculares."""					
-				"""Así que nos sentamos aquí a observar los humores de la luna para aprender cuándo estar dónde y cómo."""			7	026.jpg	Q2D6P
+				"""Así que nos sentamos aquí a observar el humor de la luna para aprender cuándo estar dónde y cómo."""			7	026.jpg	Q2D6P
 				"""Nos morimos de aburrimiento esperando que cambiara el humor de la luna."""					
 				"""Bueno, en realidad, morimos debido a una discusión que tuvimos por aburrimiento."""					
 				"""Prefiero no entrar en detalles, si no es molestia."""					
@@ -185,13 +185,13 @@ GRAVE_CHASMGHOST	The Scythian			Nos acercamos a la tumba solitaria del tramposo 
 				"""El hecho es que desde entonces he tenido los nervios de punta y, a decir verdad, me morí de vergüenza."""					
 GRAVE_HOLLOW	The Scythian			Dentro de un árbol hueco titánico, vimos una tumba solitaria que despertó nuestra curiosidad.					
 GRAVE_HOLLOWGHOST	The Scythian			Dentro de un árbol hueco titánico, nos acercamos a una tumba solitaria y apareció un fantasma audaz que nos cantó una alocada rima.			117	028.jpg	E2A80
-				"""Observa el humor lunar con atención constante, y aprenderás cuándo estar dónde y cómo en cada instante."""					
-				"""Y no te preocupes, no pretendo asustar, con mi impresionante apariencia, solo quiero brillar."""					
+				"""Observa el humor de la luna con constancia, aprenderás cuándo estar dónde y cómo sin tardanza."""					
+				"""Y tranquilo, no pretendo darte un susto, es que brillar de forma impresionante es del fantasma el gusto."""					
 GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un árbol hueco titánico. nos acercamos a una tumba solitaria y apareció un fantasma audaz para cantarnos una alocada rima.			117	028.jpg	E2A80
-				"""El camino recorrido con suerte y fe, captura las melodiosas brumas que se ven."""					
-				"""Cinco Espíritus Silvanos, al cielo volarán, un milagro obrarán, el trigón desvelarán, ¡la aventura comenzará!"""					
+				"""Tras de ti en el sendero busca con atención, las melodiosas brumas en cada ubicación"""					
+				"""Cinco espíritus silvanos envía al cielo en ascenso, realizarán un milagro de poder inmenso, y el trigón buscado a ti acudirá."""					
 GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un árbol hueco titánico, nos acercamos a una tumba solitaria y apareció un fantasma audaz que nos contó algunas cosas.			117	028.jpg	E2A80
-				"""Busca una señal de los Espíritus Silvanos y entona una Canción de Espadamancia allí para revelar un trigón oculto."""										
+				"""Busca una señal de los espíritus silvanos y entona una Canción de Espadamancia allí para revelar un trigón oculto."""										
 GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un árbol hueco titánico, nos acercamos a una tumba solitaria y apareció un fantasma audaz que nos contó algunas cosas.			117	028.jpg	E2A80
 				"""El canto del trigón ha terminado por ahora. Me pregunto cuándo volveré a escucharlo."""					
 LOGFELLA_LOSTKEY	The Scythian			El leñador afligido conocido como Amileño estaba completamente alterado por algo.					
@@ -206,7 +206,7 @@ ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos en la vigilia y en la psicosm
 				Busca un lugar cálido y permite que el sueño te envuelva para descubrir el umbral de la liminalidad.					
 ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	¿Qué tal si te sientas junto al fuego en la choza y cruzas el umbral de la liminalidad para encontrar la llave perdida de Amileño?			55	031.jpg	23C1X
 GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Vaya, Amileño está refunfuñando por algo... Me pregunto qué pasará. Prefiero salir un momento y dejarlo solo.										
-				He visto a La Escita cantar la Canción de Espadamancia y enviar tres Espíritus Silvanos al cielo. Me pregunto si ayudarán a disipar la tormenta.					
+				He visto a La Escita cantar la Canción de Espadamancia y enviar tres espíritus silvanos al cielo. Me pregunto si ayudarán a disipar la tormenta.					
 LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que La Escita pueda encontrar mi llave... la perdí en la orilla arenosa de un lago sereno.			62	032.jpg	U3A20
 LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Oh, vaya, preferiría que no estuviera lloviendo afuera... Preferiría que mis botas no estuvieran tan mojadas... Preferiría volver a cortar leña.					
 				¡Rayos!, ¿dónde se ha ido mi llave? ¡Estoy tan molesto y avergonzado que estoy enloqueciendo!					
@@ -215,25 +215,25 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	El leñador estaba muy alivi
 				Le contamos al leñador cómo crecimos en las estepas junto a nuestras valientes hermanas y hermanos escitas.					
 				Le contamos a Amileño por qué vagábamos por esta montaña desierta y cómo éramos guiados por el dedo de un Dios omnisciente.					
 			adventureUI/megatomeItem	Le contamos a Amileño sobre lo que sospechábamos que podrían significar los enigmáticos símbolos dentro del Megatomo.					
-			gourd/gourd	Teníamos la corazonada de que necesitábamos convocar a algunos Espíritus Silvanos más para disipar la tormenta.			104	033.jpg	W3D3G
+			gourd/gourd	Teníamos la corazonada de que necesitábamos despertar a algunos espíritus silvanos más para disipar la tormenta.			104	033.jpg	W3D3G
 			triangle/Triangle	En un susurro silencioso hablamos de nuestra intención de encontrar y domar una manifestación de geometría cósmica conocida como el Trigón Dorado.										
 				Era evidente que el leñador había dejado de escucharnos.					
 			AdventureUI/keyItem	Nos dimos cuenta de que podríamos quedarnos con la llave y dar un paseo por el antiguo camino más allá del muro de piedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si sería aceptable que tomáramos su llave y él estuvo de acuerdo.					
 GIRL_FOUNDKEY	The Scythian			Nos encontramos con Samae empapada bajo la lluvia en un sendero lateral.					
-			gourd/gourd	Ella había oído las sutiles y melodiosas brumas de los Espíritus Silvanos más allá del muro de piedra en el antiguo camino hacia el Mingi Tau.					
+			gourd/gourd	Ella había oído las sutiles y melodiosas brumas de los espíritus silvanos más allá del muro de piedra en el antiguo camino hacia el Mingi Tau.					
 			gourd/gourd	Ella habló de troncos de árboles altísimos a ambos lados de un poderoso río.					
 			gourd/gourd	Ella habló de unos arcoíris tenues en el borde del Precipicio Peligroso.					
 			adventureUI/megatomeItem	...Y luego se puso temerosa y nos dijo que consultáramos el Megatomo si nos sentíamos perdidos o confundidos.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Estoy de acuerdo en que La Escita tome la llave si eso significa disipar la tormenta.					
 				Debo haber asentido en algún momento durante la épica historia de La Escita. Tengo escasa paciencia para el folclore.					
 				Le pregunté a La Escita sobre su funesto cometido... empezó a hablar de las estepas y del dedo de Dios.					
-GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos Espíritus Silvanos más enviados al cielo disiparán la tormenta incesante... ¡Y luego comenzará la temporada de milagros! #miracles			129	034.jpg	33A44
+GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos espíritus silvanos más enviados al cielo disiparán la tormenta incesante... ¡Y luego comenzará la temporada de milagros! #miracles			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			En mis paseos en sueños hay una tranquilidad emocionante cuando la luna brilla más... y cuando la luna está oscura, los bosques se vuelven salvajes.					
 				En los sueños, siempre son los mismos lugares y espacios, excepto cuando varían según el humor de la luna.					
 				Todas las noches desde que se disipó la tormenta he tenido el mismo sueño en el que merodeo por el bosque en la hora antes del amanecer.					
 ARCHETYPE_TREEHINT	The Archetype			Recuerda que ingerir hongos del bosque puede brindarte cierta perspectiva oblicua sobre fenómenos criptozoológicos y cosas así.					
-				Busca las melodiosas brumas de los Espíritus Silvanos e investiga sus alrededores.					
+				Busca las melodiosas brumas de los espíritus silvanos e investiga sus alrededores.					
 				Una vez que hayas comenzado la Canción de Espadamancia, puedes tocar el aura y deslizar para mirar alrededor.					
 ARCHETYPE_MUSHROOMHINT	The Archetype			Incluso se ha afirmado que los hongos adivinatorios pueden haber desempeñado un papel importante en el desarrollo de la psique humana.					
 				La evidencia arqueológica indica que el uso chamánico de los hongos para la comunión religiosa, la adivinación y la curación es bastante antiguo.					
@@ -243,7 +243,7 @@ ARCHETYPE_TRIGONGROVE	The Archetype			¿Lo puedes sentir? ¿Estás comenzando a 
 				Este haz conecta el mundo de los vivos y el mundo de los muertos, por lo que es posible que encuentres uno o dos fantasmas con los que hablar en tus viajes.					
 				Acabo de enterarme de que activaste el primer haz celestial en la Arboleda Trigonal.					
 GIRL_CABINSHEEP	The Scythian			Preguntamos a Samae sobre las ovejas insignificantes que holgazaneaban por la choza y ella nos dijo que se habían asustado hace un rato.					
-			gourd/gourd	Le informamos a Samae que enviamos cinco Espíritus Silvanos al cielo y ella nos dijo que tal vez la temporada de milagros estaba por llegar.					
+			gourd/gourd	Le informamos a Samae que enviamos cinco espíritus silvanos al cielo y ella nos dijo que tal vez la temporada de milagros estaba por llegar.					
 				Pensamos que tal vez deberíamos ir a investigar el prado donde solían holgazanear las ovejas.					
 LOGFELLA_CABINSHEEP	The Scythian			Amileño sentía que había llegado la temporada de milagros y se preguntaba si estaba por ocurrir algo increíble.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			¡Dejó de llover! ¿Se estará disipando la tormenta? Eso espero.					
@@ -282,7 +282,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				Son tiempos de angustia, una siniestra tormenta ha nublado el cielo y la gente encantadora que vive en la choza es desdichada.					
 				Disipar la tormenta requerirá cierta familiaridad con la psiónica, la criptozoología y los milagros...					
 			adventureUI/megatomeItem	1. El toque de un espadamante liberará el Megatomo, revelando los pensamientos no expresados de criaturas vivas y otro material esotérico.										
-			gourd/gourd	2. Extraños Espíritus Silvanos, fuentes de Espadamancia, duermen en estanques, bosques y prados. Busca sus sutiles y melodiosas brumas.					
+			gourd/gourd	2. Extraños espíritus silvanos, fuentes de Espadamancia, duermen en estanques, bosques y prados. Busca sus sutiles y melodiosas brumas.					
 			triangle/Triangle	3. El espadamante que pueda localizar, convocar y domar la geometría cósmica del Trigón Dorado poseerá la habilidad de obrar milagros.					
 				¿Confundido? Excelente. Mantén la calma y sigue adelante.			210	043.jpg	A4C31
 ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	¡Bravo! Has localizado y sometido la geometría cósmica del Trigón Dorado.			86	044.jpg	24E4H
@@ -323,7 +323,7 @@ END_HONEST_LOVE	The Scythian			En la cima del Mingi Tau, subimos el Megatomo a l
 END_HONEST_NOBOOR	The Scythian			En la cima del Mingi Tau, subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #honest #noboor			178	053.jpg	75G3V
 GIRL_GHOULTHOUGHTS	Girl			¿Sabe La Escita que es posible detener a la Masa Gogolítica tocando su cráneo con Espadamancia? Probablemente no.										
 				Espero que La Escita sepa que debe mantener pulsado el camino para avanzar sin parar, si no lo hace, estará en problemas.					
-				¿Dónde estoy? ¿Qué pasó? Lo último que recuerdo es que estaba caminando en sueños por el bosque cuando vi una inquietante luz rosada.					
+				¿Dónde estoy? ¿Qué pasó? Lo último que recuerdo es que estaba paseando en sueños por el bosque cuando vi una inquietante luz rosada.					
 LOGFELLA_GHOULTHOUGHTS	Logfella			La Escita sigue hablando sobre su funesto cometido de abrir una entrada al Arremolinado Infinito en la cima del Mingi Tau.										
 				Todo ha estado completamente loco desde que apareció La Escita muchas lunas atrás.					
 LOGFELLA_GHOUL	The Scythian			Despertamos aturdidos de un sueño muy profundo cerca de la Arboleda Trigonal con el leñador conocido como Amileño a nuestro lado.			88	054.jpg	J5D44
@@ -361,7 +361,7 @@ GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau Guau Gu
 				Guau Guau Guau Guau Guau Guau.					
 GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Hay algo extraño en cómo se comportó La Escita, casi como si estuviera siendo controlada por una fuerza invisible.					
 				Me gustaría saber más sobre la historia épica de La Escita, apuesto a que entonces todo tendría sentido.					
-GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Ojalá La Escita esté ocupándose de lo de los Espíritus Silvanos.					
+GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Ojalá La Escita esté ocupándose de lo de los espíritus silvanos.					
 				Esta tormenta me tiene tan fastidiado, me hace desear que los videojuegos existieran en... en el momento en que se supone que estamos.					
 GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Todo ha estado completamente loco desde que apareció La Escita.			3	062.jpg	36E2Z
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Esta tormenta me tiene hartísima. ¡Todo ha estado taaan lúgubre!					
@@ -376,13 +376,13 @@ GCLUE_MOUNTAINLAKESHORE	Dogfella	AdventureUI/tweetIconGourd		Sé que buscas evit
 GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		También hay sustantivos desconocidos, aunque estos se aprenden fácilmente.					
 				Hay dos tipos de incógnitas, las incógnitas conocidas y las incógnitas desconocidas.			32	063.jpg	L6E31
 				Guau Guau Guau. 					
-GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Mis troncos guardan muchos secretos... secretos sobre los Espíritus Silvanos e islas imposibles. Lamentablemente, no hablo Tronqués.					
+GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Mis troncos guardan muchos secretos... secretos sobre los espíritus silvanos e islas imposibles. Lamentablemente, no hablo Tronqués.					
 				En mi experiencia, hay ocasiones en las que los búhos no son lo que parecen, mientras que en otras simplemente son búhos comunes y corrientes.			126	064.jpg	86A47
 GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Tal vez hayas oído hablar sobre una isla imposible bajo la Luna Radiante... ¿Quizás lo leíste en internet?			134	065.jpg	H6A5I
 				Hemos estado monitoreando tus acciones en silencio y queremos señalar que mientras más tiempo tardes en decidir, más pequeña será la celebración.					
 				Parece que has progresado bastante en tu esfuerzo para localizar y domar el Trigón Luna Radiante, ¡Muy bien hecho!					
-GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		¿Son los Espíritus Silvanos hijos de la Madre Tierra o son visitantes solitarios del Arremolinado Infinito?					
-				Para ser honesta, los Espíritus Silvanos me asustan bastante. Es decir... ¿Qué son? ¿De dónde vienen?					
+GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		¿Son los espíritus silvanos hijos de la Madre Tierra o son visitantes solitarios del Arremolinado Infinito?					
+				Para ser honesta, los espíritus silvanos me asustan bastante. Es decir... ¿Qué son? ¿De dónde vienen?					
 GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Cuando los espíritus hayan sido enviados al cielo y la temporada de milagros se acerque, debes buscar el árbol titánico.					
 				Sé que sabes lo que sé y quiero que sepas que estás completamente en lo correcto.			109	066.jpg	F6D6H
 				Guau Guau Guau Snif Guau Guau Guau.					
@@ -457,7 +457,7 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Amileño habí
 			triangle/Triangle	Amileño había visto el haz celestial en el bosque tras el prado, así que le preguntamos por los secretos de la Arboleda Trigonal.										
 				Nos contó una antigua historia que su gente solía contarles a sus hijos para asustarlos.					
 			Archetype/trifecta	Amileño habló de una partida de escitas que llegó hace muchas lunas a estas montañas olvidadas en busca de la Tríada Trigonal.					
-			gourd/gourd	"""La partida había aprendido a buscar a los Espíritus Silvanos y enviarlos al cielo... y luego buscaron un lugar para realizar un milagro."""					
+			gourd/gourd	"""La partida había aprendido a buscar a los espíritus silvanos y enviarlos al cielo... y luego buscaron un lugar para realizar un milagro."""					
 			Archetype/trifecta	"""La partida esperaba activar los tres haces celestiales en la Arboleda Trigonal, pero no sabían dónde ni cuándo estaban los trigones."""					
 				"""La partida vagó sin rumbo durante mucho tiempo por el antiguo camino hacia el Mingi Tau... eventualmente se cansaron y decidieron detenerse."""					
 				"""Entonces, la partida fue diezmada por un espectro inmortal junto al camino, donde aún hoy yacen sus tumbas."""										
@@ -508,7 +508,7 @@ LOGFELLA_FOUNDATION	Logfella			...
 				...					
 				...					
 SCYTHIAN_FOUNDATION	The Scythian			Despertamos a un espíritu silvano en un estanque profundo con lirios junto a una choza de piedra. No sabemos qué significa.					
-				Con una tormenta incesante hemos aprendido a cantar la Canción de Espadamancia y convocar a un espíritu silvano dormido.					
+				Con una tormenta incesante hemos aprendido a cantar la Canción de Espadamancia y despertar a un espíritu silvano dormido.					
 				Espera... ¿Por qué me estoy refiriendo a mí misma en primera persona? ¿No se supone que nuestra historia se cuenta en segunda persona? #editingoversight					
 				¿Mis pensamientos están ordenados cronológicamente, en el orden en que los pensé? ¿Así que esto es lo que estaba pensando hace unos segundos?					
 				¿Esto es el Megatomo? ¿Absorbe 'transmisiones de pensamiento lingüístico'? ¿Estoy leyendo mis pensamientos mientras los estoy pensando? Hmm...					
@@ -571,7 +571,7 @@ DARKMOONLOOMS_ARCHETYPE	The Archetype			La Luna Sombría reina, el final del cic
 DARKMOONBEGINS_ARCHETYPE	The Archetype			He aquí, ¡La Luna Sombría!			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			En mi sueño me encontré con un Parlamento de Árboles azotado por un rayo y sentí la presencia de algo profundamente sagrado.										
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Anoche escuché el sonido de una música vibrante filtrándose a través de los bosques detrás de mi choza. ¿Qué podría ser?					
-DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño solo vislumbré las sutiles y melodiosas brumas de los Espíritus Silvanos.					
+DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño solo vislumbré las sutiles y melodiosas brumas de los espíritus silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Hemos reconstruido la Tríada Trigonal y ahora somos héroes.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Inexplicablemente, hemos asesinado a 3 conejos indefensos.					
 RABBITS_7MURDERS	The Scythian			Inexplicablemente, hemos asesinado a 7 conejos indefensos. ¿Estamos ante la evidencia de una mente trastornada?					

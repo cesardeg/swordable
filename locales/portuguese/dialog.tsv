@@ -19,7 +19,7 @@ INFO_CROSSRIDGE	The Scythian			Na crista recortada que leva ao topo do Mingi Tau
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos o Megatomo apertado entre duas mãos esqueléticas e sentimos nossa espada palpitar na bainha. #megatome			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Havia uma pequena porta sem maçaneta feita de um material desconhecido. Um sinal diz: «Apenas pessoal Autorizado».					
 DOOR_UPSLOPEWOODS1	The Scythian			Uma porta fechada bloqueava o antigo caminho para o Mingi Tau na parede de pedra.					
-DOOR_UPSLOPEWOODS3	The Scythian			Uma porta fechada estava escondida entre a vegetação do bosque, sob o antigo caminho que leva ao Mingi Tau. #moongrotto					
+DOOR_UPSLOPEWOODS3	The Scythian			Uma porta fechada estava escondida entre a mata, sob o antigo caminho que leva ao Mingi Tau. #moongrotto					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
 LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		O lenhador lenhava sua lenha. #obviously #woodchopping			71	007.jpg	7E+71
 				Os montanheses do Cáucaso o conheciam como Troncadeiro e ele parecia amigável.					
@@ -39,7 +39,7 @@ LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		O lenhado
 				E, no entanto, Troncadeiro não ofereceu nenhuma pista sobre o que fazer, o que nos irritou um bocado, devemos admitir.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		O lenhador tinha visto algum tipo de monstro assustador e decidiu deixar que nós cuidássemos disso.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Tínhamos recuperado o Megatomo e Troncadeiro estava completamente pronto para levá-lo para a segurança de sua moradia.					
-				Sentimos uma tempestade se aproximando e, no entanto, uma pequena canção floresceu em nosso coração.					
+				Sentimos uma tempestade iminente e, no entanto, uma pequena canção floresceu em nosso coração.					
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		À luz da tempestade iminente, Troncadeiro admitiu que naquele momento estava com os nervos à flor da pele.					
 				Troncadeiro estava nos assustando de propósito? #yes #no #maybe					
 				De qualquer forma, o mais sensato era ficar no abrigo por um tempo.					
@@ -47,14 +47,14 @@ QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos o Megatomo. Somos 
 GIRL_AVATAR			AdventureUI/dudeDAughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			Senhoras e senhores, que tal você tocar nestes dois pequenos Espíritos Florestais para apreciar seu sistema de som estéreo?					
+	The Archetype			Senhoras e senhores, que tal você tocar nestes dois pequenos espíritos florestais para apreciar seu sistema de som estéreo?					
 	The Archetype			Desde nossa experiência anterior em 2011, constatamos que as redes sociais têm um impacto prejudicial na sociedade.					
 				Nesta ocasião, promovemos o isolamento e a reflexão cheia de arrependimento.					
 				Agradecemos sinceramente por você ter decidido participar deste tratamento experimental para a aflição profunda da alma.					
 				Você encontrará que esta primeira sessão de S:S&S EP é bastante simples e geralmente dura entre 15 e 30 minutos.					
 				Você tem fones de ouvido? Pronto para começar? Pressione 'jogar' e vamos lá!					
 ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			Senhoras e senhores, que tal você tocar nestes dois pequenos Espíritos Florestais para apreciar seu sistema de som estéreo?					
+	The Archetype			Senhoras e senhores, que tal você tocar nestes dois pequenos espíritos florestais para apreciar seu sistema de som estéreo?					
 	The Archetype			Desde nossa experiência anterior em 2011, constatamos que as redes sociais têm um impacto prejudicial na sociedade.					
 				Nesta ocasião, promovemos o isolamento e a reflexão cheia de arrependimento.					
 				Agradecemos sinceramente por você ter decidido participar deste tratamento experimental para a aflição profunda da alma.					
@@ -68,7 +68,7 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP não busca proporcionar a experiê
 				Vamos falar sobre o 'set and setting' para uma experiência positiva com o altamente psicoativo Superbrothers: Sword & Sworcery EP.					
 				A consciência expandida, o potencial ilimitado e inexplorado da mente, é o que chamamos de 'Espadância' em Superbrothers. #sworcery					
 				A Espadância pode ser entendida como uma técnica psíquica que permite perceber uma realidade dentro daquilo que você já conhece.					
-				Para interromper a Canção da Espadância, simplesmente toque duas vezes na aura que cerca A Citiana.					
+				Para interromper a Canção da Espadância, basta fazer tap tap na aura que cerca A Citiana.					
 				Uma vez que você começar a entoar a Canção da Espadância, deslize a aura para olhar ao redor.					
 				Para entoar a Canção da Espadância, mantenha pressionado sobre A Citiana por um momento e observe como a aura se forma.					
 				Como você pode ver, o Megatomo coleta e armazena transmissões de pensamento linguístico. Role para baixo para ver no que eu estava pensando antes.					
@@ -80,15 +80,15 @@ LOGFELLA_STORM	The Scythian			O lenhador conhecido como Troncadeiro havia desist
 			adventureUI/megatomeItem	Troncadeiro nos lembrou que a tempestade havia estourado logo depois que recuperamos o Megatomo sob o Mingi Tau.					
 				Troncadeiro estava insinuando sutilmente que deveríamos tentar fazer algo para dissipar a tempestade? #yes #no #maybe					
 GIRL_STORM	The Scythian			A garota de cabelo escuro conhecida como Samae estava muito aflita. #woe					
-			gourd/gourd	Desde que a tempestade estourou, Samae observava as melódicas espumas dos Espíritos Florestais que dormiam nas florestas próximas.					
-			gourd/gourd	Ela se perguntou se os três Espíritos Florestais poderiam ajudar a dissipar a tempestade. #yes					
+			gourd/gourd	Desde que a tempestade estourou, Samae observava as melódicas espumas dos espíritos florestais que dormiam nas florestas próximas.					
+			gourd/gourd	Ela se perguntou se os três espíritos florestais poderiam ajudar a dissipar a tempestade. #yes					
 			gourd/gourd	Ela nos pediu para investigar as melódicas espumas que borbulhavam na lagoa profunda em frente à cabana.					
 			gourd/gourd	Samae mencionou um espírito em uma campina próxima e outro em um ninho, onde três pássaros cantores estavam encharcados pela chuva.					
-			gourd/gourd	Samae nos disse para procurar as melódicas espumas desses três Espíritos Florestais e enviá-las ao céu usando a Canção da Espadância.					
+			gourd/gourd	Samae nos disse para procurar as melódicas espumas desses três espíritos florestais e enviá-las ao céu usando a Canção da Espadância.					
 ARCHETYPE_SWORCERY	The Archetype			"""Chegou a hora de aprender a Canção da Espadância, uma técnica de expansão da consciência que revela uma dimensão musical mística."""					
-			gourd/gourd	"""Mantenha a calma e siga minhas instruções para despertar o Espírito Florestal que dorme nas águas frescas da lagoa profunda."""					
+			gourd/gourd	"""Mantenha a calma e siga minhas instruções para despertar o espírito florestal que dorme nas águas frescas da lagoa profunda."""					
 ARCHETYPE_TADPOLES	The Archetype			Era evidente que o homem estranhamente vestido esperava que fizéssemos algo, mas não tínhamos ideia do que.					
-			gourd/gourd	"""Você vê as melódicas espumas na lagoa profunda? Um Espírito Florestal dorme ali e você deve despertá-lo."""					
+			gourd/gourd	"""Você vê as melódicas espumas na lagoa profunda? Um espírito florestal dorme ali e você deve despertá-lo."""					
 			gourd/gourd	"""Você pode entoar a Canção da Espadância a qualquer momento, mantendo pressionado sobre A Citiana para revelar uma realidade oculta dentro desta."""					
 			gourd/gourd	"""Guie as duas pequenas criaturas nadando em direção ao local onde o espírito dorme e envie-as ao céu com três toques de Espadância."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Samae se abrigava da chuva sob o amplo telhado de madeira do poço.					
@@ -111,7 +111,7 @@ INFO_WELLWHITESTAG	The Scythian			LONGA VIDA À NOVA CARNE.
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Vimos uma robusta cabana de pedra com um telhado de palha ao lado de uma lagoa profunda.					
 INFO_CABINWOODPILE	The Scythian			Vimos uma pilha de lenha, mas não é nada demais.					
-INFO_SPUME	The Scythian			Descobrimos as sutis e melódicas espumas de um Espírito Florestal adormecido. E agora... como o despertamos?					
+INFO_SPUME	The Scythian			Descobrimos as sutis e melódicas espumas de um espírito florestal adormecido. E agora... como o despertamos?					
 INFO_NESTBOX	The Scythian			Vimos um ninho curioso que agora abrigava uma colmeia infeliz.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Vimos um ninho desgastado que parecia um rosto assustador.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre uma ponte de toras no antigo caminho, havia um mastro sinistro adornado com caveiras.					
@@ -154,7 +154,7 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigonal, além da caverna na 
 				Não soubemos dizer se o fantasma radiante nos encorajava ou nos advertia.					
 				Contamos ao fantasma nossas intenções de detonar o Megatomo no topo do Mingi Tau e libertar a Massa Gogolítica da imortalidade.					
 			Archetype/trifecta	Perguntamos a ele sobre a Tríade Trigonal e a localização dos trígonos restantes, mas sua resposta foi irritantemente ambígua.					
-				"""Os trígonos restantes existem apenas nos sonhos das pessoas da montanha."""			43	024.jpg	8.2E+46
+				"""Os trígonos restantes existem apenas nos sonhos dos montanheses."""			43	024.jpg	8.2E+46
 				"""Localizar os trígonos restantes não é uma questão de onde, mas de quando e como."""					
 				Sem dúvida, o fantasma radiante falava em enigmas crípticos de pouca ajuda.					
 GRAVE_LOGBRIDGE	The Scythian			Vimos um conjunto de tumbas em uma moita ao lado do antigo caminho que despertaram nossa curiosidade.					
@@ -165,7 +165,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Vimos um conjunto de tumbas em uma moita ao 
 			triangle/Triangle	"""Localizamos e domamos o Trígono Dourado facilmente, exploramos a Clareira Trigonal e embarcamos na busca pelo Trígono da Lua Radiante."""					
 				"""A busca pelo Trígono da Lua Radiante não foi tão bem-sucedida... nos perdemos completamente, para ser honesto."""										
 				"""Pouco a pouco, percebemos a importância do ciclo lunar e sua influência nos espíritos que dormem nos reinos crepusculares."""					
-				"""Então, nos sentamos aqui para observar os humores da lua para aprender quando estar onde e como."""			7	026.jpg	Q2D6P
+				"""Então, nos sentamos aqui para observar o humor da lua para aprender quando estar onde e como."""			7	026.jpg	Q2D6P
 				"""Morremos de tédio esperando que o humor da lua mudasse."""					
 				"""Bem, na verdade, morremos por causa de uma briga que tivemos por causa do tédio."""					
 				"""Prefiro não entrar em detalhes, se não for incômodo."""					
@@ -185,11 +185,11 @@ GRAVE_CHASMGHOST	The Scythian			Nos aproximamos da tumba solitária do trapaceir
 				"""O fato é que desde então tenho tido os nervos à flor da pele e, para dizer a verdade, morri de vergonha."""					
 GRAVE_HOLLOW	The Scythian			Dentro de uma árvore oca titânica, vimos uma tumba solitária que despertou nossa curiosidade.					
 GRAVE_HOLLOWGHOST	The Scythian			Dentro de uma árvore oca titânica, nos aproximamos de uma tumba solitária e um fantasma audacioso apareceu cantando uma rima maluca para nós.			117	028.jpg	E2A80
-				"""Observe o humor lunar com atenção constante, e aprenderá quando estar onde e como em cada instante."""					
-				"""E não se preocupe, não pretendo assustar, com minha aparência impressionante, só quero brilhar."""					
+				"""Observe o humor da lua com constância, aprenderá quando estar onde e como sem tardança."""					
+				"""E fique tranquilo, não quero te assustar, é que fantasmas impressionantes assim costumam brilhar."""					
 GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de uma árvore oca titânica, nos aproximamos de uma tumba solitária e um fantasma audacioso apareceu cantando uma rima maluca para nós.			117	028.jpg	E2A80
-				"""A trilha percorrida com sorte e fé, capture as melódicas espumas que se veem."""					
-				"""Cinco Espíritos Florestais, ao céu voarão, um milagre realizarão, o trígono revelarão, juntos trabalharão."""					
+				"""Atrás de ti na trilha busque com atenção, as melódicas espumas em cada posição."""					
+				"""Cinco espíritos florestais envie ao céu em ascensão, realizarão um milagre de imenso poder então, e o Trígono buscado até você virá."""					
 GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de uma árvore oca titânica, nos aproximamos de uma tumba solitária e um fantasma audacioso apareceu para nós.			117	028.jpg	E2A80
 				"""Busque por um sinal dos espíritos florestais e entoe uma Canção de Espadância no local para revelar um trígono oculto."""					
 GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de uma árvore oca titânica, nos aproximamos de uma tumba solitária e um fantasma audacioso apareceu para nós.			117	028.jpg	E2A80
@@ -206,7 +206,7 @@ ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos na vigília e na psicologia m
 				Procure um lugar acolhedor e deixe o sono envolvê-lo para descobrir o limiar da liminaridade.					
 ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	Que tal sentar-se junto ao fogo na cabana e atravessar o limiar da liminaridade para encontrar a chave perdida de Troncadeiro?			55	031.jpg	23C1X
 GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Au, Troncadeiro está resmungando por algo... Me pergunto o que está acontecendo. Prefiro sair um momento e deixá-lo sozinho.										
-				Vi A Citiana cantar a Canção da Espadância e enviar três Espíritos Florestais ao céu. Me pergunto se eles ajudarão a dissipar a tempestade.					
+				Vi A Citiana cantar a Canção da Espadância e enviar três espíritos florestais ao céu. Me pergunto se eles ajudarão a dissipar a tempestade.					
 LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que A Citiana possa encontrar minha chave... eu a perdi na margem arenosa de um lago sereno.			62	032.jpg	U3A20
 LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Oh, droga, preferiria que não estivesse chovendo lá fora... Preferiria que minhas botas não estivessem tão molhadas... Preferiria voltar a cortar lenha.					
 				Ah, desgraça, Onde minha chave foi parar? Estou tão chateado e envergonhado que agora estou totalmente enlouquecido.					
@@ -215,35 +215,35 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	O lenhador estava muito aliv
 				Contamos ao lenhador como crescemos nas estepes ao lado de nossas valentes irmãs e irmãos cítios.					
 				Contamos a Troncadeiro por que vagávamos por essa montanha deserta e como éramos guiados pelo dedo de um Deus onisciente.					
 			adventureUI/megatomeItem	Contamos a Troncadeiro sobre o que suspeitávamos que os enigmáticos símbolos dentro do Megatomo poderiam significar.					
-			gourd/gourd	Tínhamos a intuição de que precisávamos convocar mais alguns Espíritos Florestais para dissipar a tempestade.			104	033.jpg	W3D3G
+			gourd/gourd	Tínhamos a intuição de que precisávamos despertar mais alguns espíritos florestais para dissipar a tempestade.			104	033.jpg	W3D3G
 			triangle/Triangle	Em um sussurro silencioso, falamos sobre nossa intenção de encontrar e domar uma manifestação de geometria cósmica conhecida como o Trígono Dourado.										
 				Era evidente que o lenhador havia parado de nos escutar.					
 			AdventureUI/keyItem	Percebemos que poderíamos ficar com a chave e dar um passeio pelo antigo caminho além do muro de pedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Perguntamos ao lenhador se seria aceitável pegar sua chave e ele concordou.					
 GIRL_FOUNDKEY	The Scythian			Encontramos Samae encharcada pela chuva em uma trilha lateral.					
-			gourd/gourd	Ela ouviu as sutis e melódicas espumas dos Espíritos Florestais além do muro de pedra no antigo caminho para o Mingi Tau.					
+			gourd/gourd	Ela ouviu as sutis e melódicas espumas dos espíritos florestais além do muro de pedra no antigo caminho para o Mingi Tau.					
 			gourd/gourd	Ela falou sobre troncos de árvores altíssimas em ambos os lados de um poderoso rio.					
 			gourd/gourd	Ela falou sobre arco-íris tênues na beira do Precipício Perigoso.					
 			adventureUI/megatomeItem	...E então ela ficou assustada e nos disse para consultar o Megatomo se nos sentíssemos perdidos ou confusos.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Concordo que A Citiana pegue a chave se isso significar dissipar a tempestade.										
 				Devo ter assentido em algum momento durante a épica história que A Citiana contou. Tenho pouca paciência para folclore.					
 				Questionei A Citiana sobre sua funesta missão... ela começou a falar sobre estepes e o dedo de Deus.										
-GIRL_FOUNDKEYTHOUGHTS	Girl			Mais um ou dois Espíritos Florestais enviados ao céu dissiparão a chuva incessante... e então a época dos milagres começará! #miracles			129	034.jpg	33A44
+GIRL_FOUNDKEYTHOUGHTS	Girl			Mais um ou dois espíritos florestais enviados ao céu dissiparão a chuva incessante... e então a época dos milagres começará! #miracles			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			Em minhas caminhadas nos sonhos, há uma tranquilidade emocionante quando a lua brilha mais... e quando a lua está escura, as florestas se tornam selvagens.					
 				Nos sonhos, os lugares e espaços são sempre os mesmos, exceto quando variam de acordo com o humor da lua.					
 				Todas as noites desde que a tempestade se dissipou, tenho tido o mesmo sonho em que caminho pela floresta na hora antes do amanhecer.					
 ARCHETYPE_TREEHINT	The Archetype			Lembre-se de que o consumo de cogumelos florestais pode proporcionar uma visão oblíqua dos fenômenos criptozoológicos e coisas do tipo.					
-				Busque as melódicas espumas dos Espíritos Florestais e investigue seus arredores.					
+				Busque as melódicas espumas dos espíritos florestais e investigue seus arredores.					
 				Uma vez que tenha iniciado a Canção da Espadância, você pode tocar a aura e deslizar para olhar ao redor.					
 ARCHETYPE_MUSHROOMHINT	The Archetype			Também foi afirmado que cogumelos adivinhatórios podem ter desempenhado um papel importante no desenvolvimento da psique humana.					
 				Evidências arqueológicas indicam que o uso xamânico de cogumelos para comunhão religiosa, adivinhação e cura é bastante antigo.					
 				Fisiologicamente, é possível experimentar sensações de bem-estar e percepções ampliadas, redução do estresse e perda de apetite.					
-				Os cogumelos da floresta podem proporcionar uma visão oblíqua sobre o paradeiro de um Espírito Florestal e seus estranhos ativadores.			60	035.jpg	53A5Y
+				Os cogumelos da floresta podem proporcionar uma visão oblíqua sobre o paradeiro de um espírito florestal e seus estranhos ativadores.			60	035.jpg	53A5Y
 ARCHETYPE_TRIGONGROVE	The Archetype			Você está sentindo? Você está começando a entender? Os símbolos e formas esotéricas dentro do Megatomo têm um novo significado?					
 				Este facho conecta o mundo dos vivos ao mundo dos mortos, então é possível que você encontre um ou dois fantasmas com quem conversar em suas jornadas.					
 				Fui informado de que você ativou o primeiro facho celestial na Clareira Trigonal.					
 GIRL_CABINSHEEP	The Scythian			Perguntamos a Samae sobre as ovelhas insignificantes que estavam pastando na cabana e ela nos disse que elas se assustaram há um tempo.					
-			gourd/gourd	Contamos a Samae que enviamos cinco Espíritos Florestais ao céu e ela nos disse que talvez a época dos milagres esteja chegando.					
+			gourd/gourd	Contamos a Samae que enviamos cinco espíritos florestais ao céu e ela nos disse que talvez a época dos milagres esteja chegando.					
 				Pensamos em investigar a campina onde as ovelhas costumavam pastar.					
 LOGFELLA_CABINSHEEP	The Scythian			Troncadeiro sentia que a época dos milagres havia chegado e se perguntava se algo incrível estava prestes a acontecer.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			A chuva parou! Será que a tempestade está começando a se dissipar? Tomara.					
@@ -267,7 +267,7 @@ ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			O Trígono Dourado deve ser domado
 				No segundo padrão, espere pelo ataque carregado e pressione o botão de escudo no momento adequado para esquivar.					
 				No primeiro padrão, você deve brandir sua espada para devolver a bola de energia.					
 ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Você pode ter percebido que o Trígono da Lua Radiante causa morte de cima... então espere o momento certo e use seu escudo para esquivar.			144	041.jpg	8.4E+12
-ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Radiante exigirá que você balance sua espada contra os projéteis e esquive dos ataques carregados.										
+ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Radiante exigirá que você branda sua espada contra os projéteis e esquive dos ataques carregados.										
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			É possível que você já tenha se deparado com o ataque de arco-íris do Trígono da Lua Sombria. Corte esse arco-íris o mais rápido possível.										
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Sombria envolve sutis projéteis triangulares. Destrua-os e sobreviva.										
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então você despertou o espectro imortal que espreitava nas trevas sob o Mingi Tau... Au!										
@@ -282,7 +282,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				São tempos de angústia, uma sinistra tempestade cobriu o céu e as pessoas adoráveis que vivem na cabana estão infelizes.					
 				Desfazer a tempestade exigirá algum conhecimento em psiônica, criptozoologia e milagres...					
 			adventureUI/megatomeItem	1. O toque de um espadancista liberará O Megatomo, revelando os pensamentos não expressos das criaturas vivas e outros materiais esotéricos.					
-			gourd/gourd	2. Estranhos Espíritos Florestais, fontes de Espadância, dormem em lagos, florestas e campinas. Procure por suas sutis e melódicas espumas.					
+			gourd/gourd	2. Estranhos espíritos florestais, fontes de Espadância, dormem em lagos, florestas e campinas. Procure por suas sutis e melódicas espumas.					
 			triangle/Triangle	3. O espadancista que puder localizar, convocar e domar a geometria cósmica do Trígono Dourado possuirá a habilidade de realizar milagres.										
 				Confuso? Excelente. Mantenha a calma e siga em frente.			210	043.jpg	A4C31
 ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	Excelente! Você localizou e dominou a geometria cósmica do Trígono Dourado.			86	044.jpg	24E4H
@@ -337,22 +337,22 @@ URSULA_AVATAR			Ursula/idleSEhandsonhip
 DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
 AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Essas duas figuras afirmavam ser parte dos criadores deste mundo estranho.			159	055.jpg	A5G55
 AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Esses dois excêntricos afirmavam ser parte dos criadores deste mundo estranho.			159	055.jpg	A5G55
-GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um Espírito Florestal na terra fértil de uma campina habitada por quatro pares de ovelhas insignificantes.			52	056.jpg	15B63
-GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Cantamos a Canção da Espadância e despertamos um Espírito Florestal das águas frescas de uma lagoa profunda, que estranho!			50	057.jpg	G5F78
-GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um Espírito Florestal em um ninho curioso cercado por três pássaros cantores encharcados pela chuva.					
-GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um Espírito Florestal junto a uma sólida ponte de troncos, onde quatro pares de árvores se erguem sobre um rio.					
-GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um Espírito Florestal entre dois odiosos arco-íris ao lado do Precipício Perigoso.					
-GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Sombria reina e despertamos um Espírito Florestal cercado por cinco cachoeiras.										
-GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Sombria reina e despertamos um Espírito Florestal na mata alta de uma rocha íngreme.					
-GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Radiante paira e despertamos um Espírito Florestal em uma clareira isolada, onde coincidentemente estava Jim Guthrie.			132	058.jpg	G5F8U
-GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Radiante paira e despertamos um Espírito Florestal nas águas tranquilas de um lago onde uma pata-mãe estava angustiada.					
-GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Radiante paira e despertamos um Espírito Florestal onde o reflexo do lago estava ligeiramente incongruente.			127	059.jpg	65D98
-GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Radiante paira e despertamos um Espírito Florestal em um lago sereno sob uma tríade de corujas.					
+GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito florestal na terra fértil de uma campina habitada por quatro pares de ovelhas insignificantes.			52	056.jpg	15B63
+GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Cantamos a Canção da Espadância e despertamos um espírito florestal das águas frescas de uma lagoa profunda, que estranho!			50	057.jpg	G5F78
+GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito florestal em um ninho curioso cercado por três pássaros cantores encharcados pela chuva.					
+GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito florestal junto a uma sólida ponte de troncos, onde quatro pares de árvores se erguem sobre um rio.					
+GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito florestal entre dois odiosos arco-íris ao lado do Precipício Perigoso.					
+GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Sombria reina e despertamos um espírito florestal cercado por cinco cachoeiras.										
+GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Sombria reina e despertamos um espírito florestal na mata alta de uma rocha íngreme.					
+GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Radiante paira e despertamos um espírito florestal em uma clareira isolada, onde coincidentemente estava Jim Guthrie.			132	058.jpg	G5F8U
+GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Radiante paira e despertamos um espírito florestal nas águas tranquilas de um lago onde uma pata-mãe estava angustiada.					
+GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Radiante paira e despertamos um espírito florestal onde o reflexo do lago estava ligeiramente incongruente.			127	059.jpg	65D98
+GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Radiante paira e despertamos um espírito florestal em um lago sereno sob uma tríade de corujas.					
 GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Temos essa sensação peculiar de que talvez estejamos na época dos milagres. #miracles					
-GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Sombria reina e despertamos um Espírito Florestal cercado por três pequenas cachoeiras.					
-GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Sombria reina e despertamos um Espírito Florestal cercado por quatro pequenas árvores redondas nas florestas mais escuras.					
-GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Sombria reina e despertamos um Espírito Florestal na mata do outro lado de um lago.					
-GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Radiante paira e despertamos um Espírito Florestal espreitando na raiz de uma árvore titânica.					
+GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Sombria reina e despertamos um espírito florestal cercado por três pequenas cachoeiras.					
+GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Sombria reina e despertamos um espírito florestal cercado por quatro pequenas árvores redondas nas florestas mais escuras.					
+GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Sombria reina e despertamos um espírito florestal na mata do outro lado de um lago.					
+GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Radiante paira e despertamos um espírito florestal espreitando na raiz de uma árvore titânica.					
 GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Temos essa sensação peculiar de que talvez estejamos na época dos milagres. Onde estão meus milagres? #miracles			77	060.jpg	86D06
 GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Au Au Au Au Au Au. #barking			135	061.jpg	M6F1I
 				Au Au Au. #justbarking					
@@ -361,7 +361,7 @@ GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Au Au Au Au Au Au. #ba
 				Au Au Au Au Au Au.					
 GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Há algo estranho no comportamento de A Citiana, quase como se ela estivesse sendo controlada por uma força invisível.					
 				Gostaria de saber mais sobre A Citiana e sua história épica, aposto que então tudo faria sentido..					
-GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que A Citiana esteja se dedicando à questão dos Espíritos Florestais.					
+GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que A Citiana esteja se dedicando à questão dos espíritos florestais.					
 				Essa tempestade está me deixando muito para baixo, me faz desejar que os videogames existissem no... momento em que se supõe que estamos.					
 GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Tudo tem sido completamente louco desde que A Citiana apareceu.			3	062.jpg	36E2Z
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Essa tempestade toda estava me afetando muito. Estava tudo tããão lúgubre!					
@@ -376,13 +376,13 @@ GCLUE_MOUNTAINLAKESHORE	Dogfella	AdventureUI/tweetIconGourd		Eu sei que você es
 GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		Também há substantivos desconhecidos, embora sejam facilmente aprendidos.					
 				Existem dois tipos de incógnitas, as incógnitas conhecidas e as incógnitas desconhecidas.			32	063.jpg	L6E31
 				Au Au Au.					
-GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Meus troncos guardam muitos segredos... segredos sobre os Espíritos Florestais e ilhas impossíveis. Infelizmente, eu não falo Tronquês.					
+GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Meus troncos guardam muitos segredos... segredos sobre os espíritos florestais e ilhas impossíveis. Infelizmente, eu não falo Tronquês.					
 				Com base na minha experiência, há momentos em que as corujas não são o que parecem, enquanto em outros momentos são corujas como qualquer outra.			126	064.jpg	86A47
 GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Talvez você tenha ouvido falar de uma ilha impossível sob a Lua Radiante... Talvez tenha lido isso na internet?			134	065.jpg	H6A5I
 				Estivemos monitorando suas ações em silêncio e queremos ressaltar que quanto mais tempo você levar para decidir, menor será a comemoração.					
 				Parece que você progrediu bastante em seus esforços para localizar e domar o Trígono da Lua Radiante. Muito bem feito!					
-GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		Os Espíritos Florestais são filhos da Mãe Terra ou são visitantes solitários do Remoinhado Infinito?					
-				Para ser honesta, os Espíritos Florestais me assustam um pouco. Quero dizer... O que são eles? De onde eles vêm?					
+GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		Os espíritos florestais são filhos da Mãe Terra ou são visitantes solitários do Remoinhado Infinito?					
+				Para ser honesta, os espíritos florestais me assustam um pouco. Quero dizer... O que são eles? De onde eles vêm?					
 GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Quando os espíritos forem enviados para o céu e a época dos milagres se aproximar, você deve procurar a árvore titânica.					
 				Eu sei que você sabe o que eu sei e quero que saiba que você está completamente certo.			109	066.jpg	F6D6H
 				Au Au Au Snif Au Au Au.					
@@ -457,7 +457,7 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			O lenhador conhecido como Troncadeiro vo
 			triangle/Triangle	Troncadeiro viu o facho celestial na floresta atrás da campina, então perguntamos a ele sobre os segredos da Clareira Trigonal.					
 				Ele nos contou uma antiga história que seu povo costumava contar para assustar as crianças.					
 			Archetype/trifecta	Troncadeiro falou sobre uma comitiva de cítios que chegou há muitas luas a estas montanhas esquecidas em busca da Tríade Trigonal.										
-			gourd/gourd	"""A comitiva havia aprendido a buscar os Espíritos Florestais e enviá-los ao céu... e depois procuraram um lugar para realizar um milagre."""					
+			gourd/gourd	"""A comitiva havia aprendido a buscar os espíritos florestais e enviá-los ao céu... e depois procuraram um lugar para realizar um milagre."""					
 			Archetype/trifecta	"""A comitiva esperava ativar os três fachos celestiais na Clareira Trigonal, mas não sabiam onde nem quando estavam os trígonos."""					
 				"""A comitiva vagou sem rumo por muito tempo pelo antigo caminho para o Mingi Tau... eventualmente, se cansaram e decidiram parar."""					
 				"""Então, a comitiva foi aniquilada por um espectro imortal junto ao caminho, onde suas tumbas jazem até hoje."""										
@@ -507,8 +507,8 @@ ARCHETYPE_SPAREBOOR	The Archetype			Agora, imagino que você esteja se perguntan
 LOGFELLA_FOUNDATION	Logfella			...					
 				...					
 				...					
-SCYTHIAN_FOUNDATION	The Scythian			Despertamos um Espírito Florestal em uma lagoa profunda com lírios ao lado de uma cabana de pedra. Não sabemos o que significa.					
-				Com uma tempestade incessante, aprendemos a cantar a Canção da Espadância e convocar um Espírito Florestal adormecido.					
+SCYTHIAN_FOUNDATION	The Scythian			Despertamos um espírito florestal em uma lagoa profunda com lírios ao lado de uma cabana de pedra. Não sabemos o que significa.					
+				Com uma tempestade incessante, aprendemos a cantar a Canção da Espadância e despertar um espírito florestal adormecido.					
 				Espere... Por que estou me referindo a mim mesma na primeira pessoa? Não se supõe que nossa história seja contada em segunda pessoa? #editingoversight					
 				Meus pensamentos estão organizados cronologicamente, na ordem em que os pensei? Então isso é o que eu estava pensando há alguns segundos?					
 				Isso é o Megatomo? Ele absorve 'transmissões de pensamento linguístico'? Estou lendo meus pensamentos enquanto os penso? Hmm...					
@@ -571,7 +571,7 @@ DARKMOONLOOMS_ARCHETYPE	The Archetype			A Lua Sombria reina, o fim do ciclo luna
 DARKMOONBEGINS_ARCHETYPE	The Archetype			Aqui está, a Lua Sombria!			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			Em meu sonho, encontrei um Parlamento de Árvores atingido por um raio e senti a presença de algo profundamente sagrado.					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Ontem à noite, ouvi o som de uma música vibrante filtrando-se pelos bosques atrás de minha cabana. O que poderia ser?										
-DARKMOON_DOGFELLATHOUGHTS	Dogfella			Au Au Au. Em meu estado de sonho, só vislumbrei as brumas sutis dos Espíritos Florestais.					
+DARKMOON_DOGFELLATHOUGHTS	Dogfella			Au Au Au. Em meu estado de sonho, só vislumbrei as brumas sutis dos espíritos florestais.					
 AMPHITHEATRE_OUTRO	The Scythian			Reconstruímos a Tríade Trigonal e agora somos heróis.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Inexplicavelmente, matamos 3 coelhos indefesos.					
 RABBITS_7MURDERS	The Scythian			Inexplicavelmente, matamos 7 coelhos indefesos. Estamos diante da evidência de uma mente transtornada?										
