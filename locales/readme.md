@@ -8,15 +8,15 @@ Below is a table of correspondence of terms between English, Spanish, and Portug
 | The Scythian             | La Escita                   | A Citiana                  |
 | The Archetype            | El Arquetipo                | O Arquétipo                |
 | Logfella                 | Amileño                     | Troncadeiro                |
-| Dogfella                 | Amican                      | Cachorreiro                |
+| Dogfella                 | Perrileño                   | Cachorreiro                |
 | Girl                     | Samae                       | Samae                      |
-| The Grizzled Boor        | El Peludo Tosco             | O Grosso Rabugento         |
+| The Grizzled Boor        | El Oso Tosco                | O Urso Grosseiro           |
 | The mountain folk of The Caucasus | Los montañeses del Cáucaso | Os montanheses do Cáucaso |
 | **Places & World**       |                             |                            |
 | The Gogolithic Mass      | La Masa Gogolítica          | A Massa Gogolítica         |
 | The Perilous Precipice   | El Precipicio Peligroso     | O Precipício Perigoso      |
 | Old road to Mingi Taw    | Antiguo camino hacia Mingi Taw | Antigo caminho para Mingi Taw |
-| The Trigon Grove         | La Arboleda Trigonal        | A Clareira Trigonal        |
+| The Trigon Grove         | El Claro Trigonal.          | A Clareira Trigonal        |
 | The Moon Grotto          | La Gruta Lunar              | A Gruta da Lua             |
 | Parliament of trees      | Parlamento de Árboles       | Parlamento de Árvores      |
 | A secluded grove         | Un claro oculto             | Uma clareira isolada       |
@@ -28,7 +28,7 @@ Below is a table of correspondence of terms between English, Spanish, and Portug
 | Megatome                 | El Megatomo                 | O Megatomo                 |
 | Bright Moon              | La Luna Radiante            | A Lua Radiante             |
 | Dark Moon                | La Luna Sombría             | A Lua Sombria              |
-| moods of the moon        | Temperamento de la luna     | Humor da lua               |
+| moods of the moon        | Humor de la luna.           | Humor da lua               |
 | Trigon Trifecta          | La Tríada Trigonal          | Tríade Trigonal            |
 | Golden Trigon            | El Trigón Dorado            | O Trígono Dourado          |
 | Bright Moon Trigon       | El Trigón Luna Radiante     | O Trígono da Lua Radiante  |
@@ -42,7 +42,7 @@ Below is a table of correspondence of terms between English, Spanish, and Portug
 | Sworcerer                | Espadamante                 | Espadancista               |
 | Song of Sworcery         | Canción de Espadamancia     | Canção de Espadância       |
 | Dream-walking            | Paseos oníricos             | Caminhada onírica          |
-| Miracle-working          | Realización de milagros     | Realização de milagres     |
+| Miracle-working          | Obrar milagros              | Obrar milagres             |
 | Woeful errand            | Funesta misión              | Funesta missão             |
 | **Idioms & Colloquialisms** |                        |                            |
 | Something-or-other       | Nosequé                     | Troço                      |
