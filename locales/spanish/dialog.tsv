@@ -25,7 +25,7 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador de leña
 				Los montañeses del Cáucaso le decían Amileño y parecía buena gente.					
 				Amileño sabía todo sobre nuestro funesto cometido y accedió a guiarnos por el antiguo camino.					
 				Aunque claramente no le hacía mucha gracia.					
-LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		El leñador nos esperó para seguir por el sendero hacia donde comenzaba el antiguo camino.			12	008.jpg	U0D88
+LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		El leñador nos esperó para continuar por el antiguo camino.			12	008.jpg	U0D88
 LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Cruzamos el abismo y nos sentimos unos genios.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Le contamos a Amileño que estábamos en busca de un inquietante libro de magia oscura conocido como el Megatomo.					
 			adventureUI/megatomeItem	El Megatomo acechaba más allá del Precipicio Peligroso, en algún lugar de la oscuridad bajo el Mingi Tau.					
@@ -94,8 +94,8 @@ ARCHETYPE_TADPOLES	The Archetype			Era obvio que el hombre de ropa extraña espe
 GIRL_LOSTKEY	The Scythian			Samae se resguardaba de la lluvia bajo el amplio tejado de madera del pozo.					
 				Abandonó la comodidad del fuego en la choza porque, al parecer, Amileño estaba nervioso por algo.					
 INFO_BIRDEYESCULPTURE	The Scythian			Avistamos la escultura de un pájaro enojado sobresaliendo en el prado. #subtlereference			6	014.jpg	F1D48
-INFO_MEADOWSHEEP	The Scythian			Vimos unas cuantas ovejas insignificantes holgazaneando en el prado. #worthlesssheep					
-INFO_CABINSHEEP	The Scythian			Otra oveja insignificante, ¿Por qué seguimos mirándolas? #worthlesssheep					
+INFO_MEADOWSHEEP	The Scythian			Vimos unas cuantas ovejas inútiles holgazaneando en el prado. #worthlesssheep					
+INFO_CABINSHEEP	The Scythian			Otra oveja inútil, ¿Por qué seguimos mirándolas? #worthlesssheep					
 INFO_MEADOWSUN	The Scythian			Recordamos vívídamente lo impresionante que lucía el sol en ese primer día de primavera.					
 INFO_MEADOWGATE	The Scythian			En el prado vimos un portón de hierro inamovible que bloqueaba una vasta cueva.					
 INFO_MEADOWGATEACTIVE	The Scythian			En el prado vimos un portón de hierro y tuvimos la sensación de que tal vez podríamos abrirlo.					
@@ -169,18 +169,18 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Avistamos un conjunto de tumbas en un matorr
 				"""Nos morimos de aburrimiento esperando que cambiara el humor de la luna."""					
 				"""Bueno, en realidad, morimos debido a una discusión que tuvimos por aburrimiento."""					
 				"""Prefiero no entrar en detalles, si no es molestia."""					
-				"""Bueno, resulta que uno de los nuestros era un maldito tramposo y lo atrapamos con las manos en la masa."""					
-				"""Estalló una pelea y el tramposo bribón huyó por el antiguo camino hacia el Precipicio Peligroso."""					
-				"""Estábamos allí preguntándonos qué hacer... cuando de pronto apareció la Masa Gogolítica... ¡zas!"""			113	027.jpg	62B75
+				"""Bueno, resulta que uno de los nuestros era un redomado tramposo y lo atrapamos con las manos en la masa."""					
+				"""Estalló una pelea y el redomado tramposo huyó por el antiguo camino hacia el Precipicio Peligroso."""					
+				"""Estábamos allí preguntándonos qué hacer... cuando de pronto apareció la Masa Gogolítica... y ¡zas!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			Vimos una tumba solitaria en el borde del Precipicio Peligroso que despertó nuestra curiosidad.					
-GRAVE_CHASMGHOST	The Scythian			Nos acercamos a la tumba solitaria del tramposo bribón en el Precipicio Peligroso y conocimos a un fantasma radiante.					
+GRAVE_CHASMGHOST	The Scythian			Nos acercamos a la tumba solitaria del redomado tramposo en el Precipicio Peligroso y conocimos a un fantasma radiante.					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, André 'El Gigante' organizó una partida y nos propusimos reconstruir la Tríada Trigonal."""					
-				"""Los demás miembros de la partida están enterrados en un matorral al lado del antiguo camino, cerca del puente de troncos."""					
+				"""Los demás miembros de la partida están enterrados en un matorral a un costado del antiguo camino, cerca del puente de troncos."""					
 			triangle/Triangle	"""Logramos localizar y domar el Trigón Dorado con bastante facilidad, pero después de eso nos quedamos totalmente estancados."""					
 				"""Buscamos el Trigón Luna Radiante, así que decidimos sentarnos y observar el cielo, esperando a que el humor de la luna cambiara."""					
 				"""Resultaba sumamente tedioso. No estaba dispuesto a esperar días y días hasta que La Luna Radiante surgiera."""					
 				"""Dejé que esos necios vagaran sin rumbo mientras yo investigaba más a fondo esta trampa lógico-lunar."""					
-				El fantasma radiante habló sobre cómo hizo trampa al salir de S:S&S EP e ir a la Configuración del Sistema.					
+				El fantasma radiante habló sobre cómo hizo trampa al salir de S:S&S EP para ir a la Configuración del Sistema.					
 				El fantasma describió la opción de Fecha/Hora y los horrores que sucedieron al alterar el humor de la luna con este método.					
 				"""El hecho es que desde entonces he tenido los nervios de punta y, a decir verdad, me morí de vergüenza."""					
 GRAVE_HOLLOW	The Scythian			Dentro de un árbol hueco titánico, encontramos una tumba solitaria que despertó nuestra curiosidad.					
@@ -224,7 +224,7 @@ GIRL_FOUNDKEY	The Scythian			Nos encontramos con Samae, empapada por la lluvia, 
 			gourd/gourd	Ella había oído las sutiles y melodiosas brumas de los espíritus silvanos más allá del muro de piedra en el antiguo camino hacia el Mingi Tau.					
 			gourd/gourd	Ella habló de troncos de árboles altísimos a ambos lados de un poderoso río.					
 			gourd/gourd	Ella habló de unos arcoíris tenues en el borde del Precipicio Peligroso.					
-			adventureUI/megatomeItem	...Y luego se puso temerosa y nos dijo que consultáramos el Megatomo si nos sentíamos perdidos o confundidos.					
+			adventureUI/megatomeItem	...Y luego, asustada, nos dijo que consultáramos el Megatomo si nos sentíamos perdidos.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Me parece bien que La Escita se quede con la llave si va a disipar la tormenta.					
 				Debo haber asentido en algún momento durante la épica historia de La Escita. No me van mucho las historias.					
 				Le pregunté a La Escita sobre su funesto cometido... empezó a hablar de las estepas y del dedo de Dios.					
@@ -245,7 +245,7 @@ ARCHETYPE_MUSHROOMHINT	The Archetype			Incluso se ha afirmado que los hongos adi
 ARCHETYPE_TRIGONGROVE	The Archetype			¿Lo puedes sentir? ¿Estás comenzando a comprender? ¿Tienen los símbolos y formas esotéricas dentro de El Megatomo un nuevo significado?					
 				Este haz conecta el mundo de los vivos y el mundo de los muertos, por lo que es posible que encuentres uno o dos fantasmas con los que hablar en tus viajes.					
 				Acabo de enterarme de que activaste el primer haz celestial en el Claro Trigonal.					
-GIRL_CABINSHEEP	The Scythian			Preguntamos a Samae sobre las ovejas insignificantes que holgazaneaban por la choza y ella nos dijo que se habían asustado hace un rato.					
+GIRL_CABINSHEEP	The Scythian			Preguntamos a Samae sobre las ovejas inútiles que holgazaneaban por la choza y ella nos dijo que se habían asustado hace un rato.					
 			gourd/gourd	Le contamos a Samae que habíamos enviado cinco espíritus silvanos al cielo y ella nos dijo que tal vez la temporada de milagros estaba por llegar.					
 				Pensamos que tal vez deberíamos ir a investigar el prado donde solían holgazanear las ovejas.					
 LOGFELLA_CABINSHEEP	The Scythian			Amileño sentía que había llegado la temporada de milagros y se preguntaba si estaba por ocurrir algo increíble.			79	036.jpg	V3G62
@@ -292,7 +292,7 @@ ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	¡Bravo! Has localiza
 				Milagrosamente, la siniestra tormenta se ha disipado y el glorioso sol ha regresado al reino, ¡eso es realmente increíble!					
 				Tus heroicas hazañas reflejan bien tu percepción, intuición y perseverancia, ¡Lo has hecho muy bien hasta ahora!					
 				Nota: Si decides continuar con el experimento S:S&S EP, esas cualidades mencionadas anteriormente serán desafiadas y evaluadas.					
-				En cualquier caso, tomemos otro pequeño descanso, ¿De acuerdo? Como siempre, estaré aquí cuando estés listo para comenzar con la Sesión III.					
+				En fin, tomemos otro pequeño descanso, ¿sí? Como siempre, estaré aquí cuando estés listo para comenzar con la Sesión III.					
 ARCHETYPE_TRIFECTAINTRO	The Archetype								
 				Comencemos con la Sesión III. Nota: Esta sesión generalmente requiere un mes lunar para completarse.					
 			triangle/Triangle	¿Así que domaste el Trigón Dorado y la tormenta se disipó milagrosamente? ¡Bravo!					
@@ -340,7 +340,7 @@ URSULA_AVATAR			Ursula/idleSEhandsonhip
 DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
 AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Estas dos figuras afirmaban ser parte de los creadores de este mundo estrafalario.			159	055.jpg	A5G55
 AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Estos dos excéntricos afirmaban ser parte de los creadores de este mundo estrafalario.			159	055.jpg	A5G55
-GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano en la tierra fértil de un prado habitado por cuatro pares de ovejas insignificantes.			52	056.jpg	15B63
+GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano en la tierra fértil de un prado habitado por cuatro pares de ovejas inútiles.			52	056.jpg	15B63
 GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Cantamos la Canción de Espadamancia y despertamos a un espíritu silvano de las frescas aguas de un estanque profundo, ¡Qué raro!			50	057.jpg	G5F78
 GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano en un curioso nido rodeado de tres pájaros cantores empapados por la lluvia.					
 GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano junto a un sólido puente de troncos donde cuatro pares de árboles se elevan sobre un río.					
@@ -461,9 +461,9 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Amileño habí
 				Nos contó una antigua historia que su gente solía contarles a sus hijos para asustarlos.					
 			Archetype/trifecta	Amileño habló de una partida de escitas que llegó hace muchas lunas a estas montañas olvidadas en busca de la Tríada Trigonal.					
 			gourd/gourd	"""La partida había aprendido a buscar a los espíritus silvanos y enviarlos al cielo... y luego buscaron un lugar para realizar un milagro."""					
-			Archetype/trifecta	"""La partida esperaba activar los tres haces celestiales en el Claro Trigonal, pero no sabían dónde ni cuándo estaban los trigones."""					
+			Archetype/trifecta	"""La partida esperaba activar los tres haces celestiales en el Claro Trigonal, pero no sabían dónde ni cuándo encontrar los trigones."""					
 				"""La partida vagó sin rumbo durante mucho tiempo por el antiguo camino hacia el Mingi Tau... eventualmente se cansaron y decidieron detenerse."""					
-				"""Entonces, la partida fue diezmada por un espectro inmortal junto al camino, donde aún hoy yacen sus tumbas."""					
+				"""Entonces, la partida fue diezmada por un espectro inmortal a un costado del camino, donde aún hoy yacen sus tumbas."""					
 				Le dijimos a Amileño que era una historia interesante, aunque en realidad no nos asustó tanto.					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
 ARCHETYPE_MOONGROTTO	The Archetype			Veo que has logrado alterar el humor de la luna en la Gruta Lunar. Me pregunto cuánto durará esta paradoja temporal.					
@@ -687,4 +687,4 @@ ARCHETYPE_CREDITS	The Archetype
 				¿Qué sigue? ¿De qué va esa transmisión extraña? ¿Qué depara el futuro?					
 				Si quieres impresiones, ropa, discos, videojuegos o lo que sea, ¡búscanos en internet!					
 				Si disfrutas el estilo audiovisual de S:S&S EP, ¡corre la voz!					
-				Ahora somos amigos cósmicos para siempre, ¿de acuerdo?			87	084.jpg	L8A48
+				Ahora somos amigos cósmicos para siempre, ¿sí?			87	084.jpg	L8A48
