@@ -41,7 +41,7 @@ LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		O lenhador tinha
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos o Megatomo e Troncadeiro estava completamente pronto para levá-lo para a segurança de sua moradia.					
 				Sentimos uma tempestade iminente e, no entanto, uma pequena canção brotou em nosso coração.					
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		À luz da tempestade iminente, Troncadeiro admitiu que naquele momento estava com os nervos à flor da pele.					
-				Será que Troncadeiro estava nos assustando de propósito? #yes #no #maybe					
+				Será que Troncadeiro estava tentando nos assustar de propósito? #yes #no #maybe					
 				De qualquer forma, o mais sensato era ficar no abrigo por um tempo.					
 QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos o Megatomo. Somos muito espertos! #gotmegatome			40	011.jpg	81C1E
 GIRL_AVATAR			AdventureUI/dudeDAughterIdle1						
@@ -251,7 +251,7 @@ GIRL_CABINSHEEP	The Scythian			Perguntamos a Samae sobre as ovelhas inúteis que
 LOGFELLA_CABINSHEEP	The Scythian			Troncadeiro sentia que a época dos milagres havia chegado e se perguntava se algo incrível estava prestes a acontecer.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			A chuva parou! Será que a tempestade está começando a se dissipar? Tomara.					
 				Essa tempestade toda estava me afetando muito. Estava tudo tão lúgubre!					
-LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Fiquei arrepiado... Com certeza algo está acontecendo... A tempestade está começando a se dissipar?					
+LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Estou com os nervos à flor da pele... Com certeza algo está acontecendo... A tempestade está começando a se dissipar?					
 				Sempre que preciso recarregar minhas energias, sento-me junto ao fogo para aquecer minhas botas.					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Au Au Au Au Au Au Au Au. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			Uma vez que o sol estiver alinhado, você receberá as habilidades miraculosas de dobra do grande mago Al Jaffee.					
@@ -345,16 +345,16 @@ GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Cantamos a Canç
 GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito florestal em um ninho curioso cercado por três pássaros cantores encharcados pela chuva.					
 GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito florestal junto a uma sólida ponte de troncos, onde quatro pares de árvores se erguem sobre um rio.					
 GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito florestal entre dois odiosos arco-íris ao lado do Precipício Perigoso.					
-GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto Lua Sombria reina, despertamos um espírito florestal cercado por cinco cachoeiras.					
-GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto Lua Sombria reina, despertamos um espírito florestal na mata alta de uma rocha íngreme.					
+GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito florestal cercado por cinco cachoeiras.					
+GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito florestal na mata alta de uma rocha íngreme.					
 GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito florestal em uma clareira isolada, onde coincidentemente estava Jim Guthrie.			132	058.jpg	G5F8U
 GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito florestal nas águas tranquilas de um lago onde uma pata-mãe estava angustiada.					
 GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito florestal onde o reflexo do lago estava ligeiramente incongruente.			127	059.jpg	65D98
 GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito florestal em um lago sereno sob uma tríade de corujas.					
 GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Temos essa sensação peculiar de que talvez estejamos na época dos milagres. #miracles					
-GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto Lua Sombria reina, despertamos um espírito florestal cercado por três pequenas cachoeiras.					
-GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto Lua Sombria reina, despertamos um espírito florestal cercado por quatro pequenas árvores redondas nas florestas mais escuras.					
-GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto Lua Sombria reina, despertamos um espírito florestal na mata do outro lado de um lago.					
+GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito florestal cercado por três pequenas cachoeiras.					
+GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito florestal cercado por quatro pequenas árvores redondas nas florestas mais escuras.					
+GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito florestal na mata do outro lado de um lago.					
 GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Radiante paira e despertamos um espírito florestal espreitando na raiz de uma árvore titânica.					
 GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Temos essa sensação peculiar de que talvez estejamos na época dos milagres. Onde estão meus milagres? #miracles			77	060.jpg	86D06
 GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Au Au Au Au Au Au. #barking			135	061.jpg	M6F1I

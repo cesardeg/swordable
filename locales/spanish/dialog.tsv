@@ -1,7 +1,7 @@
 id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
 GIRL_TONGUES	Girl			Lejos de las estepas devastadas por la guerra de Escitia, conocimos a una chica de cabello oscuro en un prado bañado por el sol. #helloworld			72	001.jpg	Z0E1Q
 				Los montañeses del Cáucaso la conocían como Samae y parecía amable. #obviously					
-SIGN_TADPOL	The Scythian			"""El hogar se siente al calor de la hoguera."" #threegutrecords4ever"					
+SIGN_TADPOL	The Scythian			"""Donde arde el hogar, se encuentra el hogar."" #threegutrecords4ever"					
 SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia, son todos reinos de los hombres. Mingi Tau es el Reino de las Nubes."""					
 SIGN_CHASM	The Scythian			En el filo del Precipicio Peligroso encontramos una roca grabada con el símbolo de una espada alzada, justo bajo un arcoíris.					
 				Los escitas detestamos los arcoíris. #loathsomerainbows			21	002.jpg	40C27
@@ -251,7 +251,7 @@ GIRL_CABINSHEEP	The Scythian			Preguntamos a Samae sobre las ovejas inútiles qu
 LOGFELLA_CABINSHEEP	The Scythian			Amileño sentía que había llegado la temporada de milagros y se preguntaba si estaba por ocurrir algo increíble.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			¡Dejó de llover! ¿Se estará disipando la tormenta? Eso espero.					
 				Esta tormenta me tiene muy cansada. ¡Todo ha estado tan lúgubre!					
-LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Se me puso la piel de gallina... Sin duda algo está pasando... ¿Está comenzando a disiparse la tormenta?					
+LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Tengo los nervios de punta... Sin duda algo está pasando... ¿Está comenzando a disiparse la tormenta?					
 				Cada vez que necesito recobrar fuerzas, me siento junto al fuego para calentarme las botas.					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau Guau Guau Guau Guau Guau Guau Guau. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			Una vez que el sol esté alineado, recibirás el don de plegar la realidad del gran mago Al Jaffee.					
@@ -385,7 +385,7 @@ GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Tal vez hayas oíd
 				Hemos estado monitoreando tus acciones en silencio y queremos señalar que mientras más tiempo tardes en decidir, más pequeña será la celebración.					
 				Parece que has progresado bastante en tu esfuerzo para localizar y domar el Trigón Luna Radiante, ¡Muy bien hecho!					
 GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		¿Son los espíritus silvanos hijos de la Madre Tierra o son visitantes solitarios del Arremolinado Infinito?					
-				Para ser honesta, los espíritus silvanos me ponen de los nervios. Es decir... ¿Qué son? ¿De dónde vienen?					
+				Para ser honesta, los espíritus silvanos me ponen los nervios de punta. Es decir... ¿Qué son? ¿De dónde vienen?					
 GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Cuando los espíritus hayan sido enviados al cielo y la temporada de milagros se acerque, debes buscar el árbol titánico.					
 				Sé que sabes lo que sé y quiero que sepas que estás completamente en lo correcto.			109	066.jpg	F6D6H
 				Guau Guau Guau Snif Guau Guau Guau.					
