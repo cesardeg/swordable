@@ -3,37 +3,37 @@ GIRL_TONGUES	Girl			Lejos de las estepas devastadas por la guerra de Escitia, en
 				Los montañeses del Cáucaso la conocían como Samae y parecía amable. #obviously					
 SIGN_TADPOL	The Scythian			"""El hogar se siente al calor de la hoguera."" #threegutrecords4ever"					
 SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia, son todos reinos de los hombres. Mingi Tau es el Reino de las Nubes."""					
-SIGN_CHASM	The Scythian			En el borde del Precipicio Peligroso encontramos una piedra tallada con el glifo de una espada apuntando al cielo bajo los colores del arcoíris.					
+SIGN_CHASM	The Scythian			En el filo del Precipicio Peligroso encontramos una roca grabada con el símbolo de una espada alzada, justo bajo un arcoíris.					
 				Los escitas detestamos los arcoíris. #loathsomerainbows			21	002.jpg	40C27
-SIGN_BIRDTREE	The Scythian			En un sendero lateral que se alejaba del antiguo camino, encontramos una piedra tallada con una serie de glifos indescifrables.					
-				En medio de los glifos indescifrables reconocimos una serie de glifos lunares.					
-SIGN_BIRDTREEDECIPHERED	The Scythian			En un sendero lateral que se alejaba del antiguo camino, encontramos una piedra tallada con una serie de glifos lunares antes indescifrables.					
-				Los glifos hablaban de un lugar secreto en las inmediaciones «donde se puede alterar el humor de la luna».					
-				¿La Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
-SIGN_WOLF	The Scythian			A la margen del antiguo camino encontramos una piedra tallada con un par de glifos en forma de espada y escudo. #hinthint			16	004.jpg	T0C4X
-SIGN_ANTECHAMBERLEFT	The Scythian			En un pasadizo subterráneo descubrimos una estatua ominosa, pero no le prestamos mucha atención. #lore			29	005.jpg	V0B53
-INFO_CROSSMOUNTAINLEFT	The Scythian			En la escarpada ladera del Mingi Tau, una tumba solitaria marcaba el final de un sendero de grava.					
-INFO_CROSSMOUNTAINRIGHT	The Scythian			En la escarpada ladera del Mingi Tau, una tumba solitaria marcaba el final de un sendero de grava.					
-INFO_RIDGESKULLPOLE	The Scythian			En la dentada cresta que conduce a la cima del Mingi Tau, se erguía un poste siniestro adornado con una calavera con astas.					
-INFO_CROSSRIDGE	The Scythian			En la dentada cresta que conduce a la cima del Mingi Tau, descansaba una tumba solitaria, un siniestro recuerdo de las muchas personas que habían muerto allí.					
-INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos el Megatomo aferrado entre dos manos esqueléticas y sentimos que nuestra espada se estremecía en su vaina. #megatome			33	006.jpg	30D6C
+SIGN_BIRDTREE	The Scythian			Por un camino secundario, encontramos una roca grabada con una serie de símbolos indescifrables.					
+				Entre esos símbolos imposibles de descifrar, alcanzamos a distinguir unos glifos lunares.					
+SIGN_BIRDTREEDECIPHERED	The Scythian			Por un camino secundario, encontramos una roca grabada con una serie de glifos lunares que antes no entendíamos.					
+				Los glifos contaban sobre un sitio secreto cerca de aquí, «donde se puede alterar el humor de la luna».					
+				¿Será la Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
+SIGN_WOLF	The Scythian			A la margen del antiguo camino encontramos una roca grabada con un par de glifos en forma de espada y escudo. #hinthint			16	004.jpg	T0C4X
+SIGN_ANTECHAMBERLEFT	The Scythian			En un túnel bajo tierra descubrimos una estatua ominosa, aunque la verdad no nos preocupamos mucho. #lore			29	005.jpg	V0B53
+INFO_CROSSMOUNTAINLEFT	The Scythian			En la pendiente rocosa de Mingi Tau, una tumba solitaria indica dónde se termina el sendero de piedras.					
+INFO_CROSSMOUNTAINRIGHT	The Scythian			En la pendiente rocosa de Mingi Tau, una tumba solitaria indica dónde se termina el sendero de piedras.					
+INFO_RIDGESKULLPOLE	The Scythian			En la cresta rocosa rumbo a la cima del Mingi Tau, se erguía un poste siniestro decorado con una calavera con cuernos.					
+INFO_CROSSRIDGE	The Scythian			En la cresta rocosa rumbo a la cima del Mingi Tau, descansaba una tumba solitaria, sombrío recordatorio de todas las personas que han muerto aquí.					
+INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos el Megatomo aferrado entre dos manos huesudas y sentimos que nuestra espada se estremecía en su vaina. #megatome			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Encontramos una puerta pequeña sin pomo hecha de un material desconocido. El letrero dice «Solo personal autorizado».					
-DOOR_UPSLOPEWOODS1	The Scythian			Una puerta cerrada bloqueaba el antiguo camino hacia el Mingi Tau en el muro de piedra.					
-DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se escondía entre la maleza del bosque, bajo el antiguo camino que lleva hacia el Mingi Tau. #moongrotto					
+DOOR_UPSLOPEWOODS1	The Scythian			Una puerta cerraba el antiguo camino hacia el Mingi Tau, justo en el muro de piedra.					
+DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se escondía entre la maleza, debajo del antiguo camino que lleva hacia el Mingi Tau. #moongrotto					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
 LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador de leña leñaba la leña. #obviously #woodchopping			71	007.jpg	7E+71
 				Los montañeses del Cáucaso le decían Amileño y parecía buena gente.					
 				Amileño sabía todo sobre nuestro funesto cometido y accedió a guiarnos por el antiguo camino.					
-				Aunque claramente no le hacía mucha gracia.					
+				Era obvio que el asunto no le entusiasmaba nada.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		El leñador nos esperó para continuar por el antiguo camino.			12	008.jpg	U0D88
-LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Cruzamos el abismo y nos sentimos unos genios.			22	009.jpg	L0B9S
+LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Atravesamos el abismo y, para qué negarlo, nos sentimos muy listos.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Le contamos a Amileño que estábamos en busca de un inquietante libro de magia oscura conocido como el Megatomo.					
-			adventureUI/megatomeItem	El Megatomo acechaba más allá del Precipicio Peligroso, en algún lugar de la oscuridad bajo el Mingi Tau.					
+			adventureUI/megatomeItem	El Megatomo estaba oculto más allá del Precipicio Peligroso, en algún lugar de la oscuridad bajo el Mingi Tau.					
 			adventureUI/megatomeItem	Decidimos buscar el Megatomo y después escapar con vida.					
 LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó que él era el único con la llave de la puerta cerrada en el muro de piedra.					
 			AdventureUI/keyItem	Era una llave realmente bonita.					
-				Estábamos listos para mantener pulsado el camino y ¡a moverse, moverse, moverse!					
-LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	El leñador conocido como Amileño nos esperaría aquí hasta que regresáramos con el Megatomo.					
+				Estábamos listos para mantener pulsado el camino ¡y movernos sin parar!					
+LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	El leñador conocido como Amileño iba a quedarse aquí esperando a que volviéramos con el Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		El leñador conocido como Amileño había elegido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
 				Amileño parecía saberlo todo acerca del odioso arcoíris y el glifo que representaba a una espada que apuntaba al cielo.					
 				Sin embargo, Amileño no ofreció ninguna pista sobre qué hacer, lo cual, siendo totalmente honestos, nos molestó un poco.					
@@ -41,9 +41,9 @@ LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador hab�
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos el Megatomo y Amileño estaba completamente listo para llevarlo a la seguridad de su morada.					
 				Sentimos una inminente tormenta y, no obstante, una pequeña canción brotó en nuestro corazón.					
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		A la luz de la inminente tormenta, Amileño admitió que en ese momento tenía los nervios de punta.					
-				¿Amileño nos asustaba a propósito? #yes #no #maybe					
-				En cualquier caso, lo más inteligente era permanecer en el refugio durante algún tiempo.					
-QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Hemos conseguido el Megatomo. ¡Somos unos genios! #gotmegatome			40	011.jpg	81C1E
+				¿Será que Amileño solo quería espantarnos? #yes #no #maybe					
+				En cualquier caso, lo mejor era quedarse a resguardo durante algún tiempo.					
+QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Hemos conseguido el Megatomo. ¡Somos muy listos! #gotmegatome			40	011.jpg	81C1E
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
@@ -96,12 +96,12 @@ GIRL_LOSTKEY	The Scythian			Samae se resguardaba de la lluvia bajo el amplio tej
 INFO_BIRDEYESCULPTURE	The Scythian			Avistamos la escultura de un pájaro enojado sobresaliendo en el prado. #subtlereference			6	014.jpg	F1D48
 INFO_MEADOWSHEEP	The Scythian			Vimos unas cuantas ovejas inútiles holgazaneando en el prado. #worthlesssheep					
 INFO_CABINSHEEP	The Scythian			Otra oveja inútil, ¿Por qué seguimos mirándolas? #worthlesssheep					
-INFO_MEADOWSUN	The Scythian			Recordamos vívídamente lo impresionante que lucía el sol en ese primer día de primavera.					
-INFO_MEADOWGATE	The Scythian			En el prado vimos un portón de hierro inamovible que bloqueaba una vasta cueva.					
+INFO_MEADOWSUN	The Scythian			Todavía nos acordamos de cómo brillaba el sol aquel primer día de primavera.					
+INFO_MEADOWGATE	The Scythian			En el prado vimos un portón de hierro impenetrable que cerraba una vasta cueva.					
 INFO_MEADOWGATEACTIVE	The Scythian			En el prado vimos un portón de hierro y tuvimos la sensación de que tal vez podríamos abrirlo.					
 INFO_MEADOWGATETRIGONACTIVE	The Scythian			Descubrimos un nosequé con la forma del Trigón Dorado sobre el portón de hierro, ¿Reaccionaría a nuestra Canción de Espadamancia?					
 INFO_MEADOWGATETRIGON	The Scythian			Descubrimos un nosequé sobre el portón de hierro.					
-INFO_LOCKEDDOORSTONEWALL	The Scythian			Una puerta cerrada en el muro de piedra bloqueaba el antiguo camino hacia el Mingi Tau, y al parecer, la llave se había perdido en los sueños.					
+INFO_LOCKEDDOORSTONEWALL	The Scythian			Una puerta en el muro de piedra cerraba el antiguo camino hacia el Mingi Tau, y al parecer, la llave se había perdido en los sueños.					
 INFO_LOOMINGBIRDSCULPTURES	The Scythian			Vimos la escultura de un pájaro enojado sobresaliendo en el prado. #subtlereference					
 INFO_MEADOWSUNSTICK	The Scythian			Vimos un palo con forma extraña que vigilaba el prado.					
 INFO_CABINWELL	The Scythian			Vimos un pozo sólidamente construido con un amplio tejado de madera.					
@@ -114,27 +114,27 @@ INFO_CABINWOODPILE	The Scythian			Vimos una pila de leña, pero no es para tanto
 INFO_SPUME	The Scythian			Descubrimos las sutiles y melodiosas brumas de un espíritu silvano adormecido. Y ahora... ¿cómo despertarlo?					
 INFO_NESTBOX	The Scythian			Vimos un curioso nido que ahora alberga una colmena miserable.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Vimos un nido desgastado que parecía una cara espeluznante.					
-INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre un puente de troncos en el antiguo camino, se erguía un mástil siniestro adornado con calaveras.					
+INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre un puente de troncos en el antiguo camino, se erguía un mástil siniestro decorado con calaveras.					
 INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la vasta cueva del prado, encontramos un conjunto extraño de estructuras de piedra en un claro oculto.					
 			Archetype/trifecta	...¿Era este el Claro Trigonal? #trigongrove			93	016.jpg	B1D6J
 			triangle/Triangle	Junto a la primera estructura de piedra pensamos en el Trigón Dorado y sentimos que nuestra espada se estremecía en su vaina.					
-INFO_DARKTRIGONALTAR	The Scythian			En el Claro Trigonal, encontramos otra estructura de piedra desgastada y cubierta de musgo. #darkmoontrigon					
+INFO_DARKTRIGONALTAR	The Scythian			En el Claro Trigonal encontramos otra estructura de piedra, vieja y llena de musgo. #darkmoontrigon					
 				Nos preguntamos qué sucedería si golpeáramos la estructura de piedra con nuestra espada.					
 INFO_BRIGHTTRIGONALTAR	The Scythian			En el Claro Trigonal, encontramos otra estructura de piedra con un glifo circular que representaba a La Luna Radiante. #brightmoontrigon					
 				Nos preguntamos qué sucedería si golpeáramos la estructura de piedra con nuestra espada.					
 INFO_STONEHEAD	The Scythian			En el Precipicio Peligroso, avistamos una escultura tallada en roca de una cabeza, con la boca abierta de par en par.			24	017.jpg	61B76
 INFO_STONEHEADSHUT	The Scythian			En el Precipicio Peligroso, notamos una escultura tallada en roca de una cabeza que nos resultaba familiar.					
-INFO_STONEHEADFLAGPOLE	The Scythian			Sobre una gran escultura tallada en roca se erguía un mástil siniestro adornado con calaveras o formas semejantes.					
+INFO_STONEHEADFLAGPOLE	The Scythian			Sobre una gran escultura tallada en roca se erguía un mástil siniestro decorado con calaveras o formas semejantes.					
 INFO_CHASMSTONESHELTER	The Scythian			A un lado del Precipicio Peligroso descubrimos un impresionante dólmen con dos asientos de piedra cómodos.			25	018.jpg	O1C8M
-INFO_SKULLPOLE	The Scythian			Sobre un puente tambaleante, se erguía un poste siniestro adornado con una calavera con astas.					
+INFO_SKULLPOLE	The Scythian			Sobre un puente tambaleante, se erguía un poste siniestro decorado con una calavera con cuernos.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre la entrada tallada en la roca del templo de la montaña, vimos una representación pictórica de la Tríada Trigonal.					
-INFO_MOUNTAINGATE	The Scythian			En lo profundo del templo de la montaña, divisamos un portón de hierro inamovible. Más allá, pudimos ver el paisaje montañoso nublado del Mingi Tau.					
+INFO_MOUNTAINGATE	The Scythian			En lo profundo del templo de la montaña, divisamos un portón de hierro impenetrable. Más allá, pudimos ver el paisaje montañoso nublado del Mingi Tau.					
 INFO_MOUNTAINGATETRIGON	The Scythian			En lo profundo del templo de la montaña, sobre un pasaje elevado, divisamos tres formas triangulares extrañas.					
 INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			En lo profundo del templo de la montaña, sobre un pasaje elevado, vimos el símbolo de la Tríada Trigonal.					
 INFO_CABINRECORD	The Scythian			Dentro de la choza, vimos un pequeño y redondeado cachivache encima del fuego. #theballadofthespacebabies			46	019.jpg	P1D99
 INFO_CABINHEARTH	The Scythian			Dentro de la choza, el fuego crepitaba tranquilamente, proporcionando un calor reconfortante.					
 INFO_CABINSEAT	The Scythian			Dentro de la choza, a ambos lados del fuego, vimos dos asientos de madera toscos.					
-INFO_GOGOLITHICMASS	The Scythian			Descubrimos una calavera con astas flotando en la oscuridad bajo el Mingi Tau.					
+INFO_GOGOLITHICMASS	The Scythian			Descubrimos una calavera con cuernos flotando en la oscuridad bajo el Mingi Tau.					
 INFO_MEGATOMBTRIFECTA	The Scythian			Descubrimos una representación pictórica de la Tríada Trigonal en la oscuridad bajo el Mingi Tau.					
 INFO_ROCKSHOWGIRL	The Scythian			En el concierto de rock, avistamos a Samae y nos pareció que susurró algo así como 'camina por el fuego conmigo'.					
 INFO_ROCKSHOWSKOLOTOI	The Scythian			En el concierto de rock, avistamos a uno de esos esqueletos vibrando al ritmo siniestro.					
@@ -142,7 +142,7 @@ INFO_ROCKSHOWJIM	The Scythian			Encabezando el concierto de rock avistamos al mi
 INFO_ROCKSHOWBOOR	The Scythian			En el concierto de rock, avistamos al Oso Tosco meneando su cosa nudista.			121	021.jpg	E2G15
 INFO_ROCKSHOWCROWD	The Scythian			En el concierto de rock, vimos una multitud considerable de damas y caballeros.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			En el concierto de rock avistamos al personaje conocido como El Arquetipo y nos preguntamos qué tramaba con todo esto.					
-INFO_TRIGONGROVESKULLSTICK	The Scythian			Un poste siniestro adornado con una calavera con astas conecta este lugar con el espectro inmortal que acecha bajo el Mingi Tau.					
+INFO_TRIGONGROVESKULLSTICK	The Scythian			Un poste siniestro decorado con una calavera con cuernos conecta este lugar con el espectro inmortal que acecha bajo el Mingi Tau.					
 GRAVE_TRIGONGROVE	The Scythian			En el Claro Trigonal, más allá de la vasta cueva del prado, avistamos una tumba solitaria que despertó nuestra curiosidad.					
 GRAVE_TRIGONGROVEGHOST	The Scythian			En el Claro Trigonal, más allá de la vasta cueva del prado, vimos una tumba solitaria donde un fantasma radiante nos recibió.					
 				El fantasma radiante del Claro Trigonal, hemos de admitir, nos asustó bastante al principio.			96	022.jpg	T2B2H
@@ -172,7 +172,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Avistamos un conjunto de tumbas en un matorr
 				"""Bueno, resulta que uno de los nuestros era un redomado tramposo y lo atrapamos con las manos en la masa."""					
 				"""Estalló una pelea y el redomado tramposo huyó por el antiguo camino hacia el Precipicio Peligroso."""					
 				"""Estábamos allí preguntándonos qué hacer... cuando de pronto apareció la Masa Gogolítica... y ¡zas!"""			113	027.jpg	62B75
-GRAVE_CHASM	The Scythian			Vimos una tumba solitaria en el borde del Precipicio Peligroso que despertó nuestra curiosidad.					
+GRAVE_CHASM	The Scythian			Vimos una tumba solitaria en el filo del Precipicio Peligroso que despertó nuestra curiosidad.					
 GRAVE_CHASMGHOST	The Scythian			Nos acercamos a la tumba solitaria del redomado tramposo en el Precipicio Peligroso y conocimos a un fantasma radiante.					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, André 'El Gigante' organizó una partida y nos propusimos reconstruir la Tríada Trigonal."""					
 				"""Los demás miembros de la partida están enterrados en un matorral a un costado del antiguo camino, cerca del puente de troncos."""					
@@ -195,7 +195,7 @@ GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un árbol hueco titánico, nos 
 GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un árbol hueco titánico, nos acercamos a una tumba solitaria y apareció un fantasma audaz que nos contó algunas cosas.			117	028.jpg	E2A80
 				"""El canto del trigón ha terminado por ahora. Me pregunto cuándo volveré a escucharlo."""					
 LOGFELLA_LOSTKEY	The Scythian			El leñador afligido conocido como Amileño estaba totalmente nervioso por algo.					
-			AdventureUI/keyItem	Al parecer, Amileño había perdido la llave de la puerta del muro de piedra que bloqueaba el antiguo camino hacia el Mingi Tau.					
+			AdventureUI/keyItem	Al parecer, Amileño había perdido la llave de la puerta del muro de piedra que cerraba el antiguo camino hacia el Mingi Tau.					
 				"Pensamos: 'Genial, otra misión de búsqueda', ¿no?"					
 				Amileño nos dijo que había estado sentado justo aquí cuando cayó en un sueño profundo.					
 			AdventureUI/keyItem	Amileño nos dijo que creía haber perdido su llave en el reino crepuscular de los sueños.					
@@ -218,12 +218,12 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	El leñador estaba muy alivi
 			gourd/gourd	Teníamos el presentimiento de que necesitábamos despertar a algunos espíritus silvanos más para disipar la tormenta.			104	033.jpg	W3D3G
 			triangle/Triangle	En un susurro hablamos de nuestra intención de encontrar y domar una manifestación de geometría cósmica conocida como el Trigón Dorado.					
 				Estaba claro que el leñador ya no nos prestaba atención.					
-			AdventureUI/keyItem	Decidimos quedarnos con la llave y dar un paseo por el antiguo camino más allá del muro de piedra.					
+			AdventureUI/keyItem	Preferimos quedarnos con la llave y salir a caminar por el antiguo camino, más alla del muro de piedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si podíamos quedarnos con su llave y él estuvo de acuerdo.					
 GIRL_FOUNDKEY	The Scythian			Nos encontramos con Samae, empapada por la lluvia, en un sendero lateral.					
 			gourd/gourd	Ella había oído las sutiles y melodiosas brumas de los espíritus silvanos más allá del muro de piedra en el antiguo camino hacia el Mingi Tau.					
 			gourd/gourd	Ella habló de troncos de árboles altísimos a ambos lados de un poderoso río.					
-			gourd/gourd	Ella habló de unos arcoíris tenues en el borde del Precipicio Peligroso.					
+			gourd/gourd	Ella habló de unos arcoíris tenues en el filo del Precipicio Peligroso.					
 			adventureUI/megatomeItem	...Y luego, asustada, nos dijo que consultáramos el Megatomo si nos sentíamos perdidos.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Me parece bien que La Escita se quede con la llave si va a disipar la tormenta.					
 				Debo haber asentido en algún momento durante la épica historia de La Escita. No me van mucho las historias.					
@@ -396,9 +396,9 @@ GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solo el final de tu fu
 GCLUE_WATERFALLS	Girl			¿Alguna vez has notado que a veces las palabras simplemente suenan como ruido, pero otras veces el ruido produce el sonido más bello?			132	058.jpg	G5F8U
 GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Hay un montón de dichos extraños aquí, entre los montañeses del Cáucaso.					
 				Hay un dicho aqui en el Cáucaso que dice que un bosque necesita un fuego tanto como el fuego necesita al árbol.					
-YELLOWTRIGON_COLLECTED	The Scythian			Hemos conseguido El Trigón Dorado. ¡Somos impresionantes!			85	067.jpg	36G7U
-PINKTRIGON_COLLECTED	The Scythian			Contra todo pronóstico, hemos conseguido El Trigón Luna Radiante.			155	068.jpg	56F8U
-BLUETRIGON_COLLECTED	The Scythian			A pesar de todas las adversidades, hemos conseguido El Trigón Luna Sombría.			112	069.jpg	T6G94
+YELLOWTRIGON_COLLECTED	The Scythian			Logramos conseguir El Trigón Dorado. ¡Somos impresionantes!			85	067.jpg	36G7U
+PINKTRIGON_COLLECTED	The Scythian			Contra todo pronóstico, logramos conseguir El Trigón Luna Radiante.			155	068.jpg	56F8U
+BLUETRIGON_COLLECTED	The Scythian			Contra todo lo que se nos puso en frente, logramos conseguir el Trigón Luna Sombría.			112	069.jpg	T6G94
 GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece como si todos los espíritus de la Luna Sombría hubieran sido enviados al cielo, así que de nuevo es la temporada de milagros. ¡Adoro los milagros!					
 JIM_HINT1_OFF	The Scythian			En un claro oculto nos encontramos con un misterioso músico junto a un fuego crepitante.					
 JIM_PINKDAWN	The Scythian			En un claro oculto nos encontramos con un misterioso músico junto a un fuego crepitante. #jimguthrie					
@@ -431,7 +431,7 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Despertamos aturdidos de un sueño
 			triangle/Triangle	Amileño se preguntaba si tal vez el Trigón Dorado podría estar relacionado con los misterios sombríos más allá del portón de hierro en el prado...					
 				A Amileño no le gustaban los misterios sombríos, así que decidió ir a casa y cortar leña. #woodchopping					
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			El leñador conocido como Amileño estaba muy contento de que la tormenta se hubiera disipado y estaba muy entusiasmado por volver a cortar leña.					
-				Nos preguntó si sabíamos algo del portón de hierro que bloqueaba la vasta cueva del prado... ¿Qué había allí?					
+				Nos preguntó si teníamos idea sobre el portón de hierro que cerraba la vasta cueva del prado... ¿qué podría haber detrás?					
 LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Extraño... Veo un haz celestial dorado en el bosque tras el prado... ¿Alguien ha descubierto los secretos del Claro Trigonal?			89	072.jpg	67F24
 LOGFELLA_URSULAMEADOW	Logfella			Estoy realmente preocupado por La Escita, parece muy afectada.					
 SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			El leñador y su hija nos observaron mientras recuperábamos el conocimiento.					
