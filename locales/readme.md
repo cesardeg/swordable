@@ -83,7 +83,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | stone shelter | refugio de piedra | abrigo de pedra |
 | mountain temple | templo de la montaña | templo da montanha |
 | iron gate | portón de hierro | portão de ferro |
-| vast cavern/cave | vasta cueva | vasta caverna |
+| cavernous cave | vasta cueva | vasta caverna |
 | titanic hollow tree | árbol hueco titánico | árvore oca titânica |
 | parliament of trees | Parlamento de Árboles | Parlamento de Árvores |
 
