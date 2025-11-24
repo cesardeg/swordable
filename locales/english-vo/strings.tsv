@@ -1,113 +1,229 @@
-id	English	Japanese
-GAME_NAME	Superbrothers: Sword & Sworcery EP	
-GAME_MOTTO	A BRAVE EXPERIMENT IN I/O CINEMA	
-GAME_NAME_SHORT	S:S&SEP	
-WITH_SONGS	WITH SONGS & SOUNDS BY	
-JIM_GUTHRIE	JIM GUTHRIE	
-FOR_DEMO	FOR DEMONSTRATION PURPOSES ONLY	
-END_DEMO	Thus ends the demo of	
-SIDE_A	SIDE A	
-SIDE_B	SIDE B	
-ROTATE	R O T A T E ?	
-INVENTORY_ROTATE	ROTATE?	
-LOOK	LOOK	
-LISTEN	LISTEN	
-TOUCH	TOUCH	
-DREAM	DREAM	
-TOUCH_ARROW_LEFT	< <TOUCH	
-TOUCH_ARROW_RIGHT	TOUCH> >	
-GUIDE_ARROW_LEFT	< <GUIDE	
-GUIDE_ARROW_RIGHT	GUIDE> >	
-OBSERVE	OBSERVE	
-INVESTIGATE	INVESTIGATE	
-SHAKE	SHAKE?	
-REFLECT	REFLECT	
-BELIEVE	BELIEVE	
-BEWARE	BEWARE	
-FOLLOW	FOLLOW?	
-ROTATE_UNSHEATHE	ROTATE TO UNSHEATHE	
-GO_HOME	GO HOME?	
-START_ARROW_RIGHT	START > > >	
-TRESPASS	TRESPASS	
-AVOID	AVOID	
-CONSIDER	CONSIDER	
-PERSEVERE	PERSEVERE	
-START_OVER	START OVER?	
-PROMPT_YES	YES	
-PROMPT_NO	NO	
-PROMPT_CANCEL	CANCEL	
-PROMPT_SUBMIT	SUBMIT	
-TWITTER_BROADCAST	YOU MAY WISH TO BROADCAST VIA TWITTER	
-TWITTER_SETTINGS	SETTINGS	
-TWITTER_TWEET	TWEET THIS?	
-TWITTER_SIGN_IN	SIGN IN TO TWITTER	
-TWITTER_USERNAME	USERNAME OR EMAIL	
-TWITTER_PASSWORD	PASSWORD	
-TWITTER_NEVERMIND	NEVERMIND	
-TWITTER_TWEETING	TWEETING...	
-TWITTER_SIGNING_IN	SIGNING IN...	
-TWITTER_SUCCESS	SUCCESS!	
-TWITTER_FAILED	FAILED	
-TWITTER_WRONG_LOGIN	WRONG USERNAME OR PASSWORD	
-TWITTER_CONNECT_FAIL	CONNECTION FAILED	
-TWITTER_SIGN_IN_ONLY	SIGN IN	
-TWITTER_SIGN_OUT_ONLY	SIGN OUT	
-TWITTER_SIGNED_IN	YOU ARE CURRENTLY SIGNED IN TO TWITTER	
-TWITTER_SIGNED_OUT	YOU ARE NOT SIGNED IN TO TWITTER	
-TWITTER_FILL_OUT	PLEASE FILL OUT ALL FIELDS	
-TWITTER_SELECT_BUTTON	SELECT	
-TWITTER_SELECT_MSG	PLEASE SELECT A TWITTER ACCOUNT	
-TWITTER_NO_ACCOUNTS	There are no Twitter accounts configured on this device.	
-TWITTER_REQUESTING	REQUESTING ACCESS...	
-EPITAPH	THERE ARE NO SECRETS LEFT IN THESE MAEOTIAN MARSHES	
-FIGHT	FIGHT?	
-DARKMOON_COUNT_9	DARK MOON IN 9 DAYS	
-DARKMOON	DARK MOON	
-BRIGHTMOON	BRIGHT MOON	
-DARKMOON_BEFORE_NUM	DARK MOON IN	
-DARKMOON_AFTER_1	DAY	
-DARKMOON_AFTER_MORE	DAYS	
-BRIGHTMOON_BEFORE_NUM	BRIGHT MOON IN	
-BRIGHTMOON_AFTER_1	DAY	
-BRIGHTMOON_AFTER_MORE	DAYS	
-TIME_PARADOX	* TIME PARADOX *	
-ERRAND_END	YOUR WOEFUL ERRAND IS AT AN END.	
-BEWARE_BOOR	BEWARE THE GRIZZLED BOOR	
-MOVE_CONTROLS	TOUCH & HOLD TO MOVE	
-STOP_CONTROLS	TIP TAP TO STOP?	
-STOP_CONTROLS_ARROW	< < TIP TAP TO STOP?	
-SLAY	SLAY?	
-ZOOM_CONTROLS	< < <  PINCH TO ZOOM? > > >	
-LOOK_CONTROLS	< < TOUCH, HOLD & MOVE TO LOOK	
-LOOK_CONTROLS_2	SWIPE TO LOOK AROUND	
-TONGUE_TEXT	Tilt, unsheathe & hold your scythian sword up high in the rainbow for a few seconds and have faith	
-TOUCH_HOLD	TOUCH & HOLD	
-TOUCH_HOLD_ARROW_LEFT	< < TOUCH & HOLD	
-TOUCH_HOLD_ARROW_RIGHT	TOUCH & HOLD > >	
-TIP_TAP_QUESTION	TIP TAP?	
-TIP_TAP_ARROW_LEFT	< < TIP TAP	
-TIP_TAP_ARROW_LEFT_Q	< < TIP TAP?	
-TIP_TAP_ARROW_RIGHT	TIP TAP > >	
-RUB	RUB	
-QUIT	QUIT?	
-TAP_ARROW_LEFT	< < TAP	
-TAP_QUESTION	TAP?	
-MOON_TIME_1	moments ago	
-MOON_TIME_2	a little while ago	
-MOON_TIME_3	a while ago	
-MOON_TIME_4	in days of yore	
-MOON_TIME_5	many moons ago	
-MOON_TIME_6	a long time ago	
-COSMIC_FRIENDS	NOW WE ARE COSMIC FRIENDS FOREVER... OK?	
-The Scythian	The Scythian	
-Girl	Samae	
-Logfella	Logfella	
-Dogfella	Dogfella	
-The Archetype	The Archetype	
-EXIT	EXIT	
-RESOLUTION	Resolution	
-RESET	RESET	
-HASHTAG_SWORCERY	#sworcery	
-DIGIT_STRING	"0123456789"	
-EXIT_TITLE	Exit #sworcery?	
-EXIT_PROMPT	Are you sure you want to exit?	
+id	English	Japanese	JPN NOTES	French	Italian	German	Spanish	FIGS Notes/Questions	7
+GAME_NAME	Superbrothers: Sword & Sworcery EP	スキタイのムスメ：音響的冒剣劇		Superbrothers: Sword & Sworcery EP 	Superbrothers: Sword & Sworcery EP	Superbrothers: Sword & Sworcery EP	Superbrothers: Sword & Sworcery EP		34
+GAME_MOTTO	A BRAVE EXPERIMENT IN I/O CINEMA	インプット・アウトプット・シネマ実験		UNE COURAGEUSE EXPÉRIENCE EN CINÉMA I/O.	UN CORAGGIOSO ESPERIMENTO DI CINEMA I/O	EIN MUTIGES EXPERIMENT IN I/O CINEMA	UN EXPERIMENTO AUDAZ DE CINE INTERACTIVO		32
+GAME_NAME_SHORT	S:S&SEP	スキムス	HM, jun13: Changed it since it was using the old name.	S:S&SEP	S:S&SEP	S:S&S EP	S:S&S EP		7
+WITH_SONGS	WITH SONGS & SOUNDS BY	楽曲 & サウンド：		MUSIQUES ET SONS DE	CON MUSICHE E SUONI DI	MIT LIEDERN & SOUNDS VON	CON CANCIONES Y SONIDOS DE		22
+JIM_GUTHRIE	JIM GUTHRIE	ジム・ガスリー		JIM GUTHRIE	JIM GUTHRIE	JIM GUTHRIE	JIM GUTHRIE		11
+FOR_DEMO	FOR DEMONSTRATION PURPOSES ONLY	体験版専用		SEULEMENT À DES FINS DE DÉMONSTRATION	AL SOLO SCOPO DIMOSTRATIVO	NUR ZU DEMONSTRATIONSZWECKEN	SOLO PARA FINES DEMOSTRATIVOS		31
+END_DEMO	Thus ends the demo of	これにて体験版終劇：		Voilà qui conclue la démo de	Finisce così la demo di	So endet die Demoversion von	Aquí termina la demo de		21
+SIDE_A	SIDE A	A面		PARTIE A	LATO A	SEITE A	LADO A		6
+SIDE_B	SIDE B	B面		PARTIE B	LATO B	SEITE B	LADO B		6
+ROTATE	UNSHEATHE?	抜刀する？	JJ, Jun08: Removed space.	DÉGAINER ? 	SFODERA?	ZIEHEN?	¿DESENVAINAR?		10
+INVENTORY_ROTATE	ROTATE?	回転してみる？	MM,May29: Shortened, please recenter on screen JR, may30: Changed to Japanese ？	TOURNER ?	RUOTA?	DREHEN?	¿GIRAR?		7
+LOOK	LOOK	見て		VOIR	GUARDA	UMSEHEN	MIRAR		4
+LISTEN	LISTEN	聞いて		ÉCOUTER	ASCOLTA	ZUHÖREN	ESCUCHAR		6
+TOUCH	TIP TAP	トントンして		TOUCHER	TIP TAP	TIPP-TIPP	TOCAR		7
+DREAM	DREAM	夢		RÊVER	SOGNA	TRAUM	SOÑAR		5
+TOUCH_ARROW_LEFT	< <TOUCH	< <触れて		< < TOUCHER	< <TOCCA	< <BERÜHREN	< < TOCAR		8
+TOUCH_ARROW_RIGHT	TOUCH> >	触れて> >		TOUCHER> >	TOCCA> >	BERÜHREN> >	TOCA > >		8
+GUIDE_ARROW_LEFT	< <GUIDE	< <こっちへ		< < GUIDER	< <GUIDA	< <FÜHREN	< < GUIAR		8
+GUIDE_ARROW_RIGHT	GUIDE> >	こっちへ> >		GUIDER> > 	GUIDA> >	FÜHREN> >	GUÍA > >		8
+OBSERVE	OBSERVE	観察して		OBSERVER	OSSERVA	BEOBACHTEN	OBSERVAR		7
+INVESTIGATE	INVESTIGATE	よく見て		ENQUÊTER	INDAGA	UNTERSUCHEN	INVESTIGAR		11
+SHAKE	SHAKE?	振ってみる？	JR, may30: Changed to Japanese ？	SECOUER ?	SCUOTI?	SCHÜTTELN?	¿SACUDIR?		6
+REFLECT	REFLECT	反射を		RÉFLÉCHIR	RIFLETTI	REFLEKTIEREN	REFLEXIONAR		7
+BELIEVE	BELIEVE	信じて		CROIRE	CREDI	GLAUBEN	CREER		7
+BEWARE	BEWARE	気をつけて		ATTENTION	ATTENZIONE	ACHTUNG	CUIDADO		6
+FOLLOW	FOLLOW?	ついていく？		SUIVRE ? 	SEGUI?	FOLGEN?	¿SEGUIR?		7
+ROTATE_UNSHEATHE	< < UNSHEATHE	< <抜刀	JJ, Jun6: Didn't have translation for this one, but based it on row 11. JR, jun12: Hiroko OK. JR, jun12: Fixed spacing around arrows.	< < DÉGAINER	< < SFODERA	< < ZIEHEN	< < DESENVAINAR		13
+GO_HOME	GO HOME?	家に帰る？		RENTRER ? 	RIENTRA?	NACH HAUSE?	¿IR A CASA?	IT: What's the context/function of this string? MR - I think it's actually not being called, but in case we need it a literal translation would likely be fine	8
+START_ARROW_RIGHT	START > > >	スタート> >	JR, jun12: Fixed spacing around arrows.	DÉMARRER > > > 	INIZIA > > >	START > > >	INICIO > > >		11
+TRESPASS	TRESPASS	侵入		INTRUSION	INTRUSIONE	EINDRINGEN	ENTRAR		8
+AVOID	AVOID	避ける		ÉVITER	EVITA	VERMEIDEN	EVITAR		5
+CONSIDER	CONSIDER	よく考える		CONSIDÉRER	VALUTA	ÜBERDENKEN	EXAMINAR		8
+PERSEVERE	PERSEVERE	がんばる		PERSÉVÉRER	PERSEVERA	DURCHHALTEN	PERSEVERAR		9
+START_OVER	START OVER?	やり直す？	JR, may30: Changed to Japanese ？	RECOMMENCER ?	RICOMINCIA?	NEUSTARTEN?	¿EMPEZAR DE NUEVO?		11
+PROMPT_YES	YES	はい		OUI	SÌ	JA	SÍ		3
+PROMPT_NO	NO	いいえ		NON	NO	NEIN	NO		2
+PROMPT_OK	OKAY	OK	JJ, Jun06: Needs translation. JJ, Jun08: Just putting "決定" here so we can find it in the rom. JJ, Jun11: OK is the final text. JR, jun12: Hiroko OK.	OK	OK	OKAY	ACEPTAR		4
+PROMPT_CANCEL	CANCEL	キャンセル		ANNULER	ANNULLA	ABBRECHEN	CANCELAR		6
+PROMPT_SUBMIT	SUBMIT	送信		ENVOYER	INVIA	SENDEN	ENVIAR		6
+PROMPT_DELETE_SAVE	DO YOU WANT TO DELETE YOUR SAVE DATA? ALL PROGRESS WILL BE LOST!	セーブデータを削除しますか？;これまでの進捗情報は;すべて削除されます	HW, Jun6: This string needs line breaks. Shows up when trying to delete save data in the settings menu.  JJ, Jun11: Hiroko please check line breaks (I put them in already, please just make sure they are OK by JP standards).  HM, Jun12: What's the character limit? Also, the single byte question mark seems inconsistent than the others but is this intentional? JR, jun12: Hiroko OK.	VOULEZ-VOUS EFFACER VOS DONNÉES SAUVEGARDÉES ? TOUTE PROGRESSION SERA PERDUE !	VUOI CANCELLARE I TUOI DATI DI SALVATAGGIO? TUTTI I PROGRESSI ANDRANNO PERSI!	MÖCHTEST DU DEINEN SPEICHERSTAND LÖSCHEN? DU VERLIERST JEGLICHEN FORTSCHRITT!	¿QUIERES ELIMINAR LOS DATOS GUARDADOS? SE PERDERÁ EL PROGRESO.		64
+FULLSCREEN	FULLSCREEN	全画面		PLEIN ÉCRAN	SCHERMO INTERO	VOLLBILD	PANTALLA COMPLETA		10
+FULLSCREEN_YES	YES	はい		OUI	SÌ	JA	SÍ		3
+FULLSCREEN_NO	NO	いいえ		NON	NO	NEIN	NO		2
+VOLUME	VOLUME	ボリューム		VOLUME	VOLUME	LAUTSTÄRKE	VOLUMEN		6
+SETTINGS	SETTINGS	設定		PARAMÈTRES 	IMPOSTAZIONI	EINSTELLUNGEN	CONFIGURACIÓN		8
+CLEAR_DATA	CLEAR DATA	データを消去		EFFACER DONNÉES	CANCELLA DATI	DATEN LÖSCHEN	BORRAR DATOS		10
+KEEP_CHANGES	KEEP CHANGES?	変更を保存しますか？		GARDER LES CHANGEMENTS ? 	VUOI MANTENERE LE MODIFICHE?	ÄNDERUNGEN BEIBEHALTEN?	¿GUARDAR CAMBIOS?		13
+KEEP_CHANGES_AUTO	KEEP CHANGES? WILL AUTO REVERT IN	変更を保存しますか？;自動的に戻るまであと：	解像度変更オプションで、保存するを選択しない場合自動的に設定が変更前に戻るものと想像しました。また、INの後にはカウントダウンする数字が入るものと考えました HM, Jun13: Made the : double byte.	GARDER CHANGEMENTS ? SERONT ANNULÉS DANS 	VUOI MANTENERE LE MODIFICHE? SI ANNULLERÀ TRA	ÄNDERUNGEN BEIBEHALTEN? WIRD ZURÜCKGESETZT IN	¿GUARDAR CAMBIOS? SE REVERTIRÁN EN		33
+GAME_RESTART_REQUIRED	GAME RESTART IS REQUIRED FOR CHANGES TO TAKE EFFECT	変更を反映するにはゲームを再起動する必要があります		REDÉMARRAGE REQUIS POUR QUE LES CHANGEMENTS PRENNENT EFFET. 	È NECESSARIO RIAVVIARE IL GIOCO PER APPLICARE LE MODIFICHE	SPIEL MUSS FÜR DIE ÄNDERUNGEN NEUGESTARTET WERDEN	REINICIA EL JUEGO PARA QUE TENGAN EFECTO LOS CAMBIOS		51
+TWITTER_BROADCAST	YOU MAY WISH TO BROADCAST VIA TWITTER	ゲームの進捗はTwitterで実況できます		PEUT-ÊTRE VOUDRIEZ-VOUS DIFFUSER SUR TWITTER	FORSE TI VA DI POSTARE SU TWITTER	DU KÖNNTEST ÜBER TWITTER SENDEN	QUIZÁ QUIERAS TRANSMITIR POR TWITTER		37
+TWITTER_SETTINGS	TWITTER	Twitter		TWITTER	TWITTER	TWITTER	TWITTER		7
+TWITTER_TWEET	TWEET THIS?	ツイートする？		TWEETER CECI ?	TWITTIAMO?	DAS TWEETEN?	¿TUITEAR ESTO?		11
+TWITTER_SIGN_IN	SIGN IN TO TWITTER	Twitterにサインイン		CONNEXION À TWITTER	ACCEDI A TWITTER	BEI TWITTER ANMELDEN	INICIA SESIÓN EN TWITTER		18
+TWITTER_USERNAME	USERNAME OR EMAIL	ユーザー名／メールアドレス	HM, Jun13: Changed / to double byte	IDENTIFIANT OU MAIL	NOME UTENTE O EMAIL	NUTZERNAME ODER E-MAIL-ADRESSE	NOMBRE DE USUARIO O EMAIL		17
+TWITTER_PASSWORD	PASSWORD	パスワード		MOT DE PASSE	PASSWORD	PASSWORT	CONTRASEÑA		8
+TWITTER_NEVERMIND	BACK	戻る		RETOUR	INDIETRO	ZURÜCK	ATRÁS		4
+TWITTER_TWEETING	TWEETING...	ツイート中...		TWEET EN COURS…	TWITTANDO...	WIRD GETWEETET ...	TUITEANDO...		11
+TWITTER_SIGNING_IN	SIGNING IN...	サインイン中...		CONNEXION…	ACCESSO IN CORSO...	ANMELDEN ...	INICIANDO SESIÓN...		13
+TWITTER_SUCCESS	SUCCESS!	完了！	JR, may30: Changed to Japanese ！	SUCCÈS !	FATTO!	GESCHAFFT!	¡LISTO!		8
+TWITTER_FAILED	FAILED	失敗...		ÉCHEC	ERRORE	FEHLGESCHLAGEN	ERROR		6
+TWITTER_WRONG_LOGIN	WRONG USERNAME OR PASSWORD	ユーザー名かパスワードが間違っています		IDENTIFIANT OU MOT DE PASSE INCORRECT	NOME UTENTE O EMAIL ERRATI	FALSCHER NUTZERNAME ODER PASSWORT	NOMBRE DE USUARIO O CONTRASEÑA INCORRECTOS		26
+TWITTER_CONNECT_FAIL	CONNECTION FAILED	接続に失敗しました		ÉCHEC DE LA CONNEXION	CONNESSIONE NON RIUSCITA	VERBINDUNG FEHLGESCHLAGEN	FALLÓ LA CONEXIÓN		17
+TWITTER_SIGN_IN_ONLY	SIGN IN	サインイン		CONNEXION	ACCEDI	ANMELDEN	INICIAR SESIÓN		7
+TWITTER_SIGN_OUT_ONLY	SIGN OUT	サインアウト		DÉCONNEXION	ESCI	ABMELDEN	CERRAR SESIÓN		8
+TWITTER_SIGNED_IN	YOU ARE CURRENTLY SIGNED IN TO TWITTER	Twitterにサインインしています		VOUS ÊTES ACTUELLEMENT CONNECTÉ SUR TWITTER.	HAI EFFETTUATO L'ACCESSO A TWITTER	DU BIST JETZT BEI TWITTER ANGEMELDET	INICIASTE SESIÓN EN TWITTER		38
+TWITTER_SIGNED_OUT	YOU ARE NOT SIGNED IN TO TWITTER	Twitterにサインインしていません		VOUS N'ÊTES PAS CONNECTÉ SUR TWITTER.	NON HAI EFFETTUATO L'ACCESSO A TWITTER	DU BIST BEI TWITTER NICHT ANGEMELDET	NO INICIASTE SESIÓN EN TWITTER		32
+TWITTER_FILL_OUT	PLEASE FILL OUT ALL FIELDS	すべてのフィールドに入力してください		VEUILLEZ REMPLIR TOUS LES CHAMPS.	COMPILA TUTTI I CAMPI	BITTE FÜLLE ALLE FELDER AUS	COMPLETA TODOS LOS CAMPOS		26
+EPITAPH	THERE ARE NO SECRETS LEFT IN THESE MAEOTIAN MARSHES	かのマイオティス湿地にはもはや秘密など残されていない		IL N'Y A PLUS AUCUN SECRET DANS CES MARAIS MÉOTES.	NON CI SONO PIÙ SEGRETI DA SCOPRIRE IN QUESTI ACQUITRINI MEOTI	ES GIBT KEINE GEHEIMNISSE MEHR IN DIESEN MÄOTISCHEN SÜMPFEN	NO QUEDA NINGÚN SECRETO EN LOS MARJALES DE LOS MEOTAS.		51
+FIGHT	FIGHT?	戦う？	JR, may30: Changed to Japanese ？	COMBATTRE ?	LOTTA?	KÄMPFEN?	¿LUCHAR?		6
+DARKMOON_COUNT_9	DARK MOON IN 9 DAYS	暗月まであと９日	JR, jun12: Changed 9 to ９	NOUVELLE LUNE DANS 9 JOURS	LUNA NERA TRA 9 GIORNI	DUNKLER MOND IN 9 TAGEN	LUNA OSCURA EN 9 DÍAS		19
+DARKMOON	DARK MOON	暗月		NOUVELLE LUNE	LUNA NERA	DUNKLER MOND	LUNA OSCURA		9
+BRIGHTMOON	BRIGHT MOON	明月		PLEINE LUNE	LUNA PIENA	HELLER MOND	LUNA BRILLANTE		11
+DARKMOON_BEFORE_NUM	DARK MOON IN	暗月まであと		NOUVELLE LUNE DANS	LUNA NERA TRA	DUNKLER MOND IN	LUNA OSCURA EN		12
+DARKMOON_AFTER_1	DAY	日		JOUR	GIORNO	TAG	DÍA		3
+DARKMOON_AFTER_MORE	DAYS	日		JOURS	GIORNI	TAGEN	DÍAS		4
+BRIGHTMOON_BEFORE_NUM	BRIGHT MOON IN	明月まであと		PLEINE LUNE DANS	LUNA PIENA TRA	HELLER MOND IN	LUNA BRILLANTE EN		14
+BRIGHTMOON_AFTER_1	DAY	日		JOUR	GIORNO	TAG	DÍA		3
+BRIGHTMOON_AFTER_MORE	DAYS	日		JOURS	GIORNI	TAGEN	DÍAS		4
+TIME_PARADOX	* TIME PARADOX *	* タイム パラドックス *		* PARADOXE TEMPOREL *	* PARADOSSO TEMPORALE *	* ZEITPARADOX *	* PARADOJA TEMPORAL *		16
+ERRAND_END	YOUR WOEFUL ERRAND IS AT AN END.	使命はついに果たされた		VOTRE QUÊTE TRAGIQUE EST BIENTÔT TERMINÉE	LA TUA SVENTURATA INCOMBENZA È GIUNTA AL TERMINE.	DEINE BEDAUERLICHE AUFGABE IST ZUENDE.	LA ODISEA INFORTUNADA ESTÁ POR TERMINAR.		32
+BEWARE_BOOR	BEWARE THE GRIZZLED BOOR	クマズリーに注意		ATTENTION AU GRIZZLY RUSTRE	ATTENZIONE AL BIFOLCO GRIZZLY	PASS AUF DEN GRAUHAARIGEN FLEGEL AUF	CUIDADO CON EL URSO GRIZZLE		24
+MOVE_CONTROLS	PRESS & HOLD TO MOVE	タップしたままにすると移動		MAINTENEZ APPUYÉ POUR BOUGER	TIENI PREMUTO PER MUOVERTI	TIPPEN & HALTEN ZUM BEWEGEN	MANTÉN PULSADO PARA MOVERTE		20
+STOP_CONTROLS	TIP TAP TO STOP?	トントンして立ち止まる？	JR, may30: Changed to Japanese ？	TOUCHER POUR ARRÊTER ?	TIP TAP PER FERMARE?	TIPP-TIPP ZUM STOPPEN?	¿TOCAR PARA DETENER?		16
+STOP_CONTROLS_ARROW	< < TIP TAP TO STOP?	< <トントンして立ち止まる？	JR, may30: Changed to Japanese ？	< < TOUCHER POUR ARRÊTER ?	< < TIP TAP PER FERMARE?	< < TIPP-TIPP ZUM STOPPEN?	< < ¿TOCAR PARA DETENER?		20
+SLAY	SLAY?	息の根を止める？	JR, may30: Changed to Japanese ？	ACHEVER ?	UCCIDI?	ERLEDIGEN?	¿MATAR?		5
+ZOOM_CONTROLS	< < <  ZOOM? > > >	< < <  ズーム？ > > >	HM, Jun13: Changed ? to double byte	< < < ZOOM ? > > >	< < < ZOOM? > > >	< < < ZOOMEN? > > >	< < < ¿ACERCAR? > > >		18
+LOOK_CONTROLS	PRESS, HOLD & SWIPE ON SWORCERY AUREOLE	ソーサリーのオーラをタップしたままドラッグ	JJ, Jun11: This is really long on the screen. JR, jun12: HIROKO: consider changing "swipe" to whatever the JP is for "drag" JR, jun13: JJ - any reason they use AUREOLE here and not AURA like elsewhere? It's the same thing, isn't it? HM, jun13: Made it shorter	TOUCHEZ, MAINTENEZ & BALAYEZ L'AURÉOLE DE SWORCERY.	TOCCA, TIENI PREMUTO E TRASCINA SULL'AURA	SWORCERY-AURA ANTIPPEN, HALTEN & DARÜBER WISCHEN	TOCA, MANTÉN PULSADA Y DESLIZA LA AUREOLA DE RECHICERÍA.		39
+LOOK_CONTROLS_2	PRESS & SWIPE TO LOOK AROUND	タップしたままドラッグで見渡す	HM, jun13: changed swipe to drag.	TOUCHEZ & BALAYEZ POUR VOIR LES ENVIRONS	TOCCA E TRASCINA PER GUARDARTI INTORNO	TIPPEN & WISCHEN ZUM UMSEHEN	TOCA Y DESLIZA PARA MIRAR ALREDEDOR		28
+TONGUE_TEXT	Tilt, unsheathe & hold your scythian sword up high in the rainbow for a few seconds and have faith	傾け、抜刀し、スキタイの剣を幾秒か、;虹に向けて掲げよ。;意志あるところに道は通ず	MM, 6/1: We can't find this line in the game? Is it in the game?	Inclinez, dégainez votre épée scythienne & maintenez-là en l'air pour dans l'arc-en-ciel pendant quelques secondes. Gardez la foi.	Inclina, sfodera e innalza la tua spada scita nell'arcobaleno per qualche istante. Abbi fede.	Neige dein skythisches Schwert, ziehe es & halte es ein paar Sekunden hoch in den Regenbogen und hab Vertrauen	Inclina, desenvaina y sujeta la espada escita hacia arriba en el arcoíris durante unos segundos y ten fe.		98
+TOUCH_HOLD	PRESS & HOLD	タップしたままにする		TOUCHEZ & MAINTENEZ	TIENI PREMUTO	TIPPEN & HALTEN	MANTÉN PULSADO		12
+TOUCH_HOLD_ARROW_LEFT	< < PRESS & HOLD	< < タップしたままにする	JJ, Jun6: Didn't have translation here, but made it based on row 91 HM, Jun13: tweaked it. Was there a specific reason you used して instead of する ?	< < TOUCHEZ & MAINTENEZ	< < TIENI PREMUTO	< < TIPPEN & HALTEN	< < MANTENER PULSADO		16
+TOUCH_HOLD_ARROW_RIGHT	PRESS & HOLD > >	タップしたままにする > >	JJ, Jun6: Didn't have translation here, but made it based on row 91 HM, Jun13: tweaked it. Was there a specific reason you used して instead of する ?	TOUCHEZ & MAINTENEZ > >	TIENI PREMUTO > >	TIPPEN & HALTEN > >	MANTÉN PULSADO > >		16
+TIP_TAP_QUESTION	TIP TAP?	トントンする？	JR, may30: Changed to Japanese ？	TOUCHER ?	TIP TAP?	TIPP-TIPP?	¿TOCAR?		8
+TIP_TAP_ARROW_LEFT	< < TIP TAP	< <トントンする		< < TOUCHER	< < TIP TAP	< < TIPP-TIPP	< < TOCAR		11
+TIP_TAP_ARROW_LEFT_Q	< < TIP TAP?	< <トントンする？	JR, may30: Changed to Japanese ？	< < TOUCHER ?	< < TIP TAP?	< < TIPP-TIPP?	< < ¿TOCAR?		12
+TIP_TAP_ARROW_RIGHT	TIP TAP > >	トントンする> >		TOUCHER > >	TIP TAP > >	TIPP-TIPP > >	TOCAR > >		11
+RUB	RUB	こする		FROTTER	SFREGA	REIBEN	FROTAR		3
+QUIT	QUIT?	やめる？		QUITTER ?	ESCI?	BEENDEN?	¿SALIR?		5
+TAP_ARROW_LEFT	< < PRESS	< <タップする		< < TOUCHER	< < TOCCA	< < TIPPEN	< < TOCAR		9
+MOON_TIME_1	moments ago	さっき		il y a quelques instants	attimi fa	vor Augenblicken	hace instantes		11
+MOON_TIME_2	a little while ago	ちょっと前		il y a un petit moment	poco tempo fa	vor einer kleinen Weile	hace un ratito		18
+MOON_TIME_3	a while ago	けっこう前		il y a un moment	un po' di tempo fa	vor einer Weile	hace un rato		11
+MOON_TIME_4	in days of yore	ずいぶん前		en des temps révolus	nei giorni che furono	in alten Zeiten	en los días de antaño		15
+MOON_TIME_5	many moons ago	かなり前		il y a plusieurs lunes	molte lune fa	vor vielen Monden	hace muchas lunas		14
+MOON_TIME_6	a long time ago	ずっとずっと前		il y très longtemps	tanto tempo fa	vor sehr langer Zeit	hace mucho tiempo		15
+COSMIC_FRIENDS	NOW WE ARE COSMIC FRIENDS FOREVER... OK?	さて、これで僕らは永遠にコズミックフレンドだ…いいね？		NOUS VOICI AMIS COSMIQUES POUR LA VIE, D'ACCORD ?	ORA SIAMO AMICI COSMICI PER LA VITA... VA BENE?	JETZT SIND WIR FÜR IMMER KOSMISCHE FREUNDE ... OK?	AHORA SOMOS AMIGOS CÓSMICOS PARA SIEMPRE, ¿SABES?		40
+The Scythian	The Scythian	スキタイのムスメ		La scythienne	La Scita	Die Skythin	La escita		12
+Girl	Samae	オトメちゃん		Samae	Samae	Samae	Samae	Samae has not been addressed in Japanese yet, maybe it's fine as is?	5
+Logfella	Logfella	丸太さん		Logfella	Logfella	Logfella	Troncales		8
+Dogfella	Dogfella	イヌさん		Dogfella	Dogfella	Dogfella	Perrales		8
+The Archetype	The Archetype	アーキタイプ		L'Archétype	L'Archetipo	Der Archetypus	El Arquetipo		13
+EXIT	EXIT	終了		QUITTER	ESCI	VERLASSEN	SALIR		4
+RESOLUTION	RESOLUTION	解像度		RÉSOLUTION	RISOLUZIONE	AUFLÖSUNG	RESOLUCIÓN		10
+RESET	RESET	リセット		RÉINITIALISER	RESET	ZURÜCKSETZEN	RESTABLECER		5
+PROMPT_CONFIRM_QUIT	QUIT TO MAIN MENU?	メインメニューに戻る？	HM, Jun12: Is the single byte question mark intentional? JR, jun12: Fixed.	RETOUR AU MENU PRINCIPAL ?	VUOI TORNARE AL MENÙ PRINCIPALE?	ZURÜCK ZUM HAUPTMENÜ?	¿SALIR AL MENÚ PRINCIPAL?		18
+APPLY	APPLY	適用		APPLIQUER	APPLICA	ÜBERNEHMEN	APLICAR		5
+BACK	BACK	戻る		RETOUR	INDIETRO	ZURÜCK	ATRÁS		4
+ERRMSG_UNABLE_TO_SAVE	Unable to save file	ファイルにセーブできません		Impossible de sauvegarder ce fichier.	Impossibile salvare il file	Speichern nicht möglich	No se puede guardar el archivo.		19
+ERRMSG_UNABLE_TO_DELETE	Unable to delete file	ファイルを削除できません		Impossible d'effacer ce fichier.	Impossibile eliminare il file	Löschen nicht möglich	No se puede eliminar el archivo.		21
+ERRMSG_UNABLE_TO_DELETE_STEAM	An error prevented the game from deleting the Steam save.	エラーが起きたので Steam の;セーブを削除できませんでした	HW, Jun6: This string likely needs line breaks. Shows up in same popup box when quitting the game. JR, jun12: Fixed but need to check if it fits.	Une erreur est survenue, empêchant le jeu d'effacer la sauvegarde Steam.	Un errore ha impedito al gioco di eliminare il salvataggio di Steam.	Aufgrund eines Fehlers konnte das Spiel den Steam-Spielstand nicht löschen.	Un error impidió que el juego eliminara los datos guardados de Steam.		57
+ERRMSG_UNABLE_TO_SAVE_STEAM	An error prevented the game from making a Steam save.	エラーが起きたので Steam の;セーブを作成できませんでした	HW, Jun6: This string likely needs line breaks. Shows up in same popup box when quitting the game. JR, jun12: Fixed but need to check if it fits.	Une erreur est survenue, empêchant le jeu de créer une sauvegarde Steam.	Un errore ha impedito al gioco di salvare su Steam.	Aufgrund eines Fehlers konnte das Spiel keinen Steam-Spielstand erstellen.	Un error impidió que el juego guardara los datos en Steam.		53
+ERRMSG_CORRUPT_SAVE_PROGRESS	The save data is corrupt as progress info cannot be read. To recover, the game will delete the save data upon pressing Okay.	進捗情報が読み込めません。;セーブデータが破損しています。;OK を押すとセーブデータを削除します	B38 のOkayと訳語を揃える必要があります。今はOKとしてあります。 また、「回復するには」とありますがデータを削除する説明文が続きます。挙動を確認後、訳文を適宜修正願います JR, jun12: Fixed but need to check if it fits.	Les données sauvegardées sont corrompues et les infos de progression n'ont pu être lues. Pour rétablir le jeu, vos données seront effacées si vous appuyez sur OK.	I dati di salvataggio sono corrotti; impossibile leggere le informazioni sul progresso. Per ripristinare, il gioco eliminerà i salvataggi dopo aver premuto OK.	Der Speicherstand ist fehlerhaft. Fortschrittsinfo kann nicht gelesen werden. Zum Wiederherstellen löscht das Spiel den Speicherstand, sobald du "Okay" drückst.	Los datos guardados están dañados y no se puede leer la información de progreso. Para recuperarla, el juego eliminará los datos cuando pulses Aceptar.		124
+PROMPT_CONFIRM_EXITGAME	DO YOU WANT TO EXIT THE GAME?	ゲームを終了しますか？		VOULEZ-VOUS QUITTER LE JEU ?	VUOI USCIRE DAL GIOCO?	MÖCHTEST DU DAS SPIEL VERLASSEN?	¿QUIERES SALIR DEL JUEGO?		29
+HASHTAG_SWORCERY	#sworcery	#スキムス		#sworcery	#sworcery	#sworcery	#sworcery		9
+DIGIT_STRING	0123456789	０１２３４５６７８９		0123456789	0123456789	123456789	1.23E+08	IT: This string used to automatically delete 0s at the beginning of the string because of formatting, so they must be re-added manually. MR - I don't understand the problem, we can probably just cut and paste like I just did. IT: the 0 at beginning were deleted automatically for Italian and French by the default formatting, but the issue isn't relevant any more.	10
+HOLD_SHIELD_TO_HEAL	HOLD SHIELD TO HEAL	押し続けて回復	JR, jun12: HIROKO - this is new and needs a translation. HM, jun13: JJ - please check this in the new build and show it to me. If it's too tight we can consider 押し続けて回復.	MAINTENEZ LE BOUCLIER POUR GUÉRIR	TIENI PREMUTO LO SCUDO PER GUARIRE	SCHILD HALTEN ZUM HEILEN	MANTÉN PULSADO EL ESCUDO PARA CURARTE		19
+PRESS_START	PRESS <switch_button_l> + <switch_button_r>	<switch_button_l> + <switch_button_r> を押す		APPUYEZ SUR <switch_button_l> + <switch_button_r>	PREMI <switch_button_l> + <switch_button_r>	DRÜCKE <switch_button_l> + <switch_button_r>	PULSA <switch_button_l> + <switch_button_r>		43
+VIBRATION	VIBRATION	振動		VIBRATIONS	VIBRAZIONE	VIBRIEREN	VIBRACIÓN		9
+MOTION_CURSOR_SENSITIVITY	MOTION CURSOR SENSITIVITY	ジャイロカーソル感度		SENSIBILITÉ CURSEUR DE MOUVEMENT 	SENSIBILITÀ CURSORE MOTION	EMPFINDLICHKEIT DES BEWEGUNGSCURSORS	SENSIBILIDAD DEL CURSOR DE MOVIMIENTO	IT: Is "motion cursor" Nintendo terminology? Is it the cursor shown when you're using the motion controllers in TV mode? Opposed to "stick cursor" which is when you're using the Switch in handheld mode? MR - Yes I believe this is for a setting for sensitivity of the cursor in point and click mode. Stick cursor refers to when when you move the cursor using a thumbstick in gamepad mode.	25
+STICK_CURSOR_SENSITIVITY	STICK CURSOR SENSITIVITY	スティックカーソル感度		SENSIBILITÉ CURSEUR STICK	SENSIBILITÀ CURSORE STICK	EMPFINDLICHKEIT DES STICKCURSORS	SENSIBILIDAD DEL CURSOR DE JOYSTICK		24
+CONTROLS	CONTROLS	操作		COMMANDES	CONTROLLI	STEUERUNG	CONTROLES		8
+SETTINGS	SETTINGS	設定		PARAMÈTRES 	IMPOSTAZIONI	EINSTELLUNGEN	CONFIGURACIÓN		8
+OPTIONS	OPTIONS	オプション		OPTIONS	OPZIONI	OPTIONEN	OPCIONES		7
+MOTION_CURSOR	MOTION CURSOR	ジャイロカーソル		CURSEUR DE MOUVEMENTS	CURSORE MOTION	BEWEGUNGSCURSOR	CURSOR DE MOVIMIENTO		13
+STICK_CURSOR	STICK CURSOR	スティックカーソル		CURSEUR STICK	CURSORE STICK	STICKCURSOR	CURSOR DE JOYSTICK		12
+TOUCH_ORIENTED	TOUCH-ORIENTED	タッチ操作		ORIENTATION TACTILE	ORIENTATO AL TOUCH	TOUCH-OPTIMIERT	ORIENTACIÓN TÁCTIL	IT: is this the same as "optimized for use with touch screen"? MR - Kind of, yeah	14
+RETURN_TO_TITLESCREEN	RETURN TO MAIN MENU	メインメニューに戻る		RETOUR AU MENU PRINCIPAL	TORNA AL MENÙ PRINCIPALE	ZURÜCK ZUM HAUPTMENÜ	VOLVER AL MENÚ PRINCIPAL		19
+TUTORIAL_POINT_RECENTER	POINT AT THE SCREEN AND PRESS <switch_button_x> TO CENTER THE CURSOR	画面をポイントして<switch_button_x>を押すとカーソルを中央に戻す		POINTEZ L'ÉCRAN ET APPUYEZ SUR <switch_button_x> POUR CENTRER LE CURSEUR	PUNTA ALLO SCHERMO E PREMI <switch_button_x> PER CENTRARE IL CURSORE	ZEIGE AUF DEN BILDSCHIRM UND DRÜCKE <switch_button_x> UM DEN CURSOR ZU ZENTRIEREN	APUNTA A LA PANTALLA Y PULSA <switch_button_x> PARA CENTRAR EL CURSOR		68
+CNTRL_OPEN_MENU	<switch_button_plus> OPEN MENU	<switch_button_plus> メニューを開く		<switch_button_plus> OUVRIR MENU	<switch_button_plus> APRI MENÙ	<switch_button_plus>  MENÜ ÖFFNEN	<switch_button_plus> ABRIR MENÚ		30
+CNTRL_OPEN_MENU_JOY	<switch_button_plus>/ <switch_button_minus> OPEN MENU	<switch_button_plus>/ <switch_button_minus> メニューを開く		<switch_button_plus>/ <switch_button_minus> OUVRIR MENU	<switch_button_plus>/ <switch_button_minus> APRI MENÙ	<switch_button_plus>/ <switch_button_minus> MENÜ ÖFFNEN	<switch_button_plus>/ <switch_button_minus> ABRIR MENÚ		53
+CNTRL_OPEN_INVENTORY	<switch_button_minus> OPEN INVENTORY	<switch_button_minus> アイテムを開く		<switch_button_minus> OUVRIR INVENTAIRE	<switch_button_minus> APRI INVENTARIO	<switch_button_minus> INVENTAR ÖFFNEN	<switch_button_minus> ABRIR INVENTARIO		36
+CNTRL_MOVE_PLAYER	<switch_button_rightanalogstick> MOVE PLAYER	<switch_button_rightanalogstick> 移動		<switch_button_rightanalogstick>  DÉPLACER JOUEUR	<switch_button_rightanalogstick>  MUOVI GIOCATORE	<switch_button_rightanalogstick>  SPIELER BEWEGEN	<switch_button_rightanalogstick> MOVER PERSONAJE		44
+CNTRL_MOVE_CAMERA	<switch_button_dpad> MOVE CAMERA	<switch_button_dpad> カメラ移動		<switch_button_dpad> DÉPLACER CAMÉRA	<switch_button_dpad> MUOVI VISUALE	<switch_button_dpad> KAMERA BEWEGEN	<switch_button_dpad> MOVER CÁMARA		32
+CNTRL_MOVE_CURSOR	<switch_button_leftanalogstick> MOVE CURSOR	<switch_button_leftanalogstick> カーソル移動		<switch_button_leftanalogstick> DÉPLACER CURSEUR	<switch_button_leftanalogstick> MUOVI CURSORE	<switch_button_leftanalogstick> CURSOR BEWEGEN	<switch_button_leftanalogstick> MOVER CURSOR		43
+CNTRL_TOGGLE_ZOOM	<switch_button_y> TOGGLE ZOOM	<switch_button_y> ズーム切り替え		<switch_button_y> ZOOMER/DÉZOOMER	<switch_button_y> ATTIVA ZOOM	<switch_button_y> ZOOM UMSCHALTEN	<switch_button_y> ACERCAR/ALEJAR		29
+CNTRL_ATTACK	<switch_button_a> / <switch_button_r> TAP / SWORD	<switch_button_a> / <switch_button_r> タップ/剣で攻撃		<switch_button_a> / <switch_button_r> TOUCHER / ÉPÉE	<switch_button_a> / <switch_button_r> TOCCA / SPADA	<switch_button_a> / <switch_button_r> TIPPEN/SCHWERT	<switch_button_a> / <switch_button_r> TOCAR/ESPADA	Changed from <switch_button_a> SWORD ATTACK	49
+CNTRL_TOGGLESWORD	<switch_button_b> TOGGLE SWORD/DEFEND	<switch_button_b> 剣と防御の切り替え		<switch_button_b> ACTIVER ÉPÉE/DÉFENSE	<switch_button_b> ATTIVA SPADA/DIFESA	<switch_button_b> SCHWERT/VERTEIDIGUNGEN UMSCHALTEN	<switch_button_b> ALTERNAR ESPADA/DEFENSA		37
+CNTRL_TOUCH	TAP	タップ		TOUCHER	TOCCA	TIPPEN	TOCAR		3
+CNTRL_TAP	<switch_button_r> TAP	<switch_button_r> タップ		<switch_button_r> TOUCHER	<switch_button_r> TOCCA	<switch_button_r> TIPPEN	<switch_button_r> TOCAR		21
+CNTRL_TIPTAP	<switch_button_zr> TIP TAP	<switch_button_zr> トントンする		<switch_button_zr> TOUCHER	<switch_button_zr> TIP TAP	<switch_button_zr> TIPP-TIPP	<switch_button_zr> TOCAR	Removed from control screen	26
+CNTRL_PINCHZOOM	PINCH TO ZOOM	つまんでズーム		PINCEZ POUR ZOOMER	AVVICINA LE DITA PER INGRANDIRE	ZUSAMMENZIEHEN ZUM ZOOMEN	PELLIZCA PARA ACERCAR		13
+CNTRL_RECENTER_CURSOR	<switch_button_faceup> RECENTER CURSOR	<switch_button_faceup> カーソル戻し		<switch_button_faceup> RECENTRER CURSEUR	<switch_button_faceup> RICENTRA CURSORE	<switch_button_faceup> CURSOR NEUZENTRIEREN	<switch_button_faceup> RECENTRAR CURSOR		38
+CNTRL_POINT_TO_MOVE_CURSOR	POINT TO MOVE CURSOR	ポイントでカーソルを移動		POINTER POUR BOUGER LE CURSEUR	MUOVI IL CURSORE PUNTANDO	ZEIGEN ZUM BEWEGEN DES CURSORS	APUNTA PARA MOVER EL CURSOR		20
+CNTRL_ATTACK_JOY	<switch_button_faceright> / <switch_button_l> / <switch_button_r> TAP / SWORD	<switch_button_faceright> / <switch_button_l> / <switch_button_r> タップ/剣で攻撃		<switch_button_faceright> / <switch_button_l> / <switch_button_r> TOUCHER / ÉPÉE	<switch_button_faceright> / <switch_button_l> / <switch_button_r> TOCCA / SPADA	<switch_button_faceright> / <switch_button_l> / <switch_button_r> TIPPEN/SCHWERT	<switch_button_faceright> / <switch_button_l> / <switch_button_r> TOCAR/ESPADA	Should this also be TAP / SWORD?	77
+CNTRL_TOGGLESWORD_JOY	<switch_button_facedown> TOGGLE SWORD/DEFEND	<switch_button_facedown> 剣と防御の切り替え		<switch_button_facedown> ACTIVER ÉPÉE/DÉFENSE	<switch_button_facedown> ATTIVA SPADA/DIFESA	<switch_button_facedown> SCHWERT/VERTEIDIGUNGEN UMSCHALTEN	<switch_button_facedown> ALTERNAR ESPADA/DEFENSA		44
+CNTRL_TOGGLE_ZOOM_JOY	<switch_button_faceleft> TOGGLE ZOOM	<switch_button_faceleft> ズーム切り替え		<switch_button_faceleft> ZOOMER/DÉZOOMER	<switch_button_faceleft> ATTIVA ZOOM	<switch_button_faceleft> ZOOM UMSCHALTEN	<switch_button_faceleft> ACERCAR/ALEJAR		36
+CALIB_FLATSURFACE	PLACE THE JOY-CON ON A FLAT SURFACE UNTIL IT IS AT REST	Joy-Conを平らで安定した場所において、しばらくお待ちください		POSEZ LA MANETTE JOY-CON SUR UNE SURFACE PLANE JUSQU'À CE QU'ELLE SOIT IMMOBILE. 	POSIZIONA IL JOY-CON SU UNA SUPERFICIE PIATTA FINO A CHE È IMMOBILE	PLATZIERE DEN JOY-CON AUF EINE FLACHE OBERFLÄCHE, BIS ER ZUR RUHE GEKOMMEN IST	COLOCA EL JOY-CON EN UNA SUPERFICIE PLANA HASTA QUE ESTÉ INMÓVIL.	IT: "until it is at rest". The joy-con? What's the purpose of putting it on a flat surface? Gameplay or calibrating of some sort? It looks like this is indeed the procedure for calibrating the joy-cons: https://en-americas-support.nintendo.com/app/answers/detail/a_id/22340/~/how-to-calibrate-the-controllers. "Until is at rest" means without touching it basically. The joy-con has to lay completely still. MR - Yeah, I am not sure if they normally have official translations for this stuff or not?	55
+CALIB_PICKUP	PICK UP THE JOY-CON	Joy-Conを持ち上げてください		PRENEZ LA JOY-CON	PRENDI IL JOY-CON	NIMM DEN JOY-CON	LEVANTA EL JOY-CON.		19
+CALIB_POINT	HOLD THE JOY-CON AS SHOWN AND POINT AT THE SCREEN. PRESS <switch_button_faceup> TO CENTER THE CURSOR.	画像のようにJoy-Conを<br/>持って画面に向けて<br/>ください。<br/><switch_button_faceup>を押すと、カーソルを<br/>画面の中央に移動します。	[2018/10/1 ytk] added line brakes.	MAINTENEZ LA JOY-CON COMME INDIQUÉ ET POINTEZ L'ÉCRAN. APPUYEZ SUR <switch_button_faceup> POUR CENTRER LE CURSEUR.	IMPUGNA IL JOY-CON COME MOSTRATO E PUNTA ALLO SCHERMO. PREMI <switch_button_faceup> PER CENTRARE IL CURSORE.	HALTE DIE JOY-CON WIE GEZEIGT UND RICHTE IHN AUF DEN BILDSCHIRM DRÜCKE <switch_button_faceup>, UM DEN CURSOR ZU ZENTRIEREN.	SUJETA EL JOY-CON COMO SE INDICA Y APUNTA A LA PANTALLA. PULSA <switch_button_faceup> PARA CENTRAR EL CURSOR.		101
+CALIB_RECENTER	REMEMBER YOU CAN PRESS <switch_button_faceup> TO RECENTER ANY TIME. PRESS ANY BUTTON TO CONTINUE.	<switch_button_faceup>を押すと、いつでも<br/>カーソルを中央に戻すことが<br/>できます。	[2018/10/1 ytk] added line brakes.	APPUYEZ SUR <switch_button_faceup> POUR RECENTRER À TOUT MOMENT. APPUYEZ SUR UN BOUTON POUR CONTINUER.	PREMI <switch_button_faceup> PER RICENTRARE IN QUALSIASI MOMENTO. PREMI UN PULSANTE PER CONTINUARE.	DENK DARAN, DASS DU JEDERZEIT <switch_button_faceup> ZUM NEUZENTRIEREN DRÜCKEN KANNST. DRÜCKE IRGENDEINE TASTE ZUM FORTFAHREN.	RECUERDA QUE PUEDES PULSAR <switch_button_faceup> PARA RECENTRAR EL CURSOR CUANDO QUIERAS. PULSA UN BOTÓN PARA CONTINUAR.		97
+SAVING_NINSWITCH	SAVING	セーブ中		Sauvegarde	SALVATAGGIO	SPEICHERT	GUARDANDO	NEW for Switch Cert - I updated FIGS using translation from STF so they are probably already fine?	
+SHEATHE_NINSWITCH	SHEATHE?	しまう？		RENGAINER ? 	SFODERA?	WEGSTECKEN?	¿ENVAINAR?	NEW Sept 10	
+FRENCH_SPECIAL	Ç ç « » ‹ › € À Â Ä È É Ê Ë Î Ï Ô Œ Ù Û Ü Ÿ Ç ç « » €	Ç ç « » ‹ › € À Â Ä È É Ê Ë Î Ï Ô Œ Ù Û Ü Ÿ Ç ç « » €		Ç ç « » ‹ › € À Â Ä È É Ê Ë Î Ï Ô Œ Ù Û Ü Ÿ Ç ç « » €	Ç ç « » ‹ › € À Â Ä È É Ê Ë Î Ï Ô Œ Ù Û Ü Ÿ Ç ç « » €	Ç ç « » ‹ › € À Â Ä È É Ê Ë Î Ï Ô Œ Ù Û Ü Ÿ Ç ç « » €	Ç ç « » ‹ › € À Â Ä È É Ê Ë Î Ï Ô Œ Ù Û Ü Ÿ Ç ç « » €	NO TRANSLATION NEEDED - Added August 16	
+ITALIAN_SPECIAL	À È É Ì Ò Ó Ù º ª « » ‹ › € ª	À È É Ì Ò Ó Ù º ª « » ‹ › € ª		À È É Ì Ò Ó Ù º ª « » ‹ › € ª	À È É Ì Ò Ó Ù º ª « » ‹ › € ª	À È É Ì Ò Ó Ù º ª « » ‹ › € ª	À È É Ì Ò Ó Ù º ª « » ‹ › € ª	NO TRANSLATION NEEDED - Added August 16	
+GERMAN_SPECIAL	Ä ä Ö ö Ü ü ẞ ß	Ä ä Ö ö Ü ü ẞ ß		Ä ä Ö ö Ü ü ẞ ß	Ä ä Ö ö Ü ü ẞ ß	Ä ä Ö ö Ü ü ẞ ß	Ä ä Ö ö Ü ü ẞ ß	NO TRANSLATION NEEDED - Added August 16	
+SPANISH_SPECIAL	Á É Í Ó Ú Ñ Ü ¿ ¡ º ª « » ‹ › €	Á É Í Ó Ú Ñ Ü ¿ ¡ º ª « » ‹ › €		Á É Í Ó Ú Ñ Ü ¿ ¡ º ª « » ‹ › €	Á É Í Ó Ú Ñ Ü ¿ ¡ º ª « » ‹ › €	Á É Í Ó Ú Ñ Ü ¿ ¡ º ª « » ‹ › €	Á É Í Ó Ú Ñ Ü ¿ ¡ º ª « » ‹ › €	NO TRANSLATION NEEDED - Added August 16	
+TOUCHTRONIC_NINSWITCH	TOUCHTRONIC	タッチ操作		TOUCHTRONIC	TOUCHTRONICO	TOUCHTRONIC	TÁCTIL	Stylized replacement for control scheme names	for Touch-Oriented - Added Sep 5
+POINTCLICK_NINSWITCH	POINT & CLICK	ポインター		POINT & CLICK	PUNTA E CLICCA	POINT & CLICK	APUNTAR Y HACER CLIC	Stylized replacement for control scheme names	for Motion-Oriented - sep 5
+FAMICOM_NINSWITCH	FAMICOM	ファミコン		FAMICOM	FAMICOM	FAMICOM	FAMICOM	Stylized replacement for control scheme names	for Joystick-Oriented - sep 5
+	Thumbstick Cursor Sensitivity 	スティックカーソル感度		Sensibilité du curseur du stick analogique	Sensibilità del cursore dello stick	Curser-Empfindlichkeit für Stick	Sensibilidad del cursor del joystick		Added Sept 12
+SOUTHPAW_NINSWITCH	SOUTHPAW	左利き		GAUCHER	MANCINO	LINKSHÄNDER	ZURDO/A		Added Sept 12
+NORTHPAW_NINSWITCH	NORTHPAW	右利き		DROITIER	DESTRO	RECHTSHÄNDER	DIESTRO/A		Added Sept 12
+JOYCON_STRAP_MSG_NINSWITCH	When using the detached Joy-Con controllers, follow the instructions, attach the straps, and hold the controllers tightly.	取り外したJoy-Conを使うときは、説明書の手順に従い、ストラップを装着し、しっかりと握って使用してください。		Lorsque vous utilisez les manettes Joy-Con détachées, suivez les instructions, attachez les dragonnes et maintenez les Joy-Con fermement dans vos mains.	Quando utilizzi i Joy-Con staccati dalla console, segui le istruzioni, installa i laccetti e impugna i controller con fermezza.	Folge den Anweisungen, wenn du Joy-Con verwendest, befestige die Bänder und halte die Controller gut fest.	Cuando uses los controles Joy-Con desmontables, sigue las instrucciones, fija las correas y sujétalos bien.		Added Sept 12
+PHOTOSENSITIVIY_MSG_NINSWITCH	A very small percentage of individuals may experience epileptic seizures when exposed to certain visual images, including light patterns or flashing lights. Exposure to certain patterns or backgrounds on a computer screen, or while playing video games, may induce an epileptic seizure in these individuals. Certain conditions may induce previously undetected epileptic symptoms even in persons who have no history of prior seizures or epilepsy.	ごくまれに、強い光や点滅を含む特定の映像をご覧になった際に、光過敏性の発作が起きる方がいらっしゃいます。こうした体質の方は、画面に表示された特定の模様ないし背景を見た際、あるいはゲームをプレイ中に、発作が誘発される可能性があります。またこうした症状は、これまでに発作やてんかん症状のない方でも同様に誘発される可能性があります。		Un faible pourcentage d'individus peut être pris de crises d'épilepsie lorsqu'ils sont soumis à certaines images, comme des motifs lumineux ou des lumières clignotantes. L'exposition à certains écrans et certaines animations sur un écran, ou en jouant à des jeux vidéo, peut entraîner une crise d'épilepsie chez certaines personnes. Une série de circonstances peut mener à ces crises, même si elles n'avaient jamais été détectées auparavant chez des sujets sans historique de crises d'épilepsies.	Una percentuale molto contenuta di persone potrebbe subire un attacco epilettico se esposta a determinati immagini o schemi di luci fisse o intermittenti. Anche alcuni pattern o sfondi sullo schermo del computer o all'interno di videogiochi potrebbero avere lo stesso effetto. In determinate condizioni, possono verificarsi episodi epilettici persino in soggetti che non hanno mai sofferto di crisi convulsive o epilessia.	Bei einem kleinen Prozentsatz der Bevölkerung können während des Betrachtens bestimmter visueller Bilder, einschließlich gewisser Muster oder Hintergründe auf einem Computerbildschirm, sowie beim Spielen von Videospielen epileptische Erscheinungen auftreten. Auch bei Personen, die bislang keine Anfälle oder Epilepsie hatten, können bei bestimmten Umständen unentdeckte epileptische Veranlagung nicht ausgeschlossen werden.	Existe la posibilidad de que un porcentaje pequeño de personas sufra ataques epilépticos ante la exposición a imágenes determinadas, entre las que se incluyen patrones lumínicos o luces parpadeantes. La exposición a patrones definidos o fondos en una pantalla de computadora o durante un videojuego puede provocar un ataque de epilepsia a dichas personas. Algunas condiciones pueden instigar síntomas epilépticos no detectados incluso en personas que no tienen antecedentes de convulsiones ni epilepsia.		Added Sept 12
+PHOTOSENSITIVIY_MSG_NINSWITCH2	If you, or anyone in your family, have an epileptic condition, consult your physician prior to playing. If you experience any of the following symptoms while playing a video or computer game – dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions – discontinue use IMMEDIATELY and consult your physician before resuming play.	ご自身またはご家族の方がてんかん等の症状をお持ちの場合は、ゲームをプレイする前に医師にご相談ください。またゲーム中に、めまい、視覚の変化、目元の痙攣、意識の喪失、方向感覚の喪失、あらゆる不随意運動、痙攣といった症状が生じた場合には直ちにゲームを中止し、再開する前に医師にご相談ください。		Si vous, ou l'un des membres de votre famille souffrez d'épilepsie, veuillez consulter votre médecin avant de jouer. Si vous rencontrez l'un des symptômes suivant en jouant à un jeu vidéo - vertiges, vision altérée, contractions musculaires, pertes de sens, désorientation, mouvements involontaires et convulsions, veuillez cesser IMMÉDIATEMENT de jouer et consulter votre médecin avant de reprendre votre session de jeu.	Se tu o qualcuno della tua famiglia soffrite di epilessia, consultate il vostro medico di fiducia prima di giocare. Nel caso dovessi riscontrare uno dei seguenti sintomi mentre guardi un video o giochi a un videogioco (capogiri, disturbi della vista, spasmi degli occhi o muscolari, perdita della coscienza, disorientamento o qualsiasi forma di movimento o convulsione involontari), interrompi IMMEDIATAMENTE l'attività e consulta un medico prima di giocare di nuovo.	 Befrage einen Arzt, bevor du spielst, wenn bei dir oder einem Mitglied deiner Familie Epilepsie vorliegt. Unterbrich das Spiel SOFORT, wenn bei dir folgende Symptome auftreten sollten: Schwindelgefühle, Sehprobleme, Augen- und Muskelzuckungen, Wahrnehmungsverlust, Desorientierung, unwillkürliche Bewegungen oder Krämpfe. Konsultiere einen Arzt, bevor du weiterspielst.	Si tú o alguien de tu familia sufren de epilepsia, consulta a un médico antes de jugar. Deja de usar el juego de inmediato y consulta a un médico antes de retomarlo si presentas alguno de los síntomas siguientes mientras juegas: mareos, problemas en la vista, contracciones oculares o musculares, pérdida de conocimiento, desorientación, cualquier movimiento involuntario o convulsiones.		Added Sept 12
+POINTCLICK_CURSORSENS_NINSWITCH	POINT & CLICK CURSOR SENSITIVITY	ポインターカーソル感度		SENSIBILITÉ CURSEUR POINT & CLICK			SENSIBILIDAD DEL CURSOR DE APUNTAR Y HACER CLIC		
+FAM_CURSOR_NOT_USED	FAMICOM Cursor Sensitivity 	ファミコンカーソル感度		SENSIBILITÉ CURSEUR FAMICOM			Sensibilidad del cursor de FAMICOM		
+POINTCLICK_PROMPT_NINSWITCH	Point & Click Mode allows you to play with a single Joy-Con as a pointer. This mode is best experienced when played on a television. Are you sure you want to enable Point & Click mode?	ポインターモードでは、1つのJoy-Conをポインターとして使用します。このモードを選択する際は、テレビ画面でのプレイをお勧めします。ポインターモードを有効にしますか？		Le mode Point & Click vous permet de jouer avec une seule Joy-Con en guise de pointeur. Ce mode est plus adapté à un jeu sur télévision. Êtes-vous sûr d'accéder au mode Point & Click ?			El modo Apuntar y hacer clic permite jugar con un solo Joy-Con como puntero. Se disfruta más cuando juegas en un televisor. ¿Seguro que quieres activar el modo Apuntar y hacer clic?		NEW - Might need to split this into 2?
+POINTCLICK_PROMPT_ALT_NINSWITCH	Point & Click allows you to play with a single Joy-Con as a pointer and is best experienced when played on a television. Are you sure you want to enable Point & Click controls?	ポインター操作では、1つのJoy-Conをポインターとして使用します。このモードを選択する際は、テレビ画面でのプレイをお勧めします。ポインター操作を有効にしますか？		Le mode Point & Click vous permet de jouer avec une seule manette Joy-Con comme pointeur. Ce mode est plus adapté à un jeu sur téléviseur. Activer le mode Point & Click ?	La modalità Punta e clicca ti permette di giocare con un solo Joy-Con ed è pensata per l'utilizzo con il televisore. Vuoi davvero attivare i controlli Punta e clicca?	Mit Zeigen & KLicken kannst du mit einem Joy-Con als Zeiger spielen. Das funktioniert am besten auf einem Fernseher. Möchtest du Zeigen & Klicken wirklich aktivieren?	El modo Apuntar y hacer clic permite jugar con un solo Joy-Con como puntero. Se disfruta más cuando juegas en un televisor. ¿Seguro que quieres activar el modo Apuntar y hacer clic?		NEW VARIANT
+SWAP_STICKS_NINSWITCH	SWAP THUMBSTICKS	スティック操作反転		INVERSER STICKS	INVERTI STICK	STICKS SPIEGELN	INTERCAMBIAR JOYSTICKS		NEW
+PLAY_MENU_NINSWITCH	PLAY	ゲームをプレイ		JOUER	GIOCA	Spielen	JUGAR	Translations from STF  English was PLAY GAME but these translations look to just say PLAY	NEW
+CREDITS_MENU_NINSWITCH	CREDITS	スタッフロール		CRÉDITS	RINGRAZIAMENTI	MITWIRKENDE	CRÉDITOS	Translations from STF	
+GAMEPAD_NINSWITCH	GAMEPAD	ゲームパッド		MANETTE	COMANDI DEL GAMEPAD	GAMEPAD	GAMEPAD		NEW
+	CONTROLLER	コントローラー		MANETTE			CONTROL		
+CNTRL_MOVE_PLAYER_ALT	<switch_button_leftanalogstick> MOVE PLAYER	<switch_button_leftanalogstick> 移動		<switch_button_leftanalogstick> DÉPLACER JOUEUR	<switch_button_leftanalogstick> MUOVI GIOCATORE	<switch_button_leftanalogstick> SPIELER BEWEGEN	<switch_button_leftanalogstick> MOVER PERSONAJE	This is just an icon variation on previously existing entry.	43
+CNTRL_MOVE_CURSOR_ALT	<switch_button_rightanalogstick> MOVE CURSOR	<switch_button_rightanalogstick> カーソル移動		<switch_button_rightanalogstick> DÉPLACER CURSEUR	<switch_button_rightanalogstick> MUOVI CURSORE	<switch_button_rightanalogstick> CURSOR BEWEGEN	<switch_button_rightanalogstick> MOVER CURSOR	This is just an icon variation on previously existing entry.	44
+SITCK_SENSITIVITY_NINSWITCH	STICK SENSITIVITY	スティック感度		SENSIBILITÉ STICK	SENSIBILITÀ STICK	STICKEMPFINDLICHKEIT	SENSIBILIDAD DEL JOYSTICK		
+MOTION_SENSITIVITY_NINSWITCH	MOTION SENSITIVITY	動き感度		SENSIBILITÉ MOUVEMENT	SENSIBILITÀ MOVIMENTO	BEWEGUNGSEMPFINDLICHKEIT	SENSIBILIDAD DE MOVIMIENTO		
+POINTER_SENSITIVITY_NINSWITCH	POINTER SENSITIVITY	ポインター感度		SENSIBILITÉ POINTEUR	SENSIBILITÀ PUNTATORE	ZEIGEREMPFINDLICHKEIT	SENSIBILIDAD DEL PUNTERO		
+ENABLE_POINTCLICK_NINSWITCH	ENABLE POINT & CLICK CONTROLS?	ポインター操作を有効にしますか？		AUTORISER LES CONTRÔLES POINT & CLICK ?	ATTIVARE CONTROLLI PUNTA E CLICCA?	ZEIGEN & KLICKEN AKTIVIEREN?	¿HABILITAR CONTROLES DE APUNTAR Y HACER CLIC?		
+ENABLE_GAMEPAD_NINSWITCH	ENABLE GAMEPAD CONTROLS?	ゲームパッド操作を有効にしますか？		AUTORISER LES CONTRÔLES MANETTE ?	ATTIVARE CONTROLLI GAMEPAD?	GAMEPAD AKTIVIEREN?	¿HABILITAR CONTROLES DE GAMEPAD?		
+ENABLE_FAMICOM_NINSWITCH	ENABLE FAMICOM CONTROLS?	ファミコン操作を有効にしますか？		AUTORISER LES CONTRÔLES FAMICOM ?	ATTIVARE CONTROLLI FAMICON?	FAMICON AKTIVIEREN?	¿HABILITAR CONTROLES DE FAMICOM?		
+ENABLE_TOUCHTRONIC_NINSWITCH	ENABLE TOUCHTRONIC CONTROLS?	タッチ操作を有効にしますか？		AUTORISER LES CONTRÔLES TOUCHTRONIC ?	ATTIVARE CONTROLLI TOUCHTRONICI?	TOUCHTRONIC AKTIVIEREN?	¿HABILITAR CONTROLES TÁCTILES?		
+DRAW_SWORD_DEFEND	DRAW SWORD/DEFEND	剣を抜く/防御		ÉPÉE/DÉFENDRE	SPADA/DIFESA	SCHWER ZIEHEN/VERTEIDIGEN	DESENVAINAR/DEFENDER		
+DRAW_SWORD_SHIELD	DRAW SWORD/SHIELD	剣を抜く/盾		ÉPÉE/BOUCLIER	SPADA/SCUDO	SCHWERT/SCHILD ZIEHEN	DESENVAINAR/ESCUDO		
+PRESS_LR_CONTROLLER_NINSWITCH	PRESS <switch_button_l> + <switch_button_r> ON YOUR CONTROLLER	コントローラーの<switch_button_l>と<switch_button_r>を押す	[2018/10/1 ytk] changed "コントローラーで" to "コントローラーの" for better wording.	APPUYEZ SUR <switch_button_l> + <switch_button_r> AVEC VOTRE MANETTE.	PREMI <switch_button_l> + <switch_button_r> SUL CONTROLLER	DRÜCKE <switch_button_l> + <switch_button_r> AUF DEINEM CONTROLLER	PULSA <switch_button_l> + <switch_button_r> EN EL CONTROL		
+PRESS_A_NINSWITCH	PRESS <switch_button_a> WHEN YOU'RE READY	準備ができたら<switch_button_a> を押す		APPUYEZ SUR <switch_button_a>  LORSQUE VOUS ÊTES PRÊT.	PREMI <switch_button_a>  QUANDO VUOI	DRÜCKE <switch_button_a> , WENN DU SOWEIT BIST	PULSA <switch_button_a>  CUANDO QUIERAS		
+SELECT_NINSWITCH	SELECT	選択		SÉLECT.	SELEZIONA	AUSWÄHLEN	SELECCIONAR		
+CHOOSE_NINSWITCH	CHOOSE	選ぶ		CHOISIR	SCEGLI	WÄHLEN	ELEGIR		
+FAMICOM_CONTROLS_BLURB_NINSWITCH	BEST PLAYED WITH A GAMEPAD OR IN HANDHELD MODE. 	ゲームパッドまたは携帯モードでのプレイを;~推奨します。	[2018/10/2 ytk] added line berakes in order to fit the text box	OPTIMISÉ AVEC UNE MANETTE DE JEU OU EN MODE PORTABLE	PENSATI PER GAMEPAD O IN MODALITÀ PORTATILE	SPIELT SICH AM BESTEN MIT GAMEPAD ODER IM HANDHELD-MODUS.	SE RECOMIENDA JUGAR CON UN GAMEPAD O EN MODO DE MANO.		
+AUTOSAVE_MSG	THIS GAME UTILIZES AUTO-SAVING, WHEN THIS ICON < SAVING_RECORD> IS ON SCREEN DO NOT TURN OFF THE CONSOLE	このゲームでは自動的にセーブを行います。このアイコン< SAVING_RECORD>が表示されている間は、本体の電源を切らないでください。		CE JEU UTILISE LES SAUVEGARDES AUTOMATIQUES, LORSQUE L'ICÔNE < SAVING_RECORD> S'AFFICHE À L'ÉCRAN, N'ÉTEIGNEZ PAS LA CONSOLE.	QUESTO GIOCO UTILIZZA L'AUTOSALVATAGGIO, NON SPEGNERE LA CONSOLE QUANDO VEDI QUESTA ICONA < SAVING_RECORD>	SPIEL SPEICHERT AUTOMATISCH. KONSOLE NICHT AUSSCHALTEN, WENN <SAVING_RECORD> ERSCHEINT.	EL JUEGO USA GUARDADO AUTOMÁTICO. NO APAGUES LA CONSOLA CUANDO VEAS ESTE ÍCONO: < SAVING_RECORD>.		
+PRESS_LR_JOYCON_NINSWITCH	PRESS <switch_button_sl> + <switch_button_sr> ON THE JOY-CON	Joy-Conで<switch_button_sl>と<switch_button_sr>を押してください		APPUYEZ SUR <switch_button_sl> + <switch_button_sr> AVEC LA JOY-CON	PREMI <switch_button_sl> + <switch_button_sr> SUL JOY-CON	DRÜCKE <switch_button_sl> + <switch_button_sr> AUF DEM JOY-CON	PULSA <switch_button_sl> + <switch_button_sr> EN EL JOY-CON		
+REMOVE_PRESS_LR_JOYCON_NINSWITCH	REMOVE JOY-CON AND PRESS L & R	Joy-Conを取り外してLとRを押してください		RETIREZ LA JOY-CON ET APPUYEZ SUR L & R	RIMUOVI IL JOY-CON E PREMI L + R	ENTFERNE JOY-CON UND DRÜCKE L & R	QUITA EL JOY-CON Y PULSA L + R		
+THUMBSTICK_SENS_NINSWITCH	THUMBSTICK SENSITIVITY	スティック感度		SENSIBILITÉ STICK	SENSIBILITÀ STICK	STICKEMPFINDLICHKEIT	SENSIBILIDAD DE JOYSTICKS		
+UNSHEATHE_DEFEND_NINSWITCH	UNSHEATHE/DEFEND	剣を抜く/防御		DÉGAINER/DÉFENDRE	SFODERA/DIFENDITI	ZIEHEN/VERTEIDIGEN	DESENVAINAR/DEFENDER		
+UNSHEATHE_USE_SHIELD_NINSWITCH	UNSHEATHE/USE SHEILD	剣を抜く/盾を使う		DÉGAINER/UTILISER BOUCLIER	SFODERA/UTILIZZA SCUDO	ZIEHEN/SCHILD NUTZEN	DESENVAINAR/USAR ESCUDO		
+CNTRLINFO_CANCEL_NINSWITCH	<switch_button_b> CANCEL	<switch_button_b> キャンセル		<switch_button_b> ANNULER	<switch_button_b> ANNULLA	<switch_button_b> ABBRECHEN	<switch_button_b> CANCELAR		
+CNTRLINFO_CANCEL_ALT_NINSWITCH	<switch_button_facedown> CANCEL	<switch_button_facedown> キャンセル		<switch_button_facedown> ANNULER	<switch_button_facedown> ANNULLA	<switch_button_facedown> ABBRECHEN	<switch_button_facedown> CANCELAR		
+CNTRLINFO_CONTINUE_ALT_NINSWITCH	<switch_button_faceright> CONTINUE	<switch_button_faceright> 続ける		<switch_button_faceright> CONTINUER	<switch_button_faceright> CONTINUA	<switch_button_faceright> WEITER	<switch_button_faceright> CONTINUAR		
+TOUCH_NINSWITCH	TOUCH	タッチ		TOUCHER	TOCCA	BERÜHREN	TOCA		
+FAMICOM_CONTROLS_BLURB_ALT_NINSWITCH	PLAY WITH A CONTROLLER OR IN HANDHELD MODE. 	コントローラーまたは携帯モードでのプレイを;~推奨します。	[2018/10/2 ytk] added line berakes in order to fit the text box	OPTIMISÉ AVEC UNE MANETTE DE JEU OU EN MODE PORTABLE	GIOCA CON UN CONTROLLER O IN MODALITÀ PORTATILE.	SPIELT SICH AM BESTEN MIT CONTROLLER ODER IM HANDHELD-MODUS.	JUEGA CON UN CONTROL O EN MODO DE MANO.		
+TOUCHTRONIC_CONTROLS_BLURB_ALT_NINSWITCH	IN HANDHELD MODE YOU CAN ALSO USE TOUCH CONTROLS. 	携帯モードでは、タッチ操作も;~可能になります。	[2018/10/2 ytk] added line berakes in order to fit the text box	JOUEZ EN MODE PORTABLE POUR UTILISER LA MANETTE ET LES CONTRÔLES DES TOUCHES. 	PUOI USARE I COMANDI TOUCH ANCHE IN MODALITÀ PORTATILE.	IM HANDHELD-MODUS KANNST DU AUCH DIE TOUCH-STEUERUNG VERWENDEN.	EN MODO DE MANO TAMBIÉN PUEDES USAR LOS CONTROLES TÁCTILES.		
+CONTROLLER_CONTROLS_NINSWITCH	CONTROLLER	コントローラー	MR - Guess based on google	MANETTE	CONTROLLER	CONTROLLER	CONTROL		
+FAMICOM_CONTROLS_BLURB_ALT2_NINSWITCH	USE A THUMBSTICK BASED CURSOR WITH A CONTROLLER OR IN HANDHELD MODE. 	コントローラーまたは携帯モードにおいて;スティックでカーソルを動かします。		UTILISEZ UN CURSEUR AU STICK AVEC LA MANETTE OU EN MODE PORTABLE.	UTILIZZA UN CURSORE MOSSO DA UNO STICK CON IL CONTROLLER O IN MODALITÀ PORTATILE.	VERWENDE EINEN CURSOR MIT DEM STICK ODER SPIELE IM HANDHELD-MODUS.	USA UN CURSOR QUE CONTROLAS CON EL JOYSTICK O EN MODO DE MANO.		
+CONSOLE_NINSWITCH	CONSOLE	本体		CONSOLE	CONSOLE	KONSOLE	CONSOLA		
+CLASSIC_CONTROLS_BLURB_ALT_NINSWITCH	CLASSIC	クラシック		CLASSIQUE	CLASSICO	KLASSIK	CLÁSICO		
+NOTHING_NOPE	Nintendo Switch QA support courtesy of Testronic Labs.	Nintendo Switchにおける品質管理は、;Testronic Labsの協力で実施されました。		Le support QA de Nintendo Switch est une gracieuseté de Testronic Labs.	Supporto per Nintendo QA per gentile concessione di Testronic Labs.	Nintendo Switch QS-Unterstützung mit freundlicher Genehmigung von Testronic Labs.	El soporte de control de calidad de Nintendo Switch es cortesía de Testronic Labs.	Google placeholder translations	
+NOTHING_NOPE2	Additional Japanese localization support provided by Yutaka Ohbuchi, John Ricciardi and Masanobu Suto.	日本語の追加ローカライズサポートは、;大渕豊、ジョン・リカーディ、;および首藤真信により実施されました。		Yutaka Ohbuchi, John Ricciardi et Masanobu Suto apportent également leur aide.	Supporto aggiuntivo per la localizzazione giapponese fornito da Yutaka Ohbuchi, John Ricciardi e Masanobu Suto.	Zusätzliche Unterstützung bei der japanischen Lokalisierung durch Yutaka Ohbuchi, John Ricciardi und Masanobu Suto.	Soporte adicional de localización en japonés proporcionado por Yutaka Ohbuchi, John Ricciardi y Masanobu Suto.	Google placeholder translations	
+LOOK_AROUND_NINSWITCH	LOOK AROUND?	見回す？		REGARDE AUTOUR?	GUARDATI INTORNO?	UMSCHAUEN?	¿MIRA ALREDEDOR?	Google placeholder translations	
+OMDC_CHANGE	This project was made possible with the financial support of Ontario Creates.	このプロジェクトは; Ontario Media Development Corporation（OMDC）;からの経済的支援を受けて実現されました。		Ce projet a été rendu possible grâce à l'aide financière de la Ontario Media Development Corporation (OMDC	Questo progetto è stato reso possibile dal supporto finanziario della Ontario Media Development Corporation (OMDC).	Dieses Projekt wurde ermöglicht durch die finanzielle Unterstützung der Ontario Media Development Corporation (OMDC).	Este proyecto fue posible gracias al apoyo financiero de la Ontario Media Development Corporation (OMDC).	Google placeholder translations	
+CNTRL_PINCH_Y_ZOOM	Pinch / <switch_button_y> ZOOM	つまん / <switch_button_y> ズーム切り替え		PINCEZ / <switch_button_y> ZOOMER/DÉZOOMER	PIZZICO / <switch_button_y> ATTIVA ZOOM	FINGER KLEMMEN / <switch_button_y> ZOOM	PELLIZCA / <switch_button_y> ACERCAR/ALEJAR	Google placeholder translations	
+LBL_MOVEPLAYER	MOVE PLAYER <switch_button_rightanalogstick>	移動 <switch_button_rightanalogstick>		DÉPLACER JOUEUR <switch_button_rightanalogstick>	MUOVI GIOCATORE <switch_button_rightanalogstick>	SPIELER BEWEGEN <switch_button_rightanalogstick>	MOVER PERSONAJE <switch_button_rightanalogstick>	Google placeholder translations	44
+LBL_MOVECURSOR	MOVE CURSOR <switch_button_leftanalogstick>	カーソル移動 <switch_button_leftanalogstick>		DÉPLACER CURSEUR <switch_button_leftanalogstick>	MUOVI CURSORE <switch_button_leftanalogstick>	CURSOR BEWEGEN <switch_button_leftanalogstick>	MOVER CURSOR <switch_button_leftanalogstick>	Google placeholder translations	43
+LBL_MOVEPLAYER_ALT	MOVE PLAYER <switch_button_leftanalogstick>	移動 <switch_button_leftanalogstick>		DÉPLACER JOUEUR <switch_button_leftanalogstick>	MUOVI GIOCATORE <switch_button_leftanalogstick>	SPIELER BEWEGEN <switch_button_leftanalogstick>	MOVER PERSONAJE <switch_button_leftanalogstick>	Google placeholder translations	43
+LBL_MOVECURSOR_ALT	MOVE CURSOR <switch_button_rightanalogstick>	カーソル移動 <switch_button_rightanalogstick>		DÉPLACER CURSEUR <switch_button_rightanalogstick>	MUOVI CURSORE <switch_button_rightanalogstick>	CURSOR BEWEGEN <switch_button_rightanalogstick>	MOVER CURSOR <switch_button_rightanalogstick>	Google placeholder translations	44
+	MOVEMENT								
+	PLAYER								
+	CURSOR								
