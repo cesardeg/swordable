@@ -21,8 +21,8 @@ DOOR_SIDEBMEADOW	The Scythian			Encontramos una puerta pequeña sin pomo hecha d
 DOOR_UPSLOPEWOODS1	The Scythian			Una puerta cerraba el antiguo camino hacia Mingi Tau, justo en el muro de piedra.					
 DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se escondía entre la maleza, debajo del antiguo camino que lleva hacia Mingi Tau. #moongrotto					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
-LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador de leña leñaba la leña. #obviously #woodchopping			71	007.jpg	7E+71
-				Los montañeses del Cáucaso le decían Amileño y parecía agradable.					
+LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador de leña leñaba la leña. #obviously #woodchopping			71	007.jpg	70E70
+				Los montañeses del Cáucaso le decían Amileño y parecía buena gente.					
 				Amileño sabía todo sobre nuestro funesto cometido y accedió a guiarnos por el antiguo camino.					
 				Era obvio que el asunto no le entusiasmaba nada.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		El leñador nos esperó para continuar por el antiguo camino.			12	008.jpg	U0D88
@@ -43,7 +43,7 @@ LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos el Megatom
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		A la luz de la inminente tormenta, Amileño admitió que en ese momento tenía los nervios de punta.					
 				¿Será que Amileño solo quería espantarnos? #yes #no #maybe					
 				En cualquier caso, lo mejor era quedarse a resguardo durante algún tiempo.					
-QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Logramos conseguir el Megatomo. ¡Somos muy listos! #gotmegatome			40	011.jpg	81C1E
+QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos el Megatomo. ¡Somos muy listos! #gotmegatome			40	011.jpg	81C1E
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
@@ -154,7 +154,7 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			En el Claro Trigonal, más allá de la vas
 				No quedó claro si el fantasma nos animaba o nos prevenía.					
 				Le contamos al fantasma de nuestras intenciones de detonar el Megatomo en la cima de Mingi Tau y liberar a la Masa Gogolítica de la inmortalidad.					
 			Archetype/trifecta	Le preguntamos sobre la Tríada Trigonal y la ubicación de los trigones restantes, pero su respuesta fue irritantemente ambigua.					
-				"""Los trigones restantes solo existen en los sueños de los montañeses."""			43	024.jpg	8.2E+46
+				"""Los trigones restantes solo existen en los sueños de los montañeses."""			43	024.jpg	82E45
 				"""Localizar los trigones restantes no es cuestión de dónde, sino de cuándo y cómo."""					
 				Desde luego, el fantasma resplandeciente habló muchas cosas confusas que no ayudaban para nada.					
 GRAVE_LOGBRIDGE	The Scythian			En un matorral a un costado del antiguo camino, encontramos un conjunto de tumbas que despertaron nuestra curiosidad.					
@@ -396,9 +396,9 @@ GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solo el final de tu fu
 GCLUE_WATERFALLS	Girl			¿Alguna vez has notado que a veces las palabras simplemente suenan como ruido, pero otras veces el ruido produce el sonido más bello?			132	058.jpg	G5F8U
 GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Hay un montón de dichos extraños aquí, entre los montañeses del Cáucaso.					
 				Hay un dicho aqui en el Cáucaso que dice que un bosque necesita un fuego tanto como el fuego necesita al árbol.					
-YELLOWTRIGON_COLLECTED	The Scythian			Logramos conseguir El Trigón Dorado. ¡Somos impresionantes!			85	067.jpg	36G7U
-PINKTRIGON_COLLECTED	The Scythian			Contra todo pronóstico, logramos conseguir El Trigón Luna Radiante.			155	068.jpg	56F8U
-BLUETRIGON_COLLECTED	The Scythian			Contra todo lo que se nos puso en frente, logramos conseguir el Trigón Luna Sombría.			112	069.jpg	T6G94
+YELLOWTRIGON_COLLECTED	The Scythian			Conseguimos El Trigón Dorado. ¡Somos impresionantes!			85	067.jpg	36G7U
+PINKTRIGON_COLLECTED	The Scythian			Contra todo pronóstico, conseguimos El Trigón Luna Radiante.			155	068.jpg	56F8U
+BLUETRIGON_COLLECTED	The Scythian			A pesar de todo, conseguimos El Trigón Luna Sombría.			112	069.jpg	T6G94
 GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece como si todos los espíritus de la Luna Sombría hubieran sido enviados al cielo, así que de nuevo es la temporada de milagros. ¡Adoro los milagros!					
 JIM_HINT1_OFF	The Scythian			En un claro oculto nos encontramos con un misterioso músico junto a un fuego crepitante.					
 JIM_PINKDAWN	The Scythian			En un claro oculto nos encontramos con un misterioso músico junto a un fuego crepitante. #jimguthrie					
@@ -468,7 +468,7 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			El leñador conocido como Amileño habí
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
 ARCHETYPE_MOONGROTTO	The Archetype			Veo que has logrado alterar el humor de la luna en la Gruta Lunar. Me pregunto cuánto durará esta paradoja temporal.					
 MIRACLE2_ISLAND	The Scythian			Con la Luna Radiante imperando en lo alto, llevamos a cabo un extraño milagro lunar en una isla imposible en medio de un lago sereno.			136	073.jpg	W7A3K
-MIRACLE2_PINKTRIGONCOLLECTED	The Scythian			Logramos conseguir el Trigón Luna Radiante, para nuestra gloria y desesperación. #trigontamed			155	068.jpg	56F8U
+MIRACLE2_PINKTRIGONCOLLECTED	The Scythian			Conseguimos El Trigón Luna Radiante, para nuestra gloria y desesperación. #trigontamed			155	068.jpg	56F8U
 MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			Nos tentó abandonar este funesto cometido por completo, pero el martirio tenía algo atractivo.					
 				En fin, probablemente no importará mucho. Total, para entrar al Arremolinado Infinito no hace falta un examen físico.					
 				Era evidente que tantos paseos oníricos y trigones domados empezaban a pasar factura.					
@@ -575,7 +575,7 @@ DARKMOONBEGINS_ARCHETYPE	The Archetype			He aquí, ¡La Luna Sombría!			94	076.
 DARKMOON_GIRLTHOUGHTS	Girl			En mi sueño me encontré con un Parlamento de Árboles azotado por un rayo y sentí la presencia de algo profundamente sagrado.					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Anoche escuché el sonido de una música vibrante filtrándose a través de los bosques detrás de mi choza. ¿Qué podría ser?					
 DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño solo vislumbré las sutiles y melodiosas brumas de los espíritus silvanos.					
-AMPHITHEATRE_OUTRO	The Scythian			Logramos reconstruir la Tríada Trigonal y ahora somos héroes.			164	081.jpg	48G1Q
+AMPHITHEATRE_OUTRO	The Scythian			Reconstruimos la Tríada Trigonal y ahora somos héroes.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Inexplicablemente, hemos asesinado a 3 conejos indefensos.					
 RABBITS_7MURDERS	The Scythian			Inexplicablemente, hemos asesinado a 7 conejos indefensos. ¿Estamos ante la evidencia de una mente trastornada?					
 RABBITS_13MURDERS	The Scythian			Inexplicablemente, hemos asesinado a 13 conejos indefensos.					
@@ -586,105 +586,107 @@ RABBITS_53MURDERS	The Scythian			Inexplicablemente, hemos asesinado a 53 conejos
 RABBITS_91MURDERS	The Scythian			Inexplicablemente, hemos asesinado a 91 conejos indefensos.					
 RABBITS_107MURDERS	The Scythian			Inexplicablemente, hemos asesinado a 107 conejos indefensos. ¿Tal vez disminuya nuestra compulsión asesina si dejamos de contar?					
 ARCHETYPE_CREDITS	The Archetype								
-				S:S&S EP es un proyecto colaborativo tipo videojuego creado en Toronto. Ponte en contacto o mantente informado en swordandsworcery.com					
-			Logos/superbrothers	Concepto original de la organización de arte y diseño Superbrothers Inc. en superbrothers.ca					
-				Canciones y sonidos por el amado compositor y rockero Jim Guthrie en jimguthrie.org					
-			Logos/capy	Ingeniería y milagros por el estudio independiente de videojuegos Capy en capybaragames.com					
-			Logos/eightfour	Localización japonesa, marketing, relaciones públicas y cariño por 8-4, Ltd. TODO EL EQUIPO en 8-4.jp					
-				* * * EL EQUIPO de S:S&S EP * * *					
-				Concepto, arte, diseño, escritura y demás: Craig D. Adams, director creativo en Superbrothers.					
-				Diseño, liderazgo de proyecto, apoyo incansable y más: Kris Piotrowski, director creativo en Capy.					
-				Sistemas, arquitectura técnica, UI, motor y más: Jon Maur, programador técnico principal de S:S&S EP en Capy.					
-				Scripting, combate y milagros: Frankie Leung, programador de jugabilidad principal de S:S&S EP en Capy.					
-				Inspiración, canciones, sonidos, alma y mucho más: Jim Guthrie, compositor, héroe del folk y rockero.					
+				S:S&S EP es un proyecto colaborativo tipo videojuego creado en Toronto de 2009 a 2011, en internet en swordandsworcery.com					
+			Logos/superbrothers	Concepto original de la organización de arte y diseño conocida como Superbrothers A/V Inc. en superbrothersHQ.com					
+				Canciones y algunos sonidos del amado compositor y rockero conocido como Jim Guthrie en jimguthrie.org					
+			Logos/capy	Ingeniería y milagros del estudio independiente de videojuegos conocido como Capy en capybaragames.com					
+			Logos/eightfour	Localización japonesa, marketing, relaciones públicas y cariño de 8-4, Ltd. TODO EL EQUIPO en 8-4.jp					
+				* * * EL EQUIPO DE S:S&S EP * * *					
+				Concepto, arte, diseño, dirección y guión de representantes en Superbrothers A/V Inc.					
+				Diseño, liderazgo del proyecto, apoyo inigualable y más de Kris Piotrowski, director creativo de Capy.					
+				Sistemas, arquitectura técnica, IU, motor y más de Jon Maur, programador técnico principal de S:S&S EP en Capy.					
+				Scripting, combate y realización de milagros de Frankie Leung, programador principal de mecánica de juego de S:S&S EP en Capy.					
+				Inspiración, canciones, sonidos, alma y mucho más cortesía de Jim Guthrie, compositor, héroe folk y estrella de rock absoluta.					
 				* * * ADEMÁS * * *					
-				Voz de Amileño: Robert Ashley, creador de A Life Well Wasted (alifewellwasted.com).					
-				Voz de La Escita: Robyn Cumming, fotógrafa (robyncumming.com).					
-				Voz de El Arquetipo: Clive Holden, artista y cineasta (cliveholden.com).					
-				Sonidos cósmicos de la Gruta Lunar: Scientific American (scntfc.com).					
-				* * * APOYO DE CAPY * * *					
-				Productor ejecutivo, héroe del pueblo, liderazgo y estrategia: Nathan Vella, presidente de Capy.					
-				Audio técnico, integración FMOD y muchísimos sonidos: Sean 'Uber' Lohrisch, cofundador de Capy.					
-				Asistencia administrativa y de negocios: Matt 'Juggalord' Repetski, cofundador de Capy.					
-				Control de calidad y mega-héroe de pruebas: Christian 'Sea Dawg' Meyer.					
-				Adaptación a escritorio y mejora a 1080p: el talentoso Hubert Wong.					
-				Programación adicional PC/Mac/Linux, implementación Steam y trabajo pesado: Drew Grainge.					
-				Arte increíble y buen humor: Vic 'Meow' Nguyen de Super TIME Force.					
-				Control de calidad adicional: el único e inigualable Aaron Eves.					
-				QA adicional para PC: Phil Sandhop, Crystal Edwards y Sebastian Andersson de GameInstinct.					
-				Gracias a Xavier Xaden Xen, Joseph Theodore Blocco y Hank Hudson.					
-				Agradecimiento especial a Thea Gaerlan por deliciosas galletas y otras delicias.					
-				* * * APOYO DE SUPERBROTHERS * * *					
-				Coordinación, comunicación, QA, inspiración, paciencia infinita y apoyo moral: Jori Baldwin.					
-				Asistencia de negocios, apoyo financiero y moral inquebrantable: Mack C. Adams.					
-				Muchísimas gracias a Sheila Precious, David Adams, Sarah Adams y Cimarron Corpe por mantener el barco a flote en mares tormentosos.					
-				Un enorme agradecimiento a Jim Guthrie por embarcarse en esta aventura hacia lo desconocido.					
-				Sonidos adicionales increíbles: Timothy Muirhead.					
-				* * * APOYO DE 8-4 * * *					
-				Traducción japonesa: el maestro de las palabras RYUTA YAZAWA.					
-				Edición japonesa, consejos cruciales y apoyo infinito: MASAHIRO YUKI de Grasshopper Manufacture (ghm.jp).					
-				Diseño del increíble logo japonés: POLYGRAPH (polygraph.jp).					
-				Diseño web japonés: Jonathan Lumb (jonnyram.com).					
-				Y finalmente, agradecimiento por apoyo y amistad de Japón: Suda 51, Tomoaki Takahashi, Hideto Yamada...					
-				Y a los artistas de remix Baiyon, Akira Yamaoka, Michiru Yamane, macotom3 y Decassegui Hip.					
+				Voz de Troncales de Robert Ashley, creador del programa de radio A Life Well Wasted en alifewellwasted.com.					
+				Voz de la escita de la fotógrafa Robyn Cumming en robyncumming.com.					
+				Voz del Arquetipo del artista y cineasta Clive Holden en cliveholden.com.					
+				Sonidos cósmicos de la Gruta Lunar de Scientific American en scntfc.com.					
+				* * * SOPORTE DE CAPY * * *					
+				Producción ejecutiva, heroísmo popular, liderazgo y estrategia de Nathan Vella, presidente de Capy.					
+				Producción de PC, asistencia técnica de audio, integración FMOD y muchos sonidos fantásticos de Sean "Uber" Lohrisch, cofundador de Capy.					
+				Producción y asistencia comercial de Matt Repetski, cofundador de Capy.					
+				Control de calidad y heroísmo épico de pruebas de juego de Christian "Sea Dawg" Meyer en Capy.					
+				Programación principal de la versión para Nintendo Switch y computadoras personales de nada menos que Hubert Wong.					
+				Conceptos de diseño, implementación y brujería para Nintendo Switch de Sadie Lee.					
+				Soporte de programación adicional de PC/Mac/Linux, experiencia en Steam y todo tipo de tareas pesadas de Drew Grainge.					
+				Algunos recursos artísticos y sonrisas de Vic "Meow" Nguyen.					
+				Control de calidad adicional del único e inimitable Aaron Eves.					
+				El soporte de control de calidad de Nintendo Switch es cortesía de Testronic Labs.					
+				Soporte de control de calidad por Roopesh Pawar. R. Prashanth. DR, Veeresh Kuruva, Raghunath. BG y Roshan R Shekar de Sun Technology Integrators Pvt. Limitado.					
+				Agradecimientos a Xavier Xaden Xen, Joseppe Theodore Blocco y Hank Hudson.					
+				Galletas y otras delicias proporcionadas por Thea Gaerlan.					
+				* * * SOPORTE DE SUPERBROTHERS * * *					
+				Amor cósmico eterno para Jori.					
+				Elogios para el director ejecutivo de Superbrothers, Mack.					
+				Agradecimiento colosal a Jim Guthrie por embarcarse en esta aventura lunática hacia lo desconocido.					
+				Con sonidos millonarios adicionales cortesía de Timothy Muirhead.					
+				* * * SOPORTE DE 8-4 * * *					
+				Traducción al japonés del escriba eximio RYUTA YAZAWA.					
+				Edición al japonés, consejos fundamentales y apoyo eterno de MASAHIRO YUKI en Grasshopper Manufacture grasshopper.co.jp.					
+				Soporte adicional de localización en japonés proporcionado por Yutaka Ohbuchi, John Ricciardi y Masanobu Suto.					
+				Diseño tremendo del logotipo japonés cortesía de POLYGRAPH en polygraph.jp.					
+				Magia del sitio web japonés de Jonathan Lumb en jonnyram.com.					
+				Y por último, agradecimientos por el apoyo en japonés y la amistad: Suda 51, Tomoaki Takahashi, Hideto Yamada y los artistas de remezcla Baiyon, Akira Yamaoka, Michiru Yamane, macotom3 y Decasségui Hip.					
 				* * * EL DOMINIO DE CANADÁ * * *					
-			Logos/omdc	Este proyecto fue posible gracias al apoyo financiero de la Ontario Media Development Corporation (OMDC).					
+			Logos/omdc	Este proyecto fue posible gracias al apoyo financiero de la Ontario Creates.					
 				* * * LOS QUEREMOS MUCHÍSIMO * * *					
-				Saludos a todos quienes alinearon las estrellas.					
-				Mucho amor a las increíbles comunidades indie de Toronto: The Hand Eye Society, TOJam y Gamercamp.					
-				A familiares y amigos: los queremos mucho y estamos deseando volver a verlos. ¿Cómo han estado desde la última vez que hablamos?					
-				A todos los que han apoyado este proyecto: gracias.					
+				Menciones especiales para quienes alinearon las estrellas.					
+				Mucho cariño para las comunidades autodidactas de videojuegos de Toronto y la buena gente de The Hand Eye Society, TOJam y Gamercamp.					
+				Gracias a todos los que apoyaron el proyecto.					
 				* * * PROCESO * * *					
-				Arte de píxeles creado íntegramente en Promotion de Cosmigo; otros elementos visuales en Illustrator y Photoshop de Adobe.					
-				Sonidos y canciones creados con MTV Music Generator de Codemasters para PSOne y/o Garageband y Logic Studio de Apple.					
-			Logos/FMOD	Integración de audio mediante FMOD de Firelight Technologies.					
-				Código programado en C++ y Lua script con tolua++. Mapas y elementos del mundo con herramientas propietarias de Capy.					
-				Cálculo de fases lunares y algoritmos astronómicos: voidware.com/moon_phase.htm					
-				APIs utilizadas: tinyxml, libpng/zlib.					
-				Una versión muy temprana se envió al Independent Games Festival el 1 de noviembre de 2009.					
+				El arte pixelado se creó por completo en Promotion de Cosmigo y el resto de los elementos visuales se hizo en Illustrator y Photoshop de Adobe.					
+				Los sonidos y las canciones se crearon con MTV Music Generator de Codemasters y/o Garageband y Logic Studio by Apple.					
+			Logos/FMOD	Los sonidos y las canciones se integraron al proyecto con FMOD de Firelight Technologies.					
+			Logos/DolbyDigital	Dolby y el símbolo de la doble D son marcas registradas de Dolby Laboratories.					
+			Logos/DolbyDigital	Se requiere una solución de audio para PC que contenga Dolby® Digital Live para el audio Dolby Digital.					
+			Logos/DigitalSurround	DTS® y DTS Digital Surround® son marcas registradas de DTS, Inc.					
+				El código se programó en C++ y Lua script con tolua++. Los mapas y los elementos del mundo se crearon con herramientas de propiedad exclusiva de Capy.					
+				Cálculos de fases lunares y algoritmos astronómicos cortesía de voidware.com/moon_phase.htm.					
+				Entre las API que se usaron en la creación de S:S&S EP se incluyen tinyxml, libpng/zlib, SDL, cmake y minizip.					
+				Una versión muy prematura se envió al Independent Games Festival el 1 de noviembre de 2009.					
 				S:S&S EP se anunció el 1 de diciembre de 2009.					
-				A principios de 2010 ganamos el premio 'Achievement in Art' del IGF Mobile, lo cual fue increíble.					
-				La primera demo pública fue en un evento de Hand Eye Society en Toronto el 14 de febrero de 2010.					
-				La primera versión jugable se presentó en la GDC 2010 en San Francisco (9-13 de marzo de 2010).					
-				Las primeras imágenes del prototipo aparecieron en línea simultáneamente y causaron revuelo.					
-				'Less Talk, More Rock: The Native Language of Videogames' se publicó en Boing Boing en marzo de 2010 (búscalo en Google).					
-				El proyecto 'se oscureció' unos meses mientras hacíamos el juego. Clic, clic, clic, clic.					
-				Nos tomó un poco más terminar					
-				Craig D. Adams presentó 'The Intoxication of Mythology' el 22 de septiembre de 2010 en Fantastic Arcade de Austin.					
-				Jim Guthrie, Kris Piotrowski y Craig D. Adams presentaron 'Aiming for Audiovisual Alchemy' en Gamercamp de Toronto.					
-				Se publicó el clip 'Audience Calibration Procedure' el jueves 24 de febrero de 2011 para iniciar el lanzamiento.					
-				S:S&S EP finalmente llegó a iPad cerca del equinoccio de primavera de 2011, poco antes del fin del mundo.					
-				El evento de lanzamiento fue en TIFF Lightbox de Toronto. ¡Fue increíble, deberías haber estado!					
-				S:S&S EP llegó después a iPhone e iPod Touch entre gran alegría.					
-				En los meses siguientes, algunos nos casamos, otros rompimos y todos seguimos adelante.					
-				Jim Guthrie creó la banda sonora de 'Indie Game: The Movie'.					
-				Capy ya trabaja en la siguiente oleada de juegos, incluido el alucinante SUPER T.I.M.E. FORCE.					
-				El equipo de Superbrothers Inc. se toma un tiempo para soñar nuevos sueños.					
-				S:S&S EP fue uno de los 10 mejores juegos de 2011 según Time, junto a gigantes como Dark Souls y Skyrim. ¡Increíble!					
-				Kirk Hamilton de Kotaku llamó a la música de Jim Guthrie 'la mejor música de videojuego de 2011'.					
-				La tormenta de Twitter con el hashtag 'sworcery' en su lanzamiento fue considerada 'uno de los mayores eventos de internet de 2011' según Co.Design y Syzygy.					
-				S:S&S EP ganó un Game Developer's Choice Award en GDC 2012, superando a títulos AAA... lo cual fue increíblemente asombroso.					
-				Jim Guthrie lanzó un nuevo álbum llamado 'The Children of the Clone' que presenta obras maestras perdidas en sintonía con S:S&S EP.					
-				Después de eso, la historia se vuelve un poco confusa, así que sintoniza swordandsworcery.com para obtener más información.					
-				Ha sido un viaje increíblemente positivo, esperamos que sigas profundizando.					
-				No dejes de revisar el boletín en superbrothers.ca para las últimas novedades del equipo de Superbrothers Inc.					
+				A principios de 2010, se anunció que el proyecto había ganado el premio Achievement in Art de IGF Mobile.					
+				La primera demostración pública de S:S&S EP se hizo en un evento social de la Hand Eye Society en Toronto el 14 de febrero de 2010.					
+				La primera versión jugable de S:S&S EP se presentó a asistentes y amigos en la GDC 2010 en San Francisco del 9 al 13 de marzo de 2010.					
+				El primer video sin editar de la versión de la GDC apareció en línea al mismo tiempo.					
+				Less Talk, More Rock: The Native Language of Videogames se publicó en línea en Boing Boing en marzo de 2010 y puedes buscarlo en Google.					
+				Un representante de Superbrothers presentó The Intoxication of Mythology el 22 de septiembre de 2010 en la Fantastic Arcade en Austin.					
+				Jim Guthrie, Kris Piotrowski y un representante de Superbrothers presentaron Aiming for Audiovisual Alchemy en el Gamercamp de Toronto.					
+				Un video nuevo llamado Audience Calibration Procedure se publicó el jueves 24 de febrero de 2011 para comenzar con el lanzamiento.					
+				S:S&S EP por fin se lanzó para iPad, iPhone e iPod Touch cerca del equinoccio vernal de 2011.					
+				Organizamos el MIDSUMMER ROCKSHOWCASE en el TIFF Lightbox de Toronto con material de S&S en vivo de Jim Guthrie. Estuvo muy bien.					
+				* * * SIETE AÑOS DESPUÉS * * *					
+				Jim Guthrie ha creado desde entonces música para varios videojuegos y películas. También lanzó algunos discos.					
+				Capy todavía tiene la misión incansable de crear videojuegos raros y maravillosos.					
+				El personal de Superbrothers A/V Inc. se toma un buen tiempo para soñar sueños nuevos.					
+				S:S&S EP fue uno de los mejores 10 videojuegos de 2011 de Time Magazine.					
+				La banda sonora de Jim Guthrie recibió el título de mejor música de videojuegos de 2011 según Kirk Hamilton en Kotaku.					
+				S:S&S EP ganó un Game Developer's Choice Award en la GDC 2012.					
+				* * * DOCE AÑOS DESPUÉS * * *					
+				S:S&S EP ha sido aseado y actualizado para garantizar que el juego aún funcione en los sistemas operativos más recientes.					
+				Superbrothers sigue siendo una pequeña empresa de arte y diseño de videojuegos, ahora en su vigésimo año. Tiene su sede en los bosques de Quebec y la costa oeste de Canadá.					
+				Desde S:S&S EP, Superbrothers y Jim Guthrie han contribuido a Sound Shapes (2012) (Queasy Games) (PlayStation + PC).					
+				Superbrothers soñó con algo nuevo y por fin creó JETT: The Far Shore + Given Time (2021/2023) (PlayStation + PC), una saga de ciencia ficción de estilo soviético con canciones y sonidos del compositor scntfc.					
+				A partir de 2023, se está gestando un nuevo proyecto de píxeles en Superbrothers.					
+				Capy Games lanzó el impresionante título de retroceso en el tiempo Super Time Force Ultra (2014) (PlayStation + PC + Xbox).					
+				En 2018, Capy presentó Below, un roguelike de acción y aventuras en el que un pequeño guerrero explora las misteriosas profundidades de una isla remota (PlayStation + PC + Xbox).					
+				Capy lanzó el extraño y maravilloso Grindstone en 2019 y continúa añadiendo de manera obstinada nuevas funciones y contenidos para que los jugadores puedan disfrutar al máximo (Apple Arcade + Switch + PC + PlayStation + Xbox).					
+				Mientras tanto, desde 2023, el equipo está preparando un nuevo y delicioso juego en su caldero de juegos.					
 				* * * ¿QUÉ ES S:S&S EP? * * *					
-				S:S&S EP es un valiente experimento de Cine Interactivo, sea lo que eso signifique.					
-				S:S&S EP es un nuevo enfoque de aventuras old-school con énfasis en lo audiovisual.					
-				S:S&S EP se inspira en creadores pioneros como Shigeru Miyamoto, Jordan Mechner, Eric Chahi y Fumito Ueda.					
-				S:S&S EP es un febril sueño Famicom.			38	082.jpg	28B24
-				S:S&S EP bebe de la psicosmología mitopoética del sword & sorcery de Robert E. Howard.					
-				S:S&S EP es un enlace al pasado.			167	083.jpg	18E3V
-				S:S&S EP es un primer intento, así que sí, es experimental.					
-				El concepto estético de S:S&S EP es 'la aventura arquetípica de videojuego'.					
-				S:S&S EP referencia oblicuamente a Carl G. Jung y su fascinante 'Libro Rojo'.					
-				S:S&S EP es una pequeña creación genial que no entiendo del todo, pero que creo todos deberían jugar en móvil o PC.					
-				S:S&S EP es un haiku crudo de videojuego sobre la vida, el amor y la muerte.					
-				S:S&S EP trata de mitos y sueños.					
-				S:S&S EP fue creado pensando en un público amplio y culto.					
-				S:S&S EP iba a llamarse 'Poopsock' al principio. En serio.					
-				* * * ESO ES TODO * * *					
-				¿Qué sigue? ¿De qué va esa transmisión extraña? ¿Qué depara el futuro?					
-				Si quieres impresiones, ropa, discos, videojuegos o lo que sea, ¡búscanos en internet!					
-				Si disfrutas el estilo audiovisual de S:S&S EP, ¡corre la voz!					
+				S:S&S EP es un experimento audaz de cine interactivo, sea lo que sea eso.					
+				S:S&S EP es un enfoque nuevo de los juegos de aventura del pasado con énfasis en el estilo audiovisual.					
+				S:S&S EP está inspirado en las obras de los creadores pioneros de los videojuegos Shigeru Miyamoto, Jordan Mechner, Eric Chahi y Fumito Ueda.					
+				S:S&S EP es un sueño febril de Famicom.			38	082.jpg	28B24
+				S:S&S EP se creó con la psicocosmología mitopoética de las historias de espada y hechicería de Robert E. Howard como inspiración.					
+				S:S&S EP es un Link al pasado.			167	083.jpg	18E3V					
+				S:S&S EP es una ópera prima así que es un poco experimental.					
+				S:S&S EP tiene como concepto estético el arquetipo de los videojuegos de aventuras.					
+				S:S&S EP tiene referencias indirectas a Carl Jung y su Libro Rojo fascinante por todas partes.					
+				S:S&S EP es una cosita ingeniosa que no entiendo del todo y creo que todos deberían jugarla.					
+				S:S&S EP es un haiku en bruto sobre la vida, el amor y la muerte en forma de videojuego.					
+				S:S&S EP es una selección de mitos y sueños.					
+				S:S&S EP se creó para un público amplio y culto.					
+				S:S&S EP en principio iba a llamarse Poopsock. Es la pura verdad.					
+				* * * SE TERMINÓ * * *					
 				Ahora somos amigos cósmicos para siempre, ¿vale?			87	084.jpg	L8A48
