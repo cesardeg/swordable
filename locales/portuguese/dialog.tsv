@@ -5,7 +5,7 @@ SIGN_TADPOL	The Scythian			"""Onde a lareira aquece, o lar acontece."" #threegut
 SIGN_WALL	The Scythian			"""Cítia, Ciméria, Assíria e Pérsia, esses são todos reinos dos homens. Mingi Tau é o Reino das Nuvens."""					
 SIGN_CHASM	The Scythian			No fio do Precipício Perigoso, encontramos uma rocha gravada com o símbolo de uma espada erguida, bem debaixo de um arco-íris.					
 				Os cítios detestamos os arco-íris. #loathsomerainbows			21	002.jpg	40C27
-SIGN_BIRDTREE	The Scythian			Por um caminho secundário, encontramos uma rocha gravada com uma série de símbolos indecifráveis.					
+SIGN_BIRDTREE	The Scythian			Em um caminho secundário que se afastava do antigo caminho, encontramos uma rocha gravada com uma série de símbolos indecifráveis.					
 				Entre esses símbolos impossíveis de decifrar, conseguimos distinguir uns glifos lunares.					
 SIGN_BIRDTREEDECIPHERED	The Scythian			Por um caminho secundário, encontramos uma rocha gravada com uma série de glifos lunares que antes não entendíamos.					
 				Os glifos contavam sobre um lugar secreto perto daqui, «onde se pode alterar o humor da lua».					
@@ -15,11 +15,11 @@ SIGN_ANTECHAMBERLEFT	The Scythian			Numa passagem subterrânea, descobrimos uma 
 INFO_CROSSMOUNTAINLEFT	The Scythian			Na encosta rochosa de Mingi Tau, uma tumba solitária indica onde termina o caminho de pedras.					
 INFO_CROSSMOUNTAINRIGHT	The Scythian			Na encosta rochosa de Mingi Tau, uma tumba solitária indica onde termina o caminho de pedras.					
 INFO_RIDGESKULLPOLE	The Scythian			Na crista rochosa a caminho do topo de Mingi Tau, erguia-se um poste sinistro decorado com uma caveira com chifres.					
-INFO_CROSSRIDGE	The Scythian			Na crista rochosa a caminho do topo de Mingi Tau, descansava uma tumba solitária, lúgubre lembrança de todas as pessoas que morreram aqui.					
+INFO_CROSSRIDGE	The Scythian			Na crista rochosa a caminho do topo de Mingi Tau, uma tumba solitária servia como um lúgubre lembrete de quantas pessoas morreram aqui.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos o Megatomo apertado entre duas mãos ossudas e sentimos nossa espada estremecer na bainha. #megatome			33	006.jpg	30D6C
-DOOR_SIDEBMEADOW	The Scythian			Encontramos uma pequena porta sem maçaneta feita de um material desconhecido. Um sinal diz: «Apenas pessoal Autorizado».					
-DOOR_UPSLOPEWOODS1	The Scythian			Uma porta fechava o antigo caminho para Mingi Tau, bem na parede de pedra.					
-DOOR_UPSLOPEWOODS3	The Scythian			Uma porta fechada estava escondida entre a mata, debaixo do antigo caminho para Mingi Tau. #moongrotto					
+DOOR_SIDEBMEADOW	The Scythian			Uma pequena porta sem maçaneta, feita de um material desconhecido. Uma placa diz: «Apenas Pessoal Autorizado».					
+DOOR_UPSLOPEWOODS1	The Scythian			Uma porta trancada fechava o antigo caminho para Mingi Tau, bem no muro de pedra.					
+DOOR_UPSLOPEWOODS3	The Scythian			Uma porta trancada se escondia na mata abaixo da antiga estrada que leva a Mingi Tau. #moongrotto					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
 LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		O lenhador de lenha lenhava a lenha. #obviously #woodchopping			71	007.jpg	7E+71
 				Os montanheses do Cáucaso o conheciam como Troncadeiro e ele parecia agradável.					
@@ -30,7 +30,7 @@ LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Atravessamos o
 			adventureUI/megatomeItem	Contamos a Troncadeiro que estávamos procurando por um livro assustador de magia sinistra conhecido como o Megatomo.					
 			adventureUI/megatomeItem	O Megatomo estava oculto além do Precipício Perigoso, em algum lugar nas trevas sob Mingi Tau.					
 			adventureUI/megatomeItem	Decidimos procurar o Megatomo e depois escapar com vida.					
-LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	O lenhador confirmou que ele era o único com a chave da porta fechada na parede de pedra.					
+LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	O lenhador confirmou que ele tinha a única chave da porta trancada no muro de pedra.					
 			AdventureUI/keyItem	Era uma chave realmente bonita.					
 				Estávamos prontos para manter pressionado o caminho, e nos mover sem parar!					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	O lenhador conhecido como Troncadeiro ia ficar aqui esperando até que voltássemos com o Megatomo.					
@@ -51,14 +51,14 @@ ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo
 	The Archetype			Desde nossa experiência anterior em 2011, constatamos que as redes sociais têm um impacto prejudicial na sociedade.					
 				Nesta ocasião, promovemos o isolamento e a reflexão cheia de arrependimento.					
 				Agradecemos sinceramente por você ter decidido participar deste tratamento experimental para a aflição profunda da alma.					
-				Você encontrará que esta primeira sessão de S:S&S EP é bastante simples e geralmente dura entre 15 e 30 minutos.					
+				Você verá que esta primeira sessão de S:S&S EP é bastante simples e geralmente dura entre 15 e 30 minutos.					
 				Você tem fones de ouvido? Tudo pronto para começar? Pressione 'jogar' e vamos lá!					
 ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
 	The Archetype			Senhoras e senhores, que tal você tocar nestes dois pequenos espíritos florestais para apreciar seu sistema de som estéreo?					
 	The Archetype			Desde nossa experiência anterior em 2011, constatamos que as redes sociais têm um impacto prejudicial na sociedade.					
 				Nesta ocasião, promovemos o isolamento e a reflexão cheia de arrependimento.					
 				Agradecemos sinceramente por você ter decidido participar deste tratamento experimental para a aflição profunda da alma.					
-				Você encontrará que esta primeira sessão de S:S&S EP é bastante simples e geralmente dura entre 15 e 30 minutos.					
+				Você verá que esta primeira sessão de S:S&S EP é bastante simples e geralmente dura entre 15 e 30 minutos.					
 				Você tem fones de ouvido? Tudo pronto para começar? Pressione 'jogar' e vamos lá!					
 ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP não busca proporcionar a experiência transcendental, mas simplesmente pretende liberar o sistema nervoso de seus padrões habituais.					
 				O segundo aspecto do 'setting' é o cultural: as noções predominantes sobre a realidade e a normalidade. Evitaremos essa discussão por enquanto.					
@@ -76,7 +76,7 @@ ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muito bem, 
 			adventureUI/megatomeItem	"""O Megatomo intercepta transmissões de pensamento linguístico e contém tudo o que você precisará para concluir sua funesta missão."""					
 			adventureUI/megatomeItem	"""Acabei de ter uma ideia... Que tal abrir o Megatomo e descobrir o que está oculto em minha mente?"""					
 				"""Procure por um triângulo branco no canto superior direito... toque nele e depois equipe o Megatomo para revelar o que está oculto."""					
-LOGFELLA_STORM	The Scythian			O lenhador conhecido como Troncadeiro havia desistido de cortar lenha devido à sinistra tempestade. #wetboots					
+LOGFELLA_STORM	The Scythian			O lenhador conhecido como Troncadeiro parou de cortar lenha devido à sinistra tempestade. #wetboots					
 			adventureUI/megatomeItem	Troncadeiro nos lembrou que a tempestade havia estourado logo depois que recuperamos o Megatomo sob Mingi Tau.					
 				Troncadeiro estava nos insinuando que deveríamos tentar fazer algo para dissipar a tempestade? #yes #no #maybe					
 GIRL_STORM	The Scythian			A garota de cabelo escuro conhecida como Samae estava muito aflita. #woe					
@@ -101,7 +101,7 @@ INFO_MEADOWGATE	The Scythian			Na campina vimos um portão de ferro impenetráve
 INFO_MEADOWGATEACTIVE	The Scythian			Na campina vimos um portão e tivemos a sensação de que talvez pudéssemos abri-lo de alguma forma.					
 INFO_MEADOWGATETRIGONACTIVE	The Scythian			Descobrimos um troço com a forma do Trígono Dourado sobre o portão de ferro. Será que reagiria à nossa Canção da Espadância?					
 INFO_MEADOWGATETRIGON	The Scythian			Descobrimos um troço sobre o portão de ferro.					
-INFO_LOCKEDDOORSTONEWALL	The Scythian			Uma porta no muro de pedra fechava o antigo caminho para Mingi Tau, e aparentemente, a chave estava perdida nos sonhos.					
+INFO_LOCKEDDOORSTONEWALL	The Scythian			Uma porta trancada no muro de pedra fechava o antigo caminho para Mingi Tau, e aparentemente, a chave estava perdida nos sonhos.					
 INFO_LOOMINGBIRDSCULPTURES	The Scythian			Avistamos a escultura de um pássaro zangado sobressaindo na campina. #subtlereference					
 INFO_MEADOWSUNSTICK	The Scythian			Vimos um cajado de formato estranho que vigiava a campina.					
 INFO_CABINWELL	The Scythian			Vimos um poço solidamente construído com um amplo telhado de madeira.					
@@ -113,7 +113,7 @@ INFO_CABINCHIMNEY	The Scythian			Vimos uma robusta cabana de pedra com um telhad
 INFO_CABINWOODPILE	The Scythian			Vimos uma pilha de lenha, mas não é nada demais.					
 INFO_SPUME	The Scythian			Descobrimos as sutis e melódicas espumas de um espírito florestal adormecido. E agora... como despertá-lo?					
 INFO_NESTBOX	The Scythian			Vimos um ninho curioso que agora abrigava uma colmeia infeliz.			13	015.jpg	B1C5F
-INFO_NESTBOXWEATHERED	The Scythian			Vimos um ninho desgastado que parecia um rosto assustador.					
+INFO_NESTBOXWEATHERED	The Scythian			Vimos um ninho desgastado que parecia um rosto assustador de uma forma estranha.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre uma ponte de toras no antigo caminho, erguia-se um mastro sinistro decorado com caveiras.					
 INFO_GOLDTRIGONALTAR	The Scythian			Além da vasta caverna na campina, encontramos um conjunto estranho de estruturas de pedra em uma clareira isolada.					
 			Archetype/trifecta	...Era esta a Clareira Trigonal? #trigongrove			93	016.jpg	B1D6J
@@ -149,7 +149,7 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigonal, além da vasta caver
 			adventureUI/megatomeItem	Ao ver nossa vestimenta citiana e o Megatomo, perguntou se entendíamos seus enigmáticos símbolos.					
 				Num sussurro, ele pronunciou o nome do espectro imortal que havíamos despertado nas trevas sob Mingi Tau: A Massa Gogolítica.			166	023.jpg	O2B39
 				Conhecíamos o temível nome pelas antigas histórias e sentimos como se nosso sangue gelasse.					
-				"""Até agora tive a sensação de que a Massa Gogolítica te via como um simples turista."""					
+				"""Até agora, tive a sensação de que a Massa Gogolítica te via como um simples turista."""					
 			triangle/Triangle	"""Agora que você aprendeu a Canção da Espadância e dominou o Trígono Dourado, cada um de seus passos estará amaldiçoado."""					
 				Não ficou claro se o fantasma nos animava ou nos advertia.					
 				Contamos ao fantasma nossas intenções de detonar o Megatomo no topo de Mingi Tau e libertar a Massa Gogolítica da imortalidade.					
@@ -160,7 +160,7 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigonal, além da vasta caver
 GRAVE_LOGBRIDGE	The Scythian			Em uma moita ao lado do antigo caminho, encontramos um conjunto de tumbas que despertaram nossa curiosidade.					
 GRAVE_LOGBRIDGEGHOST	The Scythian			Em uma moita ao lado do antigo caminho, encontramos um conjunto de tumbas e conhecemos alguns fantasmas que pareciam amigáveis.			116	025.jpg	62B55
 				O fantasma resplandecente que falou era um gigante que conhecíamos pelas antigas histórias, cuja famosa imagem exigia obediência. #andre					
-			Archetype/trifecta	"""Ano passado, antes das festas do Yule, reuni uma comitiva e nos propusemos a reconstruir a Tríade Trigonal."""					
+			Archetype/trifecta	"""No ano passado, antes das festas de Yule, reuni uma comitiva e nos propusemos a reconstruir a Tríade Trigonal."""					
 				"""Tínhamos ouvido falar sobre a entrada para o Remoinhado Infinito no topo de Mingi Tau e parecia algo que valia a pena ver."""					
 			triangle/Triangle	"""Localizamos e domamos o Trígono Dourado facilmente, exploramos a Clareira Trigonal e embarcamos na busca pelo Trígono da Lua Radiante."""					
 				"""A busca pelo Trígono da Lua Radiante não foi tão bem-sucedida... nos perdemos completamente, para ser honesto."""					
@@ -174,7 +174,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Em uma moita ao lado do antigo caminho, enco
 				"""Estávamos lá nos perguntando o que fazer... quando de repente a Massa Gogolítica apareceu... e zas!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			No fio do Precipício Perigoso, encontramos uma tumba solitária que despertou nossa curiosidade.					
 GRAVE_CHASMGHOST	The Scythian			Nos aproximamos da tumba solitária do trapaceiro no Precipício Perigoso e conhecemos um fantasma resplandecente.					
-			Archetype/trifecta	"""Ano passado, antes das festas de Yule, André 'O Gigante' organizou uma comitiva e nos propusemos a reconstruir a Tríade Trigonal."""					
+			Archetype/trifecta	"""No ano passado, antes das festas de Yule, André 'O Gigante' organizou uma comitiva e nos propusemos a reconstruir a Tríade Trigonal."""					
 				"""Os outros membros da comitiva estão enterrados em uma moita à beira do antigo caminho, perto da ponte de toras."""					
 			triangle/Triangle	"""Conseguimos localizar e domar o Trígono Dourado com bastante facilidade, mas depois disso ficamos completamente parados."""					
 				"""Procuramos pelo Trígono da Lua Radiante, então decidimos nos sentar e observar o céu, esperando o humor da lua mudar."""					
@@ -195,7 +195,7 @@ GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de uma árvore oca titânica, nos 
 GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de uma árvore oca titânica, nos aproximamos de uma tumba solitária e um fantasma audacioso apareceu para nós.			117	028.jpg	E2A80
 				"""A canção do trígono acabou por enquanto. Me pergunto quando ouvirei novamente."""					
 LOGFELLA_LOSTKEY	The Scythian			O lenhador aflito conhecido como Troncadeiro estava completamente nervoso por algo.					
-			AdventureUI/keyItem	Parece que Troncadeiro perdeu a chave da porta no muro de pedra que fecha o antigo caminho para Mingi Tau.					
+			AdventureUI/keyItem	Parece que Troncadeiro perdeu a chave da porta trancada no muro de pedra que fecha o antigo caminho para Mingi Tau.					
 				"Suspiramos para nós mesmos: 'Ah, outra busca interminável.'"					
 				Troncadeiro nos disse que estava sentado bem aqui quando caiu em um sono profundo.					
 			AdventureUI/keyItem	Troncadeiro nos disse que achava que havia perdido sua chave no reino crepuscular dos sonhos.					
@@ -264,7 +264,7 @@ ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			Para domar o Trígono Dourado, você
 				É absolutamente fundamental que você segure o botão do escudo sempre que puder para recuperar sua força perdida.					
 				Vejo que você já invocou e tentou domar o Trígono Dourado. Tenho algumas coisas para te contar que acredito que serão úteis.					
 ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Rebata os ataques de projéteis psiônicos do Trígono com sua espada e espere a oportunidade para esquivar de seus ataques de raio.			83	040.jpg	3.4E+02
-				A lógica inescrutável e insondável do Trígono Dourado reivindicou as almas de todos aqueles que vieram antes de você... eles não tinham tenacidade e coragem.					
+				A lógica inescrutável e insondável do Trígono Dourado ceifou as almas de todos que vieram antes... eles não tinham tenacidade e coragem.					
 ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			O Trígono Dourado deve ser domado, não há outra opção.					
 				No terceiro padrão, você deve rebater os pequenos projéteis triangulares com sua espada e esquivar dos ataques de raio.					
 				No segundo padrão, espere pelo ataque carregado e pressione o botão de escudo no momento adequado para esquivar.					
@@ -272,7 +272,7 @@ ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			O Trígono Dourado deve ser domado
 ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Você deve ter notado que o Trígono da Lua Radiante faz chover a morte... então espere o momento certo e pressione o escudo para esquivar.			144	041.jpg	8.4E+12
 ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Radiante exigirá que você branda sua espada contra os projéteis e esquive dos ataques de raio carregado.					
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Você pode já ter encontrado o odioso ataque de arco-íris do Trígono da Lua Sombria. Fatie aquele arco-íris o mais forte e rápido que puder.					
-ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Sombria envolve sutis projéteis triangulares. Destrua-os e sobreviva.					
+ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Sombria envolve projéteis triangulares furtivos e sutis. Destrua-os e você sobreviverá.					
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então você despertou o espectro imortal que espreitava nas trevas sob Mingi Tau... Au!					
 				Consequentemente, uma sinistra tempestade se avizinha e as pessoas adoráveis que vivem na cabana de pedra se sentem desoladas.					
 			adventureUI/megatomeItem	O resultado é que você tem um livro pesado conhecido como o Megatomo. Em nossa próxima sessão, falaremos sobre seu estranho propósito.					
@@ -328,7 +328,7 @@ GIRL_GHOULTHOUGHTS	Girl			A Citiana sabe que é possível deter a Massa Gogolít
 				Espero que A Citiana saiba que deve manter pressionado o caminho para se mexer sem parar, caso contrário, terá problemas.					
 				Onde estou? O que aconteceu? A última coisa que me lembro é estar caminhando em sonhos pela floresta quando vi uma luz rosa perturbadora.					
 LOGFELLA_GHOULTHOUGHTS	Logfella			A Citiana continua falando sobre sua funesta missão de abrir uma entrada para o Remoinhado Infinito no topo de Mingi Tau.					
-				Tudo tem sido completamente louco desde que A Citiana apareceu muitas luas atrás.					
+				Tudo tem sido uma loucura lunática desde que A Citiana apareceu muitas luas atrás.					
 LOGFELLA_GHOUL	The Scythian			Acordamos atordoados de um sono profundo perto da Clareira Trigonal com o lenhador conhecido como Troncadeiro ao nosso lado.			88	054.jpg	J5D44
 				Troncadeiro falou sobre como Samae desapareceu na noite anterior.					
 				O lenhador sabia que estávamos perto do fim e precisávamos voltar a Mingi Tau para concluir nossa funesta missão.					
@@ -349,7 +349,7 @@ GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a 
 GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito florestal na mata alta de uma rocha íngreme.					
 GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito florestal em uma clareira isolada, onde coincidentemente estava Jim Guthrie.			132	058.jpg	G5F8U
 GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito florestal nas águas tranquilas de um lago onde uma pata-mãe estava angustiada.					
-GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito florestal onde o reflexo do lago estava ligeiramente incongruente.			127	059.jpg	65D98
+GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito florestal onde o reflexo do lago estava um pouco incongruente.			127	059.jpg	65D98
 GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito florestal em um lago sereno sob uma tríade de corujas.					
 GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Temos essa sensação peculiar de que talvez estejamos na época dos milagres. #miracles					
 GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito florestal cercado por três pequenas cachoeiras.					
@@ -366,7 +366,7 @@ GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Há algo estranho no comp
 				Gostaria de saber mais sobre A Citiana e sua história épica, aposto que então tudo faria sentido.					
 GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que A Citiana esteja se dedicando à questão dos espíritos florestais.					
 				Essa tempestade está me afetando muito, me faz desejar que os videogames existissem no... momento em que se supõe que estamos.					
-GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Tudo tem sido completamente louco desde que A Citiana apareceu.			3	062.jpg	36E2Z
+GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Tudo tem sido uma loucura lunática desde que A Citiana apareceu.			3	062.jpg	36E2Z
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Essa tempestade toda estava me afetando muito. Estava tudo tããão lúgubre!					
 				A chuva começou a diminuir e o céu parece estar clareando... Será que é a época dos milagres? Espero que sim, eu adoro milagres.					
 				Au... O quê? As ovelhas na campina estão assustadas... Eu me pergunto o que está acontecendo, poderia ser... O Trígono Dourado?					
@@ -382,7 +382,7 @@ GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		Também h�
 GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Meus troncos guardam muitos segredos... segredos sobre os espíritos florestais e ilhas impossíveis. Infelizmente, eu não falo Tronquês.					
 				Com base na minha experiência, há momentos em que as corujas não são o que parecem, enquanto em outros momentos são corujas como qualquer outra.			126	064.jpg	86A47
 GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Talvez você tenha ouvido falar de uma ilha impossível sob a Lua Radiante... Talvez tenha lido isso na internet?			134	065.jpg	H6A5I
-				Estivemos monitorando suas ações em silêncio e queremos ressaltar que quanto mais tempo você levar para decidir, menor será a comemoração.					
+				Estivemos monitorando suas ações em silêncio e queremos ressaltar que quanto mais você hesitar, menor será a comemoração.					
 				Parece que você progrediu bastante em seus esforços para localizar e domar o Trígono da Lua Radiante. Muito bem feito!					
 GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		Os espíritos florestais são filhos da Mãe Terra ou são visitantes solitários do Remoinhado Infinito?					
 				Para ser honesta, os espíritos florestais me deixam com medo. Quero dizer... O que são eles? De onde eles vêm?					
@@ -495,7 +495,7 @@ ARCHETYPE_DARKMOONTRIGONCOLLECTED	The Archetype			Agora a pergunta é... O que v
 				Fui informado de que você recuperou o Trígono da Lua Sombria. Isso é realmente uma notícia extraordinária.					
 LOGFELLA_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	O lenhador não reconheceu a chave que encontramos e não tinha ideia para que servia.					
 			AdventureUI/keyItem	...?					
-GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae viu a chave que encontramos e nos incentivou a ficar de olho em uma porta fechada.					
+GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae viu a chave que encontramos e nos incentivou a ficar de olho em uma porta trancada.					
 				Ela não tinha nenhuma outra ideia, mas nos lembramos de algo que vimos no antigo caminho para Mingi Tau.					
 ARCHETYPE_GROTTOPARADOX	The Archetype								
 				Uma vez que o humor da lua foi alterado na Gruta da Lua...					
@@ -612,8 +612,8 @@ ARCHETYPE_CREDITS	The Archetype
 				Trabalho pesado variado incluindo programação PC/Mac/Linux e suporte de Nintendo Switch por Drew Grainge na Capy.					
 				Alguns recursos de arte redimensionados e sorrisos fornecidos por Vic 'Meow' Nguyen na Capy.					
 				Controle de qualidade adicional: o único e inigualável Aaron Eves.					
-				Suporte de controle de qualidade de Nintendo Switch cortesia de Testronic Labs.					
-				Suporte de controle de qualidade por Roopesh Pawar. A, Prashanth. DR, Veeresh Kuruva, Raghunath. BG e Roshan R Shekar da Sun technology Integrators Pvt. Ltd.					
+				Suporte de QA de Nintendo Switch cortesia de Testronic Labs.					
+				Suporte de QA por Roopesh Pawar. A, Prashanth. DR, Veeresh Kuruva, Raghunath. BG e Roshan R Shekar da Sun technology Integrators Pvt. Ltd.					
 				Obrigado a Xavier Xaden Xen, Joseppe Theodore Blocco e Hank Hudson.					
 				Biscoitos e outras delícias fornecidas por Thea Gaerlan.					
 				* * * APOIO DA SUPERBROTHERS * * *					
@@ -666,13 +666,13 @@ ARCHETYPE_CREDITS	The Archetype
 				S:S&S EP ganhou um prêmio Game Developer's Choice na GDC 2012.					
 				* * * DOZE ANOS DEPOIS * * *					
 				S:S&S EP foi desempoeirado e atualizado para garantir que o jogo continuasse funcionando nos últimos sistemas operacionais.					
-				A Superbrothers continua sendo uma pequena empresa de arte e design de videogames, agora em seu vigésimo ano. Opera a partir dos bosques de Quebec e da costa oeste do Canadá.					
-				Desde S:S&S EP, Superbrothers e Jim Guthrie contribuíram para Sound Shapes (2012) (Queasy Games) (PlayStation + PC).					
-				A Superbrothers sonhou novos sonhos e eventualmente entregou JETT: The Far Shore + Given Time (2021/2023) (PlayStation + PC), uma saga de ficção científica estilo soviético com músicas e sons do compositor scntfc.					
+				A Superbrothers, agora em seu 20º ano, é uma pequena empresa de arte e design de videogames que opera dos bosques de Quebec e da costa oeste do Canadá.					
+				Desde S:S&S EP, Superbrothers e Jim Guthrie contribuíram para Sound Shapes (2012) (Queasy Games) (PS + PC).					
+				A Superbrothers sonhou novos sonhos e entregou JETT: The Far Shore + Given Time (2021/23) (PS + PC), uma saga de ficção científica com música do compositor scntfc.					
 				A partir de 2023, um novo projeto de pixels está sendo gestado na Superbrothers.					
-				A Capy Games lançou o bombasticamente hiperativo rebobinador de tempo Super Time Force Ultra (2014) (PlayStation + PC + Xbox).					
-				Em 2018, a Capy entregou Below - um roguelike de ação-aventura com um pequeno guerreiro explorando as profundezas misteriosas de uma ilha remota (PlayStation + PC + Xbox).					
-				A Capy lançou o estranho e maravilhoso Grindstone em 2019 e teimosamente continua adicionando novos recursos e conteúdo para os jogadores aproveitarem (Apple Arcade + Switch + PC + PlayStation + Xbox).					
+				A Capy Games lançou o hiperativo rebobinador de tempo Super Time Force Ultra (2014) (PS + PC + Xbox).					
+				Em 2018, a Capy entregou Below, um roguelike de ação-aventura sobre um guerreiro explorando as profundezas de uma ilha remota (PS + PC + Xbox).					
+				A Capy lançou o maravilhoso Grindstone em 2019 e continua adicionando conteúdo para os jogadores (Apple Arcade + Switch + PC + PS + Xbox).					
 				Enquanto isso, a partir de 2023, a equipe está cozinhando um delicioso novo jogo em seu caldeirão de jogos.					
 				* * * O QUE É S:S&S EP? * * *					
 				S:S&S EP pretende ser um corajoso experimento em Cinema Interativo, seja lá o que isso signifique.					
