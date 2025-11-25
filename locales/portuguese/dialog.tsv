@@ -89,7 +89,7 @@ ARCHETYPE_SWORCERY	The Archetype			"""Chegou a hora de aprender a Canção da Es
 			gourd/gourd	"""Mantenha a calma e siga minhas instruções para despertar o espírito florestal que dorme nas águas frescas da lagoa profunda."""					
 ARCHETYPE_TADPOLES	The Archetype			Era evidente que o homem estranhamente vestido esperava que fizéssemos algo, mas não tínhamos ideia do que.					
 			gourd/gourd	"""Você vê as melódicas espumas na lagoa profunda? Um espírito florestal dorme ali e você deve despertá-lo."""					
-			gourd/gourd	"""Você pode entoar a Canção da Espadância a qualquer momento, mantendo pressionado sobre A Citiana para revelar uma realidade oculta dentro desta."""					
+			gourd/gourd	"""Mantenha pressionado sobre A Citiana para entoar a Canção da Espadância e revelar uma realidade oculta."""					
 			gourd/gourd	"""Guie as duas pequenas criaturas nadando em direção ao local onde o espírito dorme e envie-as ao céu com três toques de Espadância."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Samae se abrigava da chuva sob o amplo telhado de madeira do poço.					
 				Ela abandonou o conforto do fogo na cabana porque, aparentemente, Troncadeiro estava nervoso por algo.					
@@ -146,7 +146,7 @@ INFO_TRIGONGROVESKULLSTICK	The Scythian			Um poste sinistro decorado com uma cav
 GRAVE_TRIGONGROVE	The Scythian			Na Clareira Trigonal, além da vasta caverna na campina, encontramos uma tumba solitária que despertou nossa curiosidade.					
 GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigonal, além da vasta caverna na campina, encontramos uma tumba solitária onde um fantasma resplandecente nos recebeu.					
 				O fantasma resplandecente da Clareira Trigonal, devemos admitir, nos assustou bastante no início.			96	022.jpg	T2B2H
-			adventureUI/megatomeItem	Ele reconheceu nossa vestimenta citiana e viu que portávamos o Megatomo. Quis saber se compreendíamos os enigmáticos símbolos em seu interior.					
+			adventureUI/megatomeItem	Ao ver nossa vestimenta citiana e o Megatomo, perguntou se entendíamos seus enigmáticos símbolos.					
 				Num sussurro, ele pronunciou o nome do espectro imortal que havíamos despertado nas trevas sob Mingi Tau: A Massa Gogolítica.			166	023.jpg	O2B39
 				Conhecíamos o temível nome pelas antigas histórias e sentimos como se nosso sangue gelasse.					
 				"""Até agora tive a sensação de que a Massa Gogolítica te via como um simples turista."""					
@@ -252,7 +252,7 @@ LOGFELLA_CABINSHEEP	The Scythian			Troncadeiro sentia que a época dos milagres 
 GIRL_CABINSHEEPTHOUGHTS	Girl			A chuva parou! Será que a tempestade está começando a se dissipar? Tomara.					
 				Essa tempestade toda estava me afetando muito. Estava tudo tão lúgubre!					
 LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Estou com os nervos à flor da pele... Com certeza algo está acontecendo... A tempestade está começando a se dissipar?					
-				Sempre que preciso recarregar minhas energias, sento-me junto ao fogo para aquecer minhas botas.					
+				Sempre que preciso recuperar as forças, sento-me junto ao fogo para aquecer minhas botas.					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Au Au Au Au Au Au Au Au. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			Uma vez que o sol estiver alinhado, você receberá as habilidades miraculosas de dobra do grande mago Al Jaffee.					
 				Você sente essa sensação peculiar? É a época dos milagres! Entoe a Canção de Espadância e observe os pássaros zangados surgindo imponentes.			76	038.jpg	A3G84
@@ -373,7 +373,7 @@ GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Essa tempestade toda esta
 GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		Au Au Au.					
 				Às vezes, quando as coisas estão muito sombrias para mim, eu como algo e vejo até mesmo o que não está lá.					
 				Au Au Au Au Au.					
-GCLUE_SECRET2_STONESHELTER	Logfella	AdventureUI/tweetIconGourd		Eu tenho essa música na minha cabeça... uma música alegre e triste que me enche de um medo estranho e bonito.					
+GCLUE_SECRET2_STONESHELTER	Logfella	AdventureUI/tweetIconGourd		Eu tenho essa cançãozinha na minha cabeça... uma música alegre e triste que me enche de um medo estranho e bonito.					
 GCLUE_MOUNTAINLAKESHORE	Dogfella	AdventureUI/tweetIconGourd		Eu sei que você está tentando evitar a sua funesta missão, mas saiba disso: o tempo é uma força e certamente continuará seguindo seu curso.					
 				Au Au Au. Snif.					
 GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		Também há substantivos desconhecidos, embora sejam facilmente aprendidos.					
@@ -404,13 +404,13 @@ JIM_HINT1_OFF	The Scythian			Encontramos um misterioso músico ao lado de uma fo
 JIM_PINKDAWN	The Scythian			Encontramos um misterioso músico ao lado de uma fogueira crepitante em uma clareira isolada. #jimguthrie					
 JIM_BRIGHTMOON	The Scythian			Enquanto a Lua Radiante pairava, encontramos um misterioso músico ao lado de uma fogueira crepitante, que se apresentou como Jim Guthrie.			128	070.jpg	07G00
 JIM_POSTSWORCERY	The Scythian			O misterioso músico conhecido como Jim Guthrie testemunhou nossa Espadância e não pareceu se importar.					
-JIM_POSTGOURD	The Scythian			O misterioso músico conhecido como Jim Guthrie disse que estava pronto para tocar uma pequena canção se quiséssemos ouvi-la.					
+JIM_POSTGOURD	The Scythian			O misterioso músico conhecido como Jim Guthrie disse que estava pronto para tocar uma cançãozinha se quiséssemos ouvi-la.					
 				Jim nos convidou para nos sentarmos ao lado do fogo.					
 JIM_POSTSONG	The Scythian			Jim Guthrie nos ensinou que não se pode negar pensamentos ruins, assim como não se pode negar a mordida de um dragão.					
 			Archetype/trifecta	Ele nos contou sobre um show de rock que ele tinha programado para tocar do outro lado do lago em uma quinzena.					
 JIM_LOGFELLATHOUGHTS	Logfella			A música soa tão familiar... Onde eu a ouvi antes? #1000songs					
 				De repente, entrou na minha cabeça uma melodia muito curiosa. #andwegotolder					
-LOGFELLA_JIMTHOUGHTS	Logfella			Eu tive essa pequena música na minha cabeça por anos... apenas algumas notas que se repetem uma e outra vez. Eu me pergunto o que isso significa.					
+LOGFELLA_JIMTHOUGHTS	Logfella			Eu tive essa cançãozinha na minha cabeça por anos... apenas algumas notas que se repetem uma e outra vez. Eu me pergunto o que isso significa.					
 ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Atravessar com segurança o limiar da liminaridade é simples: procure por lugares familiares e pelo calor do lar.					
 				Se você conseguir estabilizar sua lucidez, poderá co-criar com ela... em vez de lutar, resistir e amaldiçoá-la.					
 				Quando você está lúcido em um sonho, percebe quem imaginou ser... mas se identificar com o sonho é se deixar encantar.					
@@ -478,7 +478,7 @@ GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Falamos com Sama
 				Ela nos perguntou se tínhamos passado pela Clareira Trigonal... Talvez pudéssemos ativar outro facho celestial?					
 LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			O lenhador podia ver que nossas caminhadas oníricas e o obrar milagres haviam cobrado um alto preço em nossa saúde física.					
 				Troncadeiro parecia suspeitar que nossa funesta missão não teria um final feliz.					
-				Troncadeiro nos lembrou que podíamos nos sentar ao lado do fogo da cabana e descansar de vez em quando para recuperar as energias.					
+				Troncadeiro nos lembrou que podíamos nos sentar ao lado do fogo da cabana e descansar de vez em quando para recuperar as forças.					
 ARCHETYPE_BRIGHTMOONTRIGONCOLLECTED	The Archetype			Nossos dados de pesquisa mostram uma alta correlação entre o progresso de um participante em S:S&S EP e sua habilidade para ser incrível.			45	074.jpg	87A43
 				Vejo que você conseguiu localizar e recuperar o Trígono da Lua Radiante. Isso é realmente uma notícia extraordinária.					
 MIRACLE3_HUGETREE	The Scythian			Enquanto a Lua Sombria reina, realizamos um milagre em meio a um Parlamento de Árvores.					
