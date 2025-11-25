@@ -32,7 +32,7 @@ LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Atravesamos el
 			adventureUI/megatomeItem	Decidimos ir a por el Megatomo y luego salir de allí con vida.					
 LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó que él era el único con la llave de la puerta trancada en el muro de piedra.					
 			AdventureUI/keyItem	Era una llave realmente bonita.					
-				Estábamos listos para mantener pulsado el camino ¡y movernos sin parar!					
+				Estábamos más que listos para mantener pulsado el camino ¡y movernos sin parar!					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Amileño iba a quedarse aquí esperando a que volviéramos con el Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Amileño había elegido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
 				Amileño parecía saberlo todo acerca del odioso arcoíris y el glifo cercano que representaba a una espada que apuntaba al cielo.					
@@ -270,7 +270,7 @@ ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			El Trigón Dorado debe ser domado,
 				En el segundo patrón, debes esperar su ataque cargado y pulsar el botón de escudo en el momento adecuado para esquivarlo.					
 				En el primer patrón, debes blandir tu espada para devolver la bola de energía.					
 ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Quizá ya notaste que el Trigón Luna Radiante hace llover la muerte desde arriba... así que espera el momento justo y pulsa el escudo para esquivar.			144	041.jpg	84E11
-ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			El patrón final del Trigón Luna Radiante requerirá que golpees los proyectiles con tu espada y esquives sus ataques cargados.					
+ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			El patrón final del Trigón Luna Radiante requerirá que golpees los proyectiles con tu espada y esquives sus ataques de rayo cargados.					
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Quizá ya te hayas enfrentado al odioso ataque de arcoíris del Trigón Luna Sombría. Rebana ese arcoíris tan fuerte y rápido como puedas.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			El patrón final del Trigón Luna Sombría implica sutiles proyectiles triangulares. Destrúyelos y sobrevivirás.					
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que despertaste al espectro inmortal que acechaba en la oscuridad bajo Mingi Tau... ¡Uf!					
