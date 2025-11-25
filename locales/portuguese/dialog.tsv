@@ -21,7 +21,7 @@ DOOR_SIDEBMEADOW	The Scythian			Uma pequena porta sem maçaneta, feita de um mat
 DOOR_UPSLOPEWOODS1	The Scythian			Uma porta trancada fechava o antigo caminho para Mingi Tau, bem no muro de pedra.					
 DOOR_UPSLOPEWOODS3	The Scythian			Uma porta trancada se escondia na mata abaixo da antiga estrada que leva a Mingi Tau. #moongrotto					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
-LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		O lenhador de lenha lenhava a lenha. #obviously #woodchopping			71	007.jpg	7E+71
+LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		O lenhador de lenha lenhava a lenha. #obviously #woodchopping			71	007.jpg	70E70
 				Os montanheses do Cáucaso o conheciam como Troncadeiro e ele parecia agradável.					
 				Troncadeiro sabia tudo sobre nossa funesta missão e concordou em nos guiar pelo antigo caminho.					
 				Era óbvio que o assunto não o entusiasmava nem um pouco.					
@@ -106,7 +106,7 @@ INFO_LOOMINGBIRDSCULPTURES	The Scythian			Avistamos a escultura de um pássaro z
 INFO_MEADOWSUNSTICK	The Scythian			Vimos um cajado de formato estranho que vigiava a campina.					
 INFO_CABINWELL	The Scythian			Vimos um poço solidamente construído com um amplo telhado de madeira.					
 INFO_UNWELLWELL	The Scythian			O poço soltou um soluço. #unwell #well					
-INFO_WELLNESS	The Scythian			Tudo está bem quando acaba bem. #unwell #well #welfare					
+INFO_WELLNESS	The Scythian			Tudo está bem quando acaba bem. #unwell #well #wellness					
 INFO_WELLWHITESTAG	The Scythian			LONGA VIDA À NOVA CARNE.					
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Vimos uma robusta cabana de pedra com um telhado de palha ao lado de uma lagoa profunda.					
@@ -154,7 +154,7 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigonal, além da vasta caver
 				Não ficou claro se o fantasma nos animava ou nos advertia.					
 				Contamos ao fantasma nossas intenções de detonar o Megatomo no topo de Mingi Tau e libertar a Massa Gogolítica da imortalidade.					
 			Archetype/trifecta	Perguntamos a ele sobre a Tríade Trigonal e a localização dos trígonos restantes, mas sua resposta foi irritantemente ambígua.					
-				"""Os trígonos restantes existem apenas nos sonhos dos montanheses."""			43	024.jpg	8.2E+46
+				"""Os trígonos restantes existem apenas nos sonhos dos montanheses."""			43	024.jpg	82E45
 				"""Localizar os trígonos restantes não é uma questão de onde, mas de quando e como."""					
 				Com certeza, o fantasma resplandecente disse muitas coisas confusas que não ajudavam em nada.					
 GRAVE_LOGBRIDGE	The Scythian			Em uma moita ao lado do antigo caminho, encontramos um conjunto de tumbas que despertaram nossa curiosidade.					
@@ -196,7 +196,7 @@ GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de uma árvore oca titâni
 				"""A canção do trígono acabou por enquanto. Me pergunto quando ouvirei novamente."""					
 LOGFELLA_LOSTKEY	The Scythian			O lenhador aflito conhecido como Troncadeiro estava completamente nervoso por algo.					
 			AdventureUI/keyItem	Parece que Troncadeiro perdeu a chave da porta trancada no muro de pedra que fecha o antigo caminho para Mingi Tau.					
-				"Suspiramos para nós mesmos: 'Ah, outra busca interminável.'"					
+				Pensamos: 'Ótimo, mais uma missão de buscar coisas', né?					
 				Troncadeiro nos disse que estava sentado bem aqui quando caiu em um sono profundo.					
 			AdventureUI/keyItem	Troncadeiro nos disse que achava que havia perdido sua chave no reino crepuscular dos sonhos.					
 				Já tínhamos ouvido falar dos estranhos sonhos dos montanheses de cabelo escuro do Cáucaso, então isso fazia total sentido para nós.					
@@ -226,7 +226,7 @@ GIRL_FOUNDKEY	The Scythian			Encontramos Samae, encharcada pela chuva, em uma tr
 			gourd/gourd	Ela falou sobre arco-íris tênues no fio do Precipício Perigoso.					
 			adventureUI/megatomeItem	...E então, assustada, nos disse para consultar o Megatomo caso nos sentíssemos perdidos.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Tudo bem A Citiana ficar com a chave se vai dissipar a tempestade.					
-				Devo ter assentido em algum momento durante a épica história que A Citiana contou. Não aguento muito folclore.					
+				Devo ter dormido em algum momento durante a épica história que A Citiana contou. Não aguento muito folclore.					
 				Questionei A Citiana sobre sua funesta missão... ela começou a falar sobre estepes e o dedo de Deus.					
 GIRL_FOUNDKEYTHOUGHTS	Girl			Mais um ou dois espíritos florestais enviados ao céu dissiparão a chuva incessante... e então a época dos milagres começará! #miracles			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			Em minhas caminhadas nos sonhos, há uma tranquilidade emocionante quando a lua brilha mais... e quando a lua está escura, as florestas se tornam selvagens.					
@@ -263,13 +263,13 @@ ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... interessante co
 ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			Para domar o Trígono Dourado, você deve aprender a sobreviver aos três movimentos de sua canção bizarra usando uma mistura de ataque e defesa.					
 				É absolutamente fundamental que você segure o botão do escudo sempre que puder para recuperar sua força perdida.					
 				Vejo que você já invocou e tentou domar o Trígono Dourado. Tenho algumas coisas para te contar que acredito que serão úteis.					
-ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Rebata os ataques de projéteis psiônicos do Trígono com sua espada e espere a oportunidade para esquivar de seus ataques de raio.			83	040.jpg	3.4E+02
+ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Rebata os ataques de projéteis psiônicos do Trígono com sua espada e espere a oportunidade para esquivar de seus ataques de raio.			83	040.jpg	34E01
 				A lógica inescrutável e insondável do Trígono Dourado ceifou as almas de todos que vieram antes... eles não tinham tenacidade e coragem.					
 ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			O Trígono Dourado deve ser domado, não há outra opção.					
 				No terceiro padrão, você deve rebater os pequenos projéteis triangulares com sua espada e esquivar dos ataques de raio.					
 				No segundo padrão, espere pelo ataque carregado e pressione o botão de escudo no momento adequado para esquivar.					
 				No primeiro padrão, você deve brandir sua espada para devolver a bola de energia.					
-ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Você deve ter notado que o Trígono da Lua Radiante faz chover a morte... então espere o momento certo e pressione o escudo para esquivar.			144	041.jpg	8.4E+12
+ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Você deve ter notado que o Trígono da Lua Radiante faz chover a morte... então espere o momento certo e pressione o escudo para esquivar.			144	041.jpg	84E11
 ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Radiante exigirá que você branda sua espada contra os projéteis e esquive dos ataques de raio carregado.					
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Você pode já ter encontrado o odioso ataque de arco-íris do Trígono da Lua Sombria. Fatie aquele arco-íris o mais forte e rápido que puder.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Sombria envolve projéteis triangulares furtivos e sutis. Destrua-os e você sobreviverá.					
@@ -346,16 +346,16 @@ GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Desper
 GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito florestal junto a uma sólida ponte de troncos, onde quatro pares de árvores se erguem sobre um rio.					
 GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito florestal entre dois odiosos arco-íris ao lado do Precipício Perigoso.					
 GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito florestal cercado por cinco cachoeiras.					
-GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito florestal na mata alta de uma rocha íngreme.					
-GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito florestal em uma clareira isolada, onde coincidentemente estava Jim Guthrie.			132	058.jpg	G5F8U
-GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito florestal nas águas tranquilas de um lago onde uma pata-mãe estava angustiada.					
-GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito florestal onde o reflexo do lago estava um pouco incongruente.			127	059.jpg	65D98
-GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito florestal em um lago sereno sob uma tríade de corujas.					
+GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito florestal na mata no alto de um rochedo.					
+GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito florestal em uma clareira isolada onde Jim Guthrie estava por acaso.			132	058.jpg	G5F8U
+GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito florestal nas águas tranquilas de um lago onde uma pata-mãe estava em pânico.					
+GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito florestal onde o reflexo do lago era um pouco incongruente.			127	059.jpg	65D98
+GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito florestal em um lago sereno sob uma trindade de corujas.					
 GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Temos essa sensação peculiar de que talvez estejamos na época dos milagres. #miracles					
 GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito florestal cercado por três pequenas cachoeiras.					
 GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito florestal cercado por quatro pequenas árvores redondas nas florestas mais escuras.					
 GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito florestal na mata do outro lado de um lago.					
-GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	A Lua Radiante paira e despertamos um espírito florestal espreitando na raiz de uma árvore titânica.					
+GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito florestal espreitando na raiz de uma árvore titânica.					
 GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Temos essa sensação peculiar de que talvez estejamos na época dos milagres. Onde estão meus milagres? #miracles			77	060.jpg	86D06
 GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Au Au Au Au Au Au. #barking			135	061.jpg	M6F1I
 				Au Au Au. #justbarking					
@@ -383,7 +383,7 @@ GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Meus troncos guardam mu
 				Com base na minha experiência, há momentos em que as corujas não são o que parecem, enquanto em outros momentos são corujas como qualquer outra.			126	064.jpg	86A47
 GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Talvez você tenha ouvido falar de uma ilha impossível sob a Lua Radiante... Talvez tenha lido isso na internet?			134	065.jpg	H6A5I
 				Estivemos monitorando suas ações em silêncio e queremos ressaltar que quanto mais você hesitar, menor será a comemoração.					
-				Parece que você progrediu bastante em seus esforços para localizar e domar o Trígono da Lua Radiante. Muito bem feito!					
+				Parece que você progrediu bastante em seu esforço para localizar e domar o Trígono da Lua Radiante. Muito bem feito!					
 GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		Os espíritos florestais são filhos da Mãe Terra ou são visitantes solitários do Remoinhado Infinito?					
 				Para ser honesta, os espíritos florestais me deixam com medo. Quero dizer... O que são eles? De onde eles vêm?					
 GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Quando os espíritos forem enviados para o céu e a época dos milagres se aproximar, você deve procurar a árvore titânica.					
@@ -571,7 +571,7 @@ LOGFELLA_CRESCENTWANE	The Scythian			O lenhador não aguentava muito folclore e 
 GIRL_CRESCENTWANE	The Scythian			Samae observou a lua minguante. Ela disse que em breve partiria e a Lua Sombria reinaria.					
 ARCHETYPE_CRESCENTWANE	The Archetype			O ciclo lunar está quase completo. A Lua Sombria está muito próxima.					
 DARKMOONLOOMS_ARCHETYPE	The Archetype			A Lua Sombria reina, o fim do ciclo lunar está próximo.					
-DARKMOONBEGINS_ARCHETYPE	The Archetype			Aqui está, a Lua Sombria!			94	076.jpg	I7F69
+DARKMOONBEGINS_ARCHETYPE	The Archetype			Contemple: a Lua Sombria!			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			Em meu sonho, encontrei um Parlamento de Árvores atingido por um raio e senti a presença de algo profundamente sagrado.					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Ontem à noite, ouvi o som de uma música vibrante filtrando-se pelos bosques atrás de minha cabana. O que poderia ser?					
 DARKMOON_DOGFELLATHOUGHTS	Dogfella			Au Au Au. Em meu estado de sonho, só vislumbrei as brumas sutis dos espíritos florestais.					

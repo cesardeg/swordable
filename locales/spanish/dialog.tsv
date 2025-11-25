@@ -17,14 +17,14 @@ INFO_CROSSMOUNTAINRIGHT	The Scythian			En la pendiente rocosa de Mingi Tau, una 
 INFO_RIDGESKULLPOLE	The Scythian			En la cresta rocosa rumbo a la cima de Mingi Tau, se erguía un poste siniestro decorado con una calavera con cuernos.					
 INFO_CROSSRIDGE	The Scythian			En la cresta rocosa rumbo a la cima de Mingi Tau, descansaba una tumba solitaria, lúgubre recordatorio de todas las personas que han muerto aquí.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos el Megatomo aferrado entre dos manos huesudas y sentimos que nuestra espada se estremecía en su vaina. #megatome			33	006.jpg	30D6C
-DOOR_SIDEBMEADOW	The Scythian			Encontramos una puerta pequeña sin pomo hecha de un material desconocido. El letrero dice «Solo Personal Autorizado».					
+DOOR_SIDEBMEADOW	The Scythian			Encontramos una puerta pequeña sin pomo hecha de un material desconocido. El letrero dice «Solo personal autorizado».					
 DOOR_UPSLOPEWOODS1	The Scythian			Una puerta trancada bloqueaba el antiguo camino hacia Mingi Tau, justo en el muro de piedra.					
 DOOR_UPSLOPEWOODS3	The Scythian			Una puerta trancada se escondía entre la maleza, debajo del antiguo camino que lleva hacia Mingi Tau. #moongrotto					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
 LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador de leña leñaba la leña. #obviously #woodchopping			71	007.jpg	70E70
 				Los montañeses del Cáucaso le decían Amileño y parecía buena gente.					
 				Amileño lo sabía todo sobre nuestro funesto cometido y accedió a guiarnos por el antiguo camino.					
-				Era obvio que el asunto no le entusiasmaba nada.					
+				Era evidente que no le hacía mucha gracia el asunto.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		El leñador nos esperó para continuar por el antiguo camino.			12	008.jpg	U0D88
 LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Atravesamos el abismo y, para qué negarlo, nos sentimos muy listos.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Le contamos a Amileño que estábamos en busca de un inquietante libro de magia oscura conocido como el Megatomo.					
@@ -35,7 +35,7 @@ LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó 
 				Estábamos listos para mantener pulsado el camino ¡y movernos sin parar!					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	El leñador conocido como Amileño iba a quedarse aquí esperando a que volviéramos con el Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		El leñador conocido como Amileño había elegido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
-				Amileño parecía saberlo todo acerca del odioso arcoíris y el glifo que representaba a una espada que apuntaba al cielo.					
+				Amileño parecía saberlo todo acerca del odioso arcoíris y el glifo cercano que representaba a una espada que apuntaba al cielo.					
 				Y, sin embargo, Amileño no ofreció ninguna pista sobre qué hacer, lo cual, siendo totalmente honestos, nos molestó un poco.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador había visto alguna criatura monstruosa y decidió dejárnosla a nosotros.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos el Megatomo y Amileño estaba completamente listo para llevarlo a la seguridad de su morada.					
@@ -106,14 +106,14 @@ INFO_LOOMINGBIRDSCULPTURES	The Scythian			Vimos la escultura de un pájaro enoja
 INFO_MEADOWSUNSTICK	The Scythian			Vimos un palo con forma extraña que vigilaba el prado.					
 INFO_CABINWELL	The Scythian			Vimos un pozo sólidamente construido con un amplio tejado de madera.					
 INFO_UNWELLWELL	The Scythian			El pozo emitió un sollozo. #unwell #well					
-INFO_WELLNESS	The Scythian			Bien está lo que bien acaba. #unwell #well #welfare					
+INFO_WELLNESS	The Scythian			Bien está lo que bien acaba. #unwell #well #wellness					
 INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE.					
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Vimos una robusta choza de piedra con un techo de paja al lado de un estanque profundo.					
 INFO_CABINWOODPILE	The Scythian			Vimos una pila de leña, pero no es para tanto.					
 INFO_SPUME	The Scythian			Descubrimos las sutiles y melodiosas brumas de un espíritu silvano adormecido. Y ahora... ¿cómo despertarlo?					
 INFO_NESTBOX	The Scythian			Vimos un curioso nido que ahora alberga una colmena miserable.			13	015.jpg	B1C5F
-INFO_NESTBOXWEATHERED	The Scythian			Vimos un nido desgastado que parecía una cara espeluznante.					
+INFO_NESTBOXWEATHERED	The Scythian			Vimos un nido desgastado que de forma espeluznante parecía una cara.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre un puente de troncos en el antiguo camino, se erguía un mástil siniestro decorado con calaveras.					
 INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la vasta cueva del prado, encontramos un conjunto extraño de estructuras de piedra en un claro oculto.					
 			Archetype/trifecta	...¿Era este el Claro Trigonal? #trigongrove			93	016.jpg	B1D6J
@@ -196,7 +196,7 @@ GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un árbol hueco titáni
 				"""El canto del trigón ha terminado por ahora. Me pregunto cuándo volveré a escucharlo."""					
 LOGFELLA_LOSTKEY	The Scythian			El leñador afligido conocido como Amileño estaba totalmente nervioso por algo.					
 			AdventureUI/keyItem	Al parecer, Amileño había perdido la llave de la puerta trancada en el muro de piedra que bloqueaba el antiguo camino hacia Mingi Tau.					
-				"Pensamos: 'Genial, otra misión de búsqueda', ¿no?"					
+				Pensamos: 'Genial, otra misión de buscar objetos', ¿verdad?					
 				Amileño nos dijo que estaba sentado justo aquí cuando cayó en un sueño profundo.					
 			AdventureUI/keyItem	Amileño nos dijo que creía haber perdido su llave en el reino crepuscular de los sueños.					
 				Ya habíamos oído hablar de los extraños sueños de los montañeses de cabello oscuro del Cáucaso, por lo que esto tenía total sentido para nosotros.					
@@ -212,13 +212,13 @@ LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Ah, rayos, cómo odio esta lluvia... Cómo o
 				¡Rayos! ¿Dónde se ha ido mi llave? ¡Estoy tan molesto y avergonzado que no puedo calmarme!					
 LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	El leñador estaba muy aliviado de que hayamos logrado recuperar su llave perdida del reino crepuscular de los sueños.					
 				El leñador conocido como Amileño quiso saber cómo nos habíamos vuelto tan listos y nos preguntó por nuestro funesto cometido.					
-				Le contamos al leñador cómo crecimos en las estepas junto a nuestras valientes hermanas y hermanos escitas.					
-				Le contamos a Amileño por qué vagábamos por esta montaña desierta y cómo éramos guiados por el dedo de un Dios omnisciente.					
+				Le contamos al leñador cómo crecimos en las estepas junto a nuestros valientes hermanos y hermanas escitas.					
+				Le contamos a Amileño por qué vagábamos por esta montaña desierta y cómo éramos guiados por la mano de un Dios omnisciente.					
 			adventureUI/megatomeItem	Le contamos a Amileño sobre lo que sospechábamos que podrían significar los enigmáticos símbolos dentro del Megatomo.					
 			gourd/gourd	Teníamos el presentimiento de que necesitábamos despertar a algunos espíritus silvanos más para disipar la tormenta.			104	033.jpg	W3D3G
 			triangle/Triangle	En un susurro hablamos de nuestra intención de encontrar y domar una manifestación de geometría cósmica conocida como el Trigón Dorado.					
 				Estaba claro que el leñador ya no nos prestaba atención.					
-			AdventureUI/keyItem	Preferimos quedarnos con la llave y salir a caminar por el antiguo camino, más alla del muro de piedra.					
+			AdventureUI/keyItem	Preferimos quedarnos con la llave y salir a caminar por el antiguo camino, más allá del muro de piedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si podíamos quedarnos con su llave y él estuvo de acuerdo.					
 GIRL_FOUNDKEY	The Scythian			Nos encontramos con Samae, empapada por la lluvia, en un sendero lateral.					
 			gourd/gourd	Había oído las sutiles y melodiosas brumas de los espíritus silvanos más allá del muro de piedra en el antiguo camino hacia Mingi Tau.					
@@ -226,8 +226,8 @@ GIRL_FOUNDKEY	The Scythian			Nos encontramos con Samae, empapada por la lluvia, 
 			gourd/gourd	Ella habló de unos arcoíris tenues en el filo del Precipicio Peligroso.					
 			adventureUI/megatomeItem	...Y luego, asustada, nos dijo que consultáramos el Megatomo si nos sentíamos perdidos.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Me parece bien que La Escita se quede con la llave si va a disipar la tormenta.					
-				Debo haber asentido en algún momento durante la épica historia de La Escita. No me van mucho las historias.					
-				Le pregunté a La Escita sobre su funesto cometido... empezó a hablar de las estepas y del dedo de Dios.					
+				Debo haberme quedado dormido en algún momento durante la épica historia de La Escita. No me van mucho las historias.					
+				Le pregunté a La Escita sobre su funesto cometido... empezó a hablar de las estepas y de la mano de Dios.					
 GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos espíritus silvanos más enviados al cielo disiparán la tormenta incesante... ¡Y luego comenzará la temporada de milagros! #miracles			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			En mis paseos en sueños hay una tranquilidad emocionante cuando la luna brilla más... y cuando la luna está oscura, los bosques se vuelven salvajes.					
 				En los sueños, siempre son los mismos lugares y espacios, excepto cuando varían según el humor de la luna.					
@@ -264,7 +264,7 @@ ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			Para domar el Trigón Dorado debes a
 				Es crucial que mantengas pulsado el botón del escudo cuando puedas para recobrar tu fuerza perdida.					
 				Veo que has invocado e intentado domar el Trigón Dorado. Tengo algunas cosas que comentarte que creo te serán de utilidad.					
 ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Golpea los ataques de proyectiles psiónicos del Trigón con tu espada y espera la oportunidad para esquivar sus ataques cargados.			83	040.jpg	34E01
-				La lógica inescrutable e insondable del Trigón Dorado ha reclamado las almas de todos aquellos que te precedieron... ellos carecían de tenacidad y coraje.					
+				La lógica inescrutable e insondable del Trigón Dorado ha reclamado las almas de todos aquellos que te precedieron... carecían de tenacidad y coraje.					
 ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			El Trigón Dorado debe ser domado, no hay otra opción.					
 				En el tercer patrón, debes golpear los pequeños proyectiles triangulares con tu espada y esquivar los ataques cargados.					
 				En el segundo patrón, debes esperar su ataque cargado y pulsar el botón de escudo en el momento adecuado para esquivarlo.					
@@ -282,7 +282,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				Me alegra verte de nuevo. ¿Estás listo para comenzar con la Sesión II de S:S&S EP?					
 			adventureUI/megatomeItem	Bien, ¿en qué estábamos? Ah, sí, ya me acuerdo. Conseguiste un pesado libro conocido como el Megatomo.					
 				Despertaste a un espectro inmortal que aún acecha en la oscuridad bajo Mingi Tau. Qué siniestro, ¿no?			204	042.jpg	24B2J
-				Son tiempos de angustia, una siniestra tormenta ha nublado el cielo y la gente encantadora que vive en la choza es desdichada.					
+				Son tiempos de angustia, una siniestra tormenta ha nublado el cielo y la gente encantadora que vive en la choza está desolada.					
 				Disipar la tormenta requerirá cierta familiaridad con la psiónica, la criptozoología y los milagros...					
 			adventureUI/megatomeItem	1. El toque de un espadamante liberará el Megatomo, revelando los pensamientos no expresados de criaturas vivas y otro material esotérico.					
 			gourd/gourd	2. Extraños espíritus silvanos, fuentes de Espadamancia, duermen en estanques, bosques y prados. Busca sus sutiles y melodiosas brumas.					
@@ -394,7 +394,7 @@ GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solo el final de tu fu
 				El Arremolinado Infinito en la cima de Mingi Tau te espera.					
 				Guau Guau Guau.					
 GCLUE_WATERFALLS	Girl			¿Alguna vez has notado que a veces las palabras simplemente suenan como ruido, pero otras veces el ruido produce el sonido más bello?			132	058.jpg	G5F8U
-GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Hay un montón de dichos extraños aquí, entre los montañeses del Cáucaso.					
+GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Hay un montón de dichos extraños aquí entre los montañeses del Cáucaso.					
 				Hay un dicho aqui en el Cáucaso que dice que un bosque necesita un fuego tanto como el fuego necesita al árbol.					
 YELLOWTRIGON_COLLECTED	The Scythian			Conseguimos El Trigón Dorado. ¡Somos impresionantes!			85	067.jpg	36G7U
 PINKTRIGON_COLLECTED	The Scythian			Contra todo pronóstico, conseguimos El Trigón Luna Radiante.			155	068.jpg	56F8U
