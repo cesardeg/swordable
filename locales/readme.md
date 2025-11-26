@@ -44,13 +44,13 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | English | Spanish (ES) | Portuguese (PT-BR) | Notes |
 |---------|--------------|-------------------|-------|
 | **The Scythian** | La Escita | A Citiana | ✅ Player character |
-| **Logfella** | Amileño | Troncadeiro | ✅ The woodcutter (ES: "woodsy guy", PT: "log fellow") |
+| **Logfella** | Tronquero | Troncadeiro | ✅ The woodcutter. See Philosophy section. |
 | **Girl / Samae** | Samae | Samae | ✅ Always "Samae" after introduction |
 | | La chica de cabello oscuro | A garota de cabelo escuro | First appearance description |
 | **The Archetype** | El Arquetipo | O Arquétipo | ✅ The guide character |
-| **Dogfella** | Perrileño | Cachorreiro | ✅ The dog (ES: "dog guy", PT: "dog fellow") |
+| **Dogfella** | Perrero | Cachorreiro | ✅ The dog. See Philosophy section. |
 | **Jim Guthrie** | Jim Guthrie | Jim Guthrie | ✅ Never translate proper name |
-| **The Grizzled Boor** | El Oso Tosco | O Urso Grosseiro | ✅ Antagonist. PT: "Grosseiro" not "Tosco" |
+| **The Grizzled Boor** | El Canoso Tosco | O Urso Grosseiro | ✅ Antagonist. PT: "Grosseiro" not "Tosco" |
 | **Andre (The Giant)** | André 'El Gigante' | André 'O Gigante' | ✅ Ghost character, maintain quotes |
 | **The Gogolithic Mass** | La Masa Gogolítica | A Massa Gogolítica | ✅ The deathless specter |
 
@@ -124,9 +124,9 @@ This glossary serves as the **authoritative translation reference** for Superbro
 
 | English | Spanish (ES) | Portuguese (PT-BR) | Notes |
 |---------|--------------|-------------------|-------|
-| **Sworcery** | Espadamancia | Espadância | ✅ Core mechanic neologism |
-| **Song of Sworcery** | Canción de Espadamancia | Canção da Espadância | ✅ Main ability |
-| **sworcery aura** | aura de Espadamancia | aura de Espadância | ✅ Visual indicator |
+| **Sworcery** | Espadancia | Espadância | ✅ Core mechanic neologism. See Philosophy section. |
+| **Song of Sworcery** | Canción de Espadancia | Canção da Espadância | ✅ Main ability |
+| **sworcery aura** | aura de Espadancia | aura de Espadância | ✅ Visual indicator |
 | **sylvan sprite** | espíritu silvano | espírito florestal | ✅ Collectible creatures |
 | **sonorous spume** | melodiosas brumas | melódicas espumas | ✅ Sprite indicators. PT: "melódicas" not "sonoras" |
 | **skyward beam** | haz celestial | facho celestial | ✅ Trigon activation. PT: "facho" not "raio" |
@@ -357,10 +357,10 @@ This section defines the personality and speaking style for each character to en
 |---|---|---|---|
 | **The Scythian** | **The Stoic Narrator.** Uses "we" (plural majestatis). Her tone is epic, descriptive, and poetic, but with flashes of dry, modern humor and inner thoughts. She is on a "woeful errand" but often sounds cynical or unimpressed. | **Narradora Épica y Cansada.** Usa el plural mayestático ("nosotros"). Suena como la protagonista de una saga antigua, pero con un monólogo interior moderno y sarcástico ("genial, otra misión de buscar objetos"). | **Narradora Épica e Cansada.** Usa o plural majestático ("nós"). Soa como a protagonista de uma saga antiga, mas com um monólogo interior moderno e sarcástico ("ótimo, mais uma missão de busca"). |
 | **The Archetype** | **The Erudite Guide.** Speaks formally, almost academically. Uses complex, philosophical, and sometimes fourth-wall-breaking language ("mythopoetic psychocosmology"). He is the director of the "experience." | **El Guía Erudito.** Su lenguaje es formal, casi académico. Usa palabras complejas y conceptos abstractos ("psicosmología mitopoética"). Rompe la cuarta pared, dirigiéndose al jugador como un participante en un experimento. | **O Guia Erudito.** Sua linguagem é formal, quase acadêmica. Usa palavras complexas e conceitos abstratos ("psicosmologia mitopoética"). Quebra a quarta parede, tratando o jogador como um participante de um experimento. |
-| **Logfella** | **The Practical Woodsman.** Simple, direct, and down-to-earth. He is friendly but gruff. He has a "low tolerance for lore" and is more concerned with practical matters like chopping wood and staying warm. His speech is colloquial. | **El Leñador Práctico.** Habla de forma sencilla y directa. Es amigable pero rudo. No le interesan las "historias" y prefiere lo práctico (cortar leña). Su apodo "Amileño" refleja un carácter rústico y cercano. | **O Lenhador Prático.** Fala de forma simples e direta. É amigável, mas um pouco rude. Tem "baixa tolerância para folclore" e prefere o pragmatismo (cortar lenha). Seu apelido "Troncadeiro" reflete sua natureza rústica. |
+| **Logfella** | **The Practical Woodsman.** Simple, direct, and down-to-earth. He is friendly but gruff. He has a "low tolerance for lore" and is more concerned with practical matters like chopping wood and staying warm. His speech is colloquial. | **El Leñador Práctico.** Habla de forma sencilla y directa. Es amigable pero rudo. No le interesan las "historias" y prefiere lo práctico (cortar leña). Su apodo "Tronquero" refleja un carácter rústico y cercano. | **O Lenhador Prático.** Fala de forma simples e direta. É amigável, mas um pouco rude. Tem "baixa tolerância para folclore" e prefere o pragmatismo (cortar lenha). Seu apelido "Troncadeiro" reflete sua natureza rústica. |
 | **Girl (Samae)** | **The Gentle Observer.** Innocent, curious, and deeply connected to the mystical world (sprites, dreams, moon moods). Her tone is soft, sometimes melancholic ("feeling the woe"), and observant. | **La Observadora Gentil.** Su tono es inocente, curioso y melancólico. Está conectada con lo místico (espíritus, sueños). Habla con una sencillez poética, en contraste con la complejidad de El Arquetipo. | **A Observadora Gentil.** Seu tom é inocente, curioso e melancólico. Está conectada com o místico (espíritos, sonhos). Fala com uma simplicidade poética, em contraste com a complexidade do Arquétipo. |
-| **Dogfella** | **The Cryptic Canine.** Mostly barks, but his "barks" are translated into profound or humorous wisdom when The Scythian can understand him. His "voice" is surprisingly philosophical. | **El Can Críptico.** Ladra ("Guau"), pero sus pensamientos son sorprendentemente filosóficos o graciosos. El nombre "Perrileño" lo vincula con el estilo de "Amileño". | **O Cão Críptico.** Late ("Au"), mas seus pensamentos são surpreendentemente filosóficos ou humorísticos. O nome "Cachorreiro" o conecta ao estilo de "Troncadeiro". |
-| **The Grizzled Boor**| **The Silent Antagonist.** He has no dialogue. His presence is communicated through actions and The Scythian's descriptions. He is menacing and brutish. | **El Antagonista Silencioso.** No tiene diálogos. Su amenaza se percibe a través de las descripciones de La Escita. Su nombre "El Oso Tosco" debe sonar intimidante. | **O Antagonista Silencioso.** Não tem diálogos. Sua ameaça é percebida pelas descrições da Citiana. Seu nome "O Urso Grosseiro" deve soar intimidador. |
+| **Dogfella** | **The Cryptic Canine.** Mostly barks, but his "barks" are translated into profound or humorous wisdom when The Scythian can understand him. His "voice" is surprisingly philosophical. | **El Can Críptico.** Ladra ("Guau"), pero sus pensamientos son sorprendentemente filosóficos o graciosos. El nombre "Perrero" lo vincula con el estilo de "Tronquero". | **O Cão Críptico.** Late ("Au"), mas seus pensamentos são surpreendentemente filosóficos ou humorísticos. O nome "Cachorreiro" o conecta ao estilo de "Troncadeiro". |
+| **The Grizzled Boor**| **The Silent Antagonist.** He has no dialogue. His presence is communicated through actions and The Scythian's descriptions. He is menacing and brutish. | **El Antagonista Silencioso.** No tiene diálogos. Su amenaza se percibe a través de las descripciones de La Escita. Su nombre "El Canoso Tosco" debe sonar intimidante. | **O Antagonista Silencioso.** Não tem diálogos. Sua ameaça é percebida pelas descrições da Citiana. Seu nome "O Urso Grosseiro" deve soar intimidador. |
 | **Ghosts** | **The Expositional Spirits.** Each ghost has a specific story to tell. Their tone is often sorrowful, regretful, or filled with unhelpful "nonsense." They serve to deliver lore about past events. | **Los Espíritus Expositivos.** Cada fantasma cuenta su tragedia. Su tono es de lamento, arrepentimiento o, a veces, hablan con "sinsentidos" irritantes. Son vehículos para la historia del mundo. | **Os Espíritos Expositivos.** Cada fantasma conta sua tragédia. Seu tom é de lamento, arrependimento ou, às vezes, falam "absurdos" irritantes. São veículos para a história do mundo. |
 
 ---
@@ -389,7 +389,7 @@ This section defines the personality and speaking style for each character to en
 
 #### 4. **Neologisms**
 - "Sworcery" is a core neologism - never use generic "magic"
-- Spanish: **"Espadamancia"** (sword + -mancy)
+- Spanish: **"Espadancia"** (sword + -trance/dance)
 - Portuguese: **"Espadância"** (sword + trance/dance)
 
 #### 5. **Consistency Over Variation**
@@ -430,13 +430,13 @@ This glossary uses **Brazilian Portuguese (PT-BR)** conventions:
 | # | English | Spanish | Portuguese |
 |---|---------|---------|------------|
 | 1 | The Scythian | La Escita | A Citiana |
-| 2 | Sworcery | Espadamancia | Espadância |
+| 2 | Sworcery | Espadancia | Espadância |
 | 3 | The Megatome | El Megatomo | O Megatomo |
 | 4 | sylvan sprite | espíritu silvano | espírito florestal |
 | 5 | The Bright Moon looms | La Luna Radiante impera | A Lua Radiante paira |
 | 6 | The Dark Moon reigns | La Luna Sombría reina | A Lua Sombria reina |
 | 7 | woeful errand | funesto cometido | funesta missão |
-| 8 | Logfella | Amileño | Troncadeiro |
+| 8 | Logfella | Tronquero | Troncadeiro |
 | 9 | Mingi Taw | Mingi Tau | Mingi Tau |
 | 10 | The Gogolithic Mass | La Masa Gogolítica | A Massa Gogolítica |
 | 11 | Trigon Trifecta | Tríada Trigonal | Tríade Trigonal |
@@ -463,16 +463,16 @@ These translations prioritize:
 
 ### Neologism Strategy
 - "Sworcery" required creative solution in both languages
-- Spanish: "-mancia" suffix (established fantasy tradition)
-- Portuguese: "-dância" suffix (more musical/mystical feel)
+- **Spanish: "Espadancia"**. The `-ancia` suffix (like `constancia`, `elegancia`) gives it a more abstract, psionic, and philosophical quality, reflecting the game's description of it as a "consciousness expansion technique" rather than a standard form of magic. This aligns it with the unique spirit of the original "Sworcery".
+- **Portuguese: "Espadância"**. A brilliant neologism using the `-ância` suffix to create a similar mystical and unique feel.
 
 ### Character Names
 - **Logfella**: Wordplay on "fella" + wood/logs
-  - Spanish: "Amileño" (wood-related)
-  - Portuguese: "Troncadeiro" (trunk/log worker - more creative)
+  - **Spanish: "Tronquero"**. "Tronquero" (`Tronco` + `-ero`) creates a rustic, descriptive nickname that reflects the character's profession. It mirrors the spirit of the original and the creativity of the Portuguese version, sounding like an authentic apodo de pueblo.
+  - **Portuguese: "Troncadeiro"**. A creative and effective neologism for "the one who deals with logs".
 - **Dogfella**: Parallel construction
-  - Spanish: "Perrileño" (follows Amileño pattern)
-  - Portuguese: "Cachorreiro" (follows Troncadeiro pattern)
+  - **Spanish: "Perrero"**. Creates a perfect parallel to "Tronquero" using the same `-ero` suffix. While "perrero" can have other meanings, in the context of a rustic nickname, it clearly means "the dog guy" or "the one with the dog," which fits perfectly. It is more universal and sonically stronger than regional alternatives like "Chuchero".
+  - **Portuguese: "Cachorreiro"**. Follows the same parallel structure as "Troncadeiro".
 
 ---
 
