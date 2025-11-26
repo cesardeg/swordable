@@ -1,7 +1,7 @@
 id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
 GIRL_TONGUES	Girl			Longe das estepes devastadas pela guerra da Cítia, conhecemos uma garota de cabelos escuros em uma campina banhada pelo sol. #helloworld			72	001.jpg	Z0E1Q
 				Os montanheses do Cáucaso a conheciam como Samae e ela parecia amigável. #obviously					
-SIGN_TADPOL	The Scythian			"""Onde a lareira aquece, o lar acontece."" #threegutrecords4ever"					
+SIGN_TADPOL	The Scythian			"""Onde a lareira arde, o lar faz alarde."" #threegutrecords4ever"					
 SIGN_WALL	The Scythian			"""Cítia, Ciméria, Assíria e Pérsia, esses são todos reinos dos homens. Mingi Tau é o Reino das Nuvens."""					
 SIGN_CHASM	The Scythian			No fio do Precipício Perigoso, encontramos uma rocha gravada com o glifo de uma espada erguida, sob as cores de um arco-íris.					
 				Os cítios detestamos os arco-íris. #loathsomerainbows			21	002.jpg	40C27
@@ -184,10 +184,10 @@ GRAVE_CHASMGHOST	The Scythian			No fio do Precipício Perigoso, junto à tumba s
 				O fantasma descreveu o quão incômodo foi o processo, mas nos disse que isso lhe permitiu alterar o humor da lua!					
 				"""O fato é que desde então tenho tido os nervos à flor da pele e, para dizer a verdade, morri de vergonha."""					
 GRAVE_HOLLOW	The Scythian			Dentro de uma árvore oca titânica, uma tumba solitária despertou nossa curiosidade.					
-GRAVE_HOLLOWGHOST	The Scythian			Dentro de uma árvore oca titânica, junto a uma tumba solitária, um fantasma audacioso surgiu cantando uma rima maluca para nós.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOST	The Scythian			Dentro de uma árvore oca titânica, junto a uma tumba solitária, um fantasma audacioso surgiu cantando uma rima maluca.			117	028.jpg	E2A80
 				"""Observe o humor da lua com constância, aprenderá quando estar onde e como sem tardança."""					
 				"""E fique tranquilo, não quero te assustar, é que fantasmas impressionantes assim costumam brilhar."""					
-GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de uma árvore oca titânica, junto a uma tumba solitária, um fantasma audacioso surgiu cantando uma rima maluca para nós.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de uma árvore oca titânica, junto a uma tumba solitária, um fantasma audacioso surgiu cantando uma rima maluca.			117	028.jpg	E2A80
 				"""Atrás de ti na trilha, busque com atenção, as melódicas espumas em cada posição."""					
 				"""Cinco espíritos florestais envie ao céu em ascensão, obrarão um milagre de imenso poder então, e o Trígono buscado até você virá."""					
 GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de uma árvore oca titânica, junto a uma tumba solitária, um fantasma audacioso surgiu para nós.			117	028.jpg	E2A80
@@ -394,7 +394,7 @@ GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Somente o fim da sua f
 				O Remoinhado Infinito no topo de Mingi Tau o espera.					
 				Au Au Au.					
 GCLUE_WATERFALLS	Girl			Você já percebeu que às vezes as palavras soam apenas como ruído, mas outras vezes o ruído produz o som mais bonito?			132	058.jpg	G5F8U
-GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Existem muitos ditados estranhos aqui, entre os montanheses do Cáucaso.					
+GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Existem muitos ditados estranhos aqui entre os montanheses do Cáucaso.					
 				Há um ditado aqui no Cáucaso que diz que uma floresta precisa do fogo assim como o fogo precisa da árvore.					
 YELLOWTRIGON_COLLECTED	The Scythian			Obtivemos O Trígono Dourado. Somos o máximo!			85	067.jpg	36G7U
 PINKTRIGON_COLLECTED	The Scythian			Contra todas as probabilidades, obtivemos O Trígono da Lua Radiante.			155	068.jpg	56F8U

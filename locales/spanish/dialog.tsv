@@ -1,7 +1,7 @@
 id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
 GIRL_TONGUES	Girl			Lejos de las estepas devastadas por la guerra de Escitia, conocimos a una chica de cabello oscuro en un prado bañado por el sol. #helloworld			72	001.jpg	Z0E1Q
 				Los montañeses del Cáucaso la conocían como Samae y parecía amable. #obviously					
-SIGN_TADPOL	The Scythian			"""Donde arde la lumbre, allí el hogar se vislumbre."" #threegutrecords4ever"					
+SIGN_TADPOL	The Scythian			"""Donde el fuego alumbra, el hogar se vislumbra."" #threegutrecords4ever"					
 SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia, son todos reinos de los hombres. Mingi Tau es el Reino de las Nubes."""					
 SIGN_CHASM	The Scythian			En el filo del Precipicio Peligroso, encontramos una roca grabada con el glifo de una espada alzada, justo bajo un arcoíris.					
 				Los escitas detestamos los arcoíris. #loathsomerainbows			21	002.jpg	40C27
@@ -219,7 +219,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Tronquero estaba muy aliviad
 			triangle/Triangle	En un susurro hablamos de nuestra intención de encontrar y domar una manifestación de geometría cósmica conocida como el Trigón Dorado.					
 				Estaba claro que el leñador ya no nos prestaba atención.					
 			AdventureUI/keyItem	Preferimos quedarnos con la llave y salir a caminar por el antiguo camino, más allá del muro de piedra.					
-LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si podíamos quedarnos con su llave y él estuvo de acuerdo.					
+LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si podíamos quedarnos con su llave y él aceptó.					
 GIRL_FOUNDKEY	The Scythian			Nos encontramos con Samae, empapada por la lluvia, en un sendero lateral.					
 			gourd/gourd	Había oído las sutiles y melodiosas brumas de los espíritus silvanos más allá del muro de piedra en el antiguo camino hacia Mingi Tau.					
 			gourd/gourd	Ella habló de troncos de árboles altísimos a ambos lados de un poderoso río.					
@@ -394,7 +394,7 @@ GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solo el fin de tu fune
 				El Arremolinado Infinito en la cima de Mingi Tau te espera.					
 				Guau Guau Guau.					
 GCLUE_WATERFALLS	Girl			¿Alguna vez has notado que a veces las palabras suenan como simple ruido, pero otras veces el ruido produce el sonido más bello?			132	058.jpg	G5F8U
-GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Hay un montón de dichos extraños aquí, entre los montañeses del Cáucaso.					
+GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Hay un montón de dichos extraños aquí entre los montañeses del Cáucaso.					
 				Hay un dicho aquí en el Cáucaso que dice que un bosque necesita un fuego tanto como el fuego necesita al árbol.					
 YELLOWTRIGON_COLLECTED	The Scythian			Conseguimos El Trigón Dorado. ¡Somos lo máximo!			85	067.jpg	36G7U
 PINKTRIGON_COLLECTED	The Scythian			Contra todo pronóstico, conseguimos El Trigón Luna Radiante.			155	068.jpg	56F8U
