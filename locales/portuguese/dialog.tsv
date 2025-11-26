@@ -24,7 +24,7 @@ LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1
 LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		O lenhador de lenha lenhava a lenha. #obviously #woodchopping			71	007.jpg	70E70
 				Os montanheses do Cáucaso o conheciam como Troncadeiro e ele parecia agradável.					
 				Troncadeiro sabia tudo sobre nossa funesta missão e concordou em nos guiar pelo antigo caminho.					
-				Era óbvio que o assunto não o entusiasmava nem um pouco.					
+				Era óbvio que ele não estava nem um pouco animado com isso.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		O lenhador nos esperou para prosseguir pelo antigo caminho.			12	008.jpg	U0D88
 LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Atravessamos o abismo e, para que negar, nos sentimos muito espertos.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Contamos a Troncadeiro que estávamos procurando um livro assustador de magia sinistra conhecido como o Megatomo.					
@@ -157,8 +157,8 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigonal, além da vasta caver
 				"""Os trígonos restantes existem apenas nos sonhos dos montanheses."""			43	024.jpg	82E45
 				"""Localizar os trígonos restantes não é uma questão de onde, mas de quando e como."""					
 				Com certeza, o fantasma resplandecente disse muitas coisas confusas que não ajudavam em nada.					
-GRAVE_LOGBRIDGE	The Scythian			Em uma moita moita junto ao antigo caminho, encontramos umas tumbas que despertaram nossa curiosidade.					
-GRAVE_LOGBRIDGEGHOST	The Scythian			Em uma moita moita junto ao antigo caminho, encontramos umas tumbas e conhecemos alguns fantasmas que pareciam amigáveis.			116	025.jpg	62B55
+GRAVE_LOGBRIDGE	The Scythian			Em uma moita junto ao antigo caminho, encontramos umas tumbas que despertaram nossa curiosidade.					
+GRAVE_LOGBRIDGEGHOST	The Scythian			Em uma moita junto ao antigo caminho, encontramos umas tumbas e conhecemos alguns fantasmas que pareciam amigáveis.			116	025.jpg	62B55
 				O fantasma resplandecente que falou era um gigante que conhecíamos pelas antigas histórias, cuja famosa imagem exigia obediência. #andre					
 			Archetype/trifecta	"""No ano passado, antes das festas de Yule, reuni uma comitiva e nos propusemos a reconstruir a Tríade Trigonal."""					
 				"""Tínhamos ouvido falar sobre a entrada para o Remoinhado Infinito no topo de Mingi Tau e parecia algo que valia a pena ver."""					
@@ -196,7 +196,7 @@ GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de uma árvore oca titâni
 				"""A canção do trígono acabou por enquanto. Me pergunto quando ouvirei novamente."""					
 LOGFELLA_LOSTKEY	The Scythian			O lenhador aflito conhecido como Troncadeiro estava completamente nervoso por algo.					
 			AdventureUI/keyItem	Parece que Troncadeiro perdeu a chave da porta trancada no muro de pedra que fecha o antigo caminho para Mingi Tau.					
-				Pensamos: 'Ótimo, mais uma missão de buscar coisas', né?					
+				Pensamos: 'Ai não, outra missão de busca', né?					
 				Troncadeiro nos disse que estava sentado bem aqui quando caiu em um sono profundo.					
 			AdventureUI/keyItem	Troncadeiro nos disse que achava que havia perdido sua chave no reino crepuscular dos sonhos.					
 				Já tínhamos ouvido falar dos estranhos sonhos dos montanheses de cabelo escuro do Cáucaso, então isso fez todo o sentido para nós.					
@@ -205,7 +205,7 @@ ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos na vigília e na psicologia m
 				O limiar da liminaridade é um espaço entre a vigília e os sonhos onde o pensamento direcionado é impossível.			56	030.jpg	13A0A
 				Procure um lugar acolhedor e deixe o sono envolvê-lo para descobrir o limiar da liminaridade.					
 ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	Que tal sentar-se junto ao fogo na cabana e atravessar o limiar da liminaridade para encontrar a chave perdida de Troncadeiro?			55	031.jpg	23C1X
-GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Nossa, Troncadeiro está muito nervoso... O que será? Melhor eu sair e deixá-lo em paz.					
+GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Nossa, Troncadeiro está muito nervoso... O que há com isso? Melhor eu sair e deixá-lo em paz.					
 				Vi A Citiana cantar a Canção da Espadância e enviar três espíritos florestais ao céu. Será que eles ajudarão a dissipar a tempestade?					
 LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que A Citiana possa encontrar minha chave... eu a perdi na margem arenosa de um lago sereno.			62	032.jpg	U3A20
 LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Ah, droga, como odeio essa chuva... Como odeio ter as botas molhadas... Como queria voltar a cortar lenha.					
@@ -422,7 +422,7 @@ GIRL_HUGETREETHOUGHTS	Girl			Claro, nunca falo com as pessoas sobre estes sonhos
 				Em meu sonho, há um lugar especial para onde sempre vou, um Parlamento de Árvores no coração do mundo.					
 LOGFELLA_HUGETREETHOUGHTS	Logfella			Adoro ver as mesmas florestas com climas diferentes e simplesmente parar para ouvir... e pensar ou não, dependendo da situação.					
 				Não passo muito tempo caminhando nos meus sonhos, mas quando o faço, geralmente volto aos meus lugares favoritos para ver o que mudou.					
-MIRACLE1_MOUNTAINMEADOW	The Scythian			Obramos um milagre dissipador de tempestades em uma stilo dobrável do grande mago Al Jaffee.					
+MIRACLE1_MOUNTAINMEADOW	The Scythian			Obramos um milagre dissipador de tempestades em uma estilo dobrável do grande mago Al Jaffee.					
 MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			Acordamos confusos e atordoados em uma campina ensolarada, com uma dor de cabeça terrível.					
 LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Acordamos atordoados de um sono profundo, sem uma lembrança clara do que havia acontecido.					
 			triangle/Triangle	Lembramos do milagre na campina e nosso encontro com o Trígono Dourado...					
