@@ -24,7 +24,7 @@ LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1
 LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		O lenhador de lenha lenhava a lenha. #obviously #woodchopping			71	007.jpg	70E70
 				Os montanheses do Cáucaso o conheciam como Troncadeiro e ele parecia agradável.					
 				Troncadeiro sabia tudo sobre nossa funesta missão e concordou em nos guiar pelo antigo caminho.					
-				Era óbvio que ele não estava nem um pouco animado com isso.					
+				Era óbvio que ele não estava nada empolgado com isso.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		O lenhador nos esperou para prosseguir pelo antigo caminho.			12	008.jpg	U0D88
 LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Atravessamos o abismo e, para que negar, nos sentimos muito espertos.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Contamos a Troncadeiro que estávamos procurando um livro assustador de magia sinistra conhecido como o Megatomo.					
@@ -196,7 +196,7 @@ GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de uma árvore oca titâni
 				"""A canção do trígono acabou por enquanto. Me pergunto quando ouvirei novamente."""					
 LOGFELLA_LOSTKEY	The Scythian			O lenhador aflito conhecido como Troncadeiro estava completamente nervoso por algo.					
 			AdventureUI/keyItem	Parece que Troncadeiro perdeu a chave da porta trancada no muro de pedra que fecha o antigo caminho para Mingi Tau.					
-				Pensamos: 'Ai não, outra missão de busca', né?					
+				E nós: 'Ai, não! Outra missão de busca, sério?'					
 				Troncadeiro nos disse que estava sentado bem ali quando caiu em um sono profundo.					
 			AdventureUI/keyItem	Troncadeiro nos disse que achava que havia perdido sua chave no reino crepuscular dos sonhos.					
 				Já tínhamos ouvido falar dos estranhos sonhos dos montanheses de cabelo escuro do Cáucaso, então isso fez todo o sentido para nós.					
