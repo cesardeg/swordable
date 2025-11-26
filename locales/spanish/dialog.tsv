@@ -105,7 +105,7 @@ INFO_LOCKEDDOORSTONEWALL	The Scythian			La puerta trancada en el muro de piedra 
 INFO_LOOMINGBIRDSCULPTURES	The Scythian			Vimos la escultura de un pájaro enojado sobresaliendo en el prado. #subtlereference					
 INFO_MEADOWSUNSTICK	The Scythian			Vimos un palo con forma extraña que vigilaba el prado.					
 INFO_CABINWELL	The Scythian			Vimos un pozo sólidamente construido con un amplio tejado de madera.					
-INFO_UNWELLWELL	The Scythian			El pozo emitió un sollozo. #unwell #well					
+INFO_UNWELLWELL	The Scythian			El pozo lanzó un sollozo. #unwell #well					
 INFO_WELLNESS	The Scythian			Bien está lo que bien acaba. #unwell #well #wellness					
 INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE.					
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
