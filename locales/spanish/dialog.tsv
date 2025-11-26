@@ -229,9 +229,9 @@ LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Me parece bien que La Escita se quede con l
 				Debo haberme quedado dormido en algún momento durante la épica historia de La Escita. No me van mucho las historias.					
 				Le pregunté a La Escita sobre su funesto cometido... empezó a hablar de las estepas y del dedo de Dios.					
 GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos espíritus silvanos más enviados al cielo disiparán la tormenta incesante... ¡Y luego comenzará la temporada de milagros! #miracles			129	034.jpg	33A44
-GIRL_SUPERMOTHERTREE	Girl			En mis paseos en sueños, hay una calma emocionante cuando la luna brilla más... y cuando la luna está oscura, los bosques se vuelven salvajes.					
+GIRL_SUPERMOTHERTREE	Girl			En mis paseos, hay una calma emocionante cuando la luna brilla más... y cuando la luna está oscura, los bosques se vuelven salvajes.					
 				En los sueños, siempre son los mismos lugares y espacios, excepto cuando varían según el humor de la luna.					
-				Todas las noches desde que se disipó la tormenta, he tenido el mismo sueño en el que merodeo por el bosque en la hora antes del amanecer.					
+				Todas las noches desde que se disipó la tormenta, he tenido el mismo sueño en el que paseo por el bosque en la hora antes del amanecer.					
 ARCHETYPE_TREEHINT	The Archetype			Recuerda que ingerir hongos del bosque puede brindarte cierta perspectiva oblicua sobre fenómenos criptozoológicos y cosas así.					
 				Busca las melodiosas brumas de los espíritus silvanos e investiga sus alrededores.					
 				Una vez que hayas comenzado la Canción de Espadamancia, puedes tocar el aura y deslizar para mirar alrededor.					
@@ -363,7 +363,7 @@ GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau Guau Gu
 				Guau Snif Guau. #mixingitup					
 				Guau Guau Guau Guau Guau Guau.					
 GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Hay algo extraño en cómo se comportó La Escita, casi como si estuviera siendo controlada por una fuerza invisible.					
-				Me gustaría saber más sobre la historia épica de La Escita, apuesto a que entonces todo tendría sentido.					
+				Me gustaría saber más sobre la épica historia de La Escita, apuesto a que entonces todo tendría sentido.					
 GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Ojalá La Escita esté ocupándose de lo de los espíritus silvanos.					
 				Esta tormenta me tiene tan molesto, me hace desear que los videojuegos existieran en... en el momento en que se supone que estamos.					
 GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Todo ha sido una locura lunática desde que La Escita apareció.			3	062.jpg	36E2Z
@@ -421,7 +421,7 @@ GIRL_HUGETREETHOUGHTS	Girl			Por supuesto, nunca le hablo a la gente sobre estos
 				En mi lugar especial visito un árbol hueco titánico... ella es una diosa, muerta hace mucho, que antecede a la humanidad por eras.					
 				En mi sueño hay un lugar especial al que siempre voy, un Parlamento de Árboles en el corazón del mundo.					
 LOGFELLA_HUGETREETHOUGHTS	Logfella			Me encanta ver los mismos bosques con diferente clima y simplemente detenerme a escuchar... y pensar o no pensar, según sea el caso.					
-				No paso mucho tiempo caminando por mis sueños, pero cuando lo hago tiendo a volver a visitar mis lugares favoritos para ver lo que ha cambiado.					
+				No paso mucho tiempo paseando por mis sueños, pero cuando lo hago tiendo a volver a visitar mis lugares favoritos para ver lo que ha cambiado.					
 MIRACLE1_MOUNTAINMEADOW	The Scythian			Obramos un milagro disipador de tormentas en un prado soleado, al estilo plegable del gran mago Al Jaffee.					
 MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			Despertamos confundidos y aturdidos en un prado soleado, con un dolor de cabeza terrible.					
 LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Despertamos aturdidos de un sueño muy profundo sin un recuerdo claro de lo que había sucedido.					
@@ -500,7 +500,7 @@ GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae vio la llave que encon
 ARCHETYPE_GROTTOPARADOX	The Archetype						
 				Una vez que el humor de la luna ha sido alterado en la Gruta Lunar...					
 ARCHETYPE_KILLBOOR	The Archetype			Ahora, me imagino que te preguntarás para qué sirve esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S
-				No es que esté sugiriendo que en realidad seas un sociópata violento... jeje... Estoy seguro de que tenías tus razones, ¿Verdad? #thegrizzledboor					
+				No es que esté sugiriendo que en realidad seas un sociópata violento... jeje... Estoy seguro de que tenías tus razones, ¿verdad? #thegrizzledboor					
 				El Oso Tosco fue incluido en S:S&S EP para tentar a los participantes a identificarse como sociópatas violentos.					
 				Me han informado que el Oso Tosco ha sido asesinado... ¿Sabes algo al respecto? #slaughter					
 ARCHETYPE_SPAREBOOR	The Archetype			Ahora, me imagino que te preguntarás para qué sirve esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S

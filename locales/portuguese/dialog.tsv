@@ -61,7 +61,7 @@ ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo
 				Você verá que esta primeira sessão de S:S&S EP é bastante simples e geralmente dura entre 15 e 30 minutos.					
 				Você tem fones de ouvido? Tudo pronto para começar? Pressione 'jogar' e vamos lá!					
 ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP não busca proporcionar a experiência transcendental, mas simplesmente pretende liberar o sistema nervoso de seus padrões habituais.					
-				O segundo aspecto do 'setting' é o cultural: as noções que predominam sobre realidade e normalidade. Evitaremos essa discussão por enquanto.					
+				Outro aspecto do 'setting' é o cultural: as noções que predominam sobre realidade e normalidade. Evitaremos essa discussão por enquanto.					
 				O 'setting' abrange o conforto, a segurança e o calor do ambiente onde a experiência ocorre.					
 				Descobrimos que um indivíduo relaxado e curioso é mais propenso a ter uma experiência agradável com S:S&S EP.					
 				O 'set' é o estado mental e a personalidade que você aporta à experiência: pensamentos, estados de ânimo e expectativas.					
@@ -184,15 +184,15 @@ GRAVE_CHASMGHOST	The Scythian			Nos aproximamos da tumba solitária do trapaceir
 				O fantasma descreveu a opção de Data/Hora e os horrores que aconteceram ao alterar o humor da lua com esse método.					
 				"""O fato é que desde então tenho tido os nervos à flor da pele e, para dizer a verdade, morri de vergonha."""					
 GRAVE_HOLLOW	The Scythian			Dentro de uma árvore oca titânica, avistamos uma tumba solitária que despertou nossa curiosidade.					
-GRAVE_HOLLOWGHOST	The Scythian			Dentro de uma árvore oca titânica, nos aproximamos de uma tumba solitária e um fantasma audacioso surgiu cantando uma rima maluca.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOST	The Scythian			Dentro de uma árvore oca titânica, junto a uma tumba solitária, um fantasma audacioso surgiu cantando uma rima maluca para nós.			117	028.jpg	E2A80
 				"""Observe o humor da lua com constância, aprenderá quando estar onde e como sem tardança."""					
 				"""E fique tranquilo, não quero te assustar, é que fantasmas impressionantes assim costumam brilhar."""					
-GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de uma árvore oca titânica, nos aproximamos de uma tumba solitária e um fantasma audacioso apareceu cantando uma rima maluca para nós.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de uma árvore oca titânica, junto a uma tumba solitária, um fantasma audacioso surgiu cantando uma rima maluca para nós.			117	028.jpg	E2A80
 				"""Atrás de ti na trilha busque com atenção, as melódicas espumas em cada posição."""					
 				"""Cinco espíritos florestais envie ao céu em ascensão, obrarão um milagre de imenso poder então, e o Trígono buscado até você virá."""					
-GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de uma árvore oca titânica, nos aproximamos de uma tumba solitária e um fantasma audacioso apareceu para nós.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de uma árvore oca titânica, junto a uma tumba solitária, um fantasma audacioso surgiu para nós.			117	028.jpg	E2A80
 				"""Busque por um sinal dos espíritos florestais e entoe uma Canção de Espadância no local para revelar um trígono oculto."""					
-GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de uma árvore oca titânica, nos aproximamos de uma tumba solitária e um fantasma audacioso apareceu para nós.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de uma árvore oca titânica, junto a uma tumba solitária, um fantasma audacioso surgiu para nós.			117	028.jpg	E2A80
 				"""A canção do trígono acabou por enquanto. Me pergunto quando ouvirei novamente."""					
 LOGFELLA_LOSTKEY	The Scythian			O lenhador aflito conhecido como Troncadeiro estava completamente nervoso por algo.					
 			AdventureUI/keyItem	Parece que Troncadeiro perdeu a chave da porta trancada no muro de pedra que fecha o antigo caminho para Mingi Tau.					
@@ -363,7 +363,7 @@ GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Au Au Au Au Au Au. #ba
 				Au Snif Au. #mixingitup					
 				Au Au Au Au Au Au.					
 GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Há algo estranho no comportamento de A Citiana, quase como se ela estivesse sendo controlada por uma força invisível.					
-				Gostaria de saber mais sobre A Citiana e sua história épica, aposto que então tudo faria sentido.					
+				Gostaria de saber mais sobre A Citiana e sua épica história, aposto que então tudo faria sentido.					
 GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que A Citiana esteja se dedicando à questão dos espíritos florestais.					
 				Essa tempestade está me afetando muito, me faz desejar que os videogames existissem no... momento em que se supõe que estamos.					
 GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Tudo tem sido uma loucura lunática desde que A Citiana apareceu.			3	062.jpg	36E2Z
