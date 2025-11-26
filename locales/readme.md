@@ -50,7 +50,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | **The Archetype** | El Arquetipo | O Arquétipo | ✅ The guide character |
 | **Dogfella** | Perrileño | Cachorreiro | ✅ The dog (ES: "dog guy", PT: "dog fellow") |
 | **Jim Guthrie** | Jim Guthrie | Jim Guthrie | ✅ Never translate proper name |
-| **The Grizzled Boor** | El Oso Tosco | O Urso Grosseiro | ✅ The bear-headed antagonist |
+| **The Grizzled Boor** | El Oso Tosco | O Urso Grosseiro | ✅ Antagonist. PT: "Grosseiro" not "Tosco" |
 | **Andre (The Giant)** | André 'El Gigante' | André 'O Gigante' | ✅ Ghost character, maintain quotes |
 | **The Gogolithic Mass** | La Masa Gogolítica | A Massa Gogolítica | ✅ The deathless specter |
 
@@ -72,7 +72,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | **stone wall** | muro de piedra | muro de pedra | ✅ Blocks the old road |
 | **meadow** | prado | campina | ✅ Starting area |
 | **deepwater pond** | estanque profundo | lagoa profunda | ✅ Near the hut |
-| **old road** | antiguo camino | antigo caminho | ✅ Never "viejo camino" / "velho caminho" |
+| **old road** | antiguo camino | antigo caminho | ✅ ES: Never "viejo". PT: Never "estrada velha" |
 | **log bridge** | puente de troncos | ponte de toras | ✅ |
 | **the whirling infinite** | el Arremolinado Infinito | o Remoinhado Infinito | ✅ Summit gateway |
 
@@ -103,7 +103,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | **Dark Moon Trigon** | Trigón Luna Sombría | Trígono da Lua Sombria | ✅ Blue/dark trigon |
 | **The Trigon Trifecta** | La Tríada Trigonal | A Tríade Trigonal | ✅ All three trigons |
 | | | | |
-| hearth | hoguera / fuego | fogo / lareira | ⚠️ Context: warmth vs. home |
+| hearth | hoguera / fuego | fogo / lareira | ⚠️ PT: `fogo` (fire), `lareira` (hearth) |
 | firewood | leña | lenha | ✅ |
 | well | pozo | poço | ✅ |
 | nestbox | nido | ninho | ✅ |
@@ -128,8 +128,8 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | **Song of Sworcery** | Canción de Espadamancia | Canção da Espadância | ✅ Main ability |
 | **sworcery aura** | aura de Espadamancia | aura de Espadância | ✅ Visual indicator |
 | **sylvan sprite** | espíritu silvano | espírito florestal | ✅ Collectible creatures |
-| **sonorous spume** | melodiosas brumas | melódicas espumas | ✅ Sprite indicators |
-| **skyward beam** | haz celestial | facho celestial | ✅ Trigon activation |
+| **sonorous spume** | melodiosas brumas | melódicas espumas | ✅ Sprite indicators. PT: "melódicas" not "sonoras" |
+| **skyward beam** | haz celestial | facho celestial | ✅ Trigon activation. PT: "facho" not "raio" |
 | **miracle** | milagro | milagre | ✅ Special events |
 
 ### Combat & Actions
@@ -329,43 +329,41 @@ This glossary serves as the **authoritative translation reference** for Superbro
 
 ---
 
-### Spanish (ES) Special Phrase
+### Special Phrase: "Home is where the hearth is"
 
-**"Home is where the hearth is"** → Multiple exceptional options:
+#### Portuguese (PT-BR)
+- **"Onde a lareira aquece, o lar acontece"** ✅
+- **Wordplay**: `lareira` (hearth) and `lar` (home) share an etymological and phonetic root. This is a brilliant, poetic solution that is already implemented.
 
-#### Option 1: **"Donde arde el hogar, se encuentra el hogar"** 🏆
-- **Wordplay**: "hogar" = hearth (physical) / home (abstract)
-- **Structure**: Same word, double meaning (like PT lareira/lar)
-- **Etymology**: Both from Latin *focus* (fire/hearth)
-- **Poetic**: Creates circular, profound meaning
-- **Sound**: Internal rhyme with "arde"/"encuentra"
+#### Spanish (ES)
+- Current in `dialog.ts`: **"Donde arde la lumbre, allí el hogar se vislumbre."**
+  - This is functional and poetic.
+- Recommended alternative for consideration: **"Donde arde el hogar, se encuentra el hogar."**
+  - **Rationale**: Creates a powerful wordplay using the double meaning of "hogar" (both "hearth" and "home"), mirroring the cleverness of the Portuguese version. It's concise and philosophically deep.
 
-#### Option 2: **"Donde prende el hogar, late el hogar"**
-- **Wordplay**: "hogar" double meaning
-- **Verbs**: "prende" (ignites) / "late" (beats like a heart)
-- **More emotional**: Adds heartbeat metaphor
-- **Slightly less literal** to original
+#### **RECOMMENDATION**:
+Keep the existing Spanish translation for consistency, but document the alternative in the glossary as a superior poetic option.
 
-#### Option 3: **"Donde arde la hoguera, nace el hogar"**
-- **Wordplay**: hoguera (bonfire) → hogar (home)
-- **Clear transformation**: Fire → Home
-- **Etymology**: Both from *focus*
-- **Less elegant**: Two different words, less circular
+---
 
-#### Option 4: **"Donde el fuego arde, el hogar se hace"**
-- **Traditional approach**
-- **No wordplay**: Different words
-- **Clear but plain**
 
-#### **RECOMMENDATION**: Use **Option 1** ✅
-"**Donde arde el hogar, se encuentra el hogar**"
+---
 
-**Rationale**:
-- Matches PT-BR's brilliance (same word, double meaning)
-- Preserves Latin etymology connection (focus → hogar)
-- Creates philosophical depth (physical fire → emotional home)
-- Maintains poetic rhythm
-- True to original English double meaning of "hearth"
+## Character Voice & Tone
+
+This section defines the personality and speaking style for each character to ensure consistency in dialogue across all languages.
+
+| Character | Voice & Tone | Spanish Nuances | Portuguese Nuances |
+|---|---|---|---|
+| **The Scythian** | **The Stoic Narrator.** Uses "we" (plural majestatis). Her tone is epic, descriptive, and poetic, but with flashes of dry, modern humor and inner thoughts. She is on a "woeful errand" but often sounds cynical or unimpressed. | **Narradora Épica y Cansada.** Usa el plural mayestático ("nosotros"). Suena como la protagonista de una saga antigua, pero con un monólogo interior moderno y sarcástico ("genial, otra misión de buscar objetos"). | **Narradora Épica e Cansada.** Usa o plural majestático ("nós"). Soa como a protagonista de uma saga antiga, mas com um monólogo interior moderno e sarcástico ("ótimo, mais uma missão de busca"). |
+| **The Archetype** | **The Erudite Guide.** Speaks formally, almost academically. Uses complex, philosophical, and sometimes fourth-wall-breaking language ("mythopoetic psychocosmology"). He is the director of the "experience." | **El Guía Erudito.** Su lenguaje es formal, casi académico. Usa palabras complejas y conceptos abstractos ("psicosmología mitopoética"). Rompe la cuarta pared, dirigiéndose al jugador como un participante en un experimento. | **O Guia Erudito.** Sua linguagem é formal, quase acadêmica. Usa palavras complexas e conceitos abstratos ("psicosmologia mitopoética"). Quebra a quarta parede, tratando o jogador como um participante de um experimento. |
+| **Logfella** | **The Practical Woodsman.** Simple, direct, and down-to-earth. He is friendly but gruff. He has a "low tolerance for lore" and is more concerned with practical matters like chopping wood and staying warm. His speech is colloquial. | **El Leñador Práctico.** Habla de forma sencilla y directa. Es amigable pero rudo. No le interesan las "historias" y prefiere lo práctico (cortar leña). Su apodo "Amileño" refleja un carácter rústico y cercano. | **O Lenhador Prático.** Fala de forma simples e direta. É amigável, mas um pouco rude. Tem "baixa tolerância para folclore" e prefere o pragmatismo (cortar lenha). Seu apelido "Troncadeiro" reflete sua natureza rústica. |
+| **Girl (Samae)** | **The Gentle Observer.** Innocent, curious, and deeply connected to the mystical world (sprites, dreams, moon moods). Her tone is soft, sometimes melancholic ("feeling the woe"), and observant. | **La Observadora Gentil.** Su tono es inocente, curioso y melancólico. Está conectada con lo místico (espíritus, sueños). Habla con una sencillez poética, en contraste con la complejidad de El Arquetipo. | **A Observadora Gentil.** Seu tom é inocente, curioso e melancólico. Está conectada com o místico (espíritos, sonhos). Fala com uma simplicidade poética, em contraste com a complexidade do Arquétipo. |
+| **Dogfella** | **The Cryptic Canine.** Mostly barks, but his "barks" are translated into profound or humorous wisdom when The Scythian can understand him. His "voice" is surprisingly philosophical. | **El Can Críptico.** Ladra ("Guau"), pero sus pensamientos son sorprendentemente filosóficos o graciosos. El nombre "Perrileño" lo vincula con el estilo de "Amileño". | **O Cão Críptico.** Late ("Au"), mas seus pensamentos são surpreendentemente filosóficos ou humorísticos. O nome "Cachorreiro" o conecta ao estilo de "Troncadeiro". |
+| **The Grizzled Boor**| **The Silent Antagonist.** He has no dialogue. His presence is communicated through actions and The Scythian's descriptions. He is menacing and brutish. | **El Antagonista Silencioso.** No tiene diálogos. Su amenaza se percibe a través de las descripciones de La Escita. Su nombre "El Oso Tosco" debe sonar intimidante. | **O Antagonista Silencioso.** Não tem diálogos. Sua ameaça é percebida pelas descrições da Citiana. Seu nome "O Urso Grosseiro" deve soar intimidador. |
+| **Ghosts** | **The Expositional Spirits.** Each ghost has a specific story to tell. Their tone is often sorrowful, regretful, or filled with unhelpful "nonsense." They serve to deliver lore about past events. | **Los Espíritus Expositivos.** Cada fantasma cuenta su tragedia. Su tono es de lamento, arrepentimiento o, a veces, hablan con "sinsentidos" irritantes. Son vehículos para la historia del mundo. | **Os Espíritos Expositivos.** Cada fantasma conta sua tragédia. Seu tom é de lamento, arrependimento ou, às vezes, falam "absurdos" irritantes. São veículos para a história do mundo. |
+
+---
 
 #### 5. **Formatting & Capitalization**
 - Trigon names: **"Trígono Dourado"** (both words capitalized)
