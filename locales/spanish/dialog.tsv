@@ -108,7 +108,7 @@ INFO_CABINWELL	The Scythian			Vimos un pozo sólidamente construido con un ampli
 INFO_UNWELLWELL	The Scythian			El pozo emitió un sollozo. #unwell #well					
 INFO_WELLNESS	The Scythian			Bien está lo que bien acaba. #unwell #well #wellness					
 INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE.					
-ARCHETYPE_UNWELLWELLOUTRO	The Archetype						
+ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Vimos una robusta choza de piedra con un techo de paja al lado de un estanque profundo.					
 INFO_CABINWOODPILE	The Scythian			Vimos una pila de leña, pero no es para tanto.					
 INFO_SPUME	The Scythian			Descubrimos las sutiles y melodiosas brumas de un espíritu silvano adormecido. Y ahora... ¿cómo despertarlo?					
@@ -465,7 +465,7 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			Amileño había vuelto a cortar leña y 
 				"""La partida vagó sin rumbo mucho tiempo por el antiguo camino a Mingi Tau... al final, cansados, se detuvieron."""					
 				"""Entonces, la partida fue diezmada por un espectro inmortal junto al antiguo camino, donde aún hoy yacen sus tumbas."""					
 				Le dijimos a Amileño que era una historia interesante, aunque en realidad no nos asustó mucho.					
-GIRL_GRAVESCOMPLETETHOUGHTS	Girl						
+GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
 ARCHETYPE_MOONGROTTO	The Archetype			Veo que has logrado alterar el humor de la luna en la Gruta Lunar. Me pregunto cuánto durará esta paradoja temporal.					
 MIRACLE2_ISLAND	The Scythian			Con La Luna Radiante imperando en lo alto, obramos un extraño milagro lunar en una isla imposible en medio de un lago sereno.			136	073.jpg	W7A3K
 MIRACLE2_PINKTRIGONCOLLECTED	The Scythian			Conseguimos El Trigón Luna Radiante, para nuestra gloria y desesperación. #trigontamed			155	068.jpg	56F8U
@@ -497,7 +497,7 @@ LOGFELLA_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	El leñador no reconoci�
 			AdventureUI/keyItem	¿...?					
 GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae vio la llave que encontramos y nos animó a estar atentos por si veíamos una puerta trancada.					
 				Ella no tenía ninguna otra idea, pero recordamos algo que habíamos visto en el antiguo camino hacia Mingi Tau.					
-ARCHETYPE_GROTTOPARADOX	The Archetype						
+ARCHETYPE_GROTTOPARADOX	The Archetype								
 				Una vez que el humor de la luna ha sido alterado en la Gruta Lunar...					
 ARCHETYPE_KILLBOOR	The Archetype			Ahora, me imagino que te preguntarás para qué sirve esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S
 				No es que esté sugiriendo que en realidad seas un sociópata violento... jeje... Estoy seguro de que tenías tus razones, ¿verdad? #thegrizzledboor					
