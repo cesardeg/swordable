@@ -157,8 +157,8 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			En el Claro Trigonal, más allá de la vas
 				"""Los trigones restantes solo existen en los sueños de los montañeses."""			43	024.jpg	82E45
 				"""Localizar los trigones restantes no es cuestión de dónde, sino de cuándo y cómo."""					
 				Desde luego, el fantasma resplandeciente habló muchas cosas confusas que no ayudaban para nada.					
-GRAVE_LOGBRIDGE	The Scythian			En un matorral cerca del antiguo camino, unas tumbas despertaron nuestra curiosidad.					
-GRAVE_LOGBRIDGEGHOST	The Scythian			En un matorral cerca del antiguo camino, junto a unas tumbas, conocimos a unos fantasmas que parecían amigables.			116	025.jpg	62B55
+GRAVE_LOGBRIDGE	The Scythian			En un matorral a la vera del antiguo camino, unas tumbas despertaron nuestra curiosidad.					
+GRAVE_LOGBRIDGEGHOST	The Scythian			En un matorral a la vera del antiguo camino, junto a unas tumbas, conocimos a unos fantasmas que parecían amigables.			116	025.jpg	62B55
 				El fantasma resplandeciente que habló era un gigante que conocíamos de las antiguas historias, cuya imagen famosa exigía obediencia. #andre					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, organicé una partida y nos propusimos reconstruir la Tríada Trigonal."""					
 				"""Habíamos oído hablar de la entrada al Arremolinado Infinito en la cima de Mingi Tau y nos pareció algo que valía la pena ver."""					
@@ -175,7 +175,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			En un matorral cerca del antiguo camino, jun
 GRAVE_CHASM	The Scythian			En el filo del Precipicio Peligroso, una tumba solitaria despertó nuestra curiosidad.					
 GRAVE_CHASMGHOST	The Scythian			En el filo del Precipicio Peligroso, junto a la tumba solitaria del redomado tramposo, conocimos a un viejo fantasma resplandeciente.					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, André 'El Gigante' organizó una partida y nos propusimos reconstruir la Tríada Trigonal."""					
-				"""Los demás miembros de la partida están enterrados en un matorral cerca del antiguo camino, junto al puente de troncos."""					
+				"""Los demás miembros de la partida están enterrados en un matorral a la vera del antiguo camino, junto al puente de troncos."""					
 			triangle/Triangle	"""Localizamos y domamos el Trigón Dorado con bastante facilidad, pero después de eso nos quedamos totalmente estancados."""					
 				"""Buscamos el Trigón Luna Radiante, así que decidimos sentarnos y observar el cielo, esperando a que el humor de la luna cambiara."""					
 				"""Resultaba sumamente tedioso. No estaba dispuesto a esperar días y días hasta que La Luna Radiante imperara."""					
@@ -463,7 +463,7 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			Tronquero había vuelto a cortar leña y
 			gourd/gourd	"""La partida aprendió a buscar a los espíritus silvanos y enviarlos al cielo... y luego buscaron un lugar para obrar un milagro."""					
 			Archetype/trifecta	"""La partida esperaba activar los tres haces celestiales en el Claro Trigonal, pero no sabían dónde ni cuándo encontrar los trigones."""					
 				"""La partida vagó sin rumbo mucho tiempo por el antiguo camino a Mingi Tau... al final, cansados, se detuvieron."""					
-				"""Entonces, la partida fue diezmada por un espectro inmortal cerca del antiguo camino, donde aún hoy yacen sus tumbas."""					
+				"""Entonces, la partida fue diezmada por un espectro inmortal a la vera del antiguo camino, donde aún hoy yacen sus tumbas."""					
 				Le dijimos a Tronquero que era una historia interesante, aunque en realidad no nos asustó mucho.					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
 ARCHETYPE_MOONGROTTO	The Archetype			Veo que has logrado alterar el humor de la luna en la Gruta Lunar. Me pregunto cuánto durará esta paradoja temporal.					

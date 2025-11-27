@@ -157,8 +157,8 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigonal, além da vasta caver
 				"""Os trígonos restantes existem apenas nos sonhos dos montanheses."""			43	024.jpg	82E45
 				"""Localizar os trígonos restantes não é uma questão de onde, mas de quando e como."""					
 				Com certeza, o fantasma resplandecente disse muitas coisas confusas que não ajudaram em nada.					
-GRAVE_LOGBRIDGE	The Scythian			Em uma moita perto do antigo caminho, umas tumbas despertaram nossa curiosidade.					
-GRAVE_LOGBRIDGEGHOST	The Scythian			Em uma moita perto do antigo caminho, junto a umas tumbas, conhecemos alguns fantasmas que pareciam amigáveis.			116	025.jpg	62B55
+GRAVE_LOGBRIDGE	The Scythian			Em uma moita à beira do antigo caminho, umas tumbas despertaram nossa curiosidade.					
+GRAVE_LOGBRIDGEGHOST	The Scythian			Em uma moita à beira do antigo caminho, junto a umas tumbas, conhecemos alguns fantasmas que pareciam amigáveis.			116	025.jpg	62B55
 				O fantasma resplandecente que falou era um gigante que conhecíamos pelas antigas histórias, cuja famosa imagem exigia obediência. #andre					
 			Archetype/trifecta	"""No ano passado, antes das festas de Yule, reuni uma comitiva e nos propusemos a reconstruir a Tríade Trigonal."""					
 				"""Tínhamos ouvido falar sobre a entrada para o Remoinhado Infinito no topo de Mingi Tau e parecia algo que valia a pena ver."""					
@@ -175,7 +175,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Em uma moita perto do antigo caminho, junto 
 GRAVE_CHASM	The Scythian			No fio do Precipício Perigoso, uma tumba solitária despertou nossa curiosidade.					
 GRAVE_CHASMGHOST	The Scythian			No fio do Precipício Perigoso, junto à tumba solitária do redomado trapaceiro, conhecemos um velho fantasma resplandecente.					
 			Archetype/trifecta	"""No ano passado, antes das festas de Yule, André, 'O Gigante', organizou uma comitiva e nos propusemos a reconstruir a Tríade Trigonal."""					
-				"""Os outros membros da comitiva estão enterrados em uma moita perto do antigo caminho, junto à ponte de toras."""					
+				"""Os outros membros da comitiva estão enterrados em uma moita à beira do antigo caminho, junto à ponte de toras."""					
 			triangle/Triangle	"""Conseguimos localizar e domar o Trígono Dourado com bastante facilidade, mas depois disso ficamos completamente parados."""					
 				"""Procuramos pelo Trígono da Lua Radiante, então decidimos nos sentar e observar o céu, esperando o humor da lua mudar."""					
 				"""Foi super chato. Eu não estava disposto a esperar dias e dias até que a Lua Radiante pairasse."""					
@@ -463,7 +463,7 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			Troncadeiro voltou para cortar lenha e p
 			gourd/gourd	"""A comitiva aprendeu a buscar os espíritos florestais e enviá-los ao céu... e depois procuraram um lugar para obrar um milagre."""					
 			Archetype/trifecta	"""A comitiva esperava ativar os três fachos celestiais na Clareira Trigonal, mas não sabiam onde nem quando encontrar os trígonos."""					
 				"""A comitiva vagou sem rumo por muito tempo no antigo caminho para Mingi Tau... por fim, cansados, pararam."""					
-				"""Então, a comitiva foi aniquilada por um espectro imortal perto do antigo caminho, onde suas tumbas jazem até hoje."""					
+				"""Então, a comitiva foi aniquilada por um espectro imortal à beira do antigo caminho, onde suas tumbas jazem até hoje."""					
 				Dissemos a Troncadeiro que era uma história interessante, mas na verdade não nos assustou tanto.					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
 ARCHETYPE_MOONGROTTO	The Archetype			Vejo que você conseguiu alterar o humor da lua na Gruta da Lua. Me pergunto quanto tempo esse paradoxo temporal durará.					
