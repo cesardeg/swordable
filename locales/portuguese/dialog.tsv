@@ -26,7 +26,7 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		O lenhador de lenha 
 				Troncadeiro sabia tudo sobre nossa funesta missão e concordou em nos guiar pelo antigo caminho.					
 				Era óbvio que ele não estava nada empolgado com isso.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		O lenhador nos esperou para prosseguir pelo antigo caminho.			12	008.jpg	U0D88
-LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Atravessamos o abismo e, para que negar, nos sentimos muito espertos.			22	009.jpg	L0B9S
+LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Atravessamos o abismo e, para que negar, nos sentimos super espertos.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Contamos a Troncadeiro que estávamos procurando um livro assustador de magia sinistra conhecido como o Megatomo.					
 			adventureUI/megatomeItem	O Megatomo estava oculto além do Precipício Perigoso, em algum lugar nas trevas sob Mingi Tau.					
 			adventureUI/megatomeItem	Decidimos procurar o Megatomo e depois escapar com vida.					
@@ -43,7 +43,7 @@ LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos o Megatomo
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		À luz da tempestade iminente, Troncadeiro admitiu que naquele momento estava sentindo calafrios.					
 				Será que Troncadeiro estava tentando nos assustar de propósito? #yes #no #maybe					
 				De qualquer forma, o mais sensato era ficar no abrigo por um tempo.					
-QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos o Megatomo. Somos muito espertos! #gotmegatome			40	011.jpg	81C1E
+QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos o Megatomo. Somos os mais espertos! #gotmegatome			40	011.jpg	81C1E
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
@@ -90,7 +90,7 @@ ARCHETYPE_SWORCERY	The Archetype			"""Chegou a hora de aprender a Canção da Es
 ARCHETYPE_TADPOLES	The Archetype			Era evidente que o homem estranhamente vestido esperava que fizéssemos algo, mas não tínhamos ideia do que.					
 			gourd/gourd	"""Você vê as melódicas espumas na lagoa profunda? Um espírito florestal dorme ali e você deve despertá-lo."""					
 			gourd/gourd	"""Mantenha pressionado sobre A Citiana para entoar a Canção da Espadância e revelar uma realidade oculta."""					
-			gourd/gourd	"""Guie as duas pequenas criaturas nadando em direção ao local onde o espírito dorme e envie-as ao céu com três toques de espadância."""			49	013.jpg	61D3A
+			gourd/gourd	"""Guie as duas pequenas criaturas nadando em direção ao local onde o espírito dorme e envie-as ao céu com três toques de Espadância."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Samae se abrigava da chuva sob o amplo telhado de madeira do poço.					
 				Ela abandonou o conforto do fogo na cabana porque, aparentemente, Troncadeiro estava nervoso por algo.					
 INFO_BIRDEYESCULPTURE	The Scythian			Na campina, avistamos a imponente escultura de um 'pássaro zangado'. #subtlereference			6	014.jpg	F1D48
@@ -139,7 +139,7 @@ INFO_MEGATOMBTRIFECTA	The Scythian			Nas trevas sob Mingi Tau, avistamos uma rep
 INFO_ROCKSHOWGIRL	The Scythian			No show de rock, avistamos Samae e nos pareceu que ela sussurrou algo como 'Fogo, ande comigo'.					
 INFO_ROCKSHOWSKOLOTOI	The Scythian			No show de rock, avistamos um daqueles esqueletos vibrando ao ritmo sinistro.					
 INFO_ROCKSHOWJIM	The Scythian			Encabeçando o show de rock, avistamos o misterioso músico conhecido como Jim Guthrie.			160	020.jpg	T2G03
-INFO_ROCKSHOWBOOR	The Scythian			No show de rock, avistamos o Urso Grosseiro balançando sua coisa nua.			121	021.jpg	E2G15
+INFO_ROCKSHOWBOOR	The Scythian			No show de rock, avistamos o Urso Desgrenhado balançando sua coisa nua.			121	021.jpg	E2G15
 INFO_ROCKSHOWCROWD	The Scythian			No show de rock, avistamos uma multidão considerável de damas e cavalheiros.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			No show de rock, avistamos o personagem conhecido como O Arquétipo e nos perguntamos o que ele estava tramando com tudo isso.					
 INFO_TRIGONGROVESKULLSTICK	The Scythian			Um poste sinistro decorado com uma caveira com chifres conecta este lugar ao espectro imortal que espreita sob Mingi Tau.					
@@ -245,7 +245,7 @@ ARCHETYPE_MUSHROOMHINT	The Archetype			Também foi afirmado que cogumelos adivin
 ARCHETYPE_TRIGONGROVE	The Archetype			Sente? Começa a entender? Os símbolos esotéricos do Megatomo agora ganham um novo significado?					
 				Este facho conecta o mundo dos vivos ao dos mortos, então talvez você conheça algum fantasma com quem conversar em suas jornadas.					
 				Fui informado de que você ativou o primeiro facho celestial na Clareira Trigonal.					
-GIRL_CABINSHEEP	The Scythian			Perguntamos a Samae sobre as ovelhas inúteis que estavam pastando na cabana e ela nos disse que elas se assustaram há um tempo.					
+GIRL_CABINSHEEP	The Scythian			Perguntamos a Samae sobre as ovelhas inúteis que estavam vadiando na cabana e ela nos disse que elas se assustaram há um tempo.					
 			gourd/gourd	Contamos a Samae que havíamos enviado cinco espíritos florestais ao céu e ela nos disse que talvez a época dos milagres estivesse chegando.					
 				Pensamos em investigar a campina onde as ovelhas costumavam vadiar.					
 LOGFELLA_CABINSHEEP	The Scythian			Troncadeiro sentia que a época dos milagres havia chegado e se perguntava se algo incrível estava prestes a acontecer.			79	036.jpg	V3G62
@@ -285,7 +285,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				São tempos de angústia: uma sinistra tempestade cobriu o céu e as pessoas adoráveis que vivem na cabana estão infelizes.					
 				Desfazer a tempestade exigirá algum conhecimento em psiônica, criptozoologia e milagres...					
 			adventureUI/megatomeItem	1. O toque de um espadancista liberará O Megatomo, revelando os pensamentos não expressos das criaturas vivas e outros materiais esotéricos.					
-			gourd/gourd	2. Estranhos espíritos florestais, fontes de espadância, dormem em lagos, florestas e campinas. Procure por suas sutis e melódicas espumas.					
+			gourd/gourd	2. Estranhos espíritos florestais, fontes de Espadância, dormem em lagos, florestas e campinas. Procure por suas sutis e melódicas espumas.					
 			triangle/Triangle	3. O espadancista que puder localizar, convocar e domar a geometria cósmica do Trígono Dourado possuirá a habilidade de obrar milagres.					
 				Sente confusão? Excelente. Mantenha a calma e siga em frente.			210	043.jpg	A4C31
 ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	Excelente! Você localizou e dominou a geometria cósmica do Trígono Dourado.			86	044.jpg	24E4H
@@ -311,7 +311,7 @@ ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	Então você dominou o
 ARCHETYPE_GHOULINTRO	The Archetype								
 				Bem, aqui estamos. Esta breve sessão marcará o fim do tratamento de S:S&S EP.					
 				A funesta missão de A Citiana está quase cumprida.					
-				Infelizmente, A Citiana teve seu corpo e psique gravemente enfraquecidos pela espadância; ela está à beira da morte.			162	047.jpg	J4F7B
+				Infelizmente, A Citiana teve seu corpo e psique gravemente enfraquecidos pela Espadância; ela está à beira da morte.			162	047.jpg	J4F7B
 			Archetype/trifecta	Tudo o que resta é revelar os segredos da Clareira Trigonal e elevar o Megatomo ao Remoinhado Infinito no topo de Mingi Tau.					
 				Pressione 'jogar' apenas se tiver a coragem de testemunhar a terrível tormenta do martírio.					
 END	The Scythian			No topo de Mingi Tau, detonamos o Megatomo e o precipitamos no Remoinhado Infinito.					
@@ -324,7 +324,7 @@ END_MOONGROTTO_LOVE	The Scythian			No topo de Mingi Tau, elevamos o Megatomo à 
 END_HONEST_PSYCHO	The Scythian			No topo de Mingi Tau, elevamos o Megatomo à segurança eterna do Remoinhado Infinito. #honest #psycho			179	051.jpg	M5C1H
 END_HONEST_LOVE	The Scythian			No topo de Mingi Tau, elevamos o Megatomo à segurança eterna do Remoinhado Infinito. #honest #love			177	052.jpg	55E2B
 END_HONEST_NOBOOR	The Scythian			No topo de Mingi Tau, elevamos o Megatomo à segurança eterna do Remoinhado Infinito. #honest #noboor			178	053.jpg	75G3V
-GIRL_GHOULTHOUGHTS	Girl			A Citiana sabe que é possível deter a Massa Gogolítica tocando seu crânio com espadância? Provavelmente não.					
+GIRL_GHOULTHOUGHTS	Girl			A Citiana sabe que é possível deter a Massa Gogolítica tocando seu crânio com Espadância? Provavelmente não.					
 				Espero que A Citiana saiba que deve manter pressionado o caminho para se mover, se mover rápido... caso contrário, terá problemas.					
 				Onde estou? O que aconteceu? A última coisa que me lembro é de estar caminhando em sonhos pela floresta quando vi uma luz rosa perturbadora.					
 LOGFELLA_GHOULTHOUGHTS	Logfella			A Citiana continua falando sobre sua funesta missão de abrir uma entrada para o Remoinhado Infinito no topo de Mingi Tau.					
@@ -403,7 +403,7 @@ GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece que todos os espíri
 JIM_HINT1_OFF	The Scythian			Em uma clareira isolada, encontramos um misterioso músico ao lado de uma fogueira crepitante.					
 JIM_PINKDAWN	The Scythian			Em uma clareira isolada, encontramos um misterioso músico ao lado de uma fogueira crepitante. #jimguthrie					
 JIM_BRIGHTMOON	The Scythian			Enquanto a Lua Radiante paira, encontramos um misterioso músico ao lado de uma fogueira crepitante, que se apresentou como Jim Guthrie.			128	070.jpg	07G00
-JIM_POSTSWORCERY	The Scythian			O misterioso músico conhecido como Jim Guthrie testemunhou nossa espadância e não pareceu se importar.					
+JIM_POSTSWORCERY	The Scythian			O misterioso músico conhecido como Jim Guthrie testemunhou nossa Espadância e não pareceu se importar.					
 JIM_POSTGOURD	The Scythian			O misterioso músico conhecido como Jim Guthrie disse que estava pronto para tocar uma pequena canção se quiséssemos ouvi-la.					
 				Jim nos convidou para nos sentarmos ao lado do fogo.					
 JIM_POSTSONG	The Scythian			Jim Guthrie nos ensinou que não se pode negar pensamentos ruins, assim como não se pode negar a mordida de um dragão.					
@@ -501,12 +501,12 @@ ARCHETYPE_GROTTOPARADOX	The Archetype
 				Uma vez que o humor da lua foi alterado na Gruta da Lua...					
 ARCHETYPE_KILLBOOR	The Archetype			Agora, imagino que você esteja se perguntando para que serve essa chave. Para ser honesto, não faço ideia.			119	075.jpg	87C5S
 				Não é que eu esteja sugerindo que você seja na verdade um sociopata violento... hehe... Tenho certeza de que você tinha suas razões, não é? #thegrizzledboor					
-				O Urso Grosseiro foi incluído no S:S&S EP para tentar os participantes a se identificarem como sociopatas violentos.					
-				Fui informado de que o Urso Grosseiro foi morto... Você sabe algo a respeito? #slaughter					
+				O Urso Desgrenhado foi incluído no S:S&S EP para tentar os participantes a se identificarem como sociopatas violentos.					
+				Fui informado de que o Urso Desgrenhado foi morto... Você sabe algo a respeito? #slaughter					
 ARCHETYPE_SPAREBOOR	The Archetype			Agora, imagino que você esteja se perguntando para que serve essa chave. Para ser honesto, não faço ideia.			119	075.jpg	87C5S
 				Sim, isso mesmo, é incrível e te amamos por isso!					
-				O Urso Grosseiro foi incluído no S:S&S EP para permitir que os participantes se identifiquem como pessoas compassivas e razoáveis.					
-				Fui informado de que o Urso Grosseiro conseguiu escapar ileso. É uma notícia encorajadora.					
+				O Urso Desgrenhado foi incluído no S:S&S EP para permitir que os participantes se identifiquem como pessoas compassivas e razoáveis.					
+				Fui informado de que o Urso Desgrenhado conseguiu escapar ileso. É uma notícia encorajadora.					
 LOGFELLA_FOUNDATION	Logfella	AdventureUI/tweetIconBabelBook		...					
 				...					
 				...					
@@ -529,7 +529,7 @@ GIRL_DARKMOON	The Scythian			Samae falou sobre caminhadas oníricas pela florest
 				Sabíamos exatamente a qual árvore oca titânica ela se referia.					
 ARCHETYPE_DARKMOON	The Archetype			Tenha cuidado. A Lua Sombria reina.			94	076.jpg	I7F69
 LOGFELLA_CRESCENTWAX	The Scythian			O lenhador falou sobre caminhadas oníricas pela floresta na hora antes do amanhecer, sob a luz de uma lua crescente.					
-				Ele falou sobre uma criatura que encontrou, algo ou alguém estranho e nu. Era um urso? Um homem? Ou... O Urso Grosseiro?			57	077.jpg	I7G7U
+				Ele falou sobre uma criatura que encontrou, algo ou alguém estranho e nu. Era um urso? Um homem? Ou... O Urso Desgrenhado?			57	077.jpg	I7G7U
 GIRL_CRESCENTWAX	The Scythian			Samae estava animada, hoje começava um novo mês lunar! Longos dias a esperavam sentada em rochas.					
 ARCHETYPE_CRESCENTWAX	The Archetype			Um brilho de lua crescente apareceu, marcando o início de um novo ciclo lunar de vinte e oito dias.			118	045.jpg	Y4E5Q
 LOGFELLA_HALFWAX	The Scythian			O lenhador admitiu que sim, de fato, tinha cortado uma boa quantidade de lenha em sua vida.					
@@ -580,7 +580,7 @@ RABBITS_3MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 3 co
 RABBITS_7MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 7 coelhos indefesos. É esta a evidência de uma mente transtornada?					
 RABBITS_13MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 13 coelhos indefesos.					
 RABBITS_17MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 17 coelhos indefesos. Somos imparáveis.					
-RABBITS_23MURDERS	The Scythian			Sem razão aparente, acabamos com la vida de 23 coelhos indefesos.					
+RABBITS_23MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 23 coelhos indefesos.					
 RABBITS_37MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 37 coelhos indefesos. Estamos curiosos para saber o que acontecerá se continuarmos com esta matança.					
 RABBITS_53MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 53 coelhos indefesos. Claramente, sofremos de um transtorno obsessivo-compulsivo.					
 RABBITS_91MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 91 coelhos indefesos.					

@@ -1,6 +1,6 @@
 id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
 GIRL_TONGUES	Girl			Lejos de las estepas devastadas por la guerra de Escitia, conocimos a una chica de cabello oscuro en un prado bañado por el sol. #helloworld			72	001.jpg	Z0E1Q
-				Los montañeses del Cáucaso la conocían como Samae y parecía simpática. #obviously					
+				Los montañeses del Cáucaso la conocían como Samae y parecía agradable. #obviously					
 SIGN_TADPOL	The Scythian			"""Donde el fuego alumbra, el hogar se vislumbra."" #threegutrecords4ever"					
 SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia, son todos reinos de los hombres. Mingi Tau es el Reino de las Nubes."""					
 SIGN_CHASM	The Scythian			Al lado del Precipicio Peligroso, encontramos una roca grabada con el glifo de una espada alzada, bajo los colores del arcoíris.					
@@ -26,13 +26,13 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador de leña
 				Tronquero lo sabía todo sobre nuestro funesto cometido y accedió a guiarnos por el antiguo camino.					
 				Era evidente que no le hacía mucha gracia el asunto.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		El leñador nos esperó para continuar por el antiguo camino.			12	008.jpg	U0D88
-LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Atravesamos el abismo y, para qué negarlo, nos sentimos muy listos.			22	009.jpg	L0B9S
+LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Atravesamos el abismo y, para qué negarlo, nos sentimos súper listos.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Le contamos a Tronquero que estábamos en busca de un inquietante libro de magia oscura conocido como el Megatomo.					
 			adventureUI/megatomeItem	El Megatomo estaba oculto más allá del Precipicio Peligroso, en algún lugar de la oscuridad bajo Mingi Tau.					
 			adventureUI/megatomeItem	Decidimos ir a por el Megatomo y luego salir de allí con vida.					
 LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó que él era el único con la llave de la puerta trancada en el muro de piedra.					
 			AdventureUI/keyItem	Era una llave realmente bonita.					
-				Estábamos más que listos para mantener pulsado el camino ¡y a mover el bote sin parar!					
+				Estábamos más que listos para mantener pulsado el camino ¡y a mover, mover el bote!					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Tronquero iba a quedarse aquí esperando a que volviéramos con el Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Tronquero había elegido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
 				Tronquero parecía saberlo todo acerca del odioso arcoíris y el glifo cercano que representaba una espada que apuntaba al cielo.					
@@ -43,7 +43,7 @@ LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos el Megatom
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		A la luz de la inminente tormenta, Tronquero admitió que en ese momento tenía la piel de gallina.					
 				¿Será que Tronquero solo quería espantarnos? #yes #no #maybe					
 				En cualquier caso, lo mejor era quedarse a resguardo durante algún tiempo.					
-QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos el Megatomo. ¡Somos muy listos! #gotmegatome			40	011.jpg	81C1E
+QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos el Megatomo. ¡Somos los más listos! #gotmegatome			40	011.jpg	81C1E
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
@@ -90,7 +90,7 @@ ARCHETYPE_SWORCERY	The Archetype			"""Ha llegado el momento de aprender la Canci
 ARCHETYPE_TADPOLES	The Archetype			Era obvio que el hombre de ropa extraña esperaba que hiciéramos algo, pero no teníamos ni idea de qué.					
 			gourd/gourd	"""¿Ves las melodiosas brumas en el estanque profundo? Un espíritu silvano duerme allí y debes despertarlo."""					
 			gourd/gourd	"""Mantén pulsado sobre La Escita para entonar la Canción de Espadancia y desvelar una realidad oculta."""					
-			gourd/gourd	"""Guía a las dos pequeñas criaturas que nadan hacia donde duerme el espíritu y envíalas al cielo con tres toques de espadancia."""			49	013.jpg	61D3A
+			gourd/gourd	"""Guía a las dos pequeñas criaturas que nadan hacia donde duerme el espíritu y envíalas al cielo con tres toques de Espadancia."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Samae se resguardaba de la lluvia bajo el amplio tejado de madera del pozo.					
 				Abandonó la comodidad del fuego en la choza porque, al parecer, Tronquero estaba nervioso por algo.					
 INFO_BIRDEYESCULPTURE	The Scythian			En el prado, avistamos la imponente escultura de un 'pájaro enojado'. #subtlereference			6	014.jpg	F1D48
@@ -215,7 +215,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Tronquero estaba muy aliviad
 				Le contamos al leñador cómo crecimos en las estepas junto a nuestros valientes hermanos y hermanas escitas.					
 				Le contamos a Tronquero por qué vagábamos por esta montaña desierta y cómo nos guiaba el dedo de un Dios omnisciente.					
 			adventureUI/megatomeItem	Le contamos a Tronquero lo que sospechábamos que podrían significar los enigmáticos símbolos dentro del Megatomo.					
-			gourd/gourd	Teníamos el presentimiento de que necesitábamos despertar a algunos espíritus silvanos más para disipar la tormenta.			104	033.jpg	W3D3G
+			gourd/gourd	Teníamos la intuición de que necesitábamos despertar a algunos espíritus silvanos más para disipar la tormenta.			104	033.jpg	W3D3G
 			triangle/Triangle	En un susurro hablamos de nuestra intención de encontrar y domar una manifestación de geometría cósmica conocida como el Trigón Dorado.					
 				Estaba claro que el leñador ya no nos prestaba atención.					
 			AdventureUI/keyItem	Preferimos quedarnos con la llave y salir a caminar por el antiguo camino, más allá del muro de piedra.					
@@ -285,7 +285,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				Son tiempos de angustia: una siniestra tormenta ha nublado el cielo y la gente encantadora que vive en la choza está desolada.					
 				Disipar la tormenta requerirá cierta familiaridad con la psiónica, la criptozoología y los milagros...					
 			adventureUI/megatomeItem	1. El toque de un espadancista liberará el Megatomo, revelando los pensamientos no expresados de criaturas vivas y otro material esotérico.					
-			gourd/gourd	2. Extraños espíritus silvanos, fuentes de espadancia, duermen en estanques, bosques y prados. Busca sus sutiles y melodiosas brumas.					
+			gourd/gourd	2. Extraños espíritus silvanos, fuentes de Espadancia, duermen en estanques, bosques y prados. Busca sus sutiles y melodiosas brumas.					
 			triangle/Triangle	3. El espadancista que pueda localizar, convocar y domar la geometría cósmica del Trigón Dorado poseerá la habilidad de obrar milagros.					
 				¿Sientes confusión? Excelente. Mantén la calma y sigue adelante.			210	043.jpg	A4C31
 ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	¡Bravo! Has localizado y sometido la geometría cósmica del Trigón Dorado.			86	044.jpg	24E4H
@@ -311,7 +311,7 @@ ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	Entonces, ¿domaste lo
 ARCHETYPE_GHOULINTRO	The Archetype								
 				Bueno, aquí estamos. Esta breve sesión marcará el fin del tratamiento de S:S&S EP.					
 				El funesto cometido de La Escita está casi cumplido.					
-				Por desgracia, La Escita ha visto su cuerpo y psique gravemente debilitados por la espadancia; ella está al borde de la muerte.			162	047.jpg	J4F7B
+				Por desgracia, La Escita ha visto su cuerpo y psique gravemente debilitados por la Espadancia; ella está al borde de la muerte.			162	047.jpg	J4F7B
 			Archetype/trifecta	Todo lo que resta es desvelar los secretos del Claro Trigonal y subir el Megatomo al Arremolinado Infinito en la cima de Mingi Tau.					
 				Presiona 'jugar' solo si tienes el valor de presenciar el terrible tormento del martirio.					
 END	The Scythian			En la cima de Mingi Tau, detonamos el Megatomo y lo precipitamos al Arremolinado Infinito.					
@@ -324,7 +324,7 @@ END_MOONGROTTO_LOVE	The Scythian			En la cima de Mingi Tau, subimos el Megatomo 
 END_HONEST_PSYCHO	The Scythian			En la cima de Mingi Tau, subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #honest #psycho			179	051.jpg	M5C1H
 END_HONEST_LOVE	The Scythian			En la cima de Mingi Tau, subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #honest #love			177	052.jpg	55E2B
 END_HONEST_NOBOOR	The Scythian			En la cima de Mingi Tau, subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #honest #noboor			178	053.jpg	75G3V
-GIRL_GHOULTHOUGHTS	Girl			¿Sabe La Escita que es posible detener a la Masa Gogolítica tocando su cráneo con espadancia? Probablemente no.					
+GIRL_GHOULTHOUGHTS	Girl			¿Sabe La Escita que es posible detener a la Masa Gogolítica tocando su cráneo con Espadancia? Probablemente no.					
 				Espero que La Escita sepa que debe mantener pulsado el camino para moverse, moverse rápido... si no lo hace, estará en problemas.					
 				¿Dónde estoy? ¿Qué ha pasado? Lo último que recuerdo es que estaba paseando en sueños por el bosque cuando vi una inquietante luz rosada.					
 LOGFELLA_GHOULTHOUGHTS	Logfella			La Escita sigue hablando sobre su funesto cometido de abrir una entrada al Arremolinado Infinito en la cima de Mingi Tau.					
@@ -403,7 +403,7 @@ GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece que todos los espír
 JIM_HINT1_OFF	The Scythian			En un claro oculto, nos encontramos con un misterioso músico junto a un fuego crepitante.					
 JIM_PINKDAWN	The Scythian			En un claro oculto, nos encontramos con un misterioso músico junto a un fuego crepitante. #jimguthrie					
 JIM_BRIGHTMOON	The Scythian			Mientras La Luna Radiante impera, nos encontramos con un misterioso músico junto a un fuego crepitante, quien se presentó como Jim Guthrie.			128	070.jpg	07G00
-JIM_POSTSWORCERY	The Scythian			El misterioso músico conocido como Jim Guthrie había presenciado nuestra espadancia y no pareció importarle.					
+JIM_POSTSWORCERY	The Scythian			El misterioso músico conocido como Jim Guthrie había presenciado nuestra Espadancia y no pareció importarle.					
 JIM_POSTGOURD	The Scythian			El misterioso músico conocido como Jim Guthrie dijo que estaba listo para tocar una pequeña canción si queríamos escucharla.					
 				Jim nos invitó a sentarnos junto al fuego.					
 JIM_POSTSONG	The Scythian			Jim Guthrie nos enseñó que no se pueden negar los malos pensamientos, del mismo modo que no se puede negar la mordida de un dragón.					
