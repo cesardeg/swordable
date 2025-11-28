@@ -32,7 +32,7 @@ LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Atravessamos o
 			adventureUI/megatomeItem	Decidimos procurar o Megatomo e depois escapar com vida.					
 LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	O lenhador confirmou que ele tinha a única chave da porta trancada no muro de pedra.					
 			AdventureUI/keyItem	Era uma chave realmente bonita.					
-				Estávamos mais do que prontos para manter pressionado o caminho, e remexer, remexer, remexer!					
+				Estávamos mais do que prontos para manter pressionado o caminho, e nos remexer, remexer, remexer!					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Troncadeiro ia ficar aqui esperando até que voltássemos com o Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Troncadeiro escolheu relaxar em um abrigo de pedra perto do Precipício Perigoso.					
 				Troncadeiro parecia saber tudo sobre o odioso arco-íris e o glifo que representava uma espada apontando para o céu.					
@@ -112,7 +112,7 @@ ARCHETYPE_UNWELLWELLOUTRO	The Archetype
 INFO_CABINCHIMNEY	The Scythian			Ao lado de uma lagoa profunda, avistamos uma robusta cabana de pedra com um telhado de palha.					
 INFO_CABINWOODPILE	The Scythian			Perto da cabana, avistamos uma pilha de lenha, mas não é nada demais.					
 INFO_SPUME	The Scythian			Localizamos as sutis e melódicas espumas de um espírito florestal adormecido. E agora... como despertá-lo?					
-INFO_NESTBOX	The Scythian			Avistamos um ninho curioso que agora abrigava uma colmeia infeliz.			13	015.jpg	B1C5F
+INFO_NESTBOX	The Scythian			Avistamos um ninho curioso, agora lar de uma 'colmeia miserável'.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Avistamos um ninho desgastado que parecia um rosto assustador de uma forma estranha.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre uma ponte de toras no antigo caminho, erguia-se um mastro sinistro decorado com caveiras.					
 INFO_GOLDTRIGONALTAR	The Scythian			Além da vasta caverna na campina, em uma clareira isolada, avistamos um conjunto estranho de estruturas de pedra.					
@@ -416,7 +416,7 @@ ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Atravessar com segurança o limiar da 
 				Quando você está lúcido em um sonho, percebe quem imaginou ser... mas se identificar com o sonho é se deixar encantar.					
 				Mesmo em um sonho conhecido, há novos lugares para explorar e novas conexões para considerar... se você continuar acreditando.					
 GIRL_MOONGROTTOCOMMENT	Girl			Sinto como se o cosmos tivesse girado e agora tudo estivesse levemente... desajustado.					
-LOGFELLA_MOONGROTTOCOMMENT	Logfella			É uma longa jornada de 0 a 1, e se um alienígena dissesse 'Olá', seria em um código criptografado no rádio. Espere... O quê?					
+LOGFELLA_MOONGROTTOCOMMENT	Logfella			De 0 a 1 há uma longa jornada, e se um alien dissesse 'olá', seria um código criptografado no rádio. Espere... O quê?					
 GIRL_HUGETREETHOUGHTS	Girl			Claro, nunca falo com as pessoas sobre estes sonhos de deusas e árvores, pois certamente me tomariam por uma sonhadora.					
 				Em meu lugar especial, visito uma árvore oca titânica... ela é uma deusa, morta há muito tempo, que antecede a humanidade por eras.					
 				Em meu sonho, há um lugar especial para onde sempre vou, um Parlamento de Árvores no coração do mundo.					
@@ -448,7 +448,7 @@ DOGFELLA_THREETRIGONS	The Scythian			Depois de ativar outro facho celestial na C
 			Archetype/trifecta	De repente, parecia que entendíamos o que Cachorreiro estava dizendo, nos instigou a ativar o terceiro facho celestial e abrir a entrada para o Remoinhado Infinito.					
 DOGFELLA_TRUTHBOMB	Dogfella			Au Au Au.					
 				Au Au Snif Au.					
-				O cosmos no Remoinhado Infinito no topo de Mingi Tau aguarda aquele que carrega o Megatomo.					
+				O cosmos no Remoinhado Infinito no topo de Mingi Tau aguarda quem carrega o Megatomo.					
 				Au Au Au Au Au.					
 				Au Au Au.					
 GIRL_AFTERYELLOWBEAM	The Scythian			Samae sentou-se em uma rocha perto do local onde o lenhador estava cortando lenha.					
@@ -539,11 +539,11 @@ GIRL_HALFWAX	The Scythian			Em meu sonho de ontem, eu estava caminhando pela flo
 ARCHETYPE_HALFWAX	The Archetype			Alguns folcloristas lunáticos afirmam que não há relação causal entre a loucura e o humor da lua.					
 LOGFELLA_ALMOSTWAX	The Scythian			O lenhador disse que nunca costumava pensar muito na Massa Gogolítica e na montanha deserta de Mingi Tau.					
 				No entanto, ele mencionou que ultimamente a presença espectral da Massa Gogolítica começou a atormentá-lo.					
-				O lenhador admitiu que sentia calafrios quando a Lua Radiante pairava... e quando a Lua Sombria reinava.					
+				O lenhador admitiu que sentia calafrios quando a Lua Radiante paira... e quando a Lua Sombria reina.					
 GIRL_ALMOSTWAX	The Scythian			Samae comentou sobre a lua crescente e se perguntou quanto tempo levaria até que a Lua Radiante pairasse no céu.					
 ARCHETYPE_ALMOSTWAX	The Archetype			A lua cresce um pouco a cada dia... em poucos dias, a Lua Radiante pairará... E daí?			165	046.jpg	P4B6A
-LOGFELLA_BRIGHTMOON	The Scythian			O lenhador admitiu que seu cachorro se comportava de maneira estranha toda vez que a Lua Radiante pairava no céu.			135	061.jpg	M6F1I
-GIRL_BRIGHTMOON	The Scythian			Samae falou sobre caminhadas oníricas pela floresta na hora antes do amanhecer, com a Lua Radiante pairando no céu.					
+LOGFELLA_BRIGHTMOON	The Scythian			O lenhador admitiu que seu cachorro se comportava de maneira estranha toda vez que a Lua Radiante paira no céu.			135	061.jpg	M6F1I
+GIRL_BRIGHTMOON	The Scythian			Samae falou sobre caminhadas oníricas pela floresta na hora antes do amanhecer, com a Lua Radiante a pairar no céu.					
 				Ela mencionou o ar fresco da manhã e uma ilha impossível no meio de um lago sereno.					
 ARCHETYPE_BRIGHTMOON	The Archetype			Saia lá fora e olhe para cima. Maravilhe-se com a Lua Radiante que paira no céu!			95	079.jpg	07D95
 LOGFELLA_ALMOSTWANE	The Scythian			O lenhador não aguentava muito folclore e admitiu que geralmente dormia, embora tivesse um bom conhecimento sobre o assunto.					

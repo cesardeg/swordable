@@ -112,7 +112,7 @@ ARCHETYPE_UNWELLWELLOUTRO	The Archetype
 INFO_CABINCHIMNEY	The Scythian			Al lado de un estanque profundo, avistamos una robusta choza de piedra con un techo de paja.					
 INFO_CABINWOODPILE	The Scythian			Cerca de la choza, avistamos una pila de leña, pero no es para tanto.					
 INFO_SPUME	The Scythian			Localizamos las sutiles y melodiosas brumas de un espíritu silvano adormecido. Y ahora... ¿cómo despertarlo?					
-INFO_NESTBOX	The Scythian			Avistamos un curioso nido que ahora alberga una colmena miserable.			13	015.jpg	B1C5F
+INFO_NESTBOX	The Scythian			Avistamos un curioso nido, ahora hogar de una 'miserable colmena'.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Avistamos un nido desgastado que de forma espeluznante parecía una cara.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre un puente de troncos en el antiguo camino, se erguía un mástil siniestro decorado con calaveras.					
 INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la vasta cueva del prado, en un claro oculto, avistamos un conjunto extraño de estructuras de piedra.					
@@ -416,7 +416,7 @@ ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Cruzar de manera segura el umbral de l
 				Cuando estás lúcido en un sueño, te das cuenta de quién has imaginado ser... pero identificarse con el sueño es dejarse hechizar.					
 				Incluso en un sueño ya conocido, hay nuevos lugares para explorar y nuevas conexiones para considerar... si sigues creyendo.					
 GIRL_MOONGROTTOCOMMENT	Girl			Siento como si el cosmos hubiera dado un giro y ahora todo estuviera levemente... desajustado.					
-LOGFELLA_MOONGROTTOCOMMENT	Logfella			Es un largo camino de 0 a 1, y si un alienígena dijera 'Hola', sería en un código críptico en el estéreo. Espera... ¿Qué?					
+LOGFELLA_MOONGROTTOCOMMENT	Logfella			De 0 a 1 hay un largo trecho, y si un alien dijera 'hola', sería un código críptico en la radio. Espera... ¿Qué?					
 GIRL_HUGETREETHOUGHTS	Girl			Por supuesto, nunca le cuento a la gente sobre estos sueños de diosas y árboles, pues seguramente me tomarían por una soñadora.					
 				En mi lugar especial visito un árbol hueco titánico... ella es una diosa, muerta hace mucho, que antecede a la humanidad por eras.					
 				En mi sueño hay un lugar especial al que siempre voy, un Parlamento de Árboles en el corazón del mundo.					
@@ -448,7 +448,7 @@ DOGFELLA_THREETRIGONS	The Scythian			Después de activar otro haz celestial en e
 			Archetype/trifecta	De repente parecía que entendíamos a Perrero, nos instó a activar el tercer haz celestial y abrir la entrada al Arremolinado Infinito.					
 DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.					
 				Guau Guau Snif Guau.					
-				El cosmos en el Arremolinado Infinito en la cima de Mingi Tau espera a aquel que lleva el Megatomo.					
+				El cosmos en el Arremolinado Infinito en la cima de Mingi Tau espera a quien lleva el Megatomo.					
 				Guau Guau Guau Guau Guau.					
 				Guau Guau Guau.					
 GIRL_AFTERYELLOWBEAM	The Scythian			Samae se sentó en una roca cerca del lugar donde el leñador cortaba leña.					
@@ -539,10 +539,10 @@ GIRL_HALFWAX	The Scythian			En mi sueño de anoche, estaba caminando por el bosq
 ARCHETYPE_HALFWAX	The Archetype			Algunos folcloristas lunáticos afirman que no existe una relación causal entre la locura y el humor de la luna.					
 LOGFELLA_ALMOSTWAX	The Scythian			El leñador dijo que nunca solía pensar demasiado en la Masa Gogolítica y en la montaña desierta de Mingi Tau.					
 				Sin embargo, mencionó que últimamente la presencia espectral de la Masa Gogolítica había comenzado a acosarlo.					
-				El leñador admitió que se le ponían la piel de gallina cuando La Luna Radiante imperaba... y cuando La Luna Sombría reinaba.					
+				El leñador admitió que se le ponían la piel de gallina cuando La Luna Radiante impera... y cuando La Luna Sombría reina.					
 GIRL_ALMOSTWAX	The Scythian			Samae comentó algo sobre la luna creciente y se preguntó cuánto tiempo pasaría hasta que La Luna Radiante imperara en el cielo.					
 ARCHETYPE_ALMOSTWAX	The Archetype			La luna crece un poco cada día... en unos pocos días, La Luna Radiante imperará... ¿Y qué?			165	046.jpg	P4B6A
-LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se comportaba de manera extraña cada vez que La Luna Radiante imperaba en el cielo.			135	061.jpg	M6F1I
+LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se comportaba de manera extraña cada vez que La Luna Radiante impera en el cielo.			135	061.jpg	M6F1I
 GIRL_BRIGHTMOON	The Scythian			Samae habló sobre paseos oníricos por el bosque en la hora antes del amanecer, con La Luna Radiante imperando en el cielo.					
 				Mencionó el aire fresco de la mañana y una isla imposible en medio de un lago sereno.					
 ARCHETYPE_BRIGHTMOON	The Archetype			Sal afuera y mira hacia arriba. ¡Maravíllate con La Luna Radiante que impera en el cielo!			95	079.jpg	07D95
