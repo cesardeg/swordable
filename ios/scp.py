@@ -1,8 +1,19 @@
 #!/usr/bin/env python3
 
-import paramiko
-import os
 import sys
+import os
+
+# --- Environment and Dependency Setup ---
+# Add the 'utils' directory to the system path to find the bootstrap module
+script_dir = os.path.dirname(os.path.realpath(__file__))
+utils_dir = os.path.join(script_dir, '..', 'utils')
+sys.path.insert(0, utils_dir)
+
+from bootstrap import ensure_environment
+
+# Ensure we are in the venv and 'paramiko' is installed
+ensure_environment(required_packages=['paramiko'])
+import paramiko
 
 script_name = os.path.basename(sys.argv[0])
 
@@ -16,9 +27,6 @@ ip_address = sys.argv[1]
 port = 22
 username = 'root'
 password = 'alpine'
-
-# Script directory
-script_dir = os.path.dirname(os.path.realpath(__file__))
 
 
 # Destination paths on the iPhone for fonts and locales
