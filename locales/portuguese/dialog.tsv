@@ -26,7 +26,7 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		O lenhador lenhador 
 				Troncadeiro sabia tudo sobre nossa funesta missão e concordou em nos guiar pelo antigo caminho.					
 				Era óbvio que ele não estava nada empolgado com isso.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		O lenhador nos esperou para prosseguir pelo antigo caminho.			12	008.jpg	U0D88
-LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Atravessamos o abismo e, para que negar, nos sentimos super espertos.			22	009.jpg	L0B9S
+LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Atravessamos o abismo e, para quê negar? Nos sentimos super espertos.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Contamos a Troncadeiro que estávamos procurando um livro assustador de magia sinistra conhecido como o Megatomo.					
 			adventureUI/megatomeItem	O Megatomo estava oculto além do Precipício Perigoso, em algum lugar nas trevas sob Mingi Tau.					
 			adventureUI/megatomeItem	Decidimos procurar o Megatomo e depois escapar com vida.					
@@ -47,14 +47,14 @@ QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos o Megatomo. Somos 
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			Senhoras e senhores, que tal tocarem nestes dois pequenos espíritos florestais para calibrar o vosso sistema de som estéreo?					
+	The Archetype			Senhoras e senhores, que tal tocarem nestes dois pequenos espíritos florestais para calibrar o seu sistema de som estéreo?					
 	The Archetype			Desde nossa experiência anterior em 2011, constatamos que as redes sociais têm um impacto prejudicial na sociedade.					
 				Nesta ocasião, promovemos o isolamento e a reflexão cheia de arrependimento.					
 				Agradecemos sinceramente por você ter decidido participar deste tratamento experimental para a aflição profunda da alma.					
 				Você verá que esta primeira sessão de S:S&S EP é bastante simples e geralmente dura entre 15 e 30 minutos.					
 				Você tem fones de ouvido? Tudo pronto para começar? Pressione 'jogar' e vamos lá!					
 ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			Senhoras e senhores, que tal tocarem nestes dois pequenos espíritos florestais para calibrar o vosso sistema de som estéreo?					
+	The Archetype			Senhoras e senhores, que tal tocarem nestes dois pequenos espíritos florestais para calibrar o seu sistema de som estéreo?					
 	The Archetype			Desde nossa experiência anterior em 2011, constatamos que as redes sociais têm um impacto prejudicial na sociedade.					
 				Nesta ocasião, promovemos o isolamento e a reflexão cheia de arrependimento.					
 				Agradecemos sinceramente por você ter decidido participar deste tratamento experimental para a aflição profunda da alma.					
@@ -74,7 +74,7 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP não busca proporcionar a experiê
 				Como vê, o Megatomo coleta transmissões de pensamento linguístico. Role para ver meus pensamentos prévios.					
 ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muito bem, você aprendeu a Canção da Espadância e agora o insondável poder do Megatomo é seu."""			47	012.jpg	31E2F
 			adventureUI/megatomeItem	"""O Megatomo intercepta transmissões de pensamento linguístico e contém tudo o que você precisa para cumprir sua funesta missão."""					
-			adventureUI/megatomeItem	"""Acabei de ter uma ideia... Que tal abrir o Megatomo e descobrir o que está oculto em minha mente?"""					
+			adventureUI/megatomeItem	"""Estou pensando em algo agora mesmo... Que tal abrir o Megatomo e descobrir o que está oculto em minha mente?"""					
 				"""Procure por um triângulo branco no canto superior direito... toque nele e depois equipe o Megatomo para revelar o que está oculto."""					
 LOGFELLA_STORM	The Scythian			Troncadeiro parou de cortar lenha devido à sinistra tempestade. #wetboots					
 			adventureUI/megatomeItem	Ele nos lembrou que a tempestade havia estourado logo depois que recuperamos o Megatomo sob Mingi Tau.					
@@ -91,8 +91,8 @@ ARCHETYPE_TADPOLES	The Archetype			Era evidente que o homem estranhamente vestid
 			gourd/gourd	"""Você vê as melódicas espumas na lagoa profunda? Um espírito florestal dorme ali e você deve despertá-lo."""					
 			gourd/gourd	"""Mantenha pressionado sobre A Citiana para entoar a Canção da Espadância e revelar uma realidade oculta."""					
 			gourd/gourd	"""Guie as duas pequenas criaturas nadando em direção ao local onde o espírito dorme e envie-as ao céu com três toques de Espadância."""			49	013.jpg	61D3A
-GIRL_LOSTKEY	The Scythian			Samae se abrigava da chuva sob o amplo telhado de madeira do poço.					
-				Ela abandonou o conforto do fogo na cabana porque, aparentemente, Troncadeiro estava nervoso por algo.					
+GIRL_LOSTKEY	The Scythian			Samae se abrigava da chuva sob o amplo telhado de madeira do poço.
+				Ela abandonou o conforto do fogo na cabana porque, aparentemente, Troncadeiro estava surtando por algum motivo.
 INFO_BIRDEYESCULPTURE	The Scythian			Na campina, avistamos a imponente escultura de um 'pássaro zangado'. #subtlereference			6	014.jpg	F1D48
 INFO_MEADOWSHEEP	The Scythian			Na campina, avistamos algumas ovelhas inúteis vadiando. #worthlesssheep					
 INFO_CABINSHEEP	The Scythian			Outra ovelha inútil, por que continuamos olhando para elas? #worthlesssheep					
@@ -139,7 +139,7 @@ INFO_MEGATOMBTRIFECTA	The Scythian			Nas trevas sob Mingi Tau, avistamos uma rep
 INFO_ROCKSHOWGIRL	The Scythian			No show de rock, avistamos Samae e nos pareceu que ela sussurrou algo como 'Fogo, ande comigo'.					
 INFO_ROCKSHOWSKOLOTOI	The Scythian			No show de rock, avistamos um daqueles esqueletos vibrando ao ritmo sinistro.					
 INFO_ROCKSHOWJIM	The Scythian			Encabeçando o show de rock, avistamos o misterioso músico conhecido como Jim Guthrie.			160	020.jpg	T2G03
-INFO_ROCKSHOWBOOR	The Scythian			No show de rock, avistamos o Urso Desgrenhado balançando sua coisa nua.			121	021.jpg	E2G15
+INFO_ROCKSHOWBOOR	The Scythian			No show de rock, avistamos o Patife Grisalho balançando sua coisa nua.			121	021.jpg	E2G15
 INFO_ROCKSHOWCROWD	The Scythian			No show de rock, avistamos uma multidão considerável de damas e cavalheiros.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			No show de rock, avistamos o personagem conhecido como O Arquétipo e nos perguntamos o que ele estava tramando com tudo isso.					
 INFO_TRIGONGROVESKULLSTICK	The Scythian			Um poste sinistro decorado com uma caveira com chifres conecta este lugar ao espectro imortal que espreita sob Mingi Tau.					
@@ -194,9 +194,9 @@ GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de uma árvore oca titânica, junt
 				"""Busque um sinal dos espíritos florestais e entoe uma Canção da Espadância no local para revelar um trígono oculto."""					
 GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de uma árvore oca titânica, junto a uma tumba solitária, um fantasma audacioso surgiu para nos contar algumas coisas.			117	028.jpg	E2A80
 				"""A canção do trígono terminou por enquanto. Pergunto-me quando a ouvirei novamente."""					
-LOGFELLA_LOSTKEY	The Scythian			O lenhador aflito conhecido como Troncadeiro estava completamente nervoso por algo.					
+LOGFELLA_LOSTKEY	The Scythian			O lenhador aflito conhecido como Troncadeiro estava totalmente surtando por algum motivo.
 			AdventureUI/keyItem	Parece que ele perdeu a chave da porta trancada no muro de pedra que fecha o antigo caminho para Mingi Tau.					
-				E pensamos, com um suspiro: 'Outra missão de busca? É sério?'.					
+				E pensamos, com um suspiro: 'Outra missão de busca? Fala sério, né?'.
 				Ele nos disse que estava sentado bem ali quando caiu em um sono profundo.					
 			AdventureUI/keyItem	Troncadeiro nos disse que achava que havia perdido sua chave no reino crepuscular dos sonhos.					
 				Já tínhamos ouvido falar dos estranhos sonhos dos montanheses de cabelo escuro do Cáucaso, então isso fez todo o sentido para nós.					
@@ -205,8 +205,8 @@ ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos na vigília e na psicologia m
 				O limiar da liminaridade é um espaço entre a vigília e os sonhos onde o pensamento direcionado é impossível.			56	030.jpg	13A0A
 				Procure um lugar acolhedor e deixe o sono envolvê-lo para descobrir o limiar da liminaridade.					
 ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	Que tal sentar-se junto ao fogo na cabana e atravessar o limiar da liminaridade para encontrar a chave perdida de Troncadeiro?			55	031.jpg	23C1X
-GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Nossa, Troncadeiro está muito nervoso... O que será que ele tem? Melhor eu sair e deixá-lo em paz.					
-				Vi A Citiana entoar a Canção da Espadância e enviar três espíritos florestais ao céu. Será que eles ajudarão a dissipar a tempestade?					
+GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Nossa, o Troncadeiro está surtando... O que será que ele tem? Melhor eu sair e deixá-lo em paz.
+				Vi A Citiana entoar a Canção da Espadância e enviar três espíritos florestais ao céu. Será que eles ajudarão a dissipar a tempestade?
 LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que A Citiana possa encontrar minha chave... eu a perdi na margem arenosa de um lago sereno.			62	032.jpg	U3A20
 LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Ah, droga, como odeio essa chuva... Como odeio ter as botas molhadas... Como queria voltar a cortar lenha.					
 				Ah, droga, onde foi parar minha chave? Estou tão chateado e envergonhado que não consigo me acalmar!					
@@ -279,15 +279,15 @@ ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então voc
 				Nossa pesquisa mostra que a exposição prolongada à psicosmologia mitopoética de S:S&S EP pode causar efeitos adversos.					
 				Agora que você completou a Sessão I, que tal uma pausa? Estarei aqui quando você estiver pronto para começar a Sessão II.					
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
-				É bom te ver novamente. Vamos começar a Sessão II de S:S&S EP?					
-			adventureUI/megatomeItem	Ótimo, onde estávamos? Ah, sim, já me lembro, você conseguiu um livro pesado conhecido como o Megatomo.					
-				Você despertou um espectro imortal que ainda espreita nas trevas sob Mingi Tau. Que personagem, não é?			204	042.jpg	24B2J
+				É bom te ver novamente. Vamos começar a Sessão II de S:S&S EP?
+			adventureUI/megatomeItem	Ótimo, onde estávamos? Ah, sim, já me lembro, você conseguiu um livro pesado conhecido como o Megatomo.
+				Você despertou um espectro imortal que ainda espreita nas trevas sob Mingi Tau. Que personagem, né?			204	042.jpg	24B2J
 				São tempos de angústia: uma sinistra tempestade cobriu o céu e as pessoas adoráveis que vivem na cabana estão infelizes.					
 				Desfazer a tempestade exigirá algum conhecimento em psiônica, criptozoologia e milagres...					
 			adventureUI/megatomeItem	1. O toque de um espadancista liberará O Megatomo, revelando os pensamentos não expressos das criaturas vivas e outros materiais esotéricos.					
 			gourd/gourd	2. Estranhos espíritos florestais, fontes de Espadância, dormem em lagos, florestas e campinas. Procure por suas sutis e melódicas espumas.					
 			triangle/Triangle	3. O espadancista que puder localizar, convocar e domar a geometria cósmica do Trígono Dourado possuirá a habilidade de obrar milagres.					
-				Sente confusão? Excelente. Mantenha a calma e siga em frente.			210	043.jpg	A4C31
+				Sente confusão? Palma, palma, não priemos cânico!			210	043.jpg	A4C31
 ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	Excelente! Você localizou e dominou a geometria cósmica do Trígono Dourado.			86	044.jpg	24E4H
 				Milagrosamente, a sinistra tempestade se dissipou e o glorioso sol voltou ao reino, isso é realmente incrível.					
 				Suas heroicidades refletem bem sua percepção, intuição e perseverança. Você se saiu muito bem até agora!					
@@ -500,13 +500,13 @@ GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae viu a chave que encont
 ARCHETYPE_GROTTOPARADOX	The Archetype								
 				Uma vez que o humor da lua foi alterado na Gruta da Lua...					
 ARCHETYPE_KILLBOOR	The Archetype			Agora, imagino que você esteja se perguntando para que serve essa chave. Para ser honesto, não faço ideia.			119	075.jpg	87C5S
-				Não é que eu esteja sugerindo que você seja na verdade um sociopata violento... hehe... Tenho certeza de que você tinha suas razões, não é? #thegrizzledboor					
-				O Urso Desgrenhado foi incluído no S:S&S EP para tentar os participantes a se identificarem como sociopatas violentos.					
-				Fui informado de que o Urso Desgrenhado foi morto... Você sabe algo a respeito? #slaughter					
+				Não é que eu esteja sugerindo que você seja na verdade um sociopata violento... hehe... Tenho certeza de que você tinha suas razões, não é? #thegrizzledboor
+				O Patife Grisalho foi incluído no S:S&S EP para tentar os participantes a se identificarem como sociopatas violentos.
+				Fui informado de que o Patife Grisalho foi morto... Você sabe algo a respeito? #slaughter
 ARCHETYPE_SPAREBOOR	The Archetype			Agora, imagino que você esteja se perguntando para que serve essa chave. Para ser honesto, não faço ideia.			119	075.jpg	87C5S
 				Sim, isso mesmo, é incrível e te amamos por isso!					
-				O Urso Desgrenhado foi incluído no S:S&S EP para permitir que os participantes se identifiquem como pessoas compassivas e razoáveis.					
-				Fui informado de que o Urso Desgrenhado conseguiu escapar ileso. É uma notícia encorajadora.					
+				O Patife Grisalho foi incluído no S:S&S EP para permitir que os participantes se identifiquem como pessoas compassivas e razoáveis.
+				Fui informado de que o Patife Grisalho conseguiu escapar ileso. É uma notícia encorajadora.
 LOGFELLA_FOUNDATION	Logfella	AdventureUI/tweetIconBabelBook		...					
 				...					
 				...					
@@ -529,7 +529,7 @@ GIRL_DARKMOON	The Scythian			Samae falou sobre caminhadas oníricas pela florest
 				Sabíamos exatamente a qual árvore oca titânica ela se referia.					
 ARCHETYPE_DARKMOON	The Archetype			Tenha cuidado. A Lua Sombria reina.			94	076.jpg	I7F69
 LOGFELLA_CRESCENTWAX	The Scythian			O lenhador falou sobre caminhadas oníricas pela floresta na hora antes do amanhecer, sob a luz de uma lua crescente.					
-				Ele falou sobre uma criatura que encontrou, algo ou alguém estranho e nu. Era um urso? Um homem? Ou... O Urso Desgrenhado?			57	077.jpg	I7G7U
+				Ele falou sobre uma criatura que encontrou, algo ou alguém estranho e nu. Era um urso? Um homem? Ou... O Patife Grisalho?			57	077.jpg	I7G7U
 GIRL_CRESCENTWAX	The Scythian			Samae estava animada, hoje começava um novo mês lunar! Longos dias a esperavam sentada em rochas.					
 ARCHETYPE_CRESCENTWAX	The Archetype			Um brilho de lua crescente apareceu, marcando o início de um novo ciclo lunar de vinte e oito dias.			118	045.jpg	Y4E5Q
 LOGFELLA_HALFWAX	The Scythian			O lenhador admitiu que sim, de fato, tinha cortado uma boa quantidade de lenha em sua vida.					
@@ -632,7 +632,7 @@ ARCHETYPE_CREDITS	The Archetype
 				* * * O DOMÍNIO DO CANADÁ * * *					
 			Logos/omdc	Este projeto foi possível graças ao apoio financeiro da Ontario Creates.					
 				* * * AMAMOS VOCÊS DEMAIS * * *					
-				Saudações a todos que alinharam as estrelas.					
+				Um grito para todos que alinharam as estrelas!					
 				Muito amor às incríveis comunidades indie de videogames de Toronto e à gente encantadora da The Hand Eye Society, TOJam e Gamercamp.					
 				A todos que apoiaram este projeto: obrigado.					
 				* * * PROCESSO * * *					
