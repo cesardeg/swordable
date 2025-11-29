@@ -64,7 +64,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | **The Caucasus** | El Cáucaso | O Cáucaso | ✅ Geographic region |
 | **Scythia** | Escitia | Cítia | ✅ Homeland region |
 | **The Perilous Precipice** | El Precipicio Peligroso | O Precipício Perigoso | ✅ Major location |
-| **Trigon Grove** | Claro Trigonal | Clareira Trigonal | ✅ ES: clearing, PT: grove clearing |
+| **Trigon Grove** | Claro Trigonal | Clareira Trigônica | ✅ ES: clearing, PT: grove clearing |
 | **The Moon Grotto** | La Gruta Lunar | A Gruta da Lua | ✅ Secret location |
 | **The Kingdom of the Cloud** | El Reino de las Nubes | O Reino das Nuvens | ✅ Mingi Taw's title |
 | | | | |
@@ -101,7 +101,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | **Gold Trigon** | Trigón Dorado | Trígono Dourado | ✅ First trigon |
 | **Bright Moon Trigon** | Trigón Luna Radiante | Trígono da Lua Radiante | ✅ Pink/bright trigon |
 | **Dark Moon Trigon** | Trigón Luna Sombría | Trígono da Lua Sombria | ✅ Blue/dark trigon |
-| **The Trigon Trifecta** | La Tríada Trigonal | A Tríade Trigonal | ✅ All three trigons |
+| **The Trigon Trifecta** | La Trífida Trigonal | A Tríade Trigônica | ✅ All three trigons |
 | | | | |
 | hearth | hoguera / fuego | fogo / lareira | ⚠️ PT: `fogo` (fire), `lareira` (hearth) |
 | firewood | leña | lenha | ✅ |
@@ -439,7 +439,7 @@ This glossary uses **Brazilian Portuguese (PT-BR)** conventions:
 | 8 | Logfella | Tronquero | Troncadeiro |
 | 9 | Mingi Taw | Mingi Tau | Mingi Tau |
 | 10 | The Gogolithic Mass | La Masa Gogolítica | A Massa Gogolítica |
-| 11 | Trigon Trifecta | Tríada Trigonal | Tríade Trigonal |
+| 11 | Trigon Trifecta | Trífida Trigonal | Tríade Trigônica |
 | 12 | sonorous spume | melodiosas brumas | melódicas espumas |
 | 13 | dream-walking | paseos oníricos | caminhadas oníricas |
 | 14 | the whirling infinite | Arremolinado Infinito | Remoinhado Infinito |
