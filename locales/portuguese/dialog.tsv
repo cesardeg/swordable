@@ -36,7 +36,7 @@ LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	O lenhador confirmou que e
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Troncadeiro ia ficar aqui esperando até que voltássemos com o Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Troncadeiro escolheu relaxar em um abrigo de pedra perto do Precipício Perigoso.					
 				Ele parecia saber tudo sobre o odioso arco-íris e o glifo que representava uma espada apontando para o céu.					
-				E mesmo assim, não deu nenhuma pista sobre o que fazer, o que, para ser sincero, não nos agradou nem um pouco.					
+				E mesmo assim, não deu nenhuma pista sobre o que fazer, o que, para ser sincero, nos deixou meio atravessado.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		O lenhador tinha visto algum tipo de monstro assustador e decidiu deixar que nós cuidássemos disso.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos o Megatomo e Troncadeiro estava completamente pronto para 'remexer, remexer' até a segurança de sua moradia.					
 				Sentimos uma tempestade iminente e, ainda assim, uma pequena canção brotou em nosso coração.					
@@ -61,11 +61,11 @@ ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo
 				Você verá que esta primeira sessão de S:S&S EP é bastante simples e geralmente dura entre 15 e 30 minutos.					
 				Você tem fones de ouvido? Tudo pronto para começar? Pressione 'jogar' e vamos lá!					
 ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP não busca proporcionar a experiência transcendental, mas simplesmente pretende liberar o sistema nervoso de seus padrões habituais.					
-				Outro aspecto do 'setting' é o cultural: as noções que predominam sobre realidade e normalidade. Evitaremos essa discussão por enquanto.					
-				O 'setting' abrange o conforto, a segurança e o calor do ambiente onde a experiência ocorre.					
+				Outro aspecto do 'Ambiente' é o cultural: as noções que predominam sobre realidade e normalidade. Evitaremos essa discussão por enquanto.					
+				O 'Ambiente' abrange o conforto, a segurança e o calor do local onde a experiência ocorre.					
 				Descobrimos que um indivíduo relaxado e curioso é mais propenso a ter uma experiência agradável com S:S&S EP.					
-				O 'set' é o estado mental e a personalidade que você traz para a experiência: pensamentos, estados de ânimo e expectativas.					
-				Vamos falar sobre o 'set and setting' para uma experiência positiva com esta obra altamente psicoativa: Superbrothers: Sword & Sworcery EP.					
+				A 'Preparação' é o estado mental e a personalidade que você traz para a experiência: pensamentos, estados de ânimo e expectativas.					
+				Vamos falar sobre a Preparação e o Ambiente para uma experiência positiva com esta obra altamente psicoativa: Superbrothers: Sword & Sworcery EP.					
 				A consciência expandida, o potencial ilimitado e inexplorado da mente, é o que chamamos de 'Espadância' em Superbrothers. #sworcery					
 				A Espadância pode ser entendida como uma técnica psíquica que permite perceber uma realidade dentro daquela que você já conhece.					
 				Para interromper a Canção da Espadância, basta fazer tap tap na aura que cerca A Citiana.					
@@ -91,8 +91,8 @@ ARCHETYPE_TADPOLES	The Archetype			Era evidente que o homem estranhamente vestid
 			gourd/gourd	"""Você vê as melódicas espumas na lagoa profunda? Um espírito florestal dorme ali e você deve despertá-lo."""					
 			gourd/gourd	"""Mantenha pressionado sobre A Citiana para entoar a Canção da Espadância e revelar uma realidade oculta."""					
 			gourd/gourd	"""Guie as duas pequenas criaturas nadando em direção ao local onde o espírito dorme e envie-as ao céu com três toques de Espadância."""			49	013.jpg	61D3A
-GIRL_LOSTKEY	The Scythian			Samae se abrigava da chuva sob o amplo telhado de madeira do poço.
-				Ela abandonou o conforto do fogo na cabana porque, aparentemente, Troncadeiro estava surtando por algum motivo.
+GIRL_LOSTKEY	The Scythian			Samae se abrigava da chuva sob o amplo telhado de madeira do poço.					
+				Ela abandonou o conforto do fogo na cabana porque, aparentemente, Troncadeiro estava surtando por algum motivo.					
 INFO_BIRDEYESCULPTURE	The Scythian			Na campina, avistamos a imponente escultura de um 'pássaro zangado'. #subtlereference			6	014.jpg	F1D48
 INFO_MEADOWSHEEP	The Scythian			Na campina, avistamos algumas ovelhas inúteis vadiando. #worthlesssheep					
 INFO_CABINSHEEP	The Scythian			Outra ovelha inútil, por que continuamos olhando para elas? #worthlesssheep					
@@ -179,7 +179,7 @@ GRAVE_CHASMGHOST	The Scythian			Ao fio do Precipício Perigoso, junto à tumba s
 			triangle/Triangle	"""Conseguimos localizar e domar o Trígono Dourado com bastante facilidade, mas depois disso ficamos completamente parados."""					
 				"""Procuramos pelo Trígono da Lua Radiante, então decidimos nos sentar e observar o céu, esperando o humor da lua mudar."""					
 				"""Foi super chato. Eu não estava disposto a esperar dias e dias até que a Lua Radiante pairasse."""					
-				"""Deixei esses tolos vagarem sem rumo enquanto eu mergulhava mais a fundo esta armadilha lógico-lunar."""					
+				"""Deixei esses otários vagarem sem rumo enquanto eu mergulhava mais a fundo esta armadilha lógico-lunar."""					
 				O velho fantasma resplandecente contou que trapaceou ao sair de S:S&S EP e alterar a data e hora de seu dispositivo.					
 				O fantasma descreveu o quão incômodo foi o processo, mas nos disse que isso lhe permitiu alterar o humor da lua!					
 				"""O fato é que desde que trapaceei, fiquei com um remorso à flor da pele e, para falar a verdade, acabei morrendo de vergonha."""					
@@ -194,9 +194,9 @@ GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de uma árvore oca titânica, junt
 				"""Busque um sinal dos espíritos florestais e entoe uma Canção da Espadância no local para revelar um trígono oculto."""					
 GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de uma árvore oca titânica, junto a uma tumba solitária, um fantasma audacioso surgiu para nos contar algumas coisas.			117	028.jpg	E2A80
 				"""A canção do trígono terminou por enquanto. Pergunto-me quando a ouvirei novamente."""					
-LOGFELLA_LOSTKEY	The Scythian			O lenhador aflito conhecido como Troncadeiro estava totalmente surtando por algum motivo.
+LOGFELLA_LOSTKEY	The Scythian			O lenhador aflito conhecido como Troncadeiro estava totalmente surtando por algum motivo.					
 			AdventureUI/keyItem	Parece que ele perdeu a chave da porta trancada no muro de pedra que fecha o antigo caminho para Mingi Tau.					
-				E pensamos, com um suspiro: 'Outra missão de busca? Fala sério, né?'.
+				E pensamos, com um suspiro: 'Outra missão de busca? Fala sério, né?'.					
 				Ele nos disse que estava sentado bem ali quando caiu em um sono profundo.					
 			AdventureUI/keyItem	Troncadeiro nos disse que achava que havia perdido sua chave no reino crepuscular dos sonhos.					
 				Já tínhamos ouvido falar dos estranhos sonhos dos montanheses de cabelo escuro do Cáucaso, então isso fez todo o sentido para nós.					
@@ -205,8 +205,8 @@ ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos na vigília e na psicologia m
 				O limiar da liminaridade é um espaço entre a vigília e os sonhos onde o pensamento direcionado é impossível.			56	030.jpg	13A0A
 				Procure um lugar acolhedor e deixe o sono envolvê-lo para descobrir o limiar da liminaridade.					
 ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	Que tal sentar-se junto ao fogo na cabana e atravessar o limiar da liminaridade para encontrar a chave perdida de Troncadeiro?			55	031.jpg	23C1X
-GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Nossa, o Troncadeiro está surtando... O que será que ele tem? Melhor eu sair e deixá-lo em paz.
-				Vi A Citiana entoar a Canção da Espadância e enviar três espíritos florestais ao céu. Será que eles ajudarão a dissipar a tempestade?
+GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Nossa, o Troncadeiro está surtando... O que será que ele tem? Melhor eu sair e deixá-lo em paz.					
+				Vi A Citiana entoar a Canção da Espadância e enviar três espíritos florestais ao céu. Será que eles ajudarão a dissipar a tempestade?					
 LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que A Citiana possa encontrar minha chave... eu a perdi na margem arenosa de um lago sereno.			62	032.jpg	U3A20
 LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Ah, droga, como odeio essa chuva... Como odeio ter as botas molhadas... Como queria voltar a cortar lenha.					
 				Ah, droga, onde foi parar minha chave? Estou tão chateado e envergonhado que não consigo me acalmar!					
@@ -279,8 +279,8 @@ ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então voc
 				Nossa pesquisa mostra que a exposição prolongada à psicosmologia mitopoética de S:S&S EP pode causar efeitos adversos.					
 				Agora que você completou a Sessão I, que tal uma pausa? Estarei aqui quando você estiver pronto para começar a Sessão II.					
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
-				É bom te ver novamente. Vamos começar a Sessão II de S:S&S EP?
-			adventureUI/megatomeItem	Ótimo, onde estávamos? Ah, sim, já me lembro, você conseguiu um livro pesado conhecido como o Megatomo.
+				É bom te ver novamente. Vamos começar a Sessão II de S:S&S EP?					
+			adventureUI/megatomeItem	Ótimo, onde estávamos? Ah, sim, já me lembro, você conseguiu um livro pesado conhecido como o Megatomo.					
 				Você despertou um espectro imortal que ainda espreita nas trevas sob Mingi Tau. Que personagem, né?			204	042.jpg	24B2J
 				São tempos de angústia: uma sinistra tempestade cobriu o céu e as pessoas adoráveis que vivem na cabana estão infelizes.					
 				Desfazer a tempestade exigirá algum conhecimento em psiônica, criptozoologia e milagres...					
@@ -429,7 +429,7 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Atordoados e sem uma lembrança cl
 			triangle/Triangle	...Quais novos poderes nos foram concedidos?					
 			triangle/Triangle	Troncadeiro ficou totalmente impressionado com o quão incrível e estranha a luta contra o Trígono Dourado soava.			81	071.jpg	R7C14
 			triangle/Triangle	Ele se perguntou se talvez o Trígono Dourado pudesse estar relacionado aos mistérios sinistros além do portão de ferro na campina...					
-				Troncadeiro não gostava de mistérios sinistros, então decidiu ir para casa cortar lenha. #woodchopping					
+				Troncadeiro não era muito chegado a mistérios sinistros, então decidiu ir para casa cortar lenha. #woodchopping					
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			Troncadeiro estava muito feliz por a tempestade ter se dissipado e estava animado para voltar a cortar lenha.					
 				Ele nos perguntou se tínhamos ideia sobre o portão de ferro que fechava a vasta caverna na campina... o que poderia haver por trás?					
 LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Que estranho... Vejo um facho celestial dourado na floresta atrás da campina... Alguém descobriu os segredos da Clareira Trigônica?			89	072.jpg	67F24
@@ -500,13 +500,13 @@ GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae viu a chave que encont
 ARCHETYPE_GROTTOPARADOX	The Archetype								
 				Uma vez que o humor da lua foi alterado na Gruta da Lua...					
 ARCHETYPE_KILLBOOR	The Archetype			Agora, imagino que você esteja se perguntando para que serve essa chave. Para ser honesto, não faço ideia.			119	075.jpg	87C5S
-				Não é que eu esteja sugerindo que você seja na verdade um sociopata violento... hehe... Tenho certeza de que você tinha suas razões, não é? #thegrizzledboor
-				O Patife Grisalho foi incluído no S:S&S EP para tentar os participantes a se identificarem como sociopatas violentos.
-				Fui informado de que o Patife Grisalho foi morto... Você sabe algo a respeito? #slaughter
+				Não é que eu esteja sugerindo que você seja na verdade um sociopata violento... hehe... Tenho certeza de que você tinha suas razões, né? #thegrizzledboor					
+				O Patife Grisalho foi incluído no S:S&S EP para tentar os participantes a se identificarem como sociopatas violentos.					
+				Fui informado de que o Patife Grisalho foi morto... Você sabe algo a respeito? #slaughter					
 ARCHETYPE_SPAREBOOR	The Archetype			Agora, imagino que você esteja se perguntando para que serve essa chave. Para ser honesto, não faço ideia.			119	075.jpg	87C5S
 				Sim, isso mesmo, é incrível e te amamos por isso!					
-				O Patife Grisalho foi incluído no S:S&S EP para permitir que os participantes se identifiquem como pessoas compassivas e razoáveis.
-				Fui informado de que o Patife Grisalho conseguiu escapar ileso. É uma notícia encorajadora.
+				O Patife Grisalho foi incluído no S:S&S EP para permitir que os participantes se identifiquem como pessoas compassivas e razoáveis.					
+				Fui informado de que o Patife Grisalho conseguiu escapar ileso. É uma notícia encorajadora.					
 LOGFELLA_FOUNDATION	Logfella	AdventureUI/tweetIconBabelBook		...					
 				...					
 				...					

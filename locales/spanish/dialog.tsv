@@ -35,8 +35,8 @@ LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó 
 				Estábamos más que listos para mantener pulsado el camino ¡y a mover, mover el bote!					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Tronquero iba a quedarse aquí esperando a que volviéramos con el Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Tronquero había elegido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
-				Él parecía saberlo todo acerca del odioso arcoíris y el glifo cercano que representaba una espada apuntando al cielo.
-				Y aun así, no soltó palabra sobre qué hacer a continuación, lo que no nos cayó nada bien, para ser sinceros.					
+				Él parecía saberlo todo acerca del odioso arcoíris y el glifo cercano que representaba una espada apuntando al cielo.					
+				Y aun así, no soltó palabra sobre qué hacer a continuación, lo que nos sentó un poco mal, para ser sinceros.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador había visto alguna criatura monstruosa y decidió dejárnosla a nosotros.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos el Megatomo y Tronquero estaba completamente listo para 'mover el bote' hasta la seguridad de su morada.					
 				Sentimos una inminente tormenta y, no obstante, una pequeña canción brotó en nuestro corazón.					
@@ -61,11 +61,11 @@ ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo
 				Encontrarás que esta primera sesión de S:S&S EP es bastante sencilla y suele durar entre 15 y 30 minutos.					
 				¿Tienes auriculares? ¿Todo listo para comenzar? Presiona 'jugar' y empecemos.					
 ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP no busca producir la experiencia trascendental, simplemente pretende liberar el sistema nervioso de sus patrones habituales.					
-				El segundo aspecto del 'setting' es lo cultural: las nociones predominantes sobre la realidad y la normalidad. Evitaremos esta discusión por ahora.					
-				El 'setting' abarca la comodidad, seguridad y calidez del entorno donde ocurre la experiencia.					
+				El segundo aspecto del 'Entorno' es lo cultural: las nociones predominantes sobre la realidad y la normalidad. Evitaremos esta discusión por ahora.					
+				El 'Entorno' abarca la comodidad, la seguridad y la calidez del lugar donde ocurre la experiencia.					
 				Hemos descubierto que un individuo relajado y curioso es más propenso a tener una experiencia placentera con S:S&S EP.					
-				El 'set' es el estado mental y la personalidad que aportas a la experiencia: pensamientos, estados de ánimo y expectativas.					
-				Hablemos del 'set and setting' para una experiencia positiva con esta obra altamente psicoactiva: Superbrothers: Sword & Sworcery EP.					
+				La 'Disposición' se refiere al estado mental y la personalidad que aportas a la experiencia: tus pensamientos, tu ánimo y tus expectativas.					
+				Hablemos de la Disposición y el Entorno para una experiencia positiva con esta obra altamente psicoactiva: Superbrothers: Sword & Sworcery EP.					
 				La conciencia expandida, el potencial ilimitado e inexplorado de la mente, es lo que en Superbrothers llamamos 'Espadancia'. #sworcery					
 				La Espadancia se puede entender como una técnica psiónica que permite percibir una realidad dentro de la que ya conoces.					
 				Para detener la Canción de Espadancia, simplemente haz tap tap en el aura que rodea a La Escita.					
@@ -179,7 +179,7 @@ GRAVE_CHASMGHOST	The Scythian			Al filo del Precipicio Peligroso, junto a la tum
 			triangle/Triangle	"""Localizamos y domamos el Trigón Dorado con bastante facilidad, pero después de eso nos quedamos totalmente estancados."""					
 				"""Buscamos el Trigón Luna Radiante, así que decidimos sentarnos y observar el cielo, esperando que el humor de la luna cambiara."""					
 				"""Resultaba sumamente tedioso. No estaba dispuesto a esperar días y días hasta que La Luna Radiante imperara."""					
-				"""Dejé que esos necios vagaran sin rumbo mientras yo indagaba más a fondo esta trampa lógico-lunar."""					
+				"""Dejé que esos fracasados vagaran sin rumbo mientras yo indagaba más a fondo esta trampa lógico-lunar."""					
 				El viejo fantasma resplandeciente contó que hizo trampa al salir de S:S&S EP y alterar la fecha y hora de su dispositivo.					
 				El fantasma describió lo incómodo que fue el proceso, ¡pero dijo que eso le permitió alterar el humor de la luna!					
 				"""El caso es que desde que hice trampa, se me quedó el remordimiento en carne viva y, a decir verdad, me morí de la vergüenza."""					
@@ -193,8 +193,8 @@ GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un árbol hueco titánico, jun
 GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un árbol hueco titánico, junto a una tumba solitaria, un fantasma audaz apareció para contarnos algunas cosas.			117	028.jpg	E2A80
 				"""Busca una señal de los espíritus silvanos y entona allí una Canción de Espadancia para revelar un trigón oculto."""					
 GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un árbol hueco titánico, junto a una tumba solitaria, un fantasma audaz apareció para contarnos algunas cosas.			117	028.jpg	E2A80
-				"""El canto del trigón ha terminado por ahora. Me pregunto cuándo volveré a escucharlo."""
-LOGFELLA_LOSTKEY	The Scythian			El leñador afligido conocido como Tronquero estaba hecho un manojo de nervios por algo.
+				"""El canto del trigón ha terminado por ahora. Me pregunto cuándo volveré a escucharlo."""					
+LOGFELLA_LOSTKEY	The Scythian			El leñador afligido conocido como Tronquero estaba hecho un manojo de nervios por algo.					
 			AdventureUI/keyItem	Al parecer, había perdido la llave de la puerta trancada en el muro de piedra que bloqueaba el antiguo camino hacia Mingi Tau.					
 				Y pensamos, con un suspiro: '¿Otra misión de búsqueda? ¿A que sí?'.					
 				Nos dijo que estaba sentado justo aquí cuando cayó en un sueño profundo.					
@@ -279,8 +279,8 @@ ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que d
 				Nuestra investigación muestra que la exposición prolongada a la psicosmología mitopoética de S:S&S EP puede causar efectos adversos.					
 				Así que ahora que completaste la Sesión I, ¿qué tal si descansamos un poco? Estaré justo aquí cuando quieras comenzar la Sesión II.					
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
-				Me alegra verte de nuevo. ¿Comenzamos con la Sesión II de S:S&S EP?
-			adventureUI/megatomeItem	Bien, ¿en qué estábamos? Ah, sí, ya me acuerdo. Conseguiste un pesado libro conocido como el Megatomo.
+				Me alegra verte de nuevo. ¿Comenzamos con la Sesión II de S:S&S EP?					
+			adventureUI/megatomeItem	Bien, ¿en qué estábamos? Ah, sí, ya me acuerdo. Conseguiste un pesado libro conocido como el Megatomo.					
 				Despertaste a un espectro inmortal que aún acecha en la oscuridad bajo Mingi Tau. Qué personaje, ¿a que sí?			204	042.jpg	24B2J
 				Son tiempos de angustia: una siniestra tormenta ha nublado el cielo y la gente encantadora que vive en la choza está desolada.					
 				Disipar la tormenta requerirá cierta familiaridad con la psiónica, la criptozoología y los milagros...					
@@ -307,7 +307,7 @@ ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	Entonces, ¿domaste lo
 				Fue un acto de gran valentía y generosidad ofrecer como mártir a La Escita en la cima de Mingi Tau.					
 				En serio, estamos en deuda contigo.					
 				Solo queda arrastrar a La Escita a la cima y contemplar el Arremolinado Infinito.					
-				¡Ten valor, el final está cerca!
+				¡Ten valor, el final está cerca!					
 ARCHETYPE_GHOULINTRO	The Archetype								
 				Bueno, aquí estamos. Esta breve sesión marcará el fin del tratamiento de S:S&S EP.					
 				El funesto cometido de La Escita está casi cumplido.					
@@ -335,7 +335,7 @@ LOGFELLA_GHOUL	The Scythian			Cerca del Claro Trigonal, despertamos aturdidos de
 LOGFELLA_TRIGONGROVETIPS	The Scythian			Tronquero nunca antes había visto el Claro Trigonal y se preguntaba de qué iba todo aquello.					
 LOGFELLA_TRIFECTATIPS	The Scythian			Tronquero sentía una profunda tristeza por la ausencia de Samae.					
 				Le dijimos que sabíamos dónde podría estar y que pronto arreglaríamos las cosas.					
-				Él miró el pedestal cercano y nos agradeció de antemano por todo ese rollo del martirio.					
+				Él miró el pedestal cercano y nos agradeció de antemano por toda esa historia del martirio.					
 URSULA_AVATAR			Ursula/idleSEhandsonhip						
 DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
 AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Estos dos personajes afirmaban ser parte de los creadores de este mundo tan raro.			159	055.jpg	A5G55
@@ -384,8 +384,8 @@ GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Mis troncos guardan muc
 GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Tal vez oíste hablar de una isla imposible bajo La Luna Radiante... ¿Quizá lo leíste en internet?			134	065.jpg	H6A5I
 				Hemos estado monitoreando tus acciones en silencio y queremos señalar que, cuanto más tardes en decidir, más pequeña será la celebración.					
 				Parece que has progresado bastante en tu esfuerzo para localizar y domar el Trigón Luna Radiante, ¡Muy bien hecho!					
-GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		¿Son los espíritus silvanos hijos de la Madre Tierra o son visitantes solitarios del Arremolinado Infinito?
-				Para ser honesta, los espíritus silvanos me dan escalofríos. Es decir... ¿Qué son? ¿De dónde vienen?
+GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		¿Son los espíritus silvanos hijos de la Madre Tierra o son visitantes solitarios del Arremolinado Infinito?					
+				Para ser honesta, los espíritus silvanos me dan escalofríos. Es decir... ¿Qué son? ¿De dónde vienen?					
 GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Cuando los espíritus hayan sido enviados al cielo y la temporada de milagros se acerque, debes buscar el árbol titánico.					
 				Sé que sabes lo que sé y quiero que sepas que estás completamente en lo correcto.			109	066.jpg	F6D6H
 				Guau Guau Guau Snif Guau Guau Guau.					
@@ -429,7 +429,7 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Aturdidos y sin un recuerdo claro,
 			triangle/Triangle	...¿Qué nuevos poderes se nos han otorgado?					
 			triangle/Triangle	Tronquero quedó totalmente asombrado por lo impresionante y extraña que sonaba la pelea con el Trigón Dorado.			81	071.jpg	R7C14
 			triangle/Triangle	Se preguntó por la conexión del Trigón Dorado con los misterios siniestros más allá del portón de hierro en el prado.					
-				A Tronquero no le gustaban los misterios siniestros, así que decidió irse a casa y cortar leña. #woodchopping					
+				A Tronquero no le iban los misterios siniestros, así que decidió irse a casa y cortar leña. #woodchopping					
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			Tronquero estaba muy contento de que la tormenta se hubiera disipado y estaba muy entusiasmado por volver a cortar leña.					
 				Nos preguntó si teníamos idea sobre el portón de hierro que bloqueaba la vasta cueva del prado... ¿qué podría haber detrás?					
 LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Que extraño... Veo un haz celestial dorado en el bosque tras el prado... ¿Alguien ha descubierto los secretos del Claro Trigonal?			89	072.jpg	67F24
@@ -500,7 +500,7 @@ GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae vio la llave que encon
 ARCHETYPE_GROTTOPARADOX	The Archetype								
 				Una vez que el humor de la luna ha sido alterado en la Gruta Lunar...					
 ARCHETYPE_KILLBOOR	The Archetype			Ahora, me imagino que te preguntarás para qué sirve esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S
-				No es que esté sugiriendo que en realidad seas un sociópata violento... jeje... Estoy seguro de que tenías tus razones, ¿verdad? #thegrizzledboor					
+				No es que esté sugiriendo que en realidad seas un sociópata violento... jeje... Estoy seguro de que tenías tus razones, ¿a que sí? #thegrizzledboor					
 				El Canoso Tosco fue incluido en S:S&S EP para tentar a los participantes a identificarse como sociópatas violentos.					
 				Me han informado de que el Canoso Tosco ha sido asesinado... ¿Sabes algo al respecto? #slaughter					
 ARCHETYPE_SPAREBOOR	The Archetype			Ahora, me imagino que te preguntarás para qué sirve esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S
@@ -690,4 +690,4 @@ ARCHETYPE_CREDITS	The Archetype
 				S:S&S EP fue creado pensando en un público amplio y culto.					
 				S:S&S EP iba a llamarse 'Poopsock' originalmente. Esto es realmente cierto.					
 				* * * SE ACABÓ * * *					
-				Ahora somos amigos cósmicos para siempre, ¿vale?			87	084.jpg	L8A48
+				Ahora somos amigos cósmicos para siempre, ¿ok?			87	084.jpg	L8A48
