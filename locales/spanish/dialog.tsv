@@ -35,8 +35,8 @@ LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó 
 				Estábamos más que listos para mantener pulsado el camino ¡y a mover, mover el bote!					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Tronquero iba a quedarse aquí esperando a que volviéramos con el Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Tronquero había elegido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
-				Tronquero parecía saberlo todo acerca del odioso arcoíris y el glifo cercano que representaba una espada que apuntaba al cielo.					
-				Y aun así, Tronquero no soltó una palabra sobre qué hacer a continuación, lo que nos cayó un poco mal, para ser totalmente sinceros.					
+				Él parecía saberlo todo acerca del odioso arcoíris y el glifo cercano que representaba una espada apuntando al cielo.					
+				Y aun así, no soltó palabra sobre qué hacer a continuación, lo que no nos cayó nada bien, para ser sinceros.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador había visto alguna criatura monstruosa y decidió dejárnosla a nosotros.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos el Megatomo y Tronquero estaba completamente listo para 'mover el bote' hasta la seguridad de su morada.					
 				Sentimos una inminente tormenta y, no obstante, una pequeña canción brotó en nuestro corazón.					
@@ -77,8 +77,8 @@ ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien he
 			adventureUI/megatomeItem	"""Se me acaba de ocurrir algo... ¿Qué tal si abres el Megatomo y descubres lo que se oculta en mi mente?"""					
 				"""Busca un triángulo blanco en la esquina superior derecha... tócalo y luego equipa el Megatomo para revelar lo que está oculto."""					
 LOGFELLA_STORM	The Scythian			Tronquero había renunciado a cortar leña debido a la siniestra tormenta. #wetboots					
-			adventureUI/megatomeItem	Tronquero nos recordó que la tormenta había estallado justo después de recuperar el Megatomo bajo Mingi Tau.					
-				¿Nos estaba insinuando Tronquero que deberíamos hacer algo para disipar la tormenta? #yes #no #maybe					
+			adventureUI/megatomeItem	Él nos recordó que la tormenta había estallado justo después de que recuperamos el Megatomo bajo Mingi Tau.					
+				¿Acaso nos estaba insinuando que debíamos hacer algo para disipar la tormenta? #yes #no #maybe					
 GIRL_STORM	The Scythian			La chica de cabello oscuro conocida como Samae estaba profundamente afligida. #woe					
 			gourd/gourd	Desde que estalló la tormenta, había notado las melodiosas brumas de los espíritus silvanos que dormían en los bosques cercanos.					
 			gourd/gourd	Se preguntó si los tres espíritus silvanos podrían ayudar a disiparla. #yes					
@@ -169,15 +169,15 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			En un matorral a la vera del antiguo camino,
 				"""Nos morimos de aburrimiento esperando a que cambiara el humor de la luna."""					
 				"""Bueno... en realidad, morimos por una discusión que tuvimos del puro aburrimiento."""					
 				"""Prefiero no entrar en detalles, si no te importa."""					
-				"""Resulta que uno de los nuestros era un redomado tramposo, y lo atrapamos con las manos en la masa."""					
-				"""Estalló una pelea y el redomado tramposo huyó por el antiguo camino hacia el Precipicio Peligroso."""					
+				"""Resulta que uno de los nuestros era un tramposo redomado, y lo atrapamos con las manos en la masa."""					
+				"""Estalló una pelea y el tramposo redomado huyó por el antiguo camino hacia el Precipicio Peligroso."""					
 				"""Estábamos allí preguntándonos qué hacer... cuando de pronto apareció la Masa Gogolítica... y ¡zas!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			Al filo del Precipicio Peligroso, una tumba solitaria despertó nuestra curiosidad.					
-GRAVE_CHASMGHOST	The Scythian			Al filo del Precipicio Peligroso, junto a la tumba solitaria del redomado tramposo, conocimos a un viejo fantasma resplandeciente.					
+GRAVE_CHASMGHOST	The Scythian			Al filo del Precipicio Peligroso, junto a la tumba solitaria del tramposo redomado, conocimos a un viejo fantasma resplandeciente.					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, André 'El Gigante' organizó una partida y nos propusimos reconstruir la Trífida Trigonal."""					
 				"""Los demás miembros de la partida están enterrados en un matorral a la vera del antiguo camino, junto al puente de troncos."""					
 			triangle/Triangle	"""Localizamos y domamos el Trigón Dorado con bastante facilidad, pero después de eso nos quedamos totalmente estancados."""					
-				"""Buscamos el Trigón Luna Radiante, así que decidimos sentarnos y observar el cielo, esperando a que el humor de la luna cambiara."""					
+				"""Buscamos el Trigón Luna Radiante, así que decidimos sentarnos y observar el cielo, esperando que el humor de la luna cambiara."""					
 				"""Resultaba sumamente tedioso. No estaba dispuesto a esperar días y días hasta que La Luna Radiante imperara."""					
 				"""Dejé que esos necios vagaran sin rumbo mientras yo indagaba más a fondo esta trampa lógico-lunar."""					
 				El viejo fantasma resplandeciente contó que hizo trampa al salir de S:S&S EP y alterar la fecha y hora de su dispositivo.					
@@ -191,13 +191,13 @@ GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un árbol hueco titánico, jun
 				"""Tras de ti, en el sendero, busca con atención las melodiosas brumas en cada ubicación."""					
 				"""Cinco espíritus silvanos envía al cielo en ascenso; obrarán un milagro de poder inmenso, y el trigón buscado a ti acudirá."""					
 GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un árbol hueco titánico, junto a una tumba solitaria, un fantasma audaz apareció para contarnos algunas cosas.			117	028.jpg	E2A80
-				"""Busca una señal de los espíritus silvanos y entona una Canción de Espadancia allí para revelar un trigón oculto."""					
+				"""Busca una señal de los espíritus silvanos y entona allí una Canción de Espadancia para revelar un trigón oculto."""					
 GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un árbol hueco titánico, junto a una tumba solitaria, un fantasma audaz apareció para contarnos algunas cosas.			117	028.jpg	E2A80
 				"""El canto del trigón ha terminado por ahora. Me pregunto cuándo volveré a escucharlo."""					
 LOGFELLA_LOSTKEY	The Scythian			El leñador afligido conocido como Tronquero estaba totalmente nervioso por algo.					
-			AdventureUI/keyItem	Al parecer, Tronquero había perdido la llave de la puerta trancada en el muro de piedra que bloqueaba el antiguo camino hacia Mingi Tau.					
-				Pensamos: 'Genial, otra misión de búsqueda', ¿no?					
-				Tronquero nos dijo que estaba sentado justo aquí cuando cayó en un sueño profundo.					
+			AdventureUI/keyItem	Al parecer, había perdido la llave de la puerta trancada en el muro de piedra que bloqueaba el antiguo camino hacia Mingi Tau.					
+				Y pensamos, con un suspiro: '¿Otra misión de búsqueda? ¿En serio?'.					
+				Nos dijo que estaba sentado justo aquí cuando cayó en un sueño profundo.					
 			AdventureUI/keyItem	Tronquero nos dijo que creía haber perdido su llave en el reino crepuscular de los sueños.					
 				Ya habíamos oído hablar de los extraños sueños de los montañeses de cabello oscuro del Cáucaso, por lo que esto tenía total sentido para nosotros.					
 				Tronquero nos invitó a calentar nuestras botas junto al fuego para soñar con él.			63	029.jpg	U2C92
@@ -212,7 +212,7 @@ LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Ah, rayos, cómo odio esta lluvia... Cómo o
 				¡Rayos! ¿Dónde se ha ido mi llave? ¡Estoy tan molesto y avergonzado que no puedo calmarme!					
 LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Tronquero se mostró sinceramente aliviado de que hubiéramos recuperado su llave perdida del reino crepuscular de los sueños.					
 				El leñador quiso saber cómo nos volvimos tan listos y nos preguntó por nuestro funesto cometido.					
-				Le contamos cómo crecimos en las estepas, junto a nuestras valientes hermanas y hermanos escitas.					
+				Le contamos cómo crecimos en las estepas junto a nuestras valientes hermanas y hermanos escitas.					
 				Le explicamos a Tronquero por qué vagábamos por esta montaña desierta y cómo nos guiaba el dedo de un Dios omnisciente.					
 			adventureUI/megatomeItem	Le compartimos lo que sospechábamos que significaban los enigmáticos símbolos del Megatomo.					
 			gourd/gourd	Intuíamos que aún debíamos despertar a algunos espíritus silvanos más para disipar la tormenta.			104	033.jpg	W3D3G
@@ -222,7 +222,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Tronquero se mostró sincera
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si podíamos quedarnos con su llave y él aceptó.					
 GIRL_FOUNDKEY	The Scythian			En un sendero lateral encontramos a Samae, empapada por la lluvia.					
 			gourd/gourd	Había oído las sutiles y melodiosas brumas de los espíritus silvanos más allá del muro de piedra, en el antiguo camino hacia Mingi Tau.					
-			gourd/gourd	Nos habló de árboles colosales flanqueando un poderoso río.					
+			gourd/gourd	Nos habló de árboles colosales que flanqueaban un poderoso río.					
 			gourd/gourd	Mencionó arcoíris tenues que se formaban a la vera del Precipicio Peligroso.					
 			adventureUI/megatomeItem	...y luego, inquieta, nos pidió consultar el Megatomo si llegábamos a sentirnos perdidos.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Me parece bien que La Escita se quede con la llave si va a disipar la tormenta.					
@@ -328,14 +328,14 @@ GIRL_GHOULTHOUGHTS	Girl			¿Sabe La Escita que es posible detener a la Masa Gogo
 				Espero que La Escita sepa que debe mantener pulsado el camino para moverse, moverse rápido... si no lo hace, estará en problemas.					
 				¿Dónde estoy? ¿Qué ha pasado? Lo último que recuerdo es que estaba paseando en sueños por el bosque cuando vi una inquietante luz rosada.					
 LOGFELLA_GHOULTHOUGHTS	Logfella			La Escita sigue hablando sobre su funesto cometido de abrir una entrada al Arremolinado Infinito en la cima de Mingi Tau.					
-				Todo ha sido una locura lunática desde que La Escita apareció muchas lunas atrás.					
+				Todo ha sido una locura lunática desde que La Escita apareció hace muchas lunas.					
 LOGFELLA_GHOUL	The Scythian			Cerca del Claro Trigonal, despertamos aturdidos de un sueño muy profundo, con Tronquero a nuestro lado.			88	054.jpg	J5D44
-				Tronquero habló sobre cómo Samae había desaparecido la noche anterior.					
-				El leñador sabía que estábamos cerca del final y que debíamos volver a Mingi Tau para cumplir nuestro funesto cometido.					
-LOGFELLA_TRIGONGROVETIPS	The Scythian			Tronquero nunca antes había visto el Claro Trigonal y se preguntaba de qué se trataba todo aquello.					
-LOGFELLA_TRIFECTATIPS	The Scythian			Tronquero se sentía muy triste por la ausencia de Samae.					
-				Le dijimos a Tronquero que sabíamos dónde podría estar y pronto arreglaríamos las cosas.					
-				Él miró el pedestal cercano y nos agradeció de antemano por todo lo relacionado con el martirio.					
+				Él nos contó que Samae había desaparecido la noche anterior.					
+				El leñador sabía que nuestro fin estaba cerca y que debíamos volver a Mingi Tau para cumplir nuestro funesto cometido.					
+LOGFELLA_TRIGONGROVETIPS	The Scythian			Tronquero nunca antes había visto el Claro Trigonal y se preguntaba de qué iba todo aquello.					
+LOGFELLA_TRIFECTATIPS	The Scythian			Tronquero sentía una profunda tristeza por la ausencia de Samae.					
+				Le dijimos que sabíamos dónde podría estar y que pronto arreglaríamos las cosas.					
+				Él miró el pedestal cercano y nos agradeció de antemano por todo ese rollo del martirio.					
 URSULA_AVATAR			Ursula/idleSEhandsonhip						
 DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
 AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Estos dos personajes afirmaban ser parte de los creadores de este mundo tan raro.			159	055.jpg	A5G55
@@ -428,7 +428,7 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Aturdidos y sin un recuerdo claro,
 			triangle/Triangle	Recordamos el milagro en el prado y nuestro encuentro con el Trigón Dorado...					
 			triangle/Triangle	...¿Qué nuevos poderes se nos han otorgado?					
 			triangle/Triangle	Tronquero quedó totalmente asombrado por lo impresionante y extraña que sonaba la pelea con el Trigón Dorado.			81	071.jpg	R7C14
-			triangle/Triangle	Tronquero se preguntó por la conexión del Trigón Dorado con los misterios siniestros más allá del portón de hierro en el prado.					
+			triangle/Triangle	Se preguntó por la conexión del Trigón Dorado con los misterios siniestros más allá del portón de hierro en el prado.					
 				A Tronquero no le gustaban los misterios siniestros, así que decidió irse a casa y cortar leña. #woodchopping					
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			Tronquero estaba muy contento de que la tormenta se hubiera disipado y estaba muy entusiasmado por volver a cortar leña.					
 				Nos preguntó si teníamos idea sobre el portón de hierro que bloqueaba la vasta cueva del prado... ¿qué podría haber detrás?					
@@ -453,15 +453,15 @@ DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.
 				Guau Guau Guau.					
 GIRL_AFTERYELLOWBEAM	The Scythian			Samae se sentó en una roca cerca del lugar donde el leñador cortaba leña.					
 			Archetype/trifecta	Le preguntamos por los secretos del Claro Trigonal y los peculiares sueños de los montañeses del Cáucaso.					
-				Nos contó cómo los sueños de su gente contenían muchos misterios y reflejaban el humor de la luna de manera extraña.					
-				Samae nos invitó a sentarnos junto al fuego en la choza de piedra cuando quisiéramos, para explorar los sueños o recobrar fuerzas.					
+				Ella nos contó cómo los sueños de su gente contenían muchos misterios y reflejaban el humor de la luna de manera extraña.					
+				Nos invitó a sentarnos junto al fuego en la choza de piedra cuando quisiéramos, para explorar los sueños o recobrar fuerzas.					
 			Archetype/trifecta	Presentimos que los dos trigones restantes podrían estar perdidos en los sueños.					
 LOGFELLA_AFTERYELLOWBEAM	The Scythian			Tronquero había regresado a cortar leña, y parecía disfrutarlo muchísimo.					
 			triangle/Triangle	Había visto el haz celestial que se alzaba tras el prado, así que le preguntamos por los secretos del Claro Trigonal.					
 				Nos relató una vieja historia que su gente contaba a sus hijos para provocarles escalofríos.					
 			Archetype/trifecta	Habló de una partida de escitas que, hace muchas lunas, llegó a estas montañas olvidadas en busca de la Trífida Trigonal.					
 			gourd/gourd	"""Aquella partida aprendió a hallar a los espíritus silvanos y enviarlos al cielo... y después buscó un lugar donde obrar un milagro."""					
-			Archetype/trifecta	"""Esperaban activar los tres haces celestiales del Claro Trigonal, pero desconocían dónde o cuándo aparecerían los trigones."""					
+			Archetype/trifecta	"""Esperaban activar los tres haces celestiales en el Claro Trigonal, pero desconocían dónde o cuándo aparecerían los trigones."""					
 				"""Vagaron sin rumbo durante largo tiempo por el antiguo camino hacia Mingi Tau... hasta que, exhaustos, se detuvieron."""					
 				"""Entonces, un espectro inmortal los diezmó a la vera del antiguo camino, donde aún hoy permanecen sus tumbas."""					
 				Le dijimos a Tronquero que era una buena historia, aunque no nos asustó demasiado.					
@@ -472,13 +472,13 @@ MIRACLE2_PINKTRIGONCOLLECTED	The Scythian			Conseguimos el Trigón Luna Radiante
 MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			Nos tentó abandonar por completo este funesto cometido, pero había algo atractivo en el martirio.					
 				En fin, probablemente no importará mucho. Total, para entrar al Arremolinado Infinito no hace falta un examen físico.					
 				Era evidente que tantos paseos oníricos y trigones domados empezaban a pasar factura.					
-				Al amainar la luz y el sonido, nos encontramos con un fuerte dolor de cabeza y la nariz ensangrentada en la orilla de un lago.					
+				Al amainar la luz y el sonido, nos encontramos en la orilla de un lago con un fuerte dolor de cabeza y la nariz ensangrentada.					
 GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Samae sobre nuestro encuentro onírico con el Trigón Luna Radiante y de nuestras intenciones de reconstruir la Trífida Trigonal.					
 				Dijo que nuestro encuentro en sueños sonaba fascinante y lamentó no haber estado presente. #lies					
 				Nos preguntó si habíamos pasado por el Claro Trigonal... ¿Quizá podríamos activar otro haz celestial?					
-LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			El leñador veía que nuestros paseos oníricos y el obrar milagros habían pasado factura a nuestra salud física.					
-				Tronquero parecía sospechar que nuestro funesto cometido no acabaría bien.					
-				Tronquero nos recordó que podíamos sentarnos junto al fuego de la choza y descansar de vez en cuando para recobrar fuerzas.					
+LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			El leñador veía que nuestros paseos oníricos y el obrar de milagros habían pasado factura a nuestra salud física.					
+				Él parecía sospechar que nuestro funesto cometido no acabaría bien.					
+				Nos recordó que podíamos sentarnos junto al fuego de la choza y descansar de vez en cuando para recobrar fuerzas.					
 ARCHETYPE_BRIGHTMOONTRIGONCOLLECTED	The Archetype			Nuestros datos de investigación muestran una alta correlación entre el progreso de un participante en S:S&S EP y su aptitud para ser genial.			45	074.jpg	87A43
 				Veo que has logrado localizar y recuperar el Trigón Luna Radiante. Es una noticia realmente extraordinaria.					
 MIRACLE3_HUGETREE	The Scythian			Mientras La Luna Sombría reina, obramos un milagro de rayo fragmentador en medio de un Parlamento de Árboles.					
@@ -488,7 +488,7 @@ MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			Además... llevar el Megatomo a 
 GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Samae sobre nuestro encuentro onírico con el Trigón Luna Sombría y de nuestras intenciones de reconstruir la Trífida Trigonal.					
 				Le contamos cómo habíamos neutralizado el odioso ataque arcoíris del Trigón Luna Sombría y ella asintió con interés.					
 				No parecía importarle escuchar nuestras historias extravagantes.					
-LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			El leñador veía que nuestros paseos oníricos y el obrar milagros habían pasado factura a nuestra salud física.					
+LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			El leñador veía que nuestros paseos oníricos y el obrar de milagros habían pasado factura a nuestra salud física.					
 			Archetype/trifecta	Tronquero nos preguntó si habíamos visitado a Perrero en el Claro Trigonal... ¿Quizá podríamos activar otro haz celestial?					
 ARCHETYPE_DARKMOONTRIGONCOLLECTED	The Archetype			Ahora la pregunta es... ¿Qué sigue?					
 				A pesar de la escasez de información útil que hemos proporcionado, has logrado dominar el Trigón Luna Sombría.					
