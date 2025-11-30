@@ -1,5 +1,5 @@
 id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
-GIRL_TONGUES	Girl			Longe das estepes devastadas pela guerra da Cítia, conhecemos uma garota de cabelos escuros em uma campina banhada pelo sol. #helloworld			72	001.jpg	Z0E1Q
+GIRL_TONGUES	Girl			Longe das devastadas estepes da Cítia, conhecemos uma garota de cabelos escuros em uma campina ensolarada. #helloworld			72	001.jpg	Z0E1Q
 				Os montanheses do Cáucaso a conheciam como Samae e ela parecia simpática. #obviously					
 SIGN_TADPOL	The Scythian			"""Onde a lareira arde, o lar faz alarde."" #threegutrecords4ever"					
 SIGN_WALL	The Scythian			"""Cítia, Ciméria, Assíria e Pérsia, esses são todos reinos dos homens. Mingi Tau é o Reino das Nuvens."""					
@@ -254,7 +254,7 @@ GIRL_CABINSHEEPTHOUGHTS	Girl			A chuva parou! Será que a tempestade está come�
 LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Estou com calafrios... Com certeza algo está acontecendo... A tempestade está começando a se dissipar?					
 				Sempre que preciso recuperar as forças, sento-me junto ao fogo para aquecer minhas botas.					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Au Au Au Au Au Au Au Au. #stillbarking #miracles			84	037.jpg	V3C7I
-ARCHETYPE_MEADOWHINT	The Archetype			Uma vez que o sol estiver alinhado, você receberá as habilidades miraculosas de dobra do grande mago 'Al Jaffee'.					
+ARCHETYPE_MEADOWHINT	The Archetype			Uma vez que o sol estiver alinhado, você receberá o dom de dobrar a realidade do grande mago 'Al Jaffee'.					
 				Sente essa sensação peculiar? É época de milagres! Entoe a Canção da Espadância e olhe para os imponentes 'Angry Birds'.			76	038.jpg	A3G84
 ARCHETYPE_MEADOWHINTTWO	The Archetype			Olhe para o céu em busca de uma visão oblíqua sobre o funcionamento deste milagre da campina e admire o Trígono Dourado.					
 ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... interessante como você lidou com aquele encontro com o canibal de cabeça de urso.			120	039.jpg	O3G9D
@@ -277,7 +277,7 @@ ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então voc
 				Consequentemente, uma sinistra tempestade se avizinha e as pessoas adoráveis que vivem na cabana de pedra se sentem desoladas.					
 			adventureUI/megatomeItem	O resultado é que você tem um livro pesado conhecido como o Megatomo. Em nossa próxima sessão, falaremos sobre seu estranho propósito.					
 				Nossa pesquisa mostra que a exposição prolongada à psicosmologia mitopoética de S:S&S EP pode causar efeitos adversos.					
-				Agora que você completou a Sessão I, que tal uma pausa? Estarei aqui quando você estiver pronto para começar a Sessão II.					
+				Agora que você completou a Sessão I, que tal uma pausa? Estarei aqui quando você quiser começar a Sessão II.					
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
 				É bom te ver novamente. Vamos começar a Sessão II de S:S&S EP?					
 			adventureUI/megatomeItem	Ótimo, onde estávamos? Ah, sim, já me lembro, você conseguiu um livro pesado conhecido como o Megatomo.					
@@ -325,7 +325,7 @@ END_HONEST_PSYCHO	The Scythian			No topo de Mingi Tau, elevamos o Megatomo à se
 END_HONEST_LOVE	The Scythian			No topo de Mingi Tau, elevamos o Megatomo à segurança eterna do Remoinhado Infinito. #honest #love			177	052.jpg	55E2B
 END_HONEST_NOBOOR	The Scythian			No topo de Mingi Tau, elevamos o Megatomo à segurança eterna do Remoinhado Infinito. #honest #noboor			178	053.jpg	75G3V
 GIRL_GHOULTHOUGHTS	Girl			A Citiana sabe que é possível deter a Massa Gogolítica tocando seu crânio com Espadância? Provavelmente não.					
-				Espero que A Citiana saiba que deve manter pressionado o caminho para se mover, se mover rápido... caso contrário, terá problemas.					
+				Espero que A Citiana saiba que deve manter pressionado o caminho para se remexer, remexer rápido... caso contrário, terá problemas.					
 				Onde estou? O que aconteceu? A última coisa que me lembro é de estar caminhando em sonhos pela floresta quando vi uma luz rosa perturbadora.					
 LOGFELLA_GHOULTHOUGHTS	Logfella			A Citiana continua falando sobre sua funesta missão de abrir uma entrada para o Remoinhado Infinito no topo de Mingi Tau.					
 				Tudo tem sido uma loucura lunática desde que A Citiana apareceu há muitas luas.					
