@@ -167,11 +167,11 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			En un matorral a la vera del antiguo camino,
 				"""Poco a poco nos dimos cuenta de la importancia del ciclo lunar y de su influencia en los espíritus que duermen en los reinos del crepúsculo."""					
 				"""Así que nos sentamos aquí a observar el humor de la luna para aprender cuándo estar dónde y cómo."""			7	026.jpg	Q2D6P
 				"""Nos morimos de aburrimiento esperando a que cambiara el humor de la luna."""					
-				"""Bueno... en realidad, morimos por una discusión que tuvimos del puro aburrimiento."""					
+				"""Bueno... en realidad, morimos por una discusión que tuvimos por puro aburrimiento."""					
 				"""Prefiero no entrar en detalles, si no te importa."""					
 				"""Resulta que uno de los nuestros era un tramposo redomado, y lo atrapamos con las manos en la masa."""					
 				"""Estalló una pelea y el tramposo redomado huyó por el antiguo camino hacia el Precipicio Peligroso."""					
-				"""Estábamos allí preguntándonos qué hacer... cuando de pronto apareció la Masa Gogolítica... y ¡zas!"""			113	027.jpg	62B75
+				"""Estábamos allí preguntándonos qué hacer... cuando de pronto apareció la Masa Gogolítica... ¡ay, nanita!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			Al filo del Precipicio Peligroso, una tumba solitaria despertó nuestra curiosidad.					
 GRAVE_CHASMGHOST	The Scythian			Al filo del Precipicio Peligroso, junto a la tumba solitaria del tramposo redomado, conocimos a un viejo fantasma resplandeciente.					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, André 'El Gigante' organizó una partida y nos propusimos reconstruir la Trífida Trigonal."""					
@@ -196,7 +196,7 @@ GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un árbol hueco titáni
 				"""El canto del trigón ha terminado por ahora. Me pregunto cuándo volveré a escucharlo."""					
 LOGFELLA_LOSTKEY	The Scythian			El leñador afligido conocido como Tronquero estaba hecho un manojo de nervios por algo.					
 			AdventureUI/keyItem	Al parecer, había perdido la llave de la puerta trancada en el muro de piedra que bloqueaba el antiguo camino hacia Mingi Tau.					
-				Y pensamos, con un suspiro: '¿Otra misión de búsqueda? ¿A que sí?'.					
+				Y pensamos, con un suspiro: '¿Otra misión de búsqueda? ¿O qué?'.					
 				Nos dijo que estaba sentado justo aquí cuando cayó en un sueño profundo.					
 			AdventureUI/keyItem	Tronquero nos dijo que creía haber perdido su llave en el reino crepuscular de los sueños.					
 				Ya habíamos oído hablar de los extraños sueños de los montañeses de cabello oscuro del Cáucaso, por lo que esto tenía total sentido para nosotros.					
@@ -281,7 +281,7 @@ ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que d
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
 				Me alegra verte de nuevo. ¿Comenzamos con la Sesión II de S:S&S EP?					
 			adventureUI/megatomeItem	Bien, ¿en qué estábamos? Ah, sí, ya me acuerdo. Conseguiste un pesado libro conocido como el Megatomo.					
-				Despertaste a un espectro inmortal que aún acecha en la oscuridad bajo Mingi Tau. Qué personaje, ¿a que sí?			204	042.jpg	24B2J
+				Despertaste a un espectro inmortal que aún acecha en la oscuridad bajo Mingi Tau. Qué personaje, ¿verdad?			204	042.jpg	24B2J
 				Son tiempos de angustia: una siniestra tormenta ha nublado el cielo y la gente encantadora que vive en la choza está desolada.					
 				Disipar la tormenta requerirá cierta familiaridad con la psiónica, la criptozoología y los milagros...					
 			adventureUI/megatomeItem	1. El toque de un espadancista liberará el Megatomo, revelando los pensamientos no expresados de criaturas vivas y otro material esotérico.					
@@ -325,7 +325,7 @@ END_HONEST_PSYCHO	The Scythian			En la cima de Mingi Tau, subimos el Megatomo a 
 END_HONEST_LOVE	The Scythian			En la cima de Mingi Tau, subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #honest #love			177	052.jpg	55E2B
 END_HONEST_NOBOOR	The Scythian			En la cima de Mingi Tau, subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #honest #noboor			178	053.jpg	75G3V
 GIRL_GHOULTHOUGHTS	Girl			¿Sabe La Escita que es posible detener a la Masa Gogolítica tocando su cráneo con Espadancia? Probablemente no.					
-				Espero que La Escita sepa que debe mantener pulsado el camino para mover el bote bien rápido... si no lo hace, estará en problemas.					
+				Espero que La Escita sepa que debe mantener pulsado el camino para mover, mover el bote bien rápido... si no lo hace, estará frita.					
 				¿Dónde estoy? ¿Qué ha pasado? Lo último que recuerdo es que estaba paseando en sueños por el bosque cuando vi una inquietante luz rosada.					
 LOGFELLA_GHOULTHOUGHTS	Logfella			La Escita sigue hablando sobre su funesto cometido de abrir una entrada al Arremolinado Infinito en la cima de Mingi Tau.					
 				Todo ha sido una locura lunática desde que La Escita apareció hace muchas lunas.					
@@ -500,7 +500,7 @@ GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae vio la llave que encon
 ARCHETYPE_GROTTOPARADOX	The Archetype								
 				Una vez que el humor de la luna ha sido alterado en la Gruta Lunar...					
 ARCHETYPE_KILLBOOR	The Archetype			Ahora, me imagino que te preguntarás para qué sirve esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S
-				No es que esté sugiriendo que en realidad seas un sociópata violento... jeje... Estoy seguro de que tenías tus razones, ¿a que sí? #thegrizzledboor					
+				No es que esté sugiriendo que en realidad seas un sociópata violento... jeje... Estoy seguro de que tenías tus razones, ¿o me equivoco? #thegrizzledboor					
 				El Canoso Tosco fue incluido en S:S&S EP para tentar a los participantes a identificarse como sociópatas violentos.					
 				Me han informado de que el Canoso Tosco ha sido asesinado... ¿Sabes algo al respecto? #slaughter					
 ARCHETYPE_SPAREBOOR	The Archetype			Ahora, me imagino que te preguntarás para qué sirve esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S

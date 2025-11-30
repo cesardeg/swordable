@@ -127,8 +127,8 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | **Sworcery** | Espadancia | Espadância | ✅ Core mechanic neologism. See Philosophy section. |
 | **Song of Sworcery** | Canción de Espadancia | Canção da Espadância | ✅ Main ability |
 | **sworcery aura** | aura de Espadancia | aura de Espadância | ✅ Visual indicator |
-| **sylvan sprite** | espíritu silvano | espírito florestal | ✅ Collectible creatures |
-| **sonorous spume** | melodiosas brumas | melódicas espumas | ✅ Sprite indicators. PT: "melódicas" not "sonoras" |
+| **sylvan sprite** | espíritu silvano | espírito silvano | ✅ Collectible creatures. PT: "silvano" is more evocative. |
+| **sonorous spume** | melodiosas brumas | melódicas espumas | ✅ Sprite indicators. |
 | **skyward beam** | haz celestial | facho celestial | ✅ Trigon activation. PT: "facho" not "raio" |
 | **miracle** | milagro | milagre | ✅ Special events |
 
@@ -407,7 +407,7 @@ This section defines the personality and speaking style for each character to en
 
 | English | Context | Spanish | Portuguese |
 |---------|---------|---------|------------|
-| **sprites** | Sylvan creatures | espíritus silvanos | espíritos florestais |
+| **sprites** | Sylvan creatures | espíritus silvanos | espíritos silvanos |
 | | UI elements | sprites | sprites |
 | **beam** | Light beam | haz | facho |
 | | Wood beam | viga | viga |
@@ -432,7 +432,7 @@ This glossary uses **Brazilian Portuguese (PT-BR)** conventions:
 | 1 | The Scythian | La Escita | A Citiana |
 | 2 | Sworcery | Espadancia | Espadância |
 | 3 | The Megatome | El Megatomo | O Megatomo |
-| 4 | sylvan sprite | espíritu silvano | espírito florestal |
+| 4 | sylvan sprite | espíritu silvano | espírito silvano |
 | 5 | The Bright Moon looms | La Luna Radiante impera | A Lua Radiante paira |
 | 6 | The Dark Moon reigns | La Luna Sombría reina | A Lua Sombria reina |
 | 7 | woeful errand | funesto cometido | funesta missão |
