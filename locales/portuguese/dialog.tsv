@@ -38,9 +38,9 @@ LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Troncadei
 				Ele parecia saber tudo sobre o odioso arco-íris e o glifo que representava uma espada apontando para o céu.					
 				E mesmo assim, não deu nenhuma pista sobre o que fazer, o que, para ser sincero, nos deixou meio atravessado.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		O lenhador tinha visto algum tipo de monstro assustador e decidiu deixar que nós cuidássemos disso.			26	010.jpg	Q1B00
-LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos o Megatomo e Troncadeiro estava completamente pronto para 'remexer, remexer' até a segurança de sua moradia.					
+LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos o Megatomo e Troncadeiro estava completamente pronto para 'remexer, remexer' até a segurança de sua morada.					
 				Sentimos uma tempestade iminente e, ainda assim, uma pequena canção brotou em nosso coração.					
-LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		À luz da tempestade iminente, Troncadeiro admitiu que naquele momento tinha um caso sério de calafrios.					
+LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		À luz da tempestade iminente, Troncadeiro admitiu que sentia um frio na espinha.					
 				Será que Troncadeiro estava tentando nos assustar de propósito? #yes #no #maybe					
 				De qualquer forma, o mais sensato era ficar no abrigo por um tempo.					
 QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos o Megatomo. Somos os mais espertos! #gotmegatome			40	011.jpg	81C1E
@@ -79,12 +79,12 @@ ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muito bem, 
 LOGFELLA_STORM	The Scythian			Troncadeiro parou de cortar lenha devido à sinistra tempestade. #wetboots					
 			adventureUI/megatomeItem	Ele nos lembrou que a tempestade havia estourado logo depois que recuperamos o Megatomo sob Mingi Tau.					
 				Será que ele estava sutilmente insinuando que devíamos fazer algo para dissipar a tempestade? #yes #no #maybe					
-GIRL_STORM	The Scythian			A garota de cabelos escuros conhecida como Samae sofria de um caso grave de melancolia. #woe					
+GIRL_STORM	The Scythian			A garota de cabelos escuros conhecida como Samae estava profundamente aflita. #woe					
 			gourd/gourd	Desde que a tempestade estourou, ela observava as melódicas espumas dos espíritos silvanos adormecidos nas florestas próximas.					
-			gourd/gourd	Questionou-se se os três espíritos silvanos poderiam ajudar a dissipar a tempestade. #yes					
-			gourd/gourd	Pediu que investigássemos as melódicas espumas que borbulhavam na lagoa insondável diante da cabana.					
+			gourd/gourd	Questionou-se se os três espíritos poderiam ajudar a dissipar a tempestade. #yes					
+			gourd/gourd	Pediu que investigássemos as espumas que borbulhavam na lagoa insondável diante da cabana.					
 			gourd/gourd	Mencionou um espírito em uma campina próxima e outro em um ninho curioso onde três pássaros cantores se abrigavam da chuva.					
-			gourd/gourd	Samae pediu que buscássemos as melódicas espumas desses três espíritos silvanos e os enviássemos ao céu com a Canção da Espadância.					
+			gourd/gourd	Samae pediu que buscássemos as espumas desses três espíritos e os enviássemos ao céu com a Canção da Espadância.					
 ARCHETYPE_SWORCERY	The Archetype			"""Chegou a hora de aprender a Canção da Espadância, uma técnica de expansão da consciência que revela uma dimensão musical mística."""					
 			gourd/gourd	"""Mantenha a calma e siga minhas instruções para despertar o espírito silvano que dorme nas águas frescas da lagoa insondável."""					
 ARCHETYPE_TADPOLES	The Archetype			Era evidente que o homem estranhamente vestido esperava que fizéssemos algo, mas não tínhamos ideia do que.					
@@ -251,7 +251,7 @@ GIRL_CABINSHEEP	The Scythian			Perguntamos a Samae sobre as ovelhas inúteis que
 LOGFELLA_CABINSHEEP	The Scythian			Troncadeiro sentia que a época dos milagres havia chegado e se perguntava se algo incrível estava prestes a acontecer.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			A chuva parou! Será que a tempestade está começando a se dissipar? Tomara que sim.					
 				Essa tempestade toda estava me afetando muito. Estava tudo tão lúgubre!					
-LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Estou com calafrios... Com certeza algo está acontecendo... A tempestade está começando a se dissipar?					
+LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Senti um frio na espinha... Com certeza algo está acontecendo... A tempestade está começando a se dissipar?					
 				Sempre que preciso recuperar as forças, sento-me junto ao fogo para aquecer minhas botas.					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Au Au Au Au Au Au Au Au. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			Uma vez que o sol estiver alinhado, você receberá o dom de dobrar a realidade do grande mago 'Al Jaffee'.					
@@ -333,7 +333,7 @@ LOGFELLA_GHOUL	The Scythian			Perto da Clareira Trigônica, acordamos atordoados
 				Ele nos contou que Samae havia desaparecido na noite anterior.					
 				O lenhador sabia que nosso fim estava próximo e que precisávamos voltar a Mingi Tau para cumprir nossa funesta missão.					
 LOGFELLA_TRIGONGROVETIPS	The Scythian			Troncadeiro nunca tinha visto a Clareira Trigônica antes e se perguntava do que se tratava tudo aquilo.					
-LOGFELLA_TRIFECTATIPS	The Scythian			Troncadeiro sofria de um caso sério de desolação pela ausência de Samae.					
+LOGFELLA_TRIFECTATIPS	The Scythian			Troncadeiro sentia uma profunda angústia pela ausência de Samae.					
 				Dissemos a ele que sabíamos onde ela poderia estar e que logo resolveríamos as coisas.					
 				Ele olhou para a plataforma próxima e nos agradeceu antecipadamente por toda essa história de martírio.					
 URSULA_AVATAR			Ursula/idleSEhandsonhip						

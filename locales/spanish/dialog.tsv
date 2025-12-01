@@ -40,7 +40,7 @@ LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Tronquero
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador había visto alguna criatura monstruosa y decidió dejárnosla a nosotros.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos el Megatomo y Tronquero estaba completamente listo para 'mover el bote' hasta la seguridad de su morada.					
 				Sentimos una inminente tormenta y, no obstante, una pequeña canción brotó en nuestro corazón.					
-LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		A la luz de la inminente tormenta, Tronquero admitió que en ese momento tenía un serio caso de escalofríos.					
+LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		A la luz de la inminente tormenta, Tronquero admitió que un escalofrío le recorría la espalda.					
 				¿Acaso nos estaba espantando a propósito? #yes #no #maybe					
 				En cualquier caso, lo mejor era quedarse a resguardo durante algún tiempo.					
 QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos el Megatomo. ¡Somos los más inteligentes! #gotmegatome			40	011.jpg	81C1E
@@ -79,12 +79,12 @@ ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien he
 LOGFELLA_STORM	The Scythian			Tronquero había renunciado a cortar leña debido a la siniestra tormenta. #wetboots					
 			adventureUI/megatomeItem	Él nos recordó que la tormenta había estallado justo después de que recuperamos el Megatomo bajo Mingi Tau.					
 				¿Acaso nos estaba insinuando que debíamos hacer algo para disipar la tormenta? #yes #no #maybe					
-GIRL_STORM	The Scythian			La chica de cabello oscuro conocida como Samae sufría de un grave caso de congoja. #woe					
+GIRL_STORM	The Scythian			La chica de cabello oscuro conocida como Samae estaba profundamente afligida. #woe					
 			gourd/gourd	Desde que estalló la tormenta, había notado las melodiosas brumas de los espíritus silvanos que dormían en los bosques cercanos.					
-			gourd/gourd	Se preguntó si acaso los tres espíritus silvanos podrían disiparla. #yes					
-			gourd/gourd	Nos pidió investigar las melodiosas brumas que burbujeaban en el estanque insondable junto a la choza.					
+			gourd/gourd	Se preguntó si acaso los tres espíritus podrían ayudar a disiparla. #yes					
+			gourd/gourd	Nos pidió investigar aquellas brumas que burbujeaban en el estanque insondable junto a la choza.					
 			gourd/gourd	Mencionó un espíritu en un prado cercano y otro en un nido curioso donde tres pájaros cantores se guarecían de la lluvia.					
-			gourd/gourd	Samae nos pidió buscar las melodiosas brumas de estos tres espíritus silvanos y enviarlos al cielo con la Canción de Espadancia.					
+			gourd/gourd	Samae nos pidió buscar las brumas de esos tres espíritus y enviarlos al cielo con la Canción de Espadancia.					
 ARCHETYPE_SWORCERY	The Archetype			"""Es hora de aprender la Canción de Espadancia, una técnica de expansión de la conciencia que revela una dimensión musical mística."""					
 			gourd/gourd	"""Mantén la calma y sigue mis instrucciones para despertar al espíritu silvano que duerme en las frescas aguas del estanque insondable."""					
 ARCHETYPE_TADPOLES	The Archetype			Era obvio que el hombre de ropa extraña esperaba que hiciéramos algo, pero no teníamos ni idea de qué.					
@@ -171,7 +171,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			En un matorral a la vera del antiguo camino,
 				"""Prefiero no entrar en detalles, si no te importa."""					
 				"""Resulta que uno de los nuestros era un tramposo redomado, y lo atrapamos con las manos en la masa."""					
 				"""Estalló una pelea y el tramposo redomado huyó por el antiguo camino hacia el Precipicio Peligroso."""					
-				"""Estábamos allí preguntándonos qué hacer... cuando de pronto apareció la Masa Gogolítica... ¡ay, nanita!"""			113	027.jpg	62B75
+				"""Estábamos allí preguntándonos qué hacer... cuando de pronto apareció la Masa Gogolítica... ¡qué susto!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			Al filo del Precipicio Peligroso, una tumba solitaria despertó nuestra curiosidad.					
 GRAVE_CHASMGHOST	The Scythian			Al filo del Precipicio Peligroso, junto a la tumba solitaria del tramposo redomado, conocimos a un viejo fantasma resplandeciente.					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, André 'El Gigante' organizó una partida y nos propusimos reconstruir la Trífida Trigonal."""					
@@ -251,7 +251,7 @@ GIRL_CABINSHEEP	The Scythian			Preguntamos a Samae sobre las ovejas inútiles qu
 LOGFELLA_CABINSHEEP	The Scythian			Tronquero sentía que había llegado la temporada de milagros y se preguntaba si estaba por ocurrir algo increíble.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			¡Dejó de llover! ¿Se estará disipando la tormenta? Espero que sí.					
 				Esta tormenta me tiene muy cansada. ¡Todo ha estado tan lúgubre!					
-LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Me están dando escalofríos... Sin duda algo está pasando... ¿Está comenzando a disiparse la tormenta?					
+LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Siento un escalofrío... Sin duda algo está pasando... ¿Está comenzando a disiparse la tormenta?					
 				Cada vez que necesito recobrar fuerzas, me siento junto al fuego para calentarme las botas.					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau Guau Guau Guau Guau Guau Guau Guau. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			Una vez que el sol esté alineado, recibirás el don de plegar la realidad del gran mago 'Al Jaffee'.					
@@ -332,8 +332,8 @@ LOGFELLA_GHOULTHOUGHTS	Logfella			La Escita sigue hablando sobre su funesto come
 LOGFELLA_GHOUL	The Scythian			Cerca del Claro Trigonal, despertamos aturdidos de un sueño muy profundo, con Tronquero a nuestro lado.			88	054.jpg	J5D44
 				Él nos contó que Samae había desaparecido la noche anterior.					
 				El leñador sabía que nuestro fin estaba cerca y que debíamos volver a Mingi Tau para cumplir nuestro funesto cometido.					
-LOGFELLA_TRIGONGROVETIPS	The Scythian			Tronquero nunca antes había visto el Claro Trigonal y se preguntaba de qué iba todo aquello.					
-LOGFELLA_TRIFECTATIPS	The Scythian			Tronquero padecía un serio caso de pesadumbre por la ausencia de Samae.					
+LOGFELLA_TRIGONGROVETIPS	The Scythian			Tronquero nunca antes había visto el Claro Trigonal y se preguntaba de qué se trataba todo aquello.					
+LOGFELLA_TRIFECTATIPS	The Scythian			Tronquero sentía una profunda tristeza por la ausencia de Samae.					
 				Le dijimos que sabíamos dónde podría estar y que pronto arreglaríamos las cosas.					
 				Él miró el pedestal cercano y nos agradeció de antemano por toda esa historia del martirio.					
 URSULA_AVATAR			Ursula/idleSEhandsonhip						
