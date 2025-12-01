@@ -1,5 +1,5 @@
 id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
-GIRL_TONGUES	Girl			Lejos de las estepas devastadas por la guerra de Escitia, conocimos a una chica de cabello oscuro en un prado bañado por el sol. #helloworld			72	001.jpg	Z0E1Q
+GIRL_TONGUES	Girl			Lejos de las estepas devastadas por la guerra de Escitia, hallamos a una joven de cabello oscuro en un prado iluminado por el sol. #helloworld			72	001.jpg	Z0E1Q
 				Los montañeses del Cáucaso la conocían como Samae y parecía agradable. #obviously					
 SIGN_TADPOL	The Scythian			"""Donde el fuego alumbra, el hogar se vislumbra."" #threegutrecords4ever"					
 SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia, son todos reinos de los hombres. Mingi Tau es el Reino de las Nubes."""					
@@ -9,7 +9,7 @@ SIGN_BIRDTREE	The Scythian			En un camino secundario, encontramos una roca graba
 				Entre esos símbolos imposibles de descifrar, alcanzamos a distinguir unos glifos lunares.					
 SIGN_BIRDTREEDECIPHERED	The Scythian			Por un camino secundario, encontramos una roca grabada con una serie de glifos lunares que antes no entendíamos.					
 				Los glifos contaban sobre un sitio secreto cerca de aquí, «donde se puede alterar el humor de la luna».					
-				¿Será la Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
+				¿Será la mítica Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			A la margen del antiguo camino encontramos una roca grabada con un par de glifos en forma de espada y escudo. #hinthint			16	004.jpg	T0C4X
 SIGN_ANTECHAMBERLEFT	The Scythian			En un pasaje subterráneo, descubrimos una estatua ominosa, pero no le dimos mayor importancia. #lore			29	005.jpg	V0B53
 INFO_CROSSMOUNTAINLEFT	The Scythian			En la pendiente rocosa de Mingi Tau, una tumba solitaria indica dónde se termina el sendero de grava.					
@@ -43,7 +43,7 @@ LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos el Megatom
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		A la luz de la inminente tormenta, Tronquero admitió que un escalofrío le recorría la espalda.					
 				¿Acaso nos estaba espantando a propósito? #yes #no #maybe					
 				En cualquier caso, lo mejor era quedarse a resguardo durante algún tiempo.					
-QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos el Megatomo. ¡Somos los más inteligentes! #gotmegatome			40	011.jpg	81C1E
+QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	¡Conseguimos el Megatomo! Definitivamente somos los más listos. #gotmegatome			40	011.jpg	81C1E
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
@@ -52,14 +52,14 @@ ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo
 				En esta ocasión, promovemos el aislamiento y la reflexión llena de arrepentimiento.					
 				Agradecemos sinceramente que hayas decidido participar en este tratamiento experimental para la aflicción profunda del alma.					
 				Encontrarás que esta primera sesión de S:S&S EP es bastante sencilla y suele durar entre 15 y 30 minutos.					
-				¿Tienes auriculares? ¿Todo listo para comenzar? Presiona 'jugar' y empecemos.					
+				¿Todo listo para comenzar? Presiona 'jugar' y ¡vamos allá!					
 ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
 	The Archetype			Damas y caballeros, ¿qué tal si tocan a estos dos pequeños espíritus silvanos para calibrar su sistema de sonido estéreo?					
 	The Archetype			Desde nuestro experimento anterior en 2011, hemos comprobado que las redes sociales tienen un impacto perjudicial en la sociedad.					
 				En esta ocasión, promovemos el aislamiento y la reflexión llena de arrepentimiento.					
 				Agradecemos sinceramente que hayas decidido participar en este tratamiento experimental para la aflicción profunda del alma.					
 				Encontrarás que esta primera sesión de S:S&S EP es bastante sencilla y suele durar entre 15 y 30 minutos.					
-				¿Tienes auriculares? ¿Todo listo para comenzar? Presiona 'jugar' y empecemos.					
+				¿Todo listo para comenzar? Presiona 'jugar' y ¡vamos allá!					
 ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP no busca producir la experiencia trascendental, simplemente pretende liberar el sistema nervioso de sus patrones habituales.					
 				El segundo aspecto del 'Entorno' es lo cultural: las nociones predominantes sobre la realidad y la normalidad. Evitaremos esta discusión por ahora.					
 				El 'Entorno' abarca la comodidad, la seguridad y la calidez del lugar donde ocurre la experiencia.					
@@ -68,7 +68,7 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP no busca producir la experiencia t
 				Hablemos de la Disposición y el Entorno para una experiencia positiva con esta obra altamente psicoactiva: Superbrothers: Sword & Sworcery EP.					
 				La conciencia expandida, el potencial ilimitado e inexplorado de la mente, es lo que en Superbrothers llamamos 'Espadancia'. #sworcery					
 				La Espadancia se puede entender como una técnica psiónica que permite percibir una realidad dentro de la que ya conoces.					
-				Para detener la Canción de Espadancia, simplemente haz tap tap en el aura que rodea a La Escita.					
+				Para detener la Canción de Espadancia, solo toca dos veces el aura que rodea a La Escita.					
 				Una vez que hayas comenzado a entonar la Canción de Espadancia, desliza el aura para mirar a tu alrededor.					
 				Para entonar la Canción de Espadancia, mantén pulsado sobre La Escita un momento y observa cómo se forma el aura.					
 				Como ves, el Megatomo recopila transmisiones de pensamiento lingüístico. Desplázate para ver mis pensamientos previos.					
@@ -79,7 +79,7 @@ ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien he
 LOGFELLA_STORM	The Scythian			Tronquero había renunciado a cortar leña debido a la siniestra tormenta. #wetboots					
 			adventureUI/megatomeItem	Él nos recordó que la tormenta había estallado justo después de que recuperamos el Megatomo bajo Mingi Tau.					
 				¿Acaso nos estaba insinuando que debíamos hacer algo para disipar la tormenta? #yes #no #maybe					
-GIRL_STORM	The Scythian			La chica de cabello oscuro conocida como Samae estaba profundamente afligida. #woe					
+GIRL_STORM	The Scythian			La joven de cabello oscuro conocida como Samae parecía sumida en una profunda tristeza. #woe					
 			gourd/gourd	Desde que estalló la tormenta, había notado las melodiosas brumas de los espíritus silvanos que dormían en los bosques cercanos.					
 			gourd/gourd	Se preguntó si acaso los tres espíritus podrían ayudar a disiparla. #yes					
 			gourd/gourd	Nos pidió investigar aquellas brumas que burbujeaban en el estanque insondable junto a la choza.					
@@ -513,7 +513,7 @@ LOGFELLA_FOUNDATION	Logfella	AdventureUI/tweetIconBabelBook		...
 SCYTHIAN_FOUNDATION	The Scythian			Despertamos a un espíritu silvano en un estanque insondable con lirios junto a una choza de piedra. No sabemos qué significa.					
 				Con una tormenta incesante, aprendimos a entonar la Canción de Espadancia y a despertar a un espíritu silvano dormido.					
 				Espera... ¿Por qué hablo en primera persona? ¿No se supone que la historia va en segunda persona? #editingoversight					
-				¿Mis pensamientos están ordenados cronológicamente? ¿Así que esto es lo que estaba pensando hace unos segundos?					
+				¿Mis pensamientos van en orden? ¿Esto es lo que pensaba hace unos segundos...?					
 				¿Esto es el Megatomo? ¿Absorbe 'transmisiones de pensamiento lingüístico'? ¿Estoy leyendo mis pensamientos mientras los pienso? Hmm...					
 GIRL_FOUNDATION	Girl	AdventureUI/tweetIconBabelBook		...					
 				...					
