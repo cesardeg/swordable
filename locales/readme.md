@@ -71,7 +71,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | **stone hut** | choza de piedra | cabana de pedra | ⚠️ Logfella's dwelling |
 | **stone wall** | muro de piedra | muro de pedra | ✅ Blocks the old road |
 | **meadow** | prado | campina | ✅ Starting area |
-| **deepwater pond** | estanque profundo | lagoa profunda | ✅ Near the hut |
+| **deepwater pond** | estanque insondable | lagoa insondável | ✅ Near the hut |
 | **old road** | antiguo camino | antigo caminho | ✅ ES: Never "viejo". PT: Never "estrada velha" |
 | **log bridge** | puente de troncos | ponte de toras | ✅ |
 | **the whirling infinite** | el Arremolinado Infinito | o Remoinhado Infinito | ✅ Summit gateway |
@@ -318,7 +318,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 - Exception: Narrative past tense contexts only
 
 #### 3. **Lagoa vs Lago**
-- **"lagoa profunda"** = deepwater pond (small body of water)
+- **"lagoa insondável"** = deepwater pond (small body of water)
 - **"lago"** = lake (large body of water)
 - These are NOT interchangeable
 
@@ -447,7 +447,7 @@ This glossary uses **Brazilian Portuguese (PT-BR)** conventions:
 | 16 | Perilous Precipice | Precipicio Peligroso | Precipício Perigoso |
 | 17 | old road | antiguo camino | antigo caminho |
 | 18 | stone hut | choza de piedra | cabana de pedra |
-| 19 | deepwater pond | estanque profundo | lagoa profunda |
+| 19 | deepwater pond | estanque insondable | lagoa insondável |
 | 20 | heebie jeebies | nervios de punta | nervos à flor da pele |
 
 ---
