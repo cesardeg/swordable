@@ -159,11 +159,11 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			En el Claro Trigonal, más allá de la vas
 				Desde luego, el fantasma resplandeciente dijo muchas cosas confusas que no ayudaban en absoluto.					
 GRAVE_LOGBRIDGE	The Scythian			En un matorral a la vera del antiguo camino, unas tumbas despertaron nuestra curiosidad.					
 GRAVE_LOGBRIDGEGHOST	The Scythian			En un matorral a la vera del antiguo camino, junto a unas tumbas, conocimos a unos fantasmas que parecían bastante amigables.			116	025.jpg	62B55
-				El fantasma resplandeciente que habló era un gigante que conocíamos de las viejas historias, cuya imagen célebre exigía obediencia. #andre					
-			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, organicé una partida y nos propusimos reconstruir la Trífida Trigonal."""					
-				"""Habíamos oído hablar de la entrada al Arremolinado Infinito, en la cima de Mingi Tau, y nos pareció algo que valía la pena ver."""					
-			triangle/Triangle	"""Domamos el Trigón Dorado y exploramos el Claro Trigonal antes de emprender la búsqueda del Trigón Luna Radiante."""					
-				"""La búsqueda del Trigón Luna Radiante no fue tan exitosa... nos perdimos por completo, para ser honestos."""					
+				El fantasma que habló era un gigante que conocíamos de las viejas historias, cuyo célebre retrato exigía obediencia. #andre					
+			Archetype/trifecta	"""El año pasado, antes de las fiestas de invierno, junté a mi gente y nos lanzamos a reconstruir la Trífida Trigonal."""					
+				"""Oímos hablar de la entrada al Arremolinado Infinito en la cima de Mingi Tau y pensamos que sería genial verlo."""					
+			triangle/Triangle	"""Así que bueno, domamos el Trigón Dorado y le dimos un vistazo al Claro Trigonal antes de ir a por el Trigón Luna Radiante."""					
+				"""Lo de encontrar el Trigón Luna Radiante no fue muy bien... nos perdimos por completo, la verdad."""					
 				"""Poco a poco nos dimos cuenta de la importancia del ciclo lunar y de su influencia en los espíritus que duermen en los reinos del crepúsculo."""					
 				"""Así que nos sentamos aquí a observar el humor de la luna para aprender cuándo estar dónde y cómo."""			7	026.jpg	Q2D6P
 				"""Nos morimos de aburrimiento esperando a que cambiara el humor de la luna."""					
@@ -174,12 +174,12 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			En un matorral a la vera del antiguo camino,
 				"""Estábamos allí preguntándonos qué hacer... cuando de pronto apareció la Masa Gogolítica... ¡qué susto!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			Al filo del Precipicio Peligroso, una tumba solitaria despertó nuestra curiosidad.					
 GRAVE_CHASMGHOST	The Scythian			Al filo del Precipicio Peligroso, junto a la tumba solitaria del tramposo redomado, conocimos a un viejo fantasma resplandeciente.					
-			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, André 'El Gigante' organizó una partida y nos propusimos reconstruir la Trífida Trigonal."""					
+			Archetype/trifecta	"""El año pasado, antes de las fiestas de invierno, André 'El Gigante' juntó a su gente y nos lanzamos a reconstruir la Trífida Trigonal."""					
 				"""Los demás miembros de la partida están enterrados en un matorral a la vera del antiguo camino, junto al puente de troncos."""					
 			triangle/Triangle	"""Localizamos y domamos el Trigón Dorado con bastante facilidad, pero después de eso nos quedamos totalmente estancados."""					
 				"""Buscamos el Trigón Luna Radiante, así que decidimos sentarnos y observar el cielo, esperando que el humor de la luna cambiara."""					
-				"""Resultaba sumamente tedioso. No estaba dispuesto a esperar días y días hasta que La Luna Radiante imperara."""					
-				"""Dejé que esos fracasados vagaran sin rumbo mientras yo indagaba más a fondo esta trampa lógico-lunar."""					
+				"""¡Era un aburrimiento total! No iba a quedarme esperando días y días hasta que La Luna Radiante imperara."""					
+				"""Dejé a esos pobres diablos dando vueltas sin rumbo mientras yo investigaba más a fondo este truco de la lógica lunar."""					
 				El viejo fantasma resplandeciente contó que hizo trampa al salir de S:S&S EP y alterar la fecha y hora de su dispositivo.					
 				El fantasma describió lo incómodo que fue el proceso, ¡pero dijo que eso le permitió alterar el humor de la luna!					
 				"""El caso es que desde que hice trampa, se me quedó el remordimiento en carne viva y, a decir verdad, me morí de la vergüenza."""					

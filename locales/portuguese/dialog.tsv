@@ -159,11 +159,11 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigônica, além da vasta cav
 				Sem dúvida, o fantasma resplandecente disse muitas coisas confusas que não ajudaram em nada.					
 GRAVE_LOGBRIDGE	The Scythian			Em um matagal à beira do antigo caminho, umas tumbas despertaram nossa curiosidade.					
 GRAVE_LOGBRIDGEGHOST	The Scythian			Em um matagal à beira do antigo caminho, junto a umas tumbas, conhecemos alguns fantasmas que pareciam amigáveis.			116	025.jpg	62B55
-				O fantasma resplandecente que falou era um gigante que conhecíamos pelas velhas histórias, cuja imagem famosa exigia obediência. #andre					
-			Archetype/trifecta	"""No ano passado, antes das festas de Yule, reuni uma comitiva e nos propusemos a reconstruir a Tríade Trigônica."""					
-				"""Tínhamos ouvido falar da entrada para o Remoinhado Infinito no topo de Mingi Tau e parecia algo que valia a pena ver."""					
-			triangle/Triangle	"""Domamos o Trígono Dourado com facilidade, exploramos a Clareira Trigônica e embarcamos na busca pelo Trígono da Lua Radiante."""					
-				"""A busca pelo Trígono da Lua Radiante não foi tão bem-sucedida... nos perdemos completamente, para ser honesto."""					
+				O fantasma resplandecente que falou era um gigante que conhecíamos das velhas histórias, cujo famoso retrato exigia obediência. #andre					
+			Archetype/trifecta	"""No ano passado, antes das festas de fim de ano, juntei a galera e partimos para remontar a Tríade Trigônica."""					
+				"""Tínhamos ouvido falar da entrada para o Remoinhado Infinito no topo de Mingi Tau e achamos que seria algo legal de se ver."""					
+			triangle/Triangle	"""Enfim, domamos o Trígono Dourado e demos uma olhada na Clareira Trigônica antes de sair para procurar o Trígono da Lua Radiante."""					
+				"""Achar o Trígono da Lua Radiante não deu muito certo... nos perdemos totalmente, pra ser sincero."""					
 				"""Aos poucos, percebemos a importância do ciclo lunar e sua influência nos espíritos que dormem nos reinos do crepúsculo."""					
 				"""Então nos sentamos aqui para observar o humor da lua e aprender quando estar onde e como."""			7	026.jpg	Q2D6P
 				"""Morremos de tédio esperando que o humor da lua mudasse."""					
@@ -174,8 +174,8 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Em um matagal à beira do antigo caminho, ju
 				"""Ficamos ali pensando no que fazer... quando, de repente, a Massa Gogolítica apareceu... credo!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			Ao fio do Precipício Perigoso, uma tumba solitária despertou nossa curiosidade.					
 GRAVE_CHASMGHOST	The Scythian			Ao fio do Precipício Perigoso, junto à tumba solitária do trapaceiro inveterado, conhecemos um velho fantasma resplandecente.					
-			Archetype/trifecta	"""No ano passado, antes das festas de Yule, André, 'O Gigante', organizou uma comitiva e nos propusemos a reconstruir a Tríade Trigônica."""					
-				"""Os outros membros da comitiva foram enterrados em um matagal à beira do antigo caminho, junto à ponte de toras."""					
+			Archetype/trifecta	"""No ano passado, antes das festas de fim de ano, André, 'O Gigante', juntou a galera e partimos para remontar a Tríade Trigônica."""					
+				"""Os outros membros da galera foram enterrados em um matagal à beira do antigo caminho, junto à ponte de toras."""					
 			triangle/Triangle	"""Conseguimos localizar e domar o Trígono Dourado com bastante facilidade, mas depois disso ficamos completamente parados."""					
 				"""Procuramos pelo Trígono da Lua Radiante, então decidimos nos sentar e observar o céu, esperando o humor da lua mudar."""					
 				"""Foi super chato. Eu não estava disposto a esperar dias e dias até que a Lua Radiante pairasse."""					
