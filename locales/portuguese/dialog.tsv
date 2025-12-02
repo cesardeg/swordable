@@ -1,15 +1,15 @@
 id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
-GIRL_TONGUES	Girl			Longe das estepes devastadas pela guerra da Cítia, encontramos uma jovem de cabelos escuros em uma campina iluminada pelo sol. #helloworld			72	001.jpg	Z0E1Q
+GIRL_TONGUES	Girl			Longe das estepes devastadas pela guerra da Cítia, encontramos uma garota de cabelos escuros em uma campina iluminada pelo sol. #helloworld			72	001.jpg	Z0E1Q
 				Os montanheses do Cáucaso a conheciam como Samae e ela parecia simpática. #obviously					
 SIGN_TADPOL	The Scythian			"""Onde a lareira arde, o lar faz alarde."" #threegutrecords4ever"					
 SIGN_WALL	The Scythian			"""Cítia, Ciméria, Assíria e Pérsia, esses são todos reinos dos homens. Mingi Tau é o Reino das Nuvens."""					
-SIGN_CHASM	The Scythian			À beira do Precipício Perigoso, encontramos uma rocha com o glifo de uma espada erguida, gravado sob as cores do arco-íris.					
+SIGN_CHASM	The Scythian			À beira do Precipício Perigoso, encontramos uma rocha gravada com o glifo de uma espada erguida, sob as cores do arco-íris.					
 				Os cítios abominamos os arco-íris. #loathsomerainbows			21	002.jpg	40C27
 SIGN_BIRDTREE	The Scythian			Em um caminho secundário que se afastava do antigo caminho, encontramos uma rocha gravada com uma série de símbolos indecifráveis.					
-				Entre esses símbolos impossíveis de decifrar, alcançamos distinguir uns glifos lunares.					
+				Entre esses símbolos impossíveis de decifrar, alcançamos a distinguir uns glifos lunares.					
 SIGN_BIRDTREEDECIPHERED	The Scythian			Por um caminho secundário, encontramos uma rocha gravada com uma série de glifos lunares que antes não entendíamos.					
 				Os glifos contavam sobre um lugar secreto perto daqui, «onde se pode alterar o humor da lua».					
-				Será que é a famosa Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
+				Será que é a Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			À margem do antigo caminho, encontramos uma rocha gravada com um par de glifos em forma de espada e escudo. #hinthint			16	004.jpg	T0C4X
 SIGN_ANTECHAMBERLEFT	The Scythian			Num corredor subterrâneo, descobrimos uma estátua ominosa, mas não nos preocupamos muito com isso. #lore			29	005.jpg	V0B53
 INFO_CROSSMOUNTAINLEFT	The Scythian			Na encosta rochosa de Mingi Tau, uma tumba solitária indica onde termina o caminho de pedras.					
@@ -79,9 +79,9 @@ ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muito bem, 
 LOGFELLA_STORM	The Scythian			Troncadeiro parou de cortar lenha devido à sinistra tempestade. #wetboots					
 			adventureUI/megatomeItem	Ele nos lembrou que a tempestade havia estourado logo depois que recuperamos o Megatomo sob Mingi Tau.					
 				Será que ele estava sutilmente insinuando que devíamos fazer algo para dissipar a tempestade? #yes #no #maybe					
-GIRL_STORM	The Scythian			A jovem de cabelos escuros conhecida como Samae parecia mergulhada numa tristeza profunda. #woe					
+GIRL_STORM	The Scythian			A garota de cabelos escuros conhecida como Samae parecia mergulhada numa tristeza profunda. #woe					
 			gourd/gourd	Desde que a tempestade estourou, ela observava as melódicas espumas dos espíritos silvanos adormecidos nas florestas próximas.					
-			gourd/gourd	Questionou-se se os três espíritos poderiam ajudar a dissipar a tempestade. #yes					
+			gourd/gourd	Perguntou-se se os três espíritos poderiam ajudar a dissipar a tempestade. #yes					
 			gourd/gourd	Pediu que investigássemos as espumas que borbulhavam na lagoa insondável diante da cabana.					
 			gourd/gourd	Mencionou um espírito em uma campina próxima e outro em um ninho curioso onde três pássaros cantores se abrigavam da chuva.					
 			gourd/gourd	Samae pediu que buscássemos as espumas desses três espíritos e os enviássemos ao céu com a Canção da Espadância.					
@@ -381,6 +381,7 @@ GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		Mas també
 				Au Au Au.					
 GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Meus troncos guardam muitos segredos sobre espíritos silvanos e ilhas impossíveis. Infelizmente, não falo Tronquês.					
 				Pela minha experiência, às vezes as corujas 'não são o que parecem', enquanto outras vezes são apenas corujas comuns.			126	064.jpg	86A47
+GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Talvez você já tenha ouvido falar de uma ilha impossível sob a Lua Radiante... talvez tenha lido sobre isso na internet?			134	065.jpg	H6A5I
 				Estivemos monitorando suas ações em silêncio e queremos ressaltar que, quanto mais você hesitar, menor será a comemoração.					
 				Parece que você progrediu bastante em seu esforço para localizar e domar o Trígono da Lua Radiante. Muito bem feito!					
 GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		Os espíritos silvanos são filhos da Mãe Terra ou são visitantes solitários do Remoinhado Infinito?					
