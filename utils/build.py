@@ -239,9 +239,26 @@ def patch_info_plist(plist_path):
     with open(plist_path, "rb") as fp:
         plist = plistlib.load(fp)
 
+    # --- Legacy Orientation Lock (for iOS 12 and older) ---
+    # This tells the app to only support Portrait mode.
     plist["UISupportedInterfaceOrientations"] = ["UIInterfaceOrientationPortrait"]
     plist["UISupportedInterfaceOrientations~ipad"] = ["UIInterfaceOrientationPortrait"]
 
+    # --- Modern Compatibility & Orientation Lock ---
+    # 1. Opt-out of Scene-Based Lifecycle:
+    # For old, NIB-based apps, the presence of UIApplicationSceneManifest causes a black screen.
+    # Removing it forces iOS 13+ to use the legacy AppDelegate lifecycle, which fixes the launch.
+    if "UIApplicationSceneManifest" in plist:
+        del plist["UIApplicationSceneManifest"]
+        print("Removed UIApplicationSceneManifest to ensure compatibility with older app lifecycle.")
+
+    # 2. Force Full-Screen Mode (iPad Specific Fix):
+    # On modern iPadOS, the system may still ignore legacy orientation keys to support multitasking.
+    # Setting UIRequiresFullScreen to true tells iPadOS that this app cannot do multitasking
+    # and MUST run full-screen, which forces it to respect the orientation lock.
+    plist["UIRequiresFullScreen"] = True
+    print("Set UIRequiresFullScreen to True to enforce orientation lock on iPad.")
+            
     with open(plist_path, "wb") as fp:
         plistlib.dump(plist, fp)
     print("Info.plist patched successfully.")

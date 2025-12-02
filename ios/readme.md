@@ -64,3 +64,16 @@ This script allows you to copy translation files to an iPhone with jailbreak and
 
 Please note that you need to have the necessary permissions and setups in place for OpenSSH and Jailbroken iPhone with OpenSSH in order to use the `scp.sh` script.
 
+---
+
+## Appendix A: Platform-Specific Build Notes
+
+### iOS / iPadOS Build
+
+**iPadOS 16+ Orientation Lock Issue:**
+
+Due to changes in how modern iPadOS handles multitasking (Stage Manager, Split View), the game may incorrectly rotate when the device is turned to landscape, breaking the "unsheathe" mechanic.
+
+**Solution:** The application must be run in **Full Screen App Mode**.
+- **To ensure correct behavior:** Go to `Settings > Home Screen & Multitasking > Stage Manager` and ensure it is turned **OFF** for the game. The game is not compatible with windowed multitasking modes.
+- In Full Screen mode, the orientation lock works as intended. This is a known limitation of running a legacy application on a modern, multitasking-oriented OS.

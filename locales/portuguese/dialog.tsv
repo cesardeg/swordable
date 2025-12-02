@@ -3,7 +3,7 @@ GIRL_TONGUES	Girl			Longe das estepes devastadas pela guerra da Cítia, encontra
 				Os montanheses do Cáucaso a conheciam como Samae e ela parecia simpática. #obviously					
 SIGN_TADPOL	The Scythian			"""Onde a lareira arde, o lar faz alarde."" #threegutrecords4ever"					
 SIGN_WALL	The Scythian			"""Cítia, Ciméria, Assíria e Pérsia, esses são todos reinos dos homens. Mingi Tau é o Reino das Nuvens."""					
-SIGN_CHASM	The Scythian			À beira do Precipício Perigoso, encontramos uma rocha gravada com o glifo de uma espada erguida, sob as cores de o arco-íris.					
+SIGN_CHASM	The Scythian			À beira do Precipício Perigoso, encontramos uma rocha com o glifo de uma espada erguida, gravado sob as cores do arco-íris.					
 				Os cítios abominamos os arco-íris. #loathsomerainbows			21	002.jpg	40C27
 SIGN_BIRDTREE	The Scythian			Em um caminho secundário que se afastava do antigo caminho, encontramos uma rocha gravada com uma série de símbolos indecifráveis.					
 				Entre esses símbolos impossíveis de decifrar, alcançamos distinguir uns glifos lunares.					
@@ -38,7 +38,7 @@ LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Troncadei
 				Ele parecia saber tudo sobre o odioso arco-íris e o glifo que representava uma espada apontando para o céu.					
 				E mesmo assim, não deu nenhuma pista sobre o que fazer, o que, para ser sincero, nos deixou meio atravessado.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		O lenhador tinha visto algum tipo de monstro assustador e decidiu deixar que nós cuidássemos disso.			26	010.jpg	Q1B00
-LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos o Megatomo e Troncadeiro estava completamente pronto para 'remexer, remexer' até a segurança de sua morada.					
+LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos o Megatomo e Troncadeiro estava completamente pronto para 'remexer, remexer' até seu refúgio seguro.					
 				Sentimos uma tempestade iminente e, ainda assim, uma pequena canção brotou em nosso coração.					
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		À luz da tempestade iminente, Troncadeiro admitiu que sentia um frio na espinha.					
 				Será que Troncadeiro estava tentando nos assustar de propósito? #yes #no #maybe					
@@ -101,7 +101,7 @@ INFO_MEADOWGATE	The Scythian			Na campina, avistamos um portão de ferro impenet
 INFO_MEADOWGATEACTIVE	The Scythian			Na campina, avistamos um portão e tivemos a sensação de que talvez pudéssemos abri-lo de alguma forma.					
 INFO_MEADOWGATETRIGONACTIVE	The Scythian			Sobre o portão de ferro, avistamos um troço com a forma do Trígono Dourado. Será que reagiria à nossa Canção da Espadância?					
 INFO_MEADOWGATETRIGON	The Scythian			Sobre o portão de ferro, avistamos um troço.					
-INFO_LOCKEDDOORSTONEWALL	The Scythian			Uma porta trancada no muro de pedra fechava o antigo caminho para Mingi Tau, e aparentemente, a chave estava perdida nos sonhos.					
+INFO_LOCKEDDOORSTONEWALL	The Scythian			O antigo caminho para Mingi Tau estava fechado por uma porta trancada no muro de pedra e, aparentemente, a chave estava perdida nos sonhos.					
 INFO_LOOMINGBIRDSCULPTURES	The Scythian			Na campina, avistamos a imponente escultura de um 'pássaro zangado'. #subtlereference					
 INFO_MEADOWSUNSTICK	The Scythian			Na campina, avistamos um cajado de formato estranho.					
 INFO_CABINWELL	The Scythian			Avistamos um poço solidamente construído com um amplo telhado de madeira.					
@@ -210,7 +210,7 @@ GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Nossa, o Troncadeiro está
 LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que A Citiana possa encontrar minha chave... eu a perdi na margem arenosa de um lago aprazível.			62	032.jpg	U3A20
 LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Ah, droga, como odeio essa chuva... Como odeio ter as botas molhadas... Como queria voltar a cortar lenha.					
 				Ah, droga, onde foi parar minha chave? Estou tão chateado e envergonhado que não consigo me acalmar!					
-LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Troncadeiro ficou sinceramente aliviado por termos recuperado sua chave perdida no reino crepuscular dos sonhos.					
+LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Troncadeiro sentiu-se sinceramente aliviado ao recuperar sua chave perdida do reino crepuscular dos sonhos.					
 				O lenhador quis saber como nos tornamos tão espertos e perguntou sobre nossa funesta missão.					
 				Contamos a ele como crescemos nas estepes ao lado de nossas valentes irmãs e irmãos cítios.					
 				Explicamos a Troncadeiro por que vagávamos por aquela montanha deserta e como éramos guiados pelo dedo de um Deus onisciente.					
@@ -333,7 +333,7 @@ LOGFELLA_GHOUL	The Scythian			Perto da Clareira Trigônica, acordamos atordoados
 				Ele nos contou que Samae havia desaparecido na noite anterior.					
 				O lenhador sabia que nosso fim estava próximo e que precisávamos voltar a Mingi Tau para cumprir nossa funesta missão.					
 LOGFELLA_TRIGONGROVETIPS	The Scythian			Troncadeiro nunca tinha visto a Clareira Trigônica antes e se perguntava do que se tratava tudo aquilo.					
-LOGFELLA_TRIFECTATIPS	The Scythian			Troncadeiro sentia uma profunda angústia pela ausência de Samae.					
+LOGFELLA_TRIFECTATIPS	The Scythian			A desolação pela ausência de Samae tomava conta de Troncadeiro.					
 				Dissemos a ele que sabíamos onde ela poderia estar e que logo resolveríamos as coisas.					
 				Ele olhou para a plataforma próxima e nos agradeceu antecipadamente por toda essa história de martírio.					
 URSULA_AVATAR			Ursula/idleSEhandsonhip						
@@ -455,7 +455,7 @@ GIRL_AFTERYELLOWBEAM	The Scythian			Samae sentou-se em uma rocha perto do local 
 				Ela nos contou como os sonhos de seu povo continham muitos mistérios e refletiam o humor da lua de forma estranha.					
 				Nos convidou para sentar junto ao fogo na cabana de pedra quando quiséssemos, para explorar os sonhos ou recuperar as forças.					
 			Archetype/trifecta	Pressentimos que os dois trígonos restantes poderiam estar perdidos nos sonhos.					
-LOGFELLA_AFTERYELLOWBEAM	The Scythian			Troncadeiro havia voltado a cortar lenha, e parecia realmente absorto na tarefa.					
+LOGFELLA_AFTERYELLOWBEAM	The Scythian			Troncadeiro havia voltado a cortar lenha, e era evidente que estava totalmente absorto na tarefa.					
 			triangle/Triangle	Ele vira o facho celestial que se erguia na floresta atrás da campina, então perguntamos sobre os segredos da Clareira Trigônica.					
 				Ele nos contou uma velha história que seu povo recitava às crianças para lhes provocar arrepio.					
 			Archetype/trifecta	Troncadeiro falou de uma comitiva de cítios que, há muitas luas, chegou a estas montanhas esquecidas em busca da Tríade Trigônica.					
