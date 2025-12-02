@@ -39,6 +39,24 @@ This glossary serves as the **authoritative translation reference** for Superbro
 
 ---
 
+## Grammar & Style Guidelines
+
+### Verb Strategy for "We spied..." (ES/PT)
+
+To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set of synonyms based on the context of the observation. This creates a more dynamic and narrative tone.
+
+| Observation Type | Spanish (ES) Verbs | Portuguese (PT) Verbs | Usage Context |
+|:---|:---|:---|:---|
+| **General Sighting (Default)** | `avistamos`, `vimos` | `avistamos`, `vimos` | The base verb for a neutral observation or the first in a series. |
+| **Discovery / Surprise** | `descubrimos`, `hallamos` | `descobrimos`, `encontramos` | For finding something new, hidden, or important (e.g., a secret statue). |
+| **Chance Encounter** | `dimos con`, `nos topamos con` | `deparamo-nos com` | For stumbling upon an object or character unexpectedly. |
+| **Focused Observation** | `observamos`, `notamos`, `nos percatamos de` | `observamos`, `notamos`, `reparamos em` | For looking at something more closely or noticing a subtle detail. |
+| **Distant / Difficult Sighting**| `divisamos`, `distinguimos` | `distinguimos` | For seeing something far away, in the dark, or in a crowd. |
+
+**Rule of Thumb:** In a sequence of observations in the same area (e.g., `INFO_CABIN*`), vary the verbs to reflect the process of discovery. Start with a general `avistamos` and move to more specific verbs like `notamos` or `descubrimos`.
+
+---
+
 ## Characters & NPCs
 
 | English | Spanish (ES) | Portuguese (PT-BR) | Notes |
