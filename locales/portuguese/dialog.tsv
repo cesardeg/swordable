@@ -9,7 +9,7 @@ SIGN_BIRDTREE	The Scythian			Em um caminho secundário que se afastava do antigo
 				Entre esses símbolos impossíveis de decifrar, alcançamos distinguir uns glifos lunares.					
 SIGN_BIRDTREEDECIPHERED	The Scythian			Por um caminho secundário, encontramos uma rocha gravada com uma série de glifos lunares que antes não entendíamos.					
 				Os glifos contavam sobre um lugar secreto perto daqui, «onde se pode alterar o humor da lua».					
-				Será que é a famosa Gruta da Lua...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
+				Será que é a famosa Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			À margem do antigo caminho, encontramos uma rocha gravada com um par de glifos em forma de espada e escudo. #hinthint			16	004.jpg	T0C4X
 SIGN_ANTECHAMBERLEFT	The Scythian			Num corredor subterrâneo, descobrimos uma estátua ominosa, mas não nos preocupamos muito com isso. #lore			29	005.jpg	V0B53
 INFO_CROSSMOUNTAINLEFT	The Scythian			Na encosta rochosa de Mingi Tau, uma tumba solitária indica onde termina o caminho de pedras.					
@@ -222,9 +222,9 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Troncadeiro ficou sinceramen
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Perguntamos ao lenhador se podíamos ficar com a chave e ele permitiu.					
 GIRL_FOUNDKEY	The Scythian			Em uma trilha lateral, encontramos Samae, completamente encharcada pela chuva.					
 			gourd/gourd	Ela ouvira as sutis e melódicas espumas dos espíritos silvanos além do muro de pedra, no antigo caminho para Mingi Tau.					
-			gourd/gourd	Falou de árvores altíssimas que ladeavam um poderoso rio.					
+			gourd/gourd	Falou de árvores altíssimas que ladeavam um impetuoso rio.					
 			gourd/gourd	Mencionou arco-íris tênues que surgiam à beira do Precipício Perigoso.					
-			adventureUI/megatomeItem	...E então, assustada, pediu que consultássemos o Megatomo caso nos sentíssemos perdidos.					
+			adventureUI/megatomeItem	...E então, receosa, pediu que consultássemos o Megatomo caso nos sentíssemos perdidos.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Tudo bem A Citiana ficar com a chave, se for para dissipar a tempestade.					
 				Devo ter dormido em algum momento durante a épica história que A Citiana contou. Não aguento muito folclore.					
 				Questionei A Citiana sobre sua funesta missão... ela começou a falar sobre estepes e o dedo de Deus.					
@@ -465,7 +465,7 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			Troncadeiro havia voltado a cortar lenha
 				"""Então, a comitiva foi dizimada por um espectro imortal à beira do antigo caminho, onde suas tumbas permanecem até hoje."""					
 				Dissemos a Troncadeiro que era uma boa história, embora não nos tenha assustado tanto.					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
-ARCHETYPE_MOONGROTTO	The Archetype			Vejo que você conseguiu alterar o humor da lua na Gruta da Lua. Me pergunto quanto tempo esse paradoxo temporal durará.					
+ARCHETYPE_MOONGROTTO	The Archetype			Vejo que você conseguiu alterar o humor da lua na Gruta Lunar. Me pergunto quanto tempo esse paradoxo temporal durará.					
 MIRACLE2_ISLAND	The Scythian			Enquanto a Lua Radiante paira, obramos um estranho milagre lunar em uma ilha impossível no meio de um lago aprazível.			136	073.jpg	W7A3K
 MIRACLE2_PINKTRIGONCOLLECTED	The Scythian			Conseguimos o Trígono da Lua Radiante, para nossa glória e desespero. #trigontamed			155	068.jpg	56F8U
 MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			Fomos tentados a abandonar completamente esta funesta missão, mas havia algo de atraente no martírio.					
@@ -497,7 +497,7 @@ LOGFELLA_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	O lenhador não reconhec
 GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae viu a chave que encontramos e nos incentivou a ficar de olho em uma porta trancada.					
 				Ela não tinha nenhuma outra ideia, mas nos lembramos de algo que vimos no antigo caminho para Mingi Tau.					
 ARCHETYPE_GROTTOPARADOX	The Archetype								
-				Uma vez que o humor da lua foi alterado na Gruta da Lua...					
+				Uma vez que o humor da lua foi alterado na Gruta Lunar...					
 ARCHETYPE_KILLBOOR	The Archetype			Agora, imagino que você esteja se perguntando para que serve essa chave. Para ser honesto, não faço ideia.			119	075.jpg	87C5S
 				Não é que eu esteja sugerindo que você seja na verdade um sociopata violento... hehe... Tenho certeza de que você tinha suas razões, né? #thegrizzledboor					
 				O Patife Grisalho foi incluído no S:S&S EP para tentar os participantes a se identificarem como sociopatas violentos.					
@@ -600,7 +600,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Voz de Troncadeiro: Robert Ashley, criador do programa de rádio A Life Well Wasted em alifewellwasted.com.					
 				Voz de A Citiana: a fotógrafa Robyn Cumming em robyncumming.com.					
 				Voz de O Arquétipo: o artista e cineasta Clive Holden em cliveholden.com.					
-				Sons cósmicos da Gruta da Lua: Scientific American em scntfc.com.					
+				Sons cósmicos da Gruta Lunar: Scientific American em scntfc.com.					
 				* * * APOIO DA CAPY * * *					
 				Produtor executivo, herói do povo, liderança e estratégia: Nathan Vella, presidente da Capy.					
 				Produtor de PC, assistência técnica de áudio, integração FMOD e muitíssimos sons: Sean 'Uber' Lohrisch, cofundador da Capy.					

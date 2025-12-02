@@ -65,7 +65,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | **Scythia** | Escitia | Cítia | ✅ Homeland region |
 | **The Perilous Precipice** | El Precipicio Peligroso | O Precipício Perigoso | ✅ Major location |
 | **Trigon Grove** | Claro Trigonal | Clareira Trigônica | ✅ ES: clearing, PT: grove clearing |
-| **The Moon Grotto** | La Gruta Lunar | A Gruta da Lua | ✅ Secret location |
+| **The Moon Grotto** | La Gruta Lunar | A Gruta Lunar | ✅ Secret location |
 | **The Kingdom of the Cloud** | El Reino de las Nubes | O Reino das Nuvens | ✅ Mingi Taw's title |
 | | | | |
 | **stone hut** | choza de piedra | cabana de pedra | ⚠️ Logfella's dwelling |
