@@ -145,7 +145,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | **Sworcery** | Espadancia | Espadância | ✅ Core mechanic neologism. See Philosophy section. |
 | **Song of Sworcery** | Canción de Espadancia | Canção da Espadância | ✅ Main ability |
 | **sworcery aura** | aura de Espadancia | aura de Espadância | ✅ Visual indicator |
-| **sylvan sprite** | espíritu silvano | espírito silvano | ✅ Collectible creatures. PT: "silvano" is more evocative. |
+| **sylvan sprite** | espíritu silvano | espírito silvano | ✅ Collectible creatures. |
 | **sonorous spume** | melodiosas brumas | melódicas espumas | ✅ Sprite indicators. |
 | **skyward beam** | haz celestial | facho celestial | ✅ Trigon activation. PT: "facho" not "raio" |
 | **miracle** | milagro | milagre | ✅ Special events |
@@ -157,7 +157,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | touch & hold | mantén pulsado | manter pressionado | ✅ Primary interaction |
 | tap / tip tap | toca / haz tap tap | tocar / tap tap | ✅ Quick touch |
 | swipe | desliza / deslizar | deslizar / deslize | ✅ Gesture |
-| move it move it | moverse sin parar | se mexer sem parar | ✅ Fast movement |
+| move it move it | mover el bote | se remexer | ✅ Fast movement, colloquial |
 | shield button | botón de escudo | botão do escudo | ✅ |
 | swing sword | blandir espada | brandir espada | ✅ |
 | dodge/evade | esquivar | esquivar | ✅ |
@@ -296,13 +296,13 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 ### Spanish (ES) Style Rules
 
 #### 1. **Article Usage with Moons**
-- ✅ ALWAYS use **"la"** before Luna Radiante/Sombría
+- ✅ ALWAYS use **"la"** before Luna Radiante/Sombría.
 - ✅ "**la** Luna Radiante **impera**"
 - ✅ "**la** Luna Sombría **reina**"
 
 #### 2. **Verb Choice for Moons**
-- Bright Moon → **"impera"** (dominates/reigns supreme)
-- Dark Moon → **"reina"** (reigns)
+- Bright Moon → **"impera"** (dominates/reigns supreme).
+- Dark Moon → **"reina"** (reigns).
 - Creates intentional contrast between the two moons
 
 #### 3. **"Heebie Jeebies" Translation**
@@ -311,7 +311,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 - Never mix within same document
 
 #### 4. **Old Road**
-- ✅ **"antiguo camino"** (always)
+- ✅ **"antiguo camino"** (always).
 - ❌ "viejo camino" (never - sounds too colloquial)
 
 #### 5. **Formatting & Capitalization**
@@ -324,13 +324,13 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 ### Portuguese (PT-BR) Style Rules
 
 #### 1. **Article Usage with Moons - CRITICAL ERROR TO FIX**
-- ✅ ALWAYS use **"a"** before Lua Radiante/Sombria
+- ✅ ALWAYS use **"a"** before Lua Radiante/Sombria.
 - ✅ "Enquanto **a** Lua Radiante paira"
 - ✅ "Enquanto **a** Lua Sombria reina"
 - ❌ **NEVER**: "Enquanto Lua Sombria reina" (grammatically incorrect)
 
 #### 2. **Verb Tense Consistency - Lua Radiante**
-- ✅ ALWAYS use **"paira"** (present tense)
+- ✅ ALWAYS use **"paira"** (present tense).
 - ❌ NEVER use "pairava" (imperfect)
 - ❌ NEVER use "pairasse" (subjunctive)
 - Exception: Narrative past tense contexts only
@@ -343,26 +343,23 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 #### 4. **"Hearth" Translation Context**
 - **"fogo"** = fire (casual references)
 - **"lareira"** = hearth (formal/poetic contexts)
-- Special phrase: **"Onde a lareira aquece, o lar acontece"** ✅ (Poetic wordplay: lareira/lar etymology)
+- Special phrase: **"Onde a lareira arde, o lar faz alarde"** ✅ (Poetic wordplay using rhyme and meter).
 
----
+### Verb Strategy for "We spied..." (ES/PT)
 
-### Special Phrase: "Home is where the hearth is"
+To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set of synonyms based on the context of the observation. This creates a more dynamic and narrative tone.
 
-#### Portuguese (PT-BR)
-- **"Onde a lareira aquece, o lar acontece"** ✅
-- **Wordplay**: `lareira` (hearth) and `lar` (home) share an etymological and phonetic root. This is a brilliant, poetic solution that is already implemented.
+| Observation Type | Spanish (ES) Verbs | Portuguese (PT) Verbs | Usage Context |
+|:---|:---|:---|:---|
+| **General Sighting (Default)** | `avistamos`, `vimos` | `avistamos`, `vimos` | The base verb for a neutral observation or the first in a series. |
+| **Discovery / Surprise** | `descubrimos`, `hallamos` | `descobrimos`, `encontramos` | For finding something new, hidden, or important (e.g., a secret statue). |
+| **Chance Encounter** | `dimos con`, `nos topamos con` | `deparamo-nos com` | For stumbling upon an object or character unexpectedly. |
+| **Focused Observation** | `observamos`, `notamos`, `nos percatamos de` | `observamos`, `notamos`, `reparamos em` | For looking at something more closely or noticing a subtle detail. |
+| **Distant / Difficult Sighting**| `divisamos`, `distinguimos` | `distinguimos` | For seeing something far away, in the dark, or in a crowd. |
 
-#### Spanish (ES)
-- Current in `dialog.ts`: **"Donde arde la lumbre, allí el hogar se vislumbre."**
-  - This is functional and poetic.
-- Recommended alternative for consideration: **"Donde arde el hogar, se encuentra el hogar."**
-  - **Rationale**: Creates a powerful wordplay using the double meaning of "hogar" (both "hearth" and "home"), mirroring the cleverness of the Portuguese version. It's concise and philosophically deep.
+**Rule of Thumb:** In a sequence of observations in the same area (e.g., `INFO_CABIN*`), vary the verbs to reflect the process of discovery. Start with a general `avistamos` and move to more specific verbs like `notamos` or `descubrimos`.
 
-#### **RECOMMENDATION**:
-Keep the existing Spanish translation for consistency, but document the alternative in the glossary as a superior poetic option.
-
----
+This same logic of variation is applied to other common verbs like "conseguir" (`got`), "decir" (`said`), and "pensar" (`thought`) to enrich the narrative voice of The Scythian.
 
 
 ---
@@ -392,11 +389,11 @@ This section defines the personality and speaking style for each character to en
 
 ### Universal Style Guidelines (Both Languages)
 
-#### 1. **Hashtags**
-- Always keep original English hashtags
-- Never translate content inside #tags
+#### 1. **Hashtags & English Terms**
+- Always keep original English hashtags (e.g., `#helloworld`).
+- Keep specific English terms when they are part of the game's quirky, fourth-wall-breaking style (e.g., `Side B`, `press play`).
 
-#### 2. **Proper Names**
+#### 2. **Proper Nouns**
 - Never translate: Jim Guthrie, André, Samae
 - Character titles translate: "The Giant" → "El Gigante" / "O Gigante"
 
@@ -407,8 +404,8 @@ This section defines the personality and speaking style for each character to en
 
 #### 4. **Neologisms**
 - "Sworcery" is a core neologism - never use generic "magic"
-- Spanish: **"Espadancia"** (sword + -trance/dance)
-- Portuguese: **"Espadância"** (sword + trance/dance)
+- Spanish: **"Espadancia"** (espada + -ancia).
+- Portuguese: **"Espadância"** (espada + -ância).
 
 #### 5. **Consistency Over Variation**
 - Use exact same term throughout for key concepts
