@@ -8,7 +8,7 @@ SIGN_CHASM	The Scythian			A la vera del Precipicio Peligroso, hallamos una roca 
 SIGN_BIRDTREE	The Scythian			En un camino secundario, encontramos una roca grabada con una serie de símbolos indescifrables.					
 				Entre esos símbolos imposibles de descifrar, alcanzamos a distinguir unos glifos lunares.					
 SIGN_BIRDTREEDECIPHERED	The Scythian			Por un camino secundario, encontramos una roca grabada con una serie de glifos lunares que antes no entendíamos.					
-				Los glifos contaban sobre un sitio secreto cerca de aquí, «donde se puede alterar el humor de la luna».					
+				Los glifos hablaban de un lugar secreto cercano «...donde se puede alterar el humor de la luna».					
 				¿Será la Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			Al margen del antiguo camino encontramos una roca grabada con un par de glifos en forma de espada y escudo. #hinthint			16	004.jpg	T0C4X
 SIGN_ANTECHAMBERLEFT	The Scythian			En un pasaje subterráneo, descubrimos una estatua ominosa, pero no le dimos mayor importancia. #lore			29	005.jpg	V0B53
@@ -67,15 +67,15 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP no busca producir la experiencia t
 				La 'Disposición' se refiere al estado mental y la personalidad que aportas a la experiencia: tus pensamientos, tu ánimo y tus expectativas.					
 				Hablemos de la Disposición y el Entorno para una experiencia positiva con esta obra altamente psicoactiva: Superbrothers: Sword & Sworcery EP.					
 				La conciencia expandida, el potencial ilimitado e inexplorado de la mente, es lo que en Superbrothers llamamos 'Espadancia'. #sworcery					
-				La Espadancia se puede entender como una técnica psiónica que permite percibir una realidad dentro de la que ya conoces.					
-				Para detener la Canción de Espadancia, solo toca dos veces el aura que rodea a La Escita.					
-				Una vez que hayas comenzado a entonar la Canción de Espadancia, desliza el aura para mirar a tu alrededor.					
-				Para entonar la Canción de Espadancia, mantén pulsado sobre La Escita un momento y observa cómo se forma el aura.					
+				La 'Espadancia' es la técnica psiónica que permite percibir una realidad dentro de la que ya conoces.					
+				Para detener la Canción de Espadancia, toca dos veces el aura que rodea a La Escita.					
+				Una vez entonada, desliza el aura para mirar a tu alrededor.					
+				Para entonar la Canción de Espadancia, mantén pulsado sobre La Escita hasta que aparezca el aura.					
 				Como ves, el Megatomo recopila transmisiones de pensamiento lingüístico. Desplázate para ver mis pensamientos previos.					
 ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien hecho, has aprendido la Canción de Espadancia y ahora el inescrutable poder del Megatomo es tuyo."""			47	012.jpg	31E2F
-			adventureUI/megatomeItem	"""El Megatomo intercepta transmisiones de pensamiento lingüístico y contiene todo lo necesario para cumplir tu funesto cometido."""					
+			adventureUI/megatomeItem	"""El Megatomo intercepta transmisiones de pensamiento lingüístico y contiene claves para tu funesto cometido"""					
 			adventureUI/megatomeItem	"""Estoy pensando en algo justo ahora... ¿Por qué no abres el Megatomo y ves qué hay en mi mente?"""					
-				"""Busca un triángulo blanco en la esquina superior derecha... tócalo y luego equipa el Megatomo para revelar lo que está oculto."""					
+				"""Busca un triángulo blanco en la esquina superior derecha; tócalo y equipa el Megatomo para revelar lo oculto."""					
 LOGFELLA_STORM	The Scythian			Tronquero había renunciado a cortar leña debido a la siniestra tormenta. #wetboots					
 			adventureUI/megatomeItem	Él nos recordó que la tormenta había estallado justo después de que recuperamos el Megatomo bajo Mingi Tau.					
 				¿Acaso nos estaba insinuando que debíamos hacer algo para disipar la tormenta? #yes #no #maybe					
@@ -314,7 +314,7 @@ ARCHETYPE_GHOULINTRO	The Archetype
 				Por desgracia, La Escita ha visto su cuerpo y psique gravemente debilitados por la Espadancia; ella está al borde de la muerte.			162	047.jpg	J4F7B
 			Archetype/trifecta	Todo lo que resta es desvelar los secretos del Claro Trigonal y subir el Megatomo al Arremolinado Infinito en la cima de Mingi Tau.					
 				Presiona 'jugar' solo si tienes el valor de presenciar el terrible tormento del martirio.					
-END	The Scythian			En la cima de Mingi Tau, detonamos el Megatomo y lo precipitamos al Arremolinado Infinito.					
+END	The Scythian			En la cima de Mingi Tau detonamos el Megatomo y lo precipitamos al Arremolinado Infinito.					
 END_CHEAT	The Scythian			En la cima de Mingi Tau, subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #cheat					
 END_CHEAT_NOBOOR	The Scythian			En la cima de Mingi Tau, subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #cheat #noboor					
 END_CHEAT_PSYCHO	The Scythian			En la cima de Mingi Tau, subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #cheat #psycho					
@@ -362,7 +362,7 @@ GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau Guau Gu
 				A veces me canso de ladrar tanto, pero un perro hace lo que un perro tiene que hacer.					
 				Guau Snif Guau. #mixingitup					
 				Guau Guau Guau Guau Guau Guau.					
-GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Hay algo extraño en cómo se comportó La Escita, casi como si estuviera siendo controlada por una fuerza invisible.					
+GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Hay algo extraño en La Escita; parecía controlada por una fuerza invisible.					
 				Me gustaría saber más sobre la épica historia de La Escita, apuesto a que entonces todo tendría sentido.					
 GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Ojalá La Escita esté ocupándose de lo de los espíritus silvanos.					
 				Esta tormenta me tiene tan molesto, me hace desear que los videojuegos existieran en... en el momento en que se supone que estamos.					
@@ -396,7 +396,7 @@ GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solo el fin de tu fune
 GCLUE_WATERFALLS	Girl			¿Alguna vez has notado que a veces las palabras suenan como simple ruido, pero otras veces el ruido produce el sonido más bello?			132	058.jpg	G5F8U
 GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Hay un montón de dichos extraños aquí entre los montañeses del Cáucaso.					
 				Hay un dicho aquí en el Cáucaso que dice que un bosque necesita un fuego tanto como el fuego necesita al árbol.					
-YELLOWTRIGON_COLLECTED	The Scythian			Conseguimos El Trigón Dorado. ¡Somos lo máximo!			85	067.jpg	36G7U
+YELLOWTRIGON_COLLECTED	The Scythian			Domamos El Trigón Dorado. ¡Somos lo máximo!			85	067.jpg	36G7U
 PINKTRIGON_COLLECTED	The Scythian			Contra todo pronóstico, nos hicimos con el Trigón Luna Radiante.			155	068.jpg	56F8U
 BLUETRIGON_COLLECTED	The Scythian			A pesar de todo, logramos obtener el Trigón Luna Sombría.			112	069.jpg	T6G94
 GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece que todos los espíritus de La Luna Sombría fueron enviados al cielo, así que de nuevo es temporada de milagros. ¡Adoro los milagros!					
