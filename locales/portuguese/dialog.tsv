@@ -10,7 +10,7 @@ SIGN_BIRDTREE	The Scythian			Em um caminho secundário que se afastava do antigo
 SIGN_BIRDTREEDECIPHERED	The Scythian			Por um caminho secundário, encontramos uma rocha gravada com uma série de glifos lunares que antes não entendíamos.					
 				Os glifos falavam de um lugar secreto perto daqui «...onde se pode alterar o humor da lua».					
 				Será que é a Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
-SIGN_WOLF	The Scythian			À margem do antigo caminho, encontramos uma rocha gravada com um par de glifos em forma de espada e escudo. #hinthint			16	004.jpg	T0C4X
+SIGN_WOLF	The Scythian			À beira do antigo caminho, encontramos uma rocha gravada com um par de glifos em forma de espada e escudo. #hinthint			16	004.jpg	T0C4X
 SIGN_ANTECHAMBERLEFT	The Scythian			Num corredor subterrâneo, descobrimos uma estátua ominosa, mas não nos preocupamos muito com isso. #lore			29	005.jpg	V0B53
 INFO_CROSSMOUNTAINLEFT	The Scythian			Na encosta rochosa de Mingi Tau, uma tumba solitária indica onde termina o caminho de pedras.					
 INFO_CROSSMOUNTAINRIGHT	The Scythian			Na encosta rochosa de Mingi Tau, uma tumba solitária indica onde termina o caminho de pedras.					
@@ -52,14 +52,14 @@ ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo
 				Nesta ocasião, promovemos o isolamento e a reflexão cheia de arrependimento.					
 				Agradecemos sinceramente por você ter decidido participar deste tratamento experimental para a aflição profunda da alma.					
 				Você verá que esta primeira sessão de S:S&S EP é bastante simples e geralmente dura entre 15 e 30 minutos.					
-				Tudo pronto para começar? Pressione 'jogar' e vamos nessa!					
+				Tudo pronto? Pressione 'jogar' e vamos lá!					
 ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
 	The Archetype			Senhoras e senhores, que tal tocarem nestes dois pequenos espíritos silvanos para calibrar o seu sistema de som estéreo?					
 	The Archetype			Desde nossa experiência anterior em 2011, constatamos que as redes sociais têm um impacto prejudicial na sociedade.					
 				Nesta ocasião, promovemos o isolamento e a reflexão cheia de arrependimento.					
 				Agradecemos sinceramente por você ter decidido participar deste tratamento experimental para a aflição profunda da alma.					
 				Você verá que esta primeira sessão de S:S&S EP é bastante simples e geralmente dura entre 15 e 30 minutos.					
-				Você tem fones de ouvido? Tudo pronto para começar? Pressione 'jogar' e vamos lá!					
+				Tudo pronto? Pressione 'jogar' e vamos lá!					
 ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP não busca proporcionar a experiência transcendental, mas simplesmente pretende liberar o sistema nervoso de seus padrões habituais.					
 				Outro aspecto do 'Ambiente' é o cultural: as noções que predominam sobre realidade e normalidade. Evitaremos essa discussão por enquanto.					
 				O 'Ambiente' abrange o conforto, a segurança e o calor do local onde a experiência ocorre.					
@@ -79,7 +79,7 @@ ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muito bem, 
 LOGFELLA_STORM	The Scythian			Troncadeiro parou de cortar lenha devido à sinistra tempestade. #wetboots					
 			adventureUI/megatomeItem	Ele nos lembrou que a tempestade havia estourado logo depois que recuperamos o Megatomo sob Mingi Tau.					
 				Será que ele estava sutilmente insinuando que devíamos fazer algo para dissipar a tempestade? #yes #no #maybe					
-GIRL_STORM	The Scythian			A garota de cabelos escuros conhecida como Samae parecia mergulhada numa tristeza profunda. #woe					
+GIRL_STORM	The Scythian			Samae, a garota de cabelos escuros, era consumida pela melancolia. #woe					
 			gourd/gourd	Desde que a tempestade estourou, ela observava as melódicas espumas dos espíritos silvanos adormecidos nas florestas próximas.					
 			gourd/gourd	Perguntou-se se os três espíritos poderiam ajudar a dissipar a tempestade. #yes					
 			gourd/gourd	Pediu que investigássemos as espumas que borbulhavam na lagoa insondável diante da cabana.					
@@ -113,7 +113,7 @@ INFO_CABINCHIMNEY	The Scythian			Diante de uma lagoa insondável, descobrimos um
 INFO_CABINWOODPILE	The Scythian			Perto da cabana, encontramos uma pilha de lenha, mas não é nada demais.					
 INFO_SPUME	The Scythian			Localizamos as sutis e melódicas espumas de um espírito silvano adormecido. E agora... como despertá-lo?					
 INFO_NESTBOX	The Scythian			Descobrimos um ninho curioso, agora lar de uma 'colmeia miserável'.			13	015.jpg	B1C5F
-INFO_NESTBOXWEATHERED	The Scythian			Vimos um ninho desgastado que parecia um rosto assustador de uma forma estranha.					
+INFO_NESTBOXWEATHERED	The Scythian			Vimos um ninho desgastado com uma inquietante semelhança a um rosto.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre uma ponte de toras no antigo caminho, erguia-se um mastro sinistro decorado com caveiras.					
 INFO_GOLDTRIGONALTAR	The Scythian			Além da vasta caverna na campina, em uma clareira isolada, avistamos um conjunto estranho de estruturas de pedra.					
 			Archetype/trifecta	...Era esta a Clareira Trigônica? #trigongrove			93	016.jpg	B1D6J
@@ -402,7 +402,7 @@ BLUETRIGON_COLLECTED	The Scythian			Apesar de tudo, nos fizemos com o Trígono d
 GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece que todos os espíritos da Lua Sombria foram enviados ao céu, então é novamente época dos milagres. Eu adoro milagres!					
 JIM_HINT1_OFF	The Scythian			Em uma clareira isolada, encontramos um misterioso músico ao lado de uma fogueira crepitante.					
 JIM_PINKDAWN	The Scythian			Em uma clareira isolada, encontramos um misterioso músico ao lado de uma fogueira crepitante. #jimguthrie					
-JIM_BRIGHTMOON	The Scythian			Enquanto a Lua Radiante paira, encontramos um misterioso músico ao lado de uma fogueira crepitante, que se apresentou como Jim Guthrie.			128	070.jpg	07G00
+JIM_BRIGHTMOON	The Scythian			Enquanto a Lua Radiante paira, junto a uma fogueira crepitante conhecemos um músico misterioso que se apresentou como Jim Guthrie.			128	070.jpg	07G00
 JIM_POSTSWORCERY	The Scythian			O misterioso músico conhecido como Jim Guthrie testemunhou nossa Espadância e não pareceu se importar.					
 JIM_POSTGOURD	The Scythian			O misterioso músico conhecido como Jim Guthrie disse que estava pronto para tocar uma pequena canção se quiséssemos ouvi-la.					
 				Jim nos convidou para nos sentarmos ao lado do fogo.					
