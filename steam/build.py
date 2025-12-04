@@ -6,8 +6,11 @@ import subprocess
 
 def main():
     """
-    This is a wrapper script. It calls the main build.py script at the
-    project root with the 'steam' platform argument.
+    Wrapper script for Steam builds.
+
+    This script acts as a shortcut, calling the main build script
+    (utils/build.py) with the 'steam' platform pre-selected. All arguments
+    passed to this script (e.g., dat_path, --locale, --help) are forwarded.
     """
     # Get the directory of this script (e.g., /path/to/swordable/steam)
     script_dir = os.path.dirname(os.path.realpath(__file__))

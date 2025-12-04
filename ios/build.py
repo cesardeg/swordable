@@ -6,8 +6,11 @@ import subprocess
 
 def main():
     """
-    This is a wrapper script. It calls the main build.py script at the
-    project root with the 'ios' platform argument.
+    Wrapper script for iOS builds.
+
+    This script acts as a shortcut, calling the main build script
+    (utils/build.py) with the 'ios' platform pre-selected. All arguments
+    passed to this script (e.g., ipa_path, --locale, --help) are forwarded.
     """
     # Get the directory of this script (e.g., /path/to/swordable/ios)
     script_dir = os.path.dirname(os.path.realpath(__file__))

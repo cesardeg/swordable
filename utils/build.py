@@ -244,15 +244,7 @@ def patch_info_plist(plist_path):
     plist["UISupportedInterfaceOrientations"] = ["UIInterfaceOrientationPortrait"]
     plist["UISupportedInterfaceOrientations~ipad"] = ["UIInterfaceOrientationPortrait"]
 
-    # --- Modern Compatibility & Orientation Lock ---
-    # 1. Opt-out of Scene-Based Lifecycle:
-    # For old, NIB-based apps, the presence of UIApplicationSceneManifest causes a black screen.
-    # Removing it forces iOS 13+ to use the legacy AppDelegate lifecycle, which fixes the launch.
-    if "UIApplicationSceneManifest" in plist:
-        del plist["UIApplicationSceneManifest"]
-        print("Removed UIApplicationSceneManifest to ensure compatibility with older app lifecycle.")
-
-    # 2. Force Full-Screen Mode (iPad Specific Fix):
+    # Force Full-Screen Mode (iPad Specific Fix):
     # On modern iPadOS, the system may still ignore legacy orientation keys to support multitasking.
     # Setting UIRequiresFullScreen to true tells iPadOS that this app cannot do multitasking
     # and MUST run full-screen, which forces it to respect the orientation lock.
@@ -367,16 +359,20 @@ def main():
     parser = argparse.ArgumentParser(description="Unified build script for Sword & Sworcery localization.")
     subparsers = parser.add_subparsers(dest="platform", required=True, help="The platform to build for.")
 
+    # Define shared locale options to avoid repetition
+    AVAILABLE_LOCALES = ["es", "fr", "it", "pt", "ru"]
+    DEFAULT_LOCALE = "es"
+
     # --- Steam Parser ---
     parser_steam = subparsers.add_parser("steam", help="Build for Steam (desktop).")
     parser_steam.add_argument("dat_path", help="Path to the original sworcery.dat file.")
-    parser_steam.add_argument("--locale", default="es", choices=["es", "fr", "it", "pt", "ru"], help="The locale to build.")
+    parser_steam.add_argument("-l", "--locale", default=DEFAULT_LOCALE, choices=AVAILABLE_LOCALES, help="The locale to build.")
     parser_steam.set_defaults(func=build_steam)
 
     # --- iOS Parser ---
     parser_ios = subparsers.add_parser("ios", help="Build for iOS (mobile).")
     parser_ios.add_argument("ipa_path", help="Path to the original .ipa file.")
-    parser_ios.add_argument("--locale", default="es", choices=["es", "fr", "it", "pt", "ru"], help="The locale to build.")
+    parser_ios.add_argument("-l", "--locale", default=DEFAULT_LOCALE, choices=AVAILABLE_LOCALES, help="The locale to build.")
     parser_ios.set_defaults(func=build_ios)
 
     args = parser.parse_args()
