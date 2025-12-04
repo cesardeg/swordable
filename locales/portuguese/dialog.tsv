@@ -39,7 +39,7 @@ LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Troncadei
 				E mesmo assim, não deu nenhuma pista sobre o que fazer, o que, para ser sincero, nos deixou meio atravessado.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		O lenhador tinha visto algum tipo de monstro assustador e decidiu deixar que nós cuidássemos disso.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos o Megatomo e Troncadeiro estava completamente pronto para 'remexer, remexer' até seu refúgio seguro.					
-				Sentimos uma tempestade iminente e, ainda assim, uma pequena canção brotou em nosso coração.					
+				Apesar da tempestade que se formava, uma canção começou a brotar em nosso coração.					
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		À luz da tempestade iminente, Troncadeiro admitiu que sentia um frio na espinha.					
 				Será que Troncadeiro estava tentando nos assustar de propósito? #yes #no #maybe					
 				De qualquer forma, o mais sensato era ficar no abrigo por um tempo.					
@@ -148,7 +148,7 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigônica, além da vasta cav
 				O fantasma resplandecente da Clareira Trigônica, devemos admitir, nos assustou bastante no início.			96	022.jpg	T2B2H
 			adventureUI/megatomeItem	Ao ver nossa vestimenta citiana e o Megatomo, perguntou se entendíamos seus enigmáticos símbolos.					
 				Num sussurro, ele pronunciou o nome do espectro imortal que havíamos despertado nas trevas sob Mingi Tau: a Massa Gogolítica.			166	023.jpg	O2B39
-				Conhecíamos esse nome temível das velhas histórias e sentimos nosso sangue gelar nas veias.					
+				Conhecíamos esse nome temível das velhas histórias e sentimos nosso sangue gelar.					
 				"""Até agora, tive a impressão de que a Massa Gogolítica via você como um simples turista."""					
 			triangle/Triangle	"""Agora que você aprendeu a Canção da Espadância e dominou o Trígono Dourado, cada passo seu estará amaldiçoado."""					
 				Não ficou claro se o fantasma nos animava ou nos advertia.					
@@ -160,7 +160,7 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigônica, além da vasta cav
 GRAVE_LOGBRIDGE	The Scythian			Em um matagal à beira do antigo caminho, umas tumbas despertaram nossa curiosidade.					
 GRAVE_LOGBRIDGEGHOST	The Scythian			Em um matagal à beira do antigo caminho, junto a umas tumbas, conhecemos alguns fantasmas que pareciam amigáveis.			116	025.jpg	62B55
 				O fantasma resplandecente que falou era um gigante que conhecíamos das velhas histórias, cujo famoso retrato exigia obediência. #andre					
-			Archetype/trifecta	"""No ano passado, antes das festas de fim de ano, juntei a galera e partimos para remontar a Tríade Trigônica."""					
+			Archetype/trifecta	"""No ano passado, antes das festas de Yule, juntei a galera e partimos para remontar a Tríade Trigônica."""					
 				"""Tínhamos ouvido falar da entrada para o Remoinhado Infinito no topo de Mingi Tau e achamos que seria algo legal de se ver."""					
 			triangle/Triangle	"""Enfim, domamos o Trígono Dourado e demos uma olhada na Clareira Trigônica antes de sair para procurar o Trígono da Lua Radiante."""					
 				"""Achar o Trígono da Lua Radiante não deu muito certo... nos perdemos totalmente, pra ser sincero."""					
@@ -174,7 +174,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Em um matagal à beira do antigo caminho, ju
 				"""Ficamos ali pensando no que fazer... quando, de repente, a Massa Gogolítica apareceu... credo!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			Ao fio do Precipício Perigoso, uma tumba solitária despertou nossa curiosidade.					
 GRAVE_CHASMGHOST	The Scythian			Ao fio do Precipício Perigoso, junto à tumba solitária do trapaceiro inveterado, conhecemos um velho fantasma resplandecente.					
-			Archetype/trifecta	"""No ano passado, antes das festas de fim de ano, André, 'O Gigante', juntou a galera e partimos para remontar a Tríade Trigônica."""					
+			Archetype/trifecta	"""No ano passado, antes das festas de Yule, André, 'O Gigante', juntou a galera e partimos para remontar a Tríade Trigônica."""					
 				"""Os outros membros da galera foram enterrados em um matagal à beira do antigo caminho, junto à ponte de toras."""					
 			triangle/Triangle	"""Localizamos e domamos o Trígono Dourado com bastante facilidade, mas depois disso ficamos completamente parados."""					
 				"""Procuramos pelo Trígono da Lua Radiante, então decidimos nos sentar e observar o céu, esperando o humor da lua mudar."""					
@@ -601,11 +601,11 @@ ARCHETYPE_CREDITS	The Archetype
 				Voz de Troncadeiro: Robert Ashley, criador do programa de rádio A Life Well Wasted em alifewellwasted.com.					
 				Voz de A Citiana: a fotógrafa Robyn Cumming em robyncumming.com.					
 				Voz de O Arquétipo: o artista e cineasta Clive Holden em cliveholden.com.					
-				Sons cósmicos da Gruta Lunar: Scientific American em scntfc.com.					
+				Sons cósmicos da Gruta Lunar: scntfc em scntfc.com.					
 				* * * APOIO DA CAPY * * *					
 				Produtor executivo, herói do povo, liderança e estratégia: Nathan Vella, presidente da Capy.					
-				Produtor de PC, assistência técnica de áudio, integração FMOD e muitíssimos sons: Sean 'Uber' Lohrisch, cofundador da Capy.					
-				Produc-trão de Nintendo Switch e assistência geral de negócios: Matt Repetski, cofundador da Capy.					
+				PC Producer, assistência técnica de áudio, integração FMOD e muitíssimos sons: Sean 'Uber' Lohrisch, cofundador da Capy.					
+				Nintendo Switch Produc-tron e assistência geral de negócios: Matt Repetski, cofundador da Capy.					
 				Controle de qualidade e mega-herói de testes: Christian 'Sea Dawg' Meyer na Capy.					
 				Programação principal para versão Nintendo Switch e computadores domésticos fornecida por nada menos que Hubert Wong na Capy.					
 				Conceitos de design, implementação e bruxaria de Nintendo Switch preparados por Sadie Lee na Capy.					
@@ -623,7 +623,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Sons adicionais de um milhão de dólares cortesia de Timothy Muirhead.					
 				* * * APOIO DA 8-4 * * *					
 				Tradução japonesa: o mestre das palavras RYUTA YAZAWA.					
-				Edição japonesa, conselhos cruciais e apoio infinito: MASAHIRO YUKI da Grasshopper Manufacture grasshopper.co.jp.					
+				Edição japonesa, conselhos cruciais e apoio infinito: MASAHIRO YUKI da Grasshopper Manufacture em grasshopper.co.jp.					
 				Suporte adicional de localização japonesa fornecido por Yutaka Ohbuchi, John Ricciardi e Masanobu Suto.					
 				Design do incrível logo japonês cortesia de POLYGRAPH em polygraph.jp.					
 				Magia web japonesa por Jonathan Lumb em jonnyram.com.					

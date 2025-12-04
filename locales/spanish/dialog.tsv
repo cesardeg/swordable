@@ -39,7 +39,7 @@ LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Tronquero
 				Y aun así, no soltó palabra sobre qué hacer a continuación, lo que nos sentó un poco mal, para ser sinceros.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador había visto alguna criatura monstruosa y decidió dejárnosla a nosotros.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos el Megatomo y Tronquero estaba completamente listo para 'mover el bote' hasta su refugio.					
-				Sentimos una inminente tormenta y, no obstante, una pequeña canción brotó en nuestro corazón.					
+				A pesar de la tormenta que se avecinaba, una canción empezó a brotar en nuestro corazón.					
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		A la luz de la inminente tormenta, Tronquero admitió que un escalofrío le recorría la espalda.					
 				¿Acaso nos estaba espantando a propósito? #yes #no #maybe					
 				En cualquier caso, lo mejor era quedarse a resguardo durante algún tiempo.					
@@ -148,7 +148,7 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			En el Claro Trigonal, más allá de la vas
 				El fantasma resplandeciente del Claro Trigonal, hemos de admitir, nos asustó bastante al principio.			96	022.jpg	T2B2H
 			adventureUI/megatomeItem	Al ver nuestra vestimenta escita y el Megatomo, preguntó si entendíamos sus enigmáticos símbolos.					
 				En un susurro pronunció el nombre del espectro inmortal que habíamos despertado en la oscuridad bajo Mingi Tau: La Masa Gogolítica.			166	023.jpg	O2B39
-				Conocíamos ese temible nombre por las viejas historias y sentimos cómo se nos helaba la sangre en las venas.					
+				Conocíamos ese temible nombre de las viejas historias y sentimos cómo se nos helaba la sangre.					
 				"""Hasta ahora tenía la impresión de que la Masa Gogolítica te veía como a un simple turista."""					
 			triangle/Triangle	"""Ahora que has aprendido la Canción de Espadancia y domado el Trigón Dorado, cada uno de tus pasos estará maldito."""					
 				No quedó claro si el fantasma nos animaba o nos advertía.					
@@ -160,7 +160,7 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			En el Claro Trigonal, más allá de la vas
 GRAVE_LOGBRIDGE	The Scythian			En un matorral a la vera del antiguo camino, unas tumbas despertaron nuestra curiosidad.					
 GRAVE_LOGBRIDGEGHOST	The Scythian			En un matorral a la vera del antiguo camino, junto a unas tumbas, conocimos a unos fantasmas que parecían bastante amigables.			116	025.jpg	62B55
 				El fantasma que habló era un gigante que conocíamos de las viejas historias, cuyo célebre retrato exigía obediencia. #andre					
-			Archetype/trifecta	"""El año pasado, antes de las fiestas de invierno, junté a mi gente y nos lanzamos a reconstruir la Trífida Trigonal."""					
+			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, junté a mi gente y nos lanzamos a reconstruir la Trífida Trigonal."""					
 				"""Oímos hablar de la entrada al Arremolinado Infinito en la cima de Mingi Tau y pensamos que sería genial verlo."""					
 			triangle/Triangle	"""Así que bueno, domamos el Trigón Dorado y le dimos un vistazo al Claro Trigonal antes de ir a por el Trigón Luna Radiante."""					
 				"""Lo de encontrar el Trigón Luna Radiante no fue muy bien... nos perdimos por completo, la verdad."""					
@@ -174,7 +174,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			En un matorral a la vera del antiguo camino,
 				"""Estábamos allí preguntándonos qué hacer... cuando de pronto apareció la Masa Gogolítica... ¡qué susto!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			Al filo del Precipicio Peligroso, una tumba solitaria despertó nuestra curiosidad.					
 GRAVE_CHASMGHOST	The Scythian			Al filo del Precipicio Peligroso, junto a la tumba solitaria del tramposo redomado, conocimos a un viejo fantasma resplandeciente.					
-			Archetype/trifecta	"""El año pasado, antes de las fiestas de invierno, André 'El Gigante' juntó a su gente y nos lanzamos a reconstruir la Trífida Trigonal."""					
+			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, André 'El Gigante' juntó a su gente y nos lanzamos a reconstruir la Trífida Trigonal."""					
 				"""Los demás miembros de la partida están enterrados en un matorral a la vera del antiguo camino, junto al puente de troncos."""					
 			triangle/Triangle	"""Localizamos y domamos el Trigón Dorado con bastante facilidad, pero después de eso nos quedamos totalmente estancados."""					
 				"""Buscamos el Trigón Luna Radiante, así que decidimos sentarnos y observar el cielo, esperando que el humor de la luna cambiara."""					
@@ -601,11 +601,11 @@ ARCHETYPE_CREDITS	The Archetype
 				Voz de Tronquero: Robert Ashley, creador del programa de radio A Life Well Wasted en alifewellwasted.com.					
 				Voz de La Escita: la fotógrafa Robyn Cumming en robyncumming.com.					
 				Voz de El Arquetipo: el artista y cineasta Clive Holden en cliveholden.com.					
-				Sonidos cósmicos de la Gruta Lunar: Scientific American en scntfc.com.					
+				Sonidos cósmicos de la Gruta Lunar: scntfc en scntfc.com.					
 				* * * APOYO DE CAPY * * *					
 				Productor ejecutivo, héroe del pueblo, liderazgo y estrategia: Nathan Vella, presidente de Capy.					
-				Productor de PC, asistencia técnica de audio, integración FMOD y muchísimos sonidos: Sean 'Uber' Lohrisch, cofundador de Capy.					
-				Produc-trón de Nintendo Switch y asistencia general de negocios: Matt Repetski, cofundador de Capy.					
+				PC Producer, asistencia técnica de audio, integración FMOD y muchísimos sonidos: Sean 'Uber' Lohrisch, cofundador de Capy.					
+				Nintendo Switch Produc-tron y asistencia general de negocios: Matt Repetski, cofundador de Capy.					
 				Control de calidad y mega-héroe de pruebas: Christian 'Sea Dawg' Meyer en Capy.					
 				Programación principal para versión Nintendo Switch y computadoras de hogar proporcionada por nada menos que Hubert Wong en Capy.					
 				Conceptos de diseño, implementación y brujería de Nintendo Switch preparados por Sadie Lee en Capy.					
@@ -623,7 +623,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Sonidos adicionales de un millón de dólares cortesía de Timothy Muirhead.					
 				* * * APOYO DE 8-4 * * *					
 				Traducción japonesa: el maestro de las palabras RYUTA YAZAWA.					
-				Edición japonesa, consejos cruciales y apoyo infinito: MASAHIRO YUKI de Grasshopper Manufacture grasshopper.co.jp.					
+				Edición japonesa, consejos cruciales y apoyo infinito: MASAHIRO YUKI de Grasshopper Manufacture en grasshopper.co.jp.					
 				Soporte adicional de localización japonesa proporcionado por Yutaka Ohbuchi, John Ricciardi y Masanobu Suto.					
 				Diseño del increíble logo japonés cortesía de POLYGRAPH en polygraph.jp.					
 				Magia web japonesa por Jonathan Lumb en jonnyram.com.					
@@ -652,8 +652,8 @@ ARCHETYPE_CREDITS	The Archetype
 				La primera versión jugable de S:S&S EP se presentó a asistentes y amigos en la GDC 2010 en San Francisco del 9 al 13 de marzo de 2010.					
 				Las primeras imágenes de jugabilidad sin editar de la versión GDC 2010 aparecieron simultáneamente en línea.					
 				'Less Talk, More Rock: The Native Language of Videogames' se publicó en línea en Boing Boing en marzo de 2010 y puedes buscarlo en Google.					
-				'The Intoxication of Mythology' se presentó por un representante de Superbrothers el 22 de septiembre de 2010 en Fantastic Arcade de Austin.					
-				'Aiming for Audiovisual Alchemy' se presentó por Jim Guthrie, Kris Piotrowski y un representante de Superbrothers en Gamercamp de Toronto.					
+				'The Intoxication of Mythology' fue presentada por un representante de Superbrothers el 22 de septiembre de 2010 en el Fantastic Arcade de Austin.					
+				'Aiming for Audiovisual Alchemy' fue presentada por Jim Guthrie, Kris Piotrowski y un representante de Superbrothers en el Gamercamp de Toronto.					
 				Se publicó un nuevo clip titulado 'Audience Calibration Procedure' el jueves 24 de febrero de 2011 para iniciar el lanzamiento.					
 				S:S&S EP finalmente estuvo disponible para iPad, iPhone e iPod Touch cerca del equinoccio de primavera de 2011.					
 				Organizamos MIDSUMMER ROCKSHOWCASE en TIFF Lightbox de Toronto presentando material de S&S en vivo de Jim Guthrie - fue realmente agradable.					
@@ -668,7 +668,7 @@ ARCHETYPE_CREDITS	The Archetype
 				S:S&S EP fue desempolvado y actualizado para asegurar que el juego siguiera funcionando en los últimos sistemas operativos.					
 				Superbrothers, un pequeño estudio de arte y videojuegos en su 20º año, opera desde los bosques de Quebec y la costa oeste de Canadá.					
 				Desde S:S&S EP, Superbrothers y Jim Guthrie contribuyeron a Sound Shapes (2012) (Queasy Games) (PS + PC).					
-				Superbrothers soñó nuevos sueños y entregó JETT: The Far Shore + Given Time (2021/23) (PS + PC), una saga de ciencia ficción con música de scntfc.					
+				Superbrothers soñó nuevos sueños y entregó JETT: The Far Shore + Given Time (2021/23) (PS + PC), una saga de ciencia ficción con música del compositor scntfc.					
 				A partir de 2023, un nuevo proyecto de píxeles se gesta en Superbrothers.					
 				Capy Games lanzó el hiperactivo rebobinador de tiempo Super Time Force Ultra (2014) (PS + PC + Xbox).					
 				En 2018, Capy entregó Below, un roguelike de acción-aventura sobre un guerrero explorando las profundidades de una isla remota (PS + PC + Xbox).					
