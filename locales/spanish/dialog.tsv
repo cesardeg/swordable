@@ -264,7 +264,7 @@ ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			Para domar el Trigón Dorado debes s
 				Es crucial que mantengas pulsado el botón del escudo cuando puedas para recobrar tu fuerza perdida.					
 				Veo que has invocado e intentado domar el Trigón Dorado. Tengo algunas cosas que comentarte que creo te serán útiles.					
 ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Golpea los ataques de proyectiles psiónicos del Trigón con tu espada y espera la oportunidad para esquivar sus ataques cargados.			83	040.jpg	34E01
-				La lógica inescrutable del Trigón Dorado ha reclamado las almas de quienes te precedieron... ellos carecían de tenacidad y coraje.					
+				La inescrutable lógica del Trigón Dorado ha reclamado las almas de quienes te precedieron... ellos carecían de tenacidad y coraje.					
 ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			El Trigón Dorado debe ser domado, no hay otra opción.					
 				En el tercer patrón, debes golpear los pequeños proyectiles triangulares con tu espada y esquivar los ataques cargados.					
 				En el segundo patrón, debes esperar su ataque cargado y pulsar el botón de escudo en el momento adecuado para esquivarlo.					
@@ -275,13 +275,13 @@ ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Quizá ya te hayas enfrentado al odi
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			El patrón final del Trigón Luna Sombría implica sutiles proyectiles triangulares. Destrúyelos y sobrevivirás.					
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que despertaste al espectro inmortal que acechaba en la oscuridad bajo Mingi Tau... ¡Uf!					
 				En consecuencia, se vislumbra una siniestra tormenta y la gente encantadora que vive en la choza de piedra se siente desolada.					
-			adventureUI/megatomeItem	El resultado es que tienes un pesado libro conocido como el Megatomo. En nuestra próxima sesión hablaremos de su extraño propósito.					
+			adventureUI/megatomeItem	La buena noticia es que tienes un pesado libro conocido como el Megatomo. En nuestra próxima sesión hablaremos de su extraño propósito.					
 				Nuestra investigación muestra que la exposición prolongada a la psicosmología mitopoética de S:S&S EP puede causar efectos adversos.					
 				Así que ahora que completaste la Sesión I, ¿qué tal si descansamos un poco? Estaré justo aquí cuando quieras comenzar la Sesión II.					
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
 				Me alegra verte de nuevo. ¿Comenzamos con la Sesión II de S:S&S EP?					
 			adventureUI/megatomeItem	Bien, ¿en qué estábamos? Ah, sí, ya me acuerdo. Conseguiste un pesado libro conocido como el Megatomo.					
-				Despertaste a un espectro inmortal que aún acecha en la oscuridad bajo Mingi Tau. Vaya tipo, ¿eh?			204	042.jpg	24B2J
+				Despertaste al espectro inmortal que aún acecha en la oscuridad bajo Mingi Tau. Vaya tipo, ¿eh?			204	042.jpg	24B2J
 				Son tiempos de angustia: una siniestra tormenta ha nublado el cielo y la gente encantadora que vive en la choza está desolada.					
 				Disipar la tormenta requerirá cierta familiaridad con la psiónica, la criptozoología y los milagros...					
 			adventureUI/megatomeItem	1. El toque de un espadancista liberará el Megatomo, revelando los pensamientos no expresados de criaturas vivas y otro material esotérico.					
@@ -297,7 +297,7 @@ ARCHETYPE_TRIFECTAINTRO	The Archetype
 				Comencemos con la Sesión III. Nota: Esta sesión generalmente requiere un mes lunar para completarse.					
 			triangle/Triangle	¿Así que domaste el Trigón Dorado y la tormenta se disipó milagrosamente? ¡Bravo!					
 			adventureUI/megatomeItem	Consulta el Megatomo y estudia su funcionamiento si te pierdes o sientes confusión.					
-				Un espectro inmortal aún acecha en la oscuridad bajo Mingi Tau.					
+				El espectro inmortal aún acecha en la oscuridad bajo Mingi Tau.					
 			Archetype/trifecta	Considera la geometría cósmica de la Trífida Trigonal.					
 			MoonCrescent/moonCrescent	Observa el humor de la luna.			118	045.jpg	Y4E5Q
 				Nuestra investigación demuestra que los pocos que persisten en medio de la locura oblicua subsiguiente pueden volverse amigos cósmicos para siempre.					

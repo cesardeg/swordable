@@ -264,7 +264,7 @@ ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			Para domar o Trígono Dourado, você
 				É absolutamente fundamental que você segure o botão do escudo sempre que puder para recuperar sua força perdida.					
 				Vejo que você já invocou e tentou domar o Trígono Dourado. Tenho algumas coisas para te contar que acredito que serão úteis.					
 ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Rebata os ataques de projéteis psiônicos do Trígono com sua espada e espere a oportunidade para esquivar de seus ataques de raio.			83	040.jpg	34E01
-				A lógica inescrutável do Trígono Dourado ceifou as almas de todos que vieram antes... eles não tinham tenacidade e coragem.					
+				A inescrutável lógica do Trígono Dourado ceifou as almas de todos que vieram antes... eles não tinham tenacidade e coragem.					
 ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			O Trígono Dourado deve ser domado, não há outra opção.					
 				No terceiro padrão, você deve rebater os pequenos projéteis triangulares com sua espada e esquivar dos ataques de raio.					
 				No segundo padrão, espere pelo ataque carregado e pressione o botão de escudo no momento adequado para esquivar.					
@@ -275,13 +275,13 @@ ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Você pode já ter encontrado o odio
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Sombria envolve projéteis triangulares furtivos e sutis. Destrua-os e você sobreviverá.					
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então você despertou o espectro imortal que espreitava nas trevas sob Mingi Tau... Au!					
 				Consequentemente, uma sinistra tempestade se avizinha e as pessoas adoráveis que vivem na cabana de pedra se sentem desoladas.					
-			adventureUI/megatomeItem	O resultado é que você tem um livro pesado conhecido como o Megatomo. Em nossa próxima sessão, falaremos sobre seu estranho propósito.					
+			adventureUI/megatomeItem	A boa notícia é que você tem um livro pesado conhecido como o Megatomo. Em nossa próxima sessão, falaremos sobre seu estranho propósito.					
 				Nossa pesquisa mostra que a exposição prolongada à psicosmologia mitopoética de S:S&S EP pode causar efeitos adversos.					
 				Agora que você completou a Sessão I, que tal uma pausa? Estarei aqui quando você quiser começar a Sessão II.					
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
 				É bom te ver novamente. Vamos começar a Sessão II de S:S&S EP?					
 			adventureUI/megatomeItem	Ótimo, onde estávamos? Ah, sim, já me lembro, você conseguiu um livro pesado conhecido como o Megatomo.					
-				Você despertou um espectro imortal que ainda espreita nas trevas sob Mingi Tau. Que tipo, hein?			204	042.jpg	24B2J
+				Você despertou o espectro imortal que ainda espreita nas trevas sob Mingi Tau. Que tipo, hein?			204	042.jpg	24B2J
 				São tempos de angústia: uma sinistra tempestade cobriu o céu e as pessoas adoráveis que vivem na cabana estão infelizes.					
 				Desfazer a tempestade exigirá algum conhecimento em psiônica, criptozoologia e milagres...					
 			adventureUI/megatomeItem	1. O toque de um espadancista liberará O Megatomo, revelando os pensamentos não expressos das criaturas vivas e outros materiais esotéricos.					
@@ -297,7 +297,7 @@ ARCHETYPE_TRIFECTAINTRO	The Archetype
 				Vamos começar com a Sessão III. Observação: Esta sessão geralmente leva um mês lunar para ser concluída.					
 			triangle/Triangle	Então, você domou o Trígono Dourado e a tempestade dissipou-se milagrosamente? Bravo!					
 			adventureUI/megatomeItem	Consulte o Megatomo e estude seu funcionamento se você se perder ou sentir confusão.					
-				Um espectro imortal ainda espreita nas trevas sob Mingi Tau.					
+				O espectro imortal ainda espreita nas trevas sob Mingi Tau.					
 			Archetype/trifecta	Considere a geometria cósmica da Tríade Trigônica.					
 			MoonCrescent/moonCrescent	Observe o humor da lua.			118	045.jpg	Y4E5Q
 				Nossa pesquisa demonstra que os poucos que persistem em meio à loucura oblíqua subsequente podem se tornar amigos cósmicos para sempre.					
