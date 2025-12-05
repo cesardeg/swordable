@@ -8,7 +8,7 @@ SIGN_CHASM	The Scythian			A la vera del Precipicio Peligroso, hallamos una roca 
 SIGN_BIRDTREE	The Scythian			En un camino secundario, encontramos una roca grabada con una serie de símbolos indescifrables.					
 				Entre esos símbolos imposibles de descifrar, alcanzamos a distinguir unos glifos lunares.					
 SIGN_BIRDTREEDECIPHERED	The Scythian			Por un camino secundario, encontramos una roca grabada con una serie de glifos lunares que antes no entendíamos.					
-				Los glifos hablaban de un lugar secreto cercano «...donde se puede alterar el humor de la luna».					
+				Los glifos hablaban de un lugar secreto cerca de aquí «...donde se puede alterar el humor de la luna».					
 				¿Será la Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			A la vera del antiguo camino encontramos una roca grabada con un par de glifos en forma de espada y escudo. #hinthint			16	004.jpg	T0C4X
 SIGN_ANTECHAMBERLEFT	The Scythian			En un pasaje subterráneo, descubrimos una estatua ominosa, pero no le dimos mayor importancia. #lore			29	005.jpg	V0B53
@@ -27,7 +27,7 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador leñador
 				Era evidente que no le hacía mucha gracia el asunto.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		El leñador nos esperó para continuar por el antiguo camino.			12	008.jpg	U0D88
 LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Atravesamos el abismo y, para qué negarlo, nos sentimos súper listos.			22	009.jpg	L0B9S
-			adventureUI/megatomeItem	Le contamos a Tronquero que estábamos en busca de un inquietante libro de oscura magia conocido como el Megatomo.					
+			adventureUI/megatomeItem	Le contamos a Tronquero que estábamos en busca de un inquietante libro de siniestra magia conocido como el Megatomo.					
 			adventureUI/megatomeItem	El Megatomo estaba oculto más allá del Precipicio Peligroso, en algún lugar de la oscuridad bajo Mingi Tau.					
 			adventureUI/megatomeItem	Decidimos ir a por el Megatomo y luego salir de allí con vida.					
 LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó que tenía la única llave para la puerta trancada del muro de piedra.					
