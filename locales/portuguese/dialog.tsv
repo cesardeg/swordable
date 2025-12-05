@@ -97,12 +97,12 @@ INFO_BIRDEYESCULPTURE	The Scythian			Na campina, descobrimos a imponente escultu
 INFO_MEADOWSHEEP	The Scythian			Na campina, observamos algumas ovelhas inúteis vadiando. #worthlesssheep					
 INFO_CABINSHEEP	The Scythian			Outra ovelha inútil, por que continuamos olhando para elas? #worthlesssheep					
 INFO_MEADOWSUN	The Scythian			Ainda nos lembramos de como o sol brilhava naquele primeiro dia de primavera.					
-INFO_MEADOWGATE	The Scythian			Na campina, deparamo-nos com um portão de ferro impenetrável que bloqueava uma vasta caverna.					
-INFO_MEADOWGATEACTIVE	The Scythian			Na campina, avistamos um portão e tivemos a sensação de que talvez pudéssemos abri-lo de alguma forma.					
-INFO_MEADOWGATETRIGONACTIVE	The Scythian			Sobre o portão de ferro, notamos um troço com a forma do Trígono Dourado. Será que reagiria à nossa Canção da Espadância?					
-INFO_MEADOWGATETRIGON	The Scythian			Sobre o portão de ferro, distinguimos um troço.					
+INFO_MEADOWGATE	The Scythian			Na campina, topamos com um portão de ferro impenetrável que bloqueava uma vasta caverna.					
+INFO_MEADOWGATEACTIVE	The Scythian			Na campina, observamos um portão e tivemos a sensação de que talvez pudéssemos abri-lo de alguma forma.					
+INFO_MEADOWGATETRIGONACTIVE	The Scythian			Sobre o portão de ferro, distinguimos um troço com a forma do Trígono Dourado. Será que reagiria à nossa Canção da Espadância?					
+INFO_MEADOWGATETRIGON	The Scythian			Sobre o portão de ferro, notamos um troço.					
 INFO_LOCKEDDOORSTONEWALL	The Scythian			O antigo caminho para Mingi Tau estava fechado por uma porta trancada no muro de pedra e, aparentemente, a chave estava perdida nos sonhos.					
-INFO_LOOMINGBIRDSCULPTURES	The Scythian			Na campina, vimos a imponente escultura de um 'pássaro zangado'. #subtlereference					
+INFO_LOOMINGBIRDSCULPTURES	The Scythian			Na campina, avistamos a imponente escultura de um 'pássaro zangado'. #subtlereference					
 INFO_MEADOWSUNSTICK	The Scythian			Na campina, reparamos em um cajado de formato estranho.					
 INFO_CABINWELL	The Scythian			Avistamos um poço solidamente construído com um amplo telhado de madeira.					
 INFO_UNWELLWELL	The Scythian			O poço soltou um soluço. #unwell #well					
@@ -122,24 +122,24 @@ INFO_DARKTRIGONALTAR	The Scythian			Na Clareira Trigônica, encontramos outra es
 				Nos perguntamos o que aconteceria se golpeássemos a estrutura de pedra com nossa espada.					
 INFO_BRIGHTTRIGONALTAR	The Scythian			Na Clareira Trigônica, descobrimos outra estrutura de pedra com um glifo circular que representava a Lua Radiante. #brightmoontrigon					
 				Nos perguntamos o que aconteceria se golpeássemos a estrutura de pedra com nossa espada.					
-INFO_STONEHEAD	The Scythian			No Precipício Perigoso, distinguimos uma escultura de cabeça esculpida na rocha com a boca escancarada.			24	017.jpg	61B76
-INFO_STONEHEADSHUT	The Scythian			No Precipício Perigoso, vimos uma escultura de cabeça esculpida na rocha que nos parecia familiar.					
+INFO_STONEHEAD	The Scythian			No Precipício Perigoso, notamos uma escultura de cabeça esculpida na rocha com a boca escancarada.			24	017.jpg	61B76
+INFO_STONEHEADSHUT	The Scythian			No Precipício Perigoso, distinguimos uma escultura de cabeça esculpida na rocha que nos parecia familiar.					
 INFO_STONEHEADFLAGPOLE	The Scythian			Sobre uma grande escultura de pedra, erguia-se um mastro sinistro decorado com caveiras ou formas semelhantes.					
-INFO_CHASMSTONESHELTER	The Scythian			Perto do Precipício Perigoso, notamos um impressionante dólmen com dois confortáveis assentos de pedra.			25	018.jpg	O1C8M
+INFO_CHASMSTONESHELTER	The Scythian			Perto do Precipício Perigoso, avistamos um impressionante dólmen com dois confortáveis assentos de pedra.			25	018.jpg	O1C8M
 INFO_SKULLPOLE	The Scythian			Sobre uma ponte oscilante, erguia-se um sinistro poste decorado com uma caveira com chifres.					
-INFO_TRIFECTASYMBOL	The Scythian			Sobre a entrada esculpida na rocha do templo da montanha, avistamos uma representação pictórica da Tríade Trigônica.					
-INFO_MOUNTAINGATE	The Scythian			No interior do templo da montanha, avistamos um portão de ferro impenetrável. Mais adiante, pudemos ver a nublada paisagem montanhosa de Mingi Tau.					
-INFO_MOUNTAINGATETRIGON	The Scythian			No interior do templo da montanha, num corredor elevado, avistamos três formas triangulares estranhas.					
-INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			No interior do templo da montanha, num corredor elevado, avistamos o símbolo da Tríade Trigônica.					
+INFO_TRIFECTASYMBOL	The Scythian			Sobre a entrada esculpida na rocha do templo da montanha, notamos uma representação pictórica da Tríade Trigônica.					
+INFO_MOUNTAINGATE	The Scythian			No interior do templo da montanha, encontramos um portão de ferro impenetrável. Mais adiante, pudemos ver a nublada paisagem montanhosa de Mingi Tau.					
+INFO_MOUNTAINGATETRIGON	The Scythian			No interior do templo da montanha, num corredor elevado, notamos três formas triangulares estranhas.					
+INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			No interior do templo da montanha, num corredor elevado, distinguimos o símbolo da Tríade Trigônica.					
 INFO_CABINRECORD	The Scythian			Dentro da cabana, sobre o fogo, reparamos em um pequeno trambolho redondo. #theballadofthespacebabies			46	019.jpg	P1D99
 INFO_CABINHEARTH	The Scythian			Dentro da cabana, o fogo crepitava tranquilamente, proporcionando um calor reconfortante.					
 INFO_CABINSEAT	The Scythian			Dentro da cabana, em ambos os lados do fogo, observamos dois rústicos assentos de madeira.					
-INFO_GOGOLITHICMASS	The Scythian			Nas trevas sob Mingi Tau, avistamos uma caveira com chifres a flutuar.					
-INFO_MEGATOMBTRIFECTA	The Scythian			Nas trevas sob Mingi Tau, avistamos uma representação pictórica da Tríade Trigônica.					
-INFO_ROCKSHOWGIRL	The Scythian			No show de rock, avistamos Samae e nos pareceu que ela sussurrou algo como 'Fogo, ande comigo'.					
+INFO_GOGOLITHICMASS	The Scythian			Nas trevas sob Mingi Tau, notamos uma caveira com chifres a flutuar.					
+INFO_MEGATOMBTRIFECTA	The Scythian			Nas trevas sob Mingi Tau, distinguimos uma representação pictórica da Tríade Trigônica.					
+INFO_ROCKSHOWGIRL	The Scythian			No show de rock, encontramos Samae e nos pareceu que ela sussurrou algo como 'Fogo, ande comigo'.					
 INFO_ROCKSHOWSKOLOTOI	The Scythian			No show de rock, notamos um daqueles esqueletos vibrando ao ritmo sinistro.					
 INFO_ROCKSHOWJIM	The Scythian			Encabeçando o show de rock, vimos o misterioso músico conhecido como Jim Guthrie.			160	020.jpg	T2G03
-INFO_ROCKSHOWBOOR	The Scythian			No show de rock, encontramos o Patife Grisalho balançando sua coisa nua.			121	021.jpg	E2G15
+INFO_ROCKSHOWBOOR	The Scythian			No show de rock, avistamos o Patife Grisalho balançando sua coisa nua.			121	021.jpg	E2G15
 INFO_ROCKSHOWCROWD	The Scythian			No show de rock, observamos uma multidão considerável de damas e cavalheiros.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			No show de rock, distinguimos o personagem conhecido como O Arquétipo e nos perguntamos o que ele estava tramando com tudo isso.					
 INFO_TRIGONGROVESKULLSTICK	The Scythian			Um sinistro poste decorado com uma caveira com chifres conecta este lugar ao espectro imortal que espreita sob Mingi Tau.					
@@ -232,10 +232,10 @@ GIRL_FOUNDKEYTHOUGHTS	Girl			Mais um ou dois espíritos silvanos enviados ao cé
 GIRL_SUPERMOTHERTREE	Girl			Em minhas caminhadas nos sonhos, há uma calma emocionante quando a lua brilha mais... e quando a lua está escura, as florestas se tornam selvagens.					
 				Nos sonhos, os lugares e espaços são sempre os mesmos, exceto quando variam de acordo com o humor da lua.					
 				Todas as noites desde que a tempestade se dissipou, tenho tido o mesmo sonho em que caminho pela floresta na hora antes do amanhecer.					
-ARCHETYPE_TREEHINT	The Archetype			Lembre-se de que o consumo de cogumelos florestais pode proporcionar uma visão oblíqua dos fenômenos criptozoológicos e coisas do tipo.					
+ARCHETYPE_TREEHINT	The Archetype			Lembre-se de que o consumo de cogumelos florestais pode oferecer certa perspectiva dos fenômenos criptozoológicos e coisas do tipo.					
 				Busque as melódicas espumas dos espíritos silvanos e investigue seu entorno.					
 				Uma vez que tenha iniciado a Canção da Espadância, você pode tocar a aura e deslizar para olhar ao seu redor.					
-ARCHETYPE_TREEHINT_NINSWITCH	The Archetype			Lembre-se de que o consumo de cogumelos florestais pode proporcionar uma visão oblíqua dos fenômenos criptozoológicos e coisas do tipo.					
+ARCHETYPE_TREEHINT_NINSWITCH	The Archetype			Lembre-se de que o consumo de cogumelos florestais pode oferecer certa perspectiva dos fenômenos criptozoológicos e coisas do tipo.					
 				Busque as melódicas espumas dos espíritos silvanos e investigue seu entorno.					
 				Uma vez que tenha iniciado a Canção da Espadância, você pode tocar a aura e deslizar para olhar ao redor.					
 ARCHETYPE_MUSHROOMHINT	The Archetype			Também foi afirmado que cogumelos adivinhatórios podem ter desempenhado um papel importante no desenvolvimento da psique humana.					
@@ -256,7 +256,7 @@ LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Senti um frio na espinha... Com ce
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Au Au Au Au Au Au Au Au. #stillbarking #miracles			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			Uma vez que o sol estiver alinhado, você receberá o dom de dobrar a realidade do grande mago 'Al Jaffee'.					
 				Sente essa sensação peculiar? É época de milagres! Entoe a Canção da Espadância e olhe para os imponentes 'Angry Birds'.			76	038.jpg	A3G84
-ARCHETYPE_MEADOWHINTTWO	The Archetype			Olhe para o céu em busca de uma visão oblíqua sobre o funcionamento deste milagre da campina e admire o Trígono Dourado.					
+ARCHETYPE_MEADOWHINTTWO	The Archetype			Olhe para o céu em busca de certa perspectiva sobre o funcionamento deste milagre da campina e admire o Trígono Dourado.					
 ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... interessante como você lidou com aquele encontro com o canibal de cabeça de urso.			120	039.jpg	O3G9D
 				Não, não se preocupe, está tudo bem, é apenas interessante. Eu nunca tinha visto alguém fazer o que você fez. É excepcional, mas não se alarme.					
 				Bem, vamos continuar. Ainda há muitas coisas para você aproveitar em sua experiência com S:S&S EP, especialmente no Lado B.					
