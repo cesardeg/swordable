@@ -319,6 +319,15 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 - Location names: **"El Precipicio Peligroso"** (proper noun)
 - Moon phases: **"Luna Radiante"** (both capitalized)
 
+#### 6. **Majestic Plural & Gender Agreement (`Plural Mayestático`)**
+- **Context:** The Scythian uses the majestic plural "we" ("nosotros") throughout her narration.
+- **Rule:** When an adjective modifies this "we," the masculine/neuter plural form (e.g., `listos`, `cansados`) must be used, even though The Scythian is female.
+- **Rationale:** This is a critical stylistic choice to preserve player immersion. The "we" is intentionally ambiguous, representing both The Scythian and the player. Using the feminine plural (`listas`) would break this connection for non-female players. The masculine plural acts as a gender-neutral form, ensuring all players feel included in the narrative.
+- ✅ **Correct:** `...cómo nos volvimos tan listos.`
+- ❌ **Incorrect:** `...cómo nos volvimos tan listas.`
+
+
+
 ---
 
 ### Portuguese (PT-BR) Style Rules
