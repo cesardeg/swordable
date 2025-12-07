@@ -128,7 +128,7 @@ INFO_STONEHEADFLAGPOLE	The Scythian			Sobre una gran escultura tallada en roca, 
 INFO_CHASMSTONESHELTER	The Scythian			Cerca del Precipicio Peligroso, divisamos un impresionante dólmen con dos cómodos asientos de piedra.			25	018.jpg	O1C8M
 INFO_SKULLPOLE	The Scythian			Sobre un puente tambaleante, se erguía un siniestro poste decorado con una calavera con cuernos.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre la entrada tallada en la roca del templo de la montaña, notamos una representación pictórica de la Trífida Trigonal.					
-INFO_MOUNTAINGATE	The Scythian			En lo profundo del templo de la montaña, hallamos un portón de hierro impenetrable. Más allá, pudimos ver el nublado paisaje montañoso de Mingi Tau.					
+INFO_MOUNTAINGATE	The Scythian			En lo profundo del templo de la montaña, hallamos un portón de hierro impenetrable, tras el cual vimos el nublado paisaje montañoso de Mingi Tau.					
 INFO_MOUNTAINGATETRIGON	The Scythian			En lo profundo del templo de la montaña, sobre un pasaje elevado, notamos tres formas triangulares extrañas.					
 INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			En lo profundo del templo de la montaña, sobre un pasaje elevado, distinguimos el símbolo de la Trífida Trigonal.					
 INFO_CABINRECORD	The Scythian			Dentro de la choza, sobre el hogar, nos percatamos de un pequeño y redondeado cachivache. #theballadofthespacebabies			46	019.jpg	P1D99
@@ -445,7 +445,7 @@ DOGFELLA_GETDARKTRIGON	The Scythian			Después de activar otro haz celestial en 
 DOGFELLA_GETBRIGHTTRIGON	The Scythian			Después de activar otro haz celestial en el Claro Trigonal, notamos algo peculiar en el perro llamado Perrero.					
 			Archetype/trifecta	De repente, pareció que lo entendíamos: nos instó a buscar el Trigón Luna Radiante y completar la Trífida Trigonal.					
 DOGFELLA_THREETRIGONS	The Scythian			Después de activar otro haz celestial en el Claro Trigonal, notamos algo peculiar en el perro llamado Perrero.					
-			Archetype/trifecta	De repente, pareció que lo entendíamos: nos instó a activar el tercer haz celestial y abrir la entrada al Arremolinado Infinito.					
+			Archetype/trifecta	De repente, pareció que lo entendíamos: nos instó a activar el tercer haz y abrir la entrada al Arremolinado Infinito.					
 DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.					
 				Guau Guau Snif Guau.					
 				El cosmos en el Arremolinado Infinito en la cima de Mingi Tau espera a quien lleva el Megatomo.					

@@ -128,7 +128,7 @@ INFO_STONEHEADFLAGPOLE	The Scythian			Sobre uma grande escultura de pedra, ergui
 INFO_CHASMSTONESHELTER	The Scythian			Perto do Precipício Perigoso, avistamos um impressionante dólmen com dois confortáveis assentos de pedra.			25	018.jpg	O1C8M
 INFO_SKULLPOLE	The Scythian			Sobre uma ponte oscilante, erguia-se um sinistro poste decorado com uma caveira com chifres.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre a entrada esculpida na rocha do templo da montanha, notamos uma representação pictórica da Tríade Trigônica.					
-INFO_MOUNTAINGATE	The Scythian			No interior do templo da montanha, encontramos um portão de ferro impenetrável. Mais adiante, pudemos ver a nublada paisagem montanhosa de Mingi Tau.					
+INFO_MOUNTAINGATE	The Scythian			No interior do templo da montanha, avistamos um portão de ferro impenetrável, além do qual vimos a nublada paisagem montanhosa de Mingi Tau.					
 INFO_MOUNTAINGATETRIGON	The Scythian			No interior do templo da montanha, num corredor elevado, notamos três formas triangulares estranhas.					
 INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			No interior do templo da montanha, num corredor elevado, distinguimos o símbolo da Tríade Trigônica.					
 INFO_CABINRECORD	The Scythian			Dentro da cabana, sobre o fogo, reparamos em um pequeno trambolho redondo. #theballadofthespacebabies			46	019.jpg	P1D99
@@ -445,7 +445,7 @@ DOGFELLA_GETDARKTRIGON	The Scythian			Depois de ativar outro facho celestial na 
 DOGFELLA_GETBRIGHTTRIGON	The Scythian			Depois de ativar outro facho celestial na Clareira Trigônica, notamos algo peculiar no cachorro chamado Cachorreiro.					
 			Archetype/trifecta	De repente, parecia que entendíamos o que ele estava dizendo: nos instigou a buscar o Trígono da Lua Radiante e completar a Tríade Trigônica.					
 DOGFELLA_THREETRIGONS	The Scythian			Depois de ativar outro facho celestial na Clareira Trigônica, notamos algo peculiar no cachorro chamado Cachorreiro.					
-			Archetype/trifecta	De repente, parecia que entendíamos o que ele estava dizendo: nos instigou a ativar o terceiro facho celestial e abrir a entrada para o Remoinhado Infinito.					
+			Archetype/trifecta	De repente, parecia que entendíamos o que ele estava dizendo: nos instigou a ativar o terceiro facho e abrir a entrada para o Remoinhado Infinito.					
 DOGFELLA_TRUTHBOMB	Dogfella			Au Au Au.					
 				Au Au Snif Au.					
 				O cosmos no Remoinhado Infinito no topo de Mingi Tau aguarda quem carrega o Megatomo.					
