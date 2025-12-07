@@ -93,7 +93,7 @@ ARCHETYPE_TADPOLES	The Archetype			Era evidente que el hombre de ropas extrañas
 			gourd/gourd	"""Guía a las dos pequeñas criaturas que nadan hacia donde duerme el espíritu y envíalas al cielo con tres toques de Espadancia."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Samae se resguardaba de la lluvia bajo el amplio tejado de madera del pozo.					
 				Abandonó la comodidad del fuego en la choza porque, al parecer, Tronquero estaba hecho un manojo de nervios por algo.					
-INFO_BIRDEYESCULPTURE	The Scythian			En el prado, descubrimos la imponente escultura de un 'pájaro enojado'. #subtlereference			6	014.jpg	F1D48
+INFO_BIRDEYESCULPTURE	The Scythian			En el prado, divisamos la imponente escultura de un 'pájaro enojado'. #subtlereference			6	014.jpg	F1D48
 INFO_MEADOWSHEEP	The Scythian			En el prado, observamos unas cuantas ovejas inútiles holgazaneando. #worthlesssheep					
 INFO_CABINSHEEP	The Scythian			Otra oveja inútil, ¿por qué seguimos mirándolas? #worthlesssheep					
 INFO_MEADOWSUN	The Scythian			Todavía nos acordamos de cómo brillaba el sol aquel primer día de primavera.					
@@ -101,7 +101,7 @@ INFO_MEADOWGATE	The Scythian			En el prado, nos topamos con un portón de hierro
 INFO_MEADOWGATEACTIVE	The Scythian			En el prado, observamos un portón de hierro y tuvimos la sensación de que tal vez podríamos abrirlo.					
 INFO_MEADOWGATETRIGONACTIVE	The Scythian			Sobre el portón de hierro, distinguimos un nosequé con la forma del Trigón Dorado, ¿reaccionaría a nuestra Canción de Espadancia?					
 INFO_MEADOWGATETRIGON	The Scythian			Sobre el portón de hierro, notamos un nosequé.					
-INFO_LOCKEDDOORSTONEWALL	The Scythian			El antiguo camino hacia Mingi Tau estaba bloqueado por una puerta trancada en el muro de piedra y, al parecer, la llave se había perdido en los sueños.					
+INFO_LOCKEDDOORSTONEWALL	The Scythian			Una puerta trancada en el muro de piedra bloqueaba el antiguo camino hacia Mingi Tau y, al parecer, la llave se había perdido en los sueños.					
 INFO_LOOMINGBIRDSCULPTURES	The Scythian			En el prado, avistamos la imponente escultura de un 'pájaro enojado'. #subtlereference					
 INFO_MEADOWSUNSTICK	The Scythian			En el prado, nos percatamos de un palo con forma extraña.					
 INFO_CABINWELL	The Scythian			Avistamos un pozo sólidamente construido con un amplio tejado de madera.					
@@ -208,7 +208,7 @@ ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	¿Qué tal si te sienta
 GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Vaya, Tronquero está hecho un manojo de nervios... ¿Qué le pasa? Mejor salgo un rato y lo dejo tranquilo.					
 				Vi a La Escita entonar la Canción de Espadancia y enviar tres espíritus silvanos al cielo. Me pregunto si ayudarán a disipar la tormenta.					
 LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que La Escita pueda encontrar mi llave... la perdí en la orilla arenosa de un apacible lago.			62	032.jpg	U3A20
-LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Ah, rayos, cómo odio esta lluvia... Cómo odio tener las botas mojadas... Cómo quisiera volver a cortar leña.					
+LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Ay, qué pena, cómo odio esta lluvia... Cómo odio tener las botas mojadas... Cómo quisiera volver a cortar leña.					
 				¡Rayos! ¿Dónde se ha ido mi llave? ¡Estoy tan molesto y avergonzado que no puedo calmarme!					
 LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Tronquero se sintió sinceramente aliviado al recuperar su llave perdida del reino crepuscular de los sueños.					
 				El leñador quiso saber cómo nos volvimos tan listos y nos preguntó por nuestro funesto cometido.					
@@ -272,7 +272,7 @@ ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			El Trigón Dorado debe ser domado,
 ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Quizá notaste que el Trigón Luna Radiante llueve muerte... espera el momento justo y pulsa el escudo para esquivar.			144	041.jpg	84E11
 ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			El patrón final del Trigón Luna Radiante requerirá que golpees los proyectiles con tu espada y esquives sus ataques de rayo cargados.					
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Quizá ya te hayas enfrentado al odioso ataque de arcoíris del Trigón Luna Sombría. Rebana ese arcoíris tan fuerte y rápido como puedas.					
-ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			El patrón final del Trigón Luna Sombría implica sutiles proyectiles triangulares. Destrúyelos y sobrevivirás.					
+ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			El patrón final del Trigón Luna Sombría implica proyectiles triangulares, sutiles y furtivos. Destrúyelos y sobrevivirás.					
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que despertaste al espectro inmortal que acechaba en la oscuridad bajo Mingi Tau... ¡Uf!					
 				En consecuencia, se vislumbra una siniestra tormenta y la gente encantadora que vive en la choza de piedra está desolada.					
 			adventureUI/megatomeItem	La buena noticia es que tienes un pesado libro conocido como el Megatomo. En nuestra próxima sesión hablaremos de su extraño propósito.					
@@ -397,8 +397,8 @@ GCLUE_WATERFALLS	Girl			¿Alguna vez has notado que a veces las palabras suenan 
 GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Hay un montón de dichos extraños aquí entre los montañeses del Cáucaso.					
 				Hay un dicho aquí en el Cáucaso que dice que un bosque necesita un fuego tanto como el fuego necesita al árbol.					
 YELLOWTRIGON_COLLECTED	The Scythian			Domamos el Trigón Dorado. ¡Somos lo máximo!			85	067.jpg	36G7U
-PINKTRIGON_COLLECTED	The Scythian			Contra todo pronóstico, conquistamos el Trigón Luna Radiante.			155	068.jpg	56F8U
-BLUETRIGON_COLLECTED	The Scythian			A pesar de todo, conseguimos el Trigón Luna Sombría.			112	069.jpg	T6G94
+PINKTRIGON_COLLECTED	The Scythian			Contra todo pronóstico, conseguimos el Trigón Luna Radiante.			155	068.jpg	56F8U
+BLUETRIGON_COLLECTED	The Scythian			A pesar de todo, conquistamos el Trigón Luna Sombría.			112	069.jpg	T6G94
 GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece que todos los espíritus de La Luna Sombría fueron enviados al cielo, así que de nuevo es temporada de milagros. ¡Adoro los milagros!					
 JIM_HINT1_OFF	The Scythian			En un claro oculto, nos encontramos con un misterioso músico junto a un fuego crepitante.					
 JIM_PINKDAWN	The Scythian			En un claro oculto, nos encontramos con un misterioso músico junto a un fuego crepitante. #jimguthrie					
@@ -441,11 +441,11 @@ GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae escuchó en silencio nuestra ext
 GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Me preocupa mucho La Escita... desapareció por varios días después de que se disipara la tormenta. Ojalá esté bien.					
 GIRL_URSULAMEADOW_OFF	Girl			Vaya, ¿Entonces La Escita estaba desmayada en el prado? Qué locura.					
 DOGFELLA_GETDARKTRIGON	The Scythian			Después de activar otro haz celestial en el Claro Trigonal, notamos algo peculiar en el perro llamado Perrero.					
-			Archetype/trifecta	De repente parecía que entendíamos a Perrero, nos instó a buscar el Trigón Luna Sombría y completar la Trífida Trigonal.					
+			Archetype/trifecta	De repente, pareció que lo entendíamos: nos instó a buscar el Trigón Luna Sombría y completar la Trífida Trigonal.					
 DOGFELLA_GETBRIGHTTRIGON	The Scythian			Después de activar otro haz celestial en el Claro Trigonal, notamos algo peculiar en el perro llamado Perrero.					
-			Archetype/trifecta	De repente parecía que entendíamos a Perrero, nos instó a buscar el Trigón Luna Radiante y completar la Trífida Trigonal.					
+			Archetype/trifecta	De repente, pareció que lo entendíamos: nos instó a buscar el Trigón Luna Radiante y completar la Trífida Trigonal.					
 DOGFELLA_THREETRIGONS	The Scythian			Después de activar otro haz celestial en el Claro Trigonal, notamos algo peculiar en el perro llamado Perrero.					
-			Archetype/trifecta	De repente parecía que entendíamos a Perrero, nos instó a activar el tercer haz celestial y abrir la entrada al Arremolinado Infinito.					
+			Archetype/trifecta	De repente, pareció que lo entendíamos: nos instó a activar el tercer haz celestial y abrir la entrada al Arremolinado Infinito.					
 DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.					
 				Guau Guau Snif Guau.					
 				El cosmos en el Arremolinado Infinito en la cima de Mingi Tau espera a quien lleva el Megatomo.					
