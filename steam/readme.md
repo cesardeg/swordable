@@ -89,7 +89,8 @@ Please note that the game directory structure may vary depending on the platform
 ### Game File Locations
 
 - For Windows: `C:\Program Files (x86)\Steam\steamapps\common\Superbrothers Sword & Sworcery EP\res`
-- For Linux/Mac: `/Users/{username}/Library/Application Support/Steam/SteamApps/common/Superbrothers Sword & Sworcery EP/res`
+- For Mac: `/Users/{username}/Library/Application Support/Steam/SteamApps/common/Superbrothers Sword & Sworcery EP/res`
+- For Linux: `/home/{username}/.steam/steam/steamapps/common/Superbrothers Sword & Sworcery EP/res`
 
 Please note that the game directory structure may vary depending on the platform. Make sure to follow the game's installation instructions for your specific platform.
 

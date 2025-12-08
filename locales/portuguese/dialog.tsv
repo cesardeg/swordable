@@ -14,7 +14,7 @@ SIGN_WOLF	The Scythian			À beira do antigo caminho, encontramos uma rocha grava
 SIGN_ANTECHAMBERLEFT	The Scythian			Num corredor subterrâneo, descobrimos uma estátua ominosa, mas não nos preocupamos muito com isso. #lore			29	005.jpg	V0B53
 INFO_CROSSMOUNTAINLEFT	The Scythian			Na encosta rochosa de Mingi Tau, uma tumba solitária indica onde termina o caminho de pedras.					
 INFO_CROSSMOUNTAINRIGHT	The Scythian			Na encosta rochosa de Mingi Tau, uma tumba solitária indica onde termina o caminho de pedras.					
-INFO_RIDGESKULLPOLE	The Scythian			Na crista rochosa a caminho do topo de Mingi Tau, erguia-se um sinistro poste decorado com uma caveira com chifres.					
+INFO_RIDGESKULLPOLE	The Scythian			Na crista rochosa a caminho do topo de Mingi Tau, erguia-se um sinistro poste decorado com uma caveira galhada.					
 INFO_CROSSRIDGE	The Scythian			Na crista rochosa a caminho do topo de Mingi Tau, uma tumba solitária era um lúgubre lembrete de quantos morreram aqui.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos o Megatomo apertado entre duas mãos ossudas e sentimos nossa espada estremecer na bainha. #megatome			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Uma pequena porta sem maçaneta, feita de um material desconhecido. Uma placa diz: «Apenas Pessoal Autorizado».					
@@ -114,7 +114,7 @@ INFO_CABINWOODPILE	The Scythian			Perto da cabana, encontramos uma pilha de lenh
 INFO_SPUME	The Scythian			Localizamos as sutis e melódicas espumas de um espírito silvano adormecido. E agora... como despertá-lo?					
 INFO_NESTBOX	The Scythian			Descobrimos um ninho curioso, agora lar de uma 'colmeia miserável'.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Vimos um ninho desgastado com uma inquietante semelhança a um rosto.					
-INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre uma ponte de toras no antigo caminho, erguia-se um mastro sinistro decorado com caveiras.					
+INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre uma ponte de toras no antigo caminho, erguia-se um sinistro mastro decorado com caveiras.					
 INFO_GOLDTRIGONALTAR	The Scythian			Além da vasta caverna na campina, em uma clareira isolada, avistamos um conjunto estranho de estruturas de pedra.					
 			Archetype/trifecta	...Era esta a Clareira Trigônica? #trigongrove			93	016.jpg	B1D6J
 			triangle/Triangle	Junto à primeira estrutura de pedra pensamos no Trígono Dourado e sentimos nossa espada estremecer na bainha.					
@@ -124,9 +124,9 @@ INFO_BRIGHTTRIGONALTAR	The Scythian			Na Clareira Trigônica, descobrimos outra 
 				Nos perguntamos o que aconteceria se golpeássemos a estrutura de pedra com nossa espada.					
 INFO_STONEHEAD	The Scythian			No Precipício Perigoso, notamos uma escultura de cabeça esculpida na rocha com a boca escancarada.			24	017.jpg	61B76
 INFO_STONEHEADSHUT	The Scythian			No Precipício Perigoso, distinguimos uma escultura de cabeça esculpida na rocha que nos parecia familiar.					
-INFO_STONEHEADFLAGPOLE	The Scythian			Sobre uma grande escultura de pedra, erguia-se um mastro sinistro decorado com caveiras ou formas semelhantes.					
+INFO_STONEHEADFLAGPOLE	The Scythian			Sobre uma grande escultura de pedra, erguia-se um sinistro mastro decorado com caveiras ou formas semelhantes.					
 INFO_CHASMSTONESHELTER	The Scythian			Perto do Precipício Perigoso, avistamos um impressionante dólmen com dois confortáveis assentos de pedra.			25	018.jpg	O1C8M
-INFO_SKULLPOLE	The Scythian			Sobre uma ponte oscilante, erguia-se um sinistro poste decorado com uma caveira com chifres.					
+INFO_SKULLPOLE	The Scythian			Sobre uma ponte oscilante, erguia-se um sinistro poste decorado com uma caveira galhada.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre a entrada esculpida na rocha do templo da montanha, notamos uma representação pictórica da Tríade Trigônica.					
 INFO_MOUNTAINGATE	The Scythian			No interior do templo da montanha, avistamos um portão de ferro impenetrável, além do qual vimos a nublada paisagem montanhosa de Mingi Tau.					
 INFO_MOUNTAINGATETRIGON	The Scythian			No interior do templo da montanha, num corredor elevado, notamos três formas triangulares estranhas.					
@@ -134,7 +134,7 @@ INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			No interior do templo da montanha, 
 INFO_CABINRECORD	The Scythian			Dentro da cabana, sobre o fogo, reparamos em um pequeno trambolho redondo. #theballadofthespacebabies			46	019.jpg	P1D99
 INFO_CABINHEARTH	The Scythian			Dentro da cabana, o fogo crepitava tranquilamente, proporcionando um calor reconfortante.					
 INFO_CABINSEAT	The Scythian			Dentro da cabana, em ambos os lados do fogo, observamos dois rústicos assentos de madeira.					
-INFO_GOGOLITHICMASS	The Scythian			Nas trevas sob Mingi Tau, notamos uma caveira com chifres a flutuar.					
+INFO_GOGOLITHICMASS	The Scythian			Nas trevas sob Mingi Tau, notamos uma caveira galhada a flutuar.					
 INFO_MEGATOMBTRIFECTA	The Scythian			Nas trevas sob Mingi Tau, distinguimos uma representação pictórica da Tríade Trigônica.					
 INFO_ROCKSHOWGIRL	The Scythian			No show de rock, encontramos Samae e nos pareceu que ela sussurrou algo como 'Fogo, ande comigo'.					
 INFO_ROCKSHOWSKOLOTOI	The Scythian			No show de rock, notamos um daqueles esqueletos vibrando ao ritmo sinistro.					
@@ -142,7 +142,7 @@ INFO_ROCKSHOWJIM	The Scythian			Encabeçando o show de rock, vimos o misterioso 
 INFO_ROCKSHOWBOOR	The Scythian			No show de rock, avistamos o Patife Grisalho balançando sua coisa nua.			121	021.jpg	E2G15
 INFO_ROCKSHOWCROWD	The Scythian			No show de rock, observamos uma multidão considerável de damas e cavalheiros.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			No show de rock, distinguimos o personagem conhecido como O Arquétipo e nos perguntamos o que ele estava tramando com tudo isso.					
-INFO_TRIGONGROVESKULLSTICK	The Scythian			Um sinistro poste decorado com uma caveira com chifres conecta este lugar ao espectro imortal que espreita sob Mingi Tau.					
+INFO_TRIGONGROVESKULLSTICK	The Scythian			Um sinistro poste decorado com uma caveira galhada conecta este lugar ao espectro imortal que espreita sob Mingi Tau.					
 GRAVE_TRIGONGROVE	The Scythian			Na Clareira Trigônica, além da vasta caverna na campina, uma tumba solitária despertou nossa curiosidade.					
 GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigônica, além da vasta caverna na campina, junto a uma tumba solitária, um fantasma resplandecente nos recebeu.					
 				A bem da verdade, o fantasma resplandecente da Clareira Trigônica nos assustou bastante no início.			96	022.jpg	T2B2H
@@ -324,7 +324,7 @@ END_MOONGROTTO_LOVE	The Scythian			No topo de Mingi Tau, elevamos o Megatomo à 
 END_HONEST_PSYCHO	The Scythian			No topo de Mingi Tau, elevamos o Megatomo à segurança eterna do Remoinhado Infinito. #honest #psycho			179	051.jpg	M5C1H
 END_HONEST_LOVE	The Scythian			No topo de Mingi Tau, elevamos o Megatomo à segurança eterna do Remoinhado Infinito. #honest #love			177	052.jpg	55E2B
 END_HONEST_NOBOOR	The Scythian			No topo de Mingi Tau, elevamos o Megatomo à segurança eterna do Remoinhado Infinito. #honest #noboor			178	053.jpg	75G3V
-GIRL_GHOULTHOUGHTS	Girl			A Citiana sabe que é possível deter a Massa Gogolítica tocando seu crânio com Espadância? Provavelmente não.					
+GIRL_GHOULTHOUGHTS	Girl			A Citiana sabe que é possível deter a Massa Gogolítica tocando sua caveira com Espadância? Provavelmente não.					
 				Espero que A Citiana saiba que deve manter pressionado o caminho para se remexer, remexer bem rapidinho... se não o fizer, estará frita.					
 				Onde estou? O que aconteceu? A última coisa que me lembro é de estar caminhando em sonhos pela floresta quando vi uma luz rosa perturbadora.					
 LOGFELLA_GHOULTHOUGHTS	Logfella			A Citiana continua falando sobre sua funesta missão de abrir uma entrada para o Remoinhado Infinito no topo de Mingi Tau.					

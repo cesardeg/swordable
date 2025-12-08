@@ -250,7 +250,10 @@ def patch_info_plist(plist_path):
     # and MUST run full-screen, which forces it to respect the orientation lock.
     plist["UIRequiresFullScreen"] = True
     print("Set UIRequiresFullScreen to True to enforce orientation lock on iPad.")
-            
+
+    if "UISupportedDevices" in plist:
+        del plist["UISupportedDevices"]
+
     with open(plist_path, "wb") as fp:
         plistlib.dump(plist, fp)
     print("Info.plist patched successfully.")
