@@ -274,7 +274,7 @@ ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			El patrón final del Trigón Luna 
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Quizá ya te hayas enfrentado al odioso ataque de arcoíris del Trigón Luna Sombría. Rebana ese arcoíris tan fuerte y rápido como puedas.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			El patrón final del Trigón Luna Sombría implica proyectiles triangulares, sutiles y furtivos. Destrúyelos y sobrevivirás.					
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que despertaste al espectro inmortal que acechaba en la oscuridad bajo Mingi Tau... ¡Uf!					
-				Como consecuencia, una siniestra tormenta se cierne sobre nosotros y la adorable gente que vive en la choza de piedra está desolada.					
+				Como consecuencia, una siniestra tormenta se cierne sobre nosotros y la gente adorable que vive en la choza de piedra está desolada.					
 			adventureUI/megatomeItem	La buena noticia es que tienes un pesado libro conocido como el Megatomo. En nuestra próxima sesión hablaremos de su extraño propósito.					
 				Nuestra investigación muestra que la exposición prolongada a la psicosmología mitopoética de S:S&S EP puede causar efectos adversos.					
 				Así que ahora que completaste la Sesión I, ¿qué tal si descansamos un poco? Estaré justo aquí cuando quieras comenzar la Sesión II.					
@@ -282,7 +282,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				Me alegra verte de nuevo. ¿Comenzamos con la Sesión II de S:S&S EP?					
 			adventureUI/megatomeItem	Bien, ¿en qué estábamos? Ah, sí, ya me acuerdo. Conseguiste un pesado libro conocido como el Megatomo.					
 				Despertaste al espectro inmortal que aún acecha en la oscuridad bajo Mingi Tau. Vaya tipo, ¿eh?			204	042.jpg	24B2J
-				Son tiempos de angustia: una siniestra tormenta ha nublado el cielo y la adorable gente que vive en la choza está desolada.					
+				Son tiempos de angustia: una siniestra tormenta ha nublado el cielo y la gente adorable que vive en la choza está desolada.					
 				Disipar la tormenta requerirá cierta familiaridad con la psiónica, la criptozoología y los milagros...					
 			adventureUI/megatomeItem	1. El toque de un espadancista liberará el Megatomo, revelando los pensamientos no expresados de criaturas vivas y otro material esotérico.					
 			gourd/gourd	2. Extraños espíritus silvanos, fuentes de Espadancia, duermen en estanques, bosques y prados. Busca sus sutiles y melodiosas brumas.					
