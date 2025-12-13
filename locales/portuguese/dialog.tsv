@@ -110,7 +110,7 @@ INFO_WELLNESS	The Scythian			Tudo está bem quando acaba bem. #unwell #well #wel
 INFO_WELLWHITESTAG	The Scythian			VIDA LONGA À 'NOVA CARNE'.					
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Diante de uma lagoa insondável, descobrimos uma robusta cabana de pedra com um telhado de palha.					
-INFO_CABINWOODPILE	The Scythian			Perto da cabana, encontramos uma pilha de lenha, mas não é nada demais.					
+INFO_CABINWOODPILE	The Scythian			Perto da cabana, encontramos uma pilha de lenha, nada de mais.					
 INFO_SPUME	The Scythian			Localizamos as sutis e melódicas espumas de um espírito silvano adormecido. E agora... como despertá-lo?					
 INFO_NESTBOX	The Scythian			Descobrimos um ninho curioso, agora lar de uma 'colmeia de escória'.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Vimos um ninho desgastado com uma inquietante semelhança a um rosto.					
@@ -194,7 +194,7 @@ GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de uma titânica árvore oca, junt
 				"""Busque um sinal dos espíritos silvanos e entoe uma Canção da Espadância no local para revelar um trígono oculto."""					
 GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de uma titânica árvore oca, junto a uma tumba solitária, um fantasma audacioso surgiu para nos contar algumas coisas.			117	028.jpg	E2A80
 				"""A canção do trígono terminou por enquanto. Pergunto-me quando a ouvirei novamente."""					
-LOGFELLA_LOSTKEY	The Scythian			O lenhador aflito conhecido como Troncadeiro surtava totalmente por algum motivo.					
+LOGFELLA_LOSTKEY	The Scythian			O lenhador aflito conhecido como Troncadeiro surtava totalmente.					
 			AdventureUI/keyItem	Parece que ele perdeu a chave da porta trancada no muro de pedra que bloqueia o antigo caminho para Mingi Tau.					
 				E pensamos, com um suspiro: 'Outra missão de busca? Fala sério, né?'.					
 				Ele nos contou que estava sentado bem ali quando caiu em um sono profundo.					
@@ -217,7 +217,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Troncadeiro sentiu-se alivia
 			adventureUI/megatomeItem	Revelamos também o que suspeitávamos que os enigmáticos símbolos dentro do Megatomo poderiam significar.					
 			gourd/gourd	Intuíamos que ainda precisávamos despertar mais alguns espíritos silvanos para dissipar a tempestade.			104	033.jpg	W3D3G
 			triangle/Triangle	Em um sussurro, falamos de nossa intenção de encontrar e domar a geometria cósmica conhecida como o Trígono Dourado.					
-				Logo ficou claro que o lenhador já não prestava muita atenção.					
+				Ficou claríssimo que o lenhador já não prestava atenção.					
 			AdventureUI/keyItem	Decidimos ficar com a chave e seguir pelo antigo caminho, além do muro de pedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Perguntamos ao lenhador se podíamos ficar com a chave e ele achou legal.					
 GIRL_FOUNDKEY	The Scythian			Em uma trilha lateral, encontramos Samae, completamente encharcada pela chuva.					
@@ -227,7 +227,7 @@ GIRL_FOUNDKEY	The Scythian			Em uma trilha lateral, encontramos Samae, completam
 			adventureUI/megatomeItem	...E então, receosa, sugeriu que consultássemos o Megatomo caso nos sentíssemos perdidos ou desorientados.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Tudo bem A Citiana ficar com a chave, se for para dissipar a tempestade.					
 				Devo ter dormido em algum momento durante a épica história que A Citiana contou. Não aguento muito folclore.					
-				Questionei A Citiana sobre sua funesta missão... ela começou a falar sobre estepes e o dedo de Deus.					
+				Perguntei na lata para A Citiana sobre sua funesta missão... ela começou a falar sobre estepes e o dedo de Deus.					
 GIRL_FOUNDKEYTHOUGHTS	Girl			Mais um ou dois espíritos silvanos enviados ao céu dissiparão a tempestade incessante... e então a época dos milagres começará! #miracles			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			Em minhas caminhadas nos sonhos, há uma calma emocionante quando a lua brilha mais... e quando a lua está escura, as florestas se tornam selvagens.					
 				Nos sonhos, os lugares e espaços são sempre os mesmos, exceto quando variam de acordo com o humor da lua.					
@@ -281,7 +281,7 @@ ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então voc
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
 				É bom te ver novamente. Vamos começar a Sessão II de S:S&S EP?					
 			adventureUI/megatomeItem	Ótimo, onde estávamos? Ah, sim, já me lembro, você conseguiu um livro pesado conhecido como o Megatomo.					
-				Você despertou o espectro imortal que ainda espreita nas trevas sob Mingi Tau. Que tipo, hein?			204	042.jpg	24B2J
+				Você despertou o espectro imortal que ainda espreita nas trevas sob Mingi Tau. Que sujeito bizarro, né?			204	042.jpg	24B2J
 				São tempos de angústia: uma sinistra tempestade cobriu o céu e as pessoas adoráveis que vivem na cabana estão desoladas.					
 				Desfazer a tempestade exigirá algum conhecimento em psiônica, criptozoologia e milagres...					
 			adventureUI/megatomeItem	1. O toque de um espadancista liberará O Megatomo, revelando os pensamentos não expressos das criaturas vivas e outros materiais esotéricos.					

@@ -36,7 +36,7 @@ LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó 
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Tronquero iba a quedarse aquí esperando a que volviéramos con el Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Tronquero había elegido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
 				Él parecía saberlo todo acerca del odioso arcoíris y el glifo cercano que representaba una espada apuntando al cielo.					
-				Y aun así, no soltó palabra sobre qué hacer a continuación, lo que, a decir verdad, nos sentó un poco mal.					
+				Y aun así, no soltó palabra sobre qué hacer a continuación, lo que, a decir verdad, nos molestó un poco.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador había visto alguna criatura monstruosa y decidió dejárnosla a nosotros.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos el Megatomo y Tronquero estaba completamente listo para 'mover el bote' hasta su refugio.					
 				A pesar de la tormenta que se avecinaba, una canción empezó a brotar en nuestro corazón.					
@@ -110,7 +110,7 @@ INFO_WELLNESS	The Scythian			Bien está lo que bien acaba. #unwell #well #wellne
 INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA 'NUEVA CARNE'.					
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Junto a un estanque insondable, descubrimos una robusta choza de piedra con un techo de paja.					
-INFO_CABINWOODPILE	The Scythian			Cerca de la choza, vimos una pila de leña, pero no es para tanto.					
+INFO_CABINWOODPILE	The Scythian			Cerca de la choza, vimos una pila de leña, nada del otro mundo.					
 INFO_SPUME	The Scythian			Localizamos las sutiles y melodiosas brumas de un espíritu silvano adormecido. Y ahora... ¿cómo despertarlo?					
 INFO_NESTBOX	The Scythian			Avistamos un nido curioso, ahora hogar de una 'colmena de escoria'.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Avistamos un nido desgastado con un inquietante parecido a un rostro.					
@@ -162,7 +162,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			En un matorral a la vera del antiguo camino,
 				El fantasma que habló era un gigante que conocíamos de las viejas historias, cuyo célebre retrato exigía obediencia. #andre					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, junté a mi gente y nos lanzamos a reconstruir la Trífida Trigonal."""					
 				"""Oímos hablar de la entrada al Arremolinado Infinito en la cima de Mingi Tau y pensamos que sería genial verlo."""					
-			triangle/Triangle	"""Así que bueno, domamos el Trigón Dorado y le dimos un vistazo al Claro Trigonal antes de ir a por el Trigón Luna Radiante."""					
+			triangle/Triangle	"""Así que bueno, domamos el Trigón Dorado y le dimos un vistazo al Claro Trigonal antes de ir por el Trigón Luna Radiante."""					
 				"""Lo de encontrar el Trigón Luna Radiante no fue muy bien... nos perdimos por completo, la verdad."""					
 				"""Poco a poco nos dimos cuenta de la importancia del ciclo lunar y de su influencia en los espíritus que duermen en los reinos del crepúsculo."""					
 				"""Así que nos sentamos aquí a observar el humor de la luna para aprender cuándo estar dónde y cómo."""			7	026.jpg	Q2D6P
@@ -217,7 +217,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Tronquero se sintió sincera
 			adventureUI/megatomeItem	Le revelamos lo que sospechábamos que significaban los enigmáticos símbolos del Megatomo.					
 			gourd/gourd	Intuíamos que aún debíamos despertar a algunos espíritus silvanos más para disipar la tormenta.			104	033.jpg	W3D3G
 			triangle/Triangle	En un susurro revelamos nuestra intención de hallar y domar la geometría cósmica conocida como el Trigón Dorado.					
-				Para entonces era evidente que Tronquero había dejado de escucharnos.					
+				Quedó clarísimo que Tronquero ya no nos prestaba atención.					
 			AdventureUI/keyItem	Decidimos guardar la llave y continuar explorando el antiguo camino, más allá del muro de piedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si podíamos quedarnos con su llave y le pareció genial.					
 GIRL_FOUNDKEY	The Scythian			En un sendero lateral encontramos a Samae, empapada por la lluvia.					
@@ -227,7 +227,7 @@ GIRL_FOUNDKEY	The Scythian			En un sendero lateral encontramos a Samae, empapada
 			adventureUI/megatomeItem	...y luego, inquieta, nos sugirió consultar el Megatomo si llegábamos a sentirnos perdidos o desorientados.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Me parece bien que La Escita se quede con la llave si va a disipar la tormenta.					
 				Debo haberme quedado dormido en algún momento durante la épica historia de La Escita. No me van mucho las historias.					
-				Le pregunté a La Escita sobre su funesto cometido... empezó a hablar de las estepas y del dedo de Dios.					
+				Le pregunté sin rodeos a La Escita sobre su funesto cometido... empezó a hablar de las estepas y del dedo de Dios.					
 GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos espíritus silvanos más enviados al cielo disiparán la tormenta incesante... ¡Y luego comenzará la temporada de milagros! #miracles			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			En mis paseos, hay una calma emocionante cuando la luna brilla más... y cuando la luna está oscura, los bosques se vuelven salvajes.					
 				En los sueños, siempre son los mismos lugares y espacios, excepto cuando varían según el humor de la luna.					
@@ -281,7 +281,7 @@ ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que d
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
 				Me alegra verte de nuevo. ¿Comenzamos con la Sesión II de S:S&S EP?					
 			adventureUI/megatomeItem	Bien, ¿en qué estábamos? Ah, sí, ya me acuerdo. Conseguiste un pesado libro conocido como el Megatomo.					
-				Despertaste al espectro inmortal que aún acecha en la oscuridad bajo Mingi Tau. Vaya tipo, ¿eh?			204	042.jpg	24B2J
+				Despertaste al espectro inmortal que aún acecha en la oscuridad bajo Mingi Tau. Qué tipo tan siniestro, ¿no?			204	042.jpg	24B2J
 				Son tiempos de angustia: una siniestra tormenta ha nublado el cielo y la gente adorable que vive en la choza está desolada.					
 				Disipar la tormenta requerirá cierta familiaridad con la psiónica, la criptozoología y los milagros...					
 			adventureUI/megatomeItem	1. El toque de un espadancista liberará el Megatomo, revelando los pensamientos no expresados de criaturas vivas y otro material esotérico.					
