@@ -16,7 +16,7 @@ INFO_CROSSMOUNTAINLEFT	The Scythian			Na encosta rochosa de Mingi Tau, uma tumba
 INFO_CROSSMOUNTAINRIGHT	The Scythian			Na encosta rochosa de Mingi Tau, uma tumba solitária indica onde termina o caminho de pedras.					
 INFO_RIDGESKULLPOLE	The Scythian			Na crista rochosa a caminho do topo de Mingi Tau, erguia-se um sinistro poste decorado com uma caveira galhada.					
 INFO_CROSSRIDGE	The Scythian			Na crista rochosa a caminho do topo de Mingi Tau, uma tumba solitária era um lúgubre lembrete de quantos morreram aqui.					
-INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos o Megatomo apertado entre duas mãos ossudas e sentimos nossa espada estremecer na bainha. #megatome			33	006.jpg	30D6C
+INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos o Megatomo apertado entre duas ossudas mãos e sentimos nossa espada estremecer na bainha. #megatome			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Uma pequena porta sem maçaneta, feita de um material desconhecido. Uma placa diz: «Apenas Pessoal Autorizado».					
 DOOR_UPSLOPEWOODS1	The Scythian			Bem no muro de pedra, uma porta trancada bloqueava o antigo caminho para Mingi Tau.					
 DOOR_UPSLOPEWOODS3	The Scythian			Uma porta trancada se escondia entre a mata abaixo da antiga estrada que leva a Mingi Tau. #moongrotto					
@@ -27,7 +27,7 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		O lenhador lenhador 
 				Ficou claro que ele não estava nada empolgado com isso.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		O lenhador nos esperou para prosseguir pelo antigo caminho.			12	008.jpg	U0D88
 LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Atravessamos o abismo e não vamos mentir, nos sentimos demais.			22	009.jpg	L0B9S
-			adventureUI/megatomeItem	Contamos a Troncadeiro que buscávamos um livro assustador de sinistra magia conhecido como o Megatomo.					
+			adventureUI/megatomeItem	Contamos a Troncadeiro que buscávamos um pesado livro de sinistra magia conhecido como o Megatomo.					
 			adventureUI/megatomeItem	O Megatomo estava oculto além do Precipício Perigoso, em algum lugar nas trevas sob Mingi Tau.					
 			adventureUI/megatomeItem	Decidimos buscar o Megatomo e depois escapar com vida.					
 LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	O lenhador confirmou que ele tinha a única chave da porta trancada no muro de pedra.					
@@ -61,7 +61,7 @@ ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo
 				Você verá que esta primeira sessão de S:S&S EP é bastante simples e geralmente dura entre 15 e 30 minutos.					
 				Tudo pronto? Pressione 'jogar' e vamos lá!					
 ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP não busca proporcionar a experiência transcendental, mas simplesmente pretende liberar o sistema nervoso de seus padrões habituais.					
-				Outro aspecto do 'Ambiente' é o cultural: as noções que predominam sobre realidade e normalidade. Evitaremos essa discussão por enquanto.					
+				Outro aspecto do Ambiente é o cultural: as noções que predominam sobre realidade e normalidade. Evitaremos essa discussão por enquanto.					
 				O 'Ambiente' abrange o conforto, a segurança e o calor do local onde a experiência ocorre.					
 				Descobrimos que um indivíduo relaxado e curioso é mais propenso a ter uma experiência agradável com S:S&S EP.					
 				A 'Preparação' é o estado mental e a personalidade que você traz para a experiência: pensamentos, estados de ânimo e expectativas.					
@@ -82,13 +82,13 @@ LOGFELLA_STORM	The Scythian			Troncadeiro parou de cortar lenha devido à sinist
 GIRL_STORM	The Scythian			Samae, a garota de cabelos escuros, era consumida pela melancolia. #woe					
 			gourd/gourd	Desde que a tempestade estourou, ela observava as melódicas espumas dos espíritos silvanos adormecidos nas florestas próximas.					
 			gourd/gourd	Perguntou-se se os três espíritos poderiam ajudar a dissipar a tempestade. #yes					
-			gourd/gourd	Pediu que investigássemos as espumas que borbulhavam na lagoa insondável diante da cabana.					
+			gourd/gourd	Pediu que investigássemos as espumas que borbulhavam na insondável lagoa diante da cabana.					
 			gourd/gourd	Mencionou um espírito em uma campina próxima e outro em um ninho curioso onde três pássaros cantores se abrigavam da chuva.					
 			gourd/gourd	Samae pediu que buscássemos as espumas desses três espíritos e os enviássemos ao céu com a Canção da Espadância.					
 ARCHETYPE_SWORCERY	The Archetype			"""Chegou a hora de aprender a Canção da Espadância, uma técnica de expansão da consciência que revela uma dimensão musical mística."""					
-			gourd/gourd	"""Mantenha a calma e siga minhas instruções para despertar o espírito silvano que dorme nas águas frescas da lagoa insondável."""					
+			gourd/gourd	"""Mantenha a calma e siga minhas instruções para despertar o espírito silvano que dorme nas águas frescas da insondável lagoa."""					
 ARCHETYPE_TADPOLES	The Archetype			Era evidente que o homem estranhamente vestido esperava que fizéssemos algo, mas não tínhamos ideia do que.					
-			gourd/gourd	"""Você vê as melódicas espumas na lagoa insondável? Um espírito silvano dorme ali e você deve despertá-lo."""					
+			gourd/gourd	"""Você vê as melódicas espumas na insondável lagoa? Um espírito silvano dorme ali e você deve despertá-lo."""					
 			gourd/gourd	"""Mantenha pressionado sobre A Citiana para entoar a Canção da Espadância e revelar uma realidade oculta."""					
 			gourd/gourd	"""Guie as duas pequenas criaturas nadando em direção ao local onde o espírito dorme e envie-as ao céu com três toques de Espadância."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Samae se abrigava da chuva sob o amplo telhado de madeira do poço.					
@@ -97,7 +97,7 @@ INFO_BIRDEYESCULPTURE	The Scythian			Na campina, avistamos a imponente escultura
 INFO_MEADOWSHEEP	The Scythian			Na campina, observamos algumas ovelhas inúteis vadiando. #worthlesssheep					
 INFO_CABINSHEEP	The Scythian			Outra ovelha inútil, por que continuamos olhando para elas? #worthlesssheep					
 INFO_MEADOWSUN	The Scythian			Ainda nos lembramos de como o sol brilhava naquele primeiro dia de primavera.					
-INFO_MEADOWGATE	The Scythian			Na campina, topamos com um portão de ferro impenetrável que bloqueava uma vasta caverna.					
+INFO_MEADOWGATE	The Scythian			Na campina, topamos com um impenetrável portão de ferro que bloqueava uma vasta caverna.					
 INFO_MEADOWGATEACTIVE	The Scythian			Na campina, observamos um portão e tivemos a sensação de que talvez pudéssemos abri-lo de alguma forma.					
 INFO_MEADOWGATETRIGONACTIVE	The Scythian			Sobre o portão de ferro, distinguimos um troço com a forma do Trígono Dourado. Será que reagiria à nossa Canção da Espadância?					
 INFO_MEADOWGATETRIGON	The Scythian			Sobre o portão de ferro, notamos um troço.					
@@ -109,7 +109,7 @@ INFO_UNWELLWELL	The Scythian			O poço soltou um soluço. #unwell #well
 INFO_WELLNESS	The Scythian			Tudo está bem quando acaba bem. #unwell #well #wellness					
 INFO_WELLWHITESTAG	The Scythian			VIDA LONGA À 'NOVA CARNE'.					
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
-INFO_CABINCHIMNEY	The Scythian			Diante de uma lagoa insondável, descobrimos uma robusta cabana de pedra com um telhado de palha.					
+INFO_CABINCHIMNEY	The Scythian			Diante de uma insondável lagoa, descobrimos uma robusta cabana de pedra com um telhado de palha.					
 INFO_CABINWOODPILE	The Scythian			Perto da cabana, encontramos uma pilha de lenha, nada de mais.					
 INFO_SPUME	The Scythian			Localizamos as sutis e melódicas espumas de um espírito silvano adormecido. E agora... como despertá-lo?					
 INFO_NESTBOX	The Scythian			Descobrimos um ninho curioso, agora lar de uma 'colmeia de escória'.			13	015.jpg	B1C5F
@@ -128,8 +128,8 @@ INFO_STONEHEADFLAGPOLE	The Scythian			Sobre uma grande escultura de pedra, ergui
 INFO_CHASMSTONESHELTER	The Scythian			Perto do Precipício Perigoso, avistamos um impressionante dólmen com dois confortáveis assentos de pedra.			25	018.jpg	O1C8M
 INFO_SKULLPOLE	The Scythian			Sobre uma ponte oscilante, erguia-se um sinistro poste decorado com uma caveira galhada.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre a entrada esculpida na rocha do templo da montanha, notamos uma representação pictórica da Tríade Trigônica.					
-INFO_MOUNTAINGATE	The Scythian			No interior do templo da montanha, avistamos um portão de ferro impenetrável, além do qual vimos a nublada paisagem montanhosa de Mingi Tau.					
-INFO_MOUNTAINGATETRIGON	The Scythian			No interior do templo da montanha, num corredor elevado, notamos três formas triangulares estranhas.					
+INFO_MOUNTAINGATE	The Scythian			No interior do templo da montanha, avistamos um impenetrável portão de ferro, além do qual vimos a nublada paisagem montanhosa de Mingi Tau.					
+INFO_MOUNTAINGATETRIGON	The Scythian			No interior do templo da montanha, num corredor elevado, notamos três estranhas formas triangulares.					
 INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			No interior do templo da montanha, num corredor elevado, distinguimos o símbolo da Tríade Trigônica.					
 INFO_CABINRECORD	The Scythian			Dentro da cabana, sobre o fogo, reparamos em um pequeno trambolho redondo. #theballadofthespacebabies			46	019.jpg	P1D99
 INFO_CABINHEARTH	The Scythian			Dentro da cabana, o fogo crepitava tranquilamente, proporcionando um calor reconfortante.					
@@ -140,7 +140,7 @@ INFO_ROCKSHOWGIRL	The Scythian			No show de rock, encontramos Samae e nos parece
 INFO_ROCKSHOWSKOLOTOI	The Scythian			No show de rock, notamos um daqueles esqueletos vibrando ao ritmo sinistro.					
 INFO_ROCKSHOWJIM	The Scythian			Encabeçando o show de rock, vimos o misterioso músico conhecido como Jim Guthrie.			160	020.jpg	T2G03
 INFO_ROCKSHOWBOOR	The Scythian			No show de rock, avistamos o Patife Grisalho balançando sua coisa nua.			121	021.jpg	E2G15
-INFO_ROCKSHOWCROWD	The Scythian			No show de rock, observamos uma multidão considerável de damas e cavalheiros.					
+INFO_ROCKSHOWCROWD	The Scythian			No show de rock, observamos uma multidão considerável de senhoras e senhores.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			No show de rock, distinguimos o personagem conhecido como O Arquétipo e nos perguntamos o que ele estava tramando com tudo isso.					
 INFO_TRIGONGROVESKULLSTICK	The Scythian			Um sinistro poste decorado com uma caveira galhada conecta este lugar ao espectro imortal que espreita sob Mingi Tau.					
 GRAVE_TRIGONGROVE	The Scythian			Na Clareira Trigônica, além da vasta caverna na campina, uma tumba solitária despertou nossa curiosidade.					
@@ -197,11 +197,11 @@ GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de uma titânica árvore o
 LOGFELLA_LOSTKEY	The Scythian			O lenhador aflito conhecido como Troncadeiro surtava totalmente.					
 			AdventureUI/keyItem	Parece que ele perdeu a chave da porta trancada no muro de pedra que bloqueia o antigo caminho para Mingi Tau.					
 				E pensamos, com um suspiro: 'Outra missão de busca? Fala sério, né?'.					
-				Ele nos contou que estava sentado bem ali quando caiu em um sono profundo.					
+				Ele nos contou que estava sentado bem ali quando caiu em um profundo sono.					
 			AdventureUI/keyItem	Troncadeiro nos explicou que achava ter perdido sua chave no reino crepuscular dos sonhos.					
 				Já tínhamos ouvido falar dos estranhos sonhos dos montanheses do Cáucaso de cabelo escuro, então isso fez todo o sentido para nós.					
 				Troncadeiro nos convidou para aquecer nossas botas junto ao fogo para sonhar ao seu lado.			63	029.jpg	U2C92
-ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos na vigília e na psicologia mítica dos sonhos como estados separados, mas eles interagem de forma curiosa.					
+ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos na vigília e na psicosmologia mitopoética dos sonhos como estados separados, mas eles interagem de forma curiosa.					
 				O limiar da liminaridade é um espaço entre a vigília e os sonhos onde o pensamento direcionado é impossível.			56	030.jpg	13A0A
 				Procure um lugar acolhedor e deixe o sono envolvê-lo para descobrir o limiar da liminaridade.					
 ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	Que tal sentar-se junto ao fogo na cabana e atravessar o limiar da liminaridade para encontrar a chave perdida de Troncadeiro?			55	031.jpg	23C1X
@@ -222,7 +222,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Troncadeiro sentiu-se alivia
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Perguntamos ao lenhador se podíamos ficar com a chave e ele achou legal.					
 GIRL_FOUNDKEY	The Scythian			Em uma trilha lateral, encontramos Samae, completamente encharcada pela chuva.					
 			gourd/gourd	Ela ouvira as sutis e melódicas espumas dos espíritos silvanos além do muro de pedra, no antigo caminho para Mingi Tau.					
-			gourd/gourd	Falou de árvores altíssimas que ladeavam um impetuoso rio.					
+			gourd/gourd	Falou de altíssimas árvores que ladeavam um impetuoso rio.					
 			gourd/gourd	Mencionou arco-íris tênues que surgiam à beira do Precipício Perigoso.					
 			adventureUI/megatomeItem	...E então, receosa, sugeriu que consultássemos o Megatomo caso nos sentíssemos perdidos ou desorientados.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Tudo bem A Citiana ficar com a chave, se for para dissipar a tempestade.					
@@ -267,7 +267,7 @@ ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Rebata os ataques de projéteis psi�
 				A inescrutável lógica do Trígono Dourado ceifou as almas de todos que vieram antes... eles não tinham tenacidade e coragem.					
 ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			O Trígono Dourado deve ser domado, não há outra opção.					
 				No terceiro padrão, você deve rebater os pequenos projéteis triangulares com sua espada e esquivar dos ataques de raio.					
-				No segundo padrão, espere pelo ataque carregado e pressione o botão de escudo no momento adequado para esquivar.					
+				No segundo padrão, espere pelo ataque carregado e pressione o botão do escudo no momento adequado para esquivar.					
 				No primeiro padrão, você deve brandir sua espada para devolver a bola de energia.					
 ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Talvez tenha notado que o Trígono da Lua Radiante chove morte... espere o momento certo e pressione o escudo para esquivar.			144	041.jpg	84E11
 ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Radiante exigirá que você branda sua espada contra os projéteis e esquive dos ataques de raio carregado.					
@@ -275,12 +275,12 @@ ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Você pode já ter encontrado o odio
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Sombria envolve projéteis triangulares, sutis e furtivos. Destrua-os e você sobreviverá.					
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então você despertou o espectro imortal que espreitava nas trevas sob Mingi Tau... Au!					
 				Consequentemente, uma sinistra tempestade paira sobre nós e as pessoas adoráveis que vivem na cabana de pedra estão desoladas.					
-			adventureUI/megatomeItem	A boa notícia é que você tem um livro pesado conhecido como o Megatomo. Em nossa próxima sessão, falaremos sobre seu estranho propósito.					
+			adventureUI/megatomeItem	A boa notícia é que você tem um pesado livro conhecido como o Megatomo. Em nossa próxima sessão, falaremos sobre seu estranho propósito.					
 				Nossa pesquisa mostra que a exposição prolongada à psicosmologia mitopoética de S:S&S EP pode causar efeitos adversos.					
 				Agora que você completou a Sessão I, que tal uma pausa? Estarei aqui quando você quiser começar a Sessão II.					
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
 				É bom te ver novamente. Vamos começar a Sessão II de S:S&S EP?					
-			adventureUI/megatomeItem	Ótimo, onde estávamos? Ah, sim, já me lembro, você conseguiu um livro pesado conhecido como o Megatomo.					
+			adventureUI/megatomeItem	Ótimo, onde estávamos? Ah, sim, já me lembro, você conseguiu um pesado livro conhecido como o Megatomo.					
 				Você despertou o espectro imortal que ainda espreita nas trevas sob Mingi Tau. Que sujeito bizarro, né?			204	042.jpg	24B2J
 				São tempos de angústia: uma sinistra tempestade cobriu o céu e as pessoas adoráveis que vivem na cabana estão desoladas.					
 				Desfazer a tempestade exigirá algum conhecimento em psiônica, criptozoologia e milagres...					
@@ -329,7 +329,7 @@ GIRL_GHOULTHOUGHTS	Girl			A Citiana sabe que é possível deter a Massa Gogolít
 				Onde estou? O que aconteceu? A última coisa que me lembro é de estar caminhando em sonhos pela floresta quando vi uma luz rosa perturbadora.					
 LOGFELLA_GHOULTHOUGHTS	Logfella			A Citiana continua falando sobre sua funesta missão de abrir uma entrada para o Remoinhado Infinito no topo de Mingi Tau.					
 				Tudo tem sido uma loucura lunática desde que A Citiana apareceu há muitas luas.					
-LOGFELLA_GHOUL	The Scythian			Perto da Clareira Trigônica, acordamos atordoados de um sono profundo, com Troncadeiro ao nosso lado.			88	054.jpg	J5D44
+LOGFELLA_GHOUL	The Scythian			Perto da Clareira Trigônica, acordamos atordoados de um profundo sono, com Troncadeiro ao nosso lado.			88	054.jpg	J5D44
 				Ele nos contou que Samae havia desaparecido na noite anterior.					
 				O lenhador sabia que nosso fim estava próximo e que precisávamos voltar a Mingi Tau para cumprir nossa funesta missão.					
 LOGFELLA_TRIGONGROVETIPS	The Scythian			Troncadeiro nunca tinha visto a Clareira Trigônica antes e se perguntava do que se tratava tudo aquilo.					
@@ -341,7 +341,7 @@ DOG_AVATAR			AdventureUI/dudeDogfellaIdle1
 AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Esses dois malucos afirmavam ser parte dos criadores deste mundo estranho.			159	055.jpg	A5G55
 AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Esses dois excêntricos afirmavam ser parte dos criadores deste mundo estranho.			159	055.jpg	A5G55
 GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito silvano na fértil terra de uma campina habitada por quatro pares de ovelhas inúteis.			52	056.jpg	15B63
-GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Entoamos a Canção da Espadância e despertamos um espírito silvano das frescas águas de uma lagoa insondável, que estranho!			50	057.jpg	G5F78
+GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Entoamos a Canção da Espadância e despertamos um espírito silvano das frescas águas de uma insondável lagoa, que estranho!			50	057.jpg	G5F78
 GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito silvano em um ninho curioso, cercado por três encharcados pássaros cantores.					
 GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito silvano junto a uma impávida ponte de toras, onde quatro pares de árvores ladeam um impetuoso rio.					
 GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito silvano entre dois odiosos arco-íris à beira do Precipício Perigoso.					
@@ -402,7 +402,7 @@ BLUETRIGON_COLLECTED	The Scythian			Apesar de tudo, conquistamos o Trígono da L
 GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece que todos os espíritos da Lua Sombria foram enviados ao céu, então é novamente época dos milagres. Eu adoro milagres!					
 JIM_HINT1_OFF	The Scythian			Em uma clareira isolada, encontramos um misterioso músico ao lado de uma fogueira crepitante.					
 JIM_PINKDAWN	The Scythian			Em uma clareira isolada, encontramos um misterioso músico ao lado de uma fogueira crepitante. #jimguthrie					
-JIM_BRIGHTMOON	The Scythian			Enquanto a Lua Radiante paira, junto a uma fogueira crepitante conhecemos um músico misterioso que se apresentou como Jim Guthrie.			128	070.jpg	07G00
+JIM_BRIGHTMOON	The Scythian			Enquanto a Lua Radiante paira, junto a uma fogueira crepitante conhecemos um misterioso músico que se apresentou como Jim Guthrie.			128	070.jpg	07G00
 JIM_POSTSWORCERY	The Scythian			O misterioso músico conhecido como Jim Guthrie testemunhou nossa Espadância e não pareceu se importar.					
 JIM_POSTGOURD	The Scythian			O misterioso músico conhecido como Jim Guthrie disse que estava pronto para tocar uma pequena canção se quiséssemos ouvi-la.					
 				Jim nos convidou para nos sentarmos ao lado do fogo.					
@@ -424,12 +424,12 @@ LOGFELLA_HUGETREETHOUGHTS	Logfella			Adoro ver as mesmas florestas com climas di
 				Não passo muito tempo caminhando nos meus sonhos, mas quando o faço, geralmente volto aos meus lugares favoritos para ver o que mudou.					
 MIRACLE1_MOUNTAINMEADOW	The Scythian			Em uma campina ensolarada, obramos um milagre dissipador de tempestades, em um estilo dobrável do grande mago 'Al Jaffee'.					
 MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			Em uma campina ensolarada, acordamos confusos e atordoados, com uma dor de cabeça terrível.					
-LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Atordoados e sem uma lembrança clara, acordamos de um sono profundo.					
+LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Atordoados e sem uma lembrança clara, acordamos de um profundo sono.					
 			triangle/Triangle	Lembramos do milagre na campina e nosso encontro com o Trígono Dourado...					
 			triangle/Triangle	...Quais novos poderes nos foram concedidos?					
 			triangle/Triangle	Troncadeiro ficou totalmente impressionado com o quão incrível e estranha a luta contra o Trígono Dourado soava.			81	071.jpg	R7C14
-			triangle/Triangle	Ele se perguntou se talvez o Trígono Dourado pudesse estar relacionado aos mistérios sinistros além do portão de ferro na campina...					
-				Troncadeiro não era fã de mistérios sinistros, então preferiu ir para casa cortar lenha. #woodchopping					
+			triangle/Triangle	Ele se perguntou se talvez o Trígono Dourado pudesse estar relacionado aos sinistros mistérios além do portão de ferro na campina...					
+				Troncadeiro não era fã de sinistros mistérios, então preferiu ir para casa cortar lenha. #woodchopping					
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			Troncadeiro estava muito feliz por a tempestade ter se dissipado e estava animado para voltar a cortar lenha.					
 				Ele nos perguntou se tínhamos ideia sobre o portão de ferro que bloqueava a vasta caverna na campina... o que poderia haver por trás?					
 LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Que estranho... Vejo um facho celestial dourado na floresta atrás da campina... Alguém descobriu os segredos da Clareira Trigônica?			89	072.jpg	67F24
@@ -510,7 +510,7 @@ ARCHETYPE_SPAREBOOR	The Archetype			Agora, imagino que você esteja se perguntan
 LOGFELLA_FOUNDATION	Logfella	AdventureUI/tweetIconBabelBook		...					
 				...					
 				...					
-SCYTHIAN_FOUNDATION	The Scythian			Despertamos um espírito silvano em uma lagoa insondável com lírios diante da cabana de pedra. Não sabemos o que significa.					
+SCYTHIAN_FOUNDATION	The Scythian			Despertamos um espírito silvano em uma insondável lagoa com lírios diante da cabana de pedra. Não sabemos o que significa.					
 				Com uma tempestade incessante sobre nós, aprendemos a entoar a Canção da Espadância e a despertar um espírito silvano adormecido.					
 				Espere... Por que estou falando em primeira pessoa? Não era para a história ser em segunda pessoa? #editingoversight					
 				Meus pensamentos estão mesmo em ordem? Será que pensei isso há poucos segundos...?					
@@ -533,7 +533,7 @@ LOGFELLA_CRESCENTWAX	The Scythian			O lenhador falou sobre caminhadas oníricas 
 GIRL_CRESCENTWAX	The Scythian			Samae estava animada, hoje começava um novo mês lunar! Longos dias a esperavam sentada em rochas.					
 ARCHETYPE_CRESCENTWAX	The Archetype			Um brilho de lua crescente apareceu, marcando o início de um novo ciclo lunar de vinte e oito dias.			118	045.jpg	Y4E5Q
 LOGFELLA_HALFWAX	The Scythian			O lenhador admitiu que sim, de fato, tinha cortado uma boa quantidade de lenha em sua vida.					
-				Ele falou sobre invernos frios e neves profundas aqui, nas majestosas montanhas do Cáucaso, que se erguiam sobre as estepes da Cítia.					
+				Ele falou sobre frios invernos e profundas neves aqui, nas majestuosas montanhas do Cáucaso, que se erguiam sobre as estepes da Cítia.					
 				O lenhador esperava ter comida suficiente e lenha para sobreviver aos longos e frios meses que se aproximavam.					
 GIRL_HALFWAX	The Scythian			Em meu sonho de ontem, eu estava caminhando pela floresta e estava desejando muito um muffin, mas não havia nenhum.			108	078.jpg	07D87
 ARCHETYPE_HALFWAX	The Archetype			Alguns folcloristas lunáticos afirmam que não há relação causal entre a loucura e o humor da lua.					
@@ -574,7 +574,7 @@ DARKMOONLOOMS_ARCHETYPE	The Archetype			A Lua Sombria reina, o fim do ciclo luna
 DARKMOONBEGINS_ARCHETYPE	The Archetype			Contemple: A Lua Sombria!			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			Em meu sonho, encontrei um Parlamento de Árvores atingido por um raio e senti a presença de algo profundamente sagrado.					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Ontem à noite, ouvi o som de uma música vibrante que se filtrava pelos bosques atrás de minha cabana. O que poderia ser?					
-DARKMOON_DOGFELLATHOUGHTS	Dogfella			Au Au Au. Em meu estado de sonho, só vislumbrei as brumas sutis dos espíritos silvanos.					
+DARKMOON_DOGFELLATHOUGHTS	Dogfella			Au Au Au. Em meu estado de sonho, só vislumbrei as sutis e melódicas espumas dos espíritos silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Reconstruímos a Tríade Trigônica e agora somos heróis.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 3 coelhos indefesos.					
 RABBITS_7MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 7 coelhos indefesos. É esta a evidência de uma mente transtornada?					
@@ -679,7 +679,7 @@ ARCHETYPE_CREDITS	The Archetype
 				S:S&S EP é uma abordagem fresca ao videogame de aventura old school com ênfase no estilo audiovisual.					
 				S:S&S EP se inspira no trabalho de criadores pioneiros de videogames Shigeru Miyamoto, Jordan Mechner, Eric Chahi e Fumito Ueda.					
 				S:S&S EP é um sonho febril de Famicom.			38	082.jpg	28B24
-				S:S&S EP inspira-se na psicocosmologia mitopoética das histórias de espada e feitiçaria de Robert E. Howard.					
+				S:S&S EP inspira-se na psicosmologia mitopoética das histórias de espada e feitiçaria de Robert E. Howard.					
 				S:S&S EP é um 'Link' com o passado.			167	083.jpg	18E3V
 				S:S&S EP é um primeiro esforço e sim, é um pouco experimental.					
 				O conceito estético de S:S&S EP é 'a aventura arquetípica de videogame'.					
