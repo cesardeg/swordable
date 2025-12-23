@@ -23,10 +23,10 @@ DOOR_UPSLOPEWOODS3	The Scythian			Una puerta trancada se escondía entre la male
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
 LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador leñador leñaba leña. #obviously #woodchopping			71	007.jpg	70E70
 				Los montañeses del Cáucaso lo llamaban Tronquero y parecía amable.					
-				Conocía al detalle nuestro funesto cometido y accedió a guiarnos por el antiguo camino.					
-				Aun así, estaba claro que el asunto no le hacía ninguna gracia.					
+				Conocía bien nuestro funesto cometido y accedió a guiarnos por el antiguo camino.					
+				Aun así, estaba claro que el asunto no le gustaba nada.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		El leñador nos esperó para continuar por el antiguo camino.			12	008.jpg	U0D88
-LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Atravesamos el abismo y, para qué negarlo, nos creímos muy listos.			22	009.jpg	L0B9S
+LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Atravesamos el abismo y, para qué negarlo, nos sentimos muy inteligentes.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Le contamos a Tronquero que íbamos tras un pesado libro de siniestra magia conocido como el Megatomo.					
 			adventureUI/megatomeItem	Estaba oculto más allá del Precipicio Peligroso, en algún lugar de la oscuridad bajo Mingi Tau.					
 			adventureUI/megatomeItem	Decidimos ir por él y luego salir de allí con vida.					
@@ -36,7 +36,7 @@ LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó 
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Tronquero iba a quedarse aquí esperando a que volviéramos con el Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Tronquero había elegido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
 				Parecía saberlo todo acerca del odioso arcoíris y el glifo cercano que representaba una espada apuntando al cielo.					
-				Y aun así, no soltó palabra sobre qué hacer a continuación, lo que, a decir verdad, nos molestó un poco.					
+				Y aun así, no soltó palabra sobre qué hacer después, lo que, a decir verdad, nos fastidió un poco.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador había visto alguna criatura monstruosa y decidió dejárnosla a nosotros.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos el Megatomo y Tronquero estaba completamente listo para 'mover el bote' hasta su refugio.					
 				A pesar de la tormenta que se avecinaba, una canción empezó a brotar en nuestro corazón.					
@@ -78,7 +78,7 @@ ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien he
 				"""Busca un triángulo blanco en la esquina superior derecha; tócalo y equípalo para revelar lo oculto."""					
 LOGFELLA_STORM	The Scythian			Tronquero había renunciado a cortar leña debido a la siniestra tormenta. #wetboots					
 			adventureUI/megatomeItem	Nos recordó que la tormenta había estallado justo después de que recuperamos el Megatomo bajo Mingi Tau.					
-				¿Acaso nos estaba insinuando que debíamos intentar disipar la tormenta? #yes #no #maybe					
+				¿Nos estaba sugiriendo que deberíamos intentar disipar la tormenta? #yes #no #maybe					
 GIRL_STORM	The Scythian			A Samae, la chica de cabello oscuro, la consumía la melancolía. #woe					
 			gourd/gourd	Desde que estalló la tormenta, había notado las melodiosas brumas de los espíritus silvanos que dormían en los bosques cercanos.					
 			gourd/gourd	Se preguntó si acaso los tres espíritus podrían ayudar a disiparla. #yes					
@@ -196,7 +196,7 @@ GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un titánico árbol hue
 				"""El canto del trigón ha terminado por ahora. Me pregunto cuándo volveré a escucharlo."""					
 LOGFELLA_LOSTKEY	The Scythian			El leñador afligido conocido como Tronquero estaba hecho un manojo de nervios.					
 			AdventureUI/keyItem	Al parecer, había perdido la llave de la puerta trancada en el muro de piedra que bloqueaba el antiguo camino hacia Mingi Tau.					
-				Y pensamos, con un suspiro: 'Genial, otra misión de búsqueda, ¿no?'.					
+				Y pensamos suspirando: 'Genial, otra misión de búsqueda, ¿no?'.					
 				Nos contó que estaba sentado justo aquí cuando cayó en un profundo sueño.					
 			AdventureUI/keyItem	Tronquero nos dijo que creía haber perdido su llave en el reino crepuscular de los sueños.					
 				Ya habíamos oído hablar de los extraños sueños de los montañeses del Cáucaso de cabello oscuro, así que aquello tenía todo el sentido para nosotros.					
@@ -228,7 +228,7 @@ GIRL_FOUNDKEY	The Scythian			En un sendero lateral encontramos a Samae, empapada
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Me parece bien que La Escita se quede con la llave si va a disipar la tormenta.					
 				Debo haberme quedado dormido en algún momento durante el épico relato de La Escita. La verdad es que no me van mucho las historias.					
 				Le pregunté sin rodeos a La Escita sobre su funesto cometido... empezó a hablar de las estepas y del dedo de Dios.					
-GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos espíritus silvanos más enviados al cielo disiparán la tormenta incesante... ¡Y luego comenzará la temporada de milagros! #miracles			129	034.jpg	33A44
+GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos espíritus silvanos más enviados al cielo disiparán la tormenta incesante... ¡Y entonces será la temporada de milagros! #miracles			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			Al caminar en sueños, hay una calma emocionante cuando la luna brilla más... y cuando está oscura, los bosques se vuelven salvajes.					
 				En los sueños, siempre son los mismos lugares y espacios, excepto cuando varían según el humor de la luna.					
 				Todas las noches desde que se disipó la tormenta, he tenido el mismo sueño en el que paseo por el bosque en la hora antes del amanecer.					
