@@ -416,7 +416,7 @@ ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Atravesar sin riesgo el umbral de la l
 				Cuando estás lúcido en un sueño, te das cuenta de quién has imaginado ser... pero identificarse con el sueño es dejarse hechizar.					
 				Incluso en un sueño ya conocido, hay nuevos lugares para explorar y nuevas conexiones para considerar... si sigues creyendo.					
 GIRL_MOONGROTTOCOMMENT	Girl			Siento como si el cosmos hubiera dado un giro y ahora todo estuviera levemente... desajustado.					
-LOGFELLA_MOONGROTTOCOMMENT	Logfella			De 0 a 1 hay un largo trecho, y si un alien dijera 'hola', sería un código críptico en la radio. Espera... ¿Qué?					
+LOGFELLA_MOONGROTTOCOMMENT	Logfella			De 0 a 1 hay un largo trecho, y si un alien dijera 'hola', sería un código críptico en el estéreo. Espera... ¿Qué?					
 GIRL_HUGETREETHOUGHTS	Girl			Por supuesto, nunca le cuento a la gente sobre estos sueños de diosas y árboles, pues seguramente me tomarían por una soñadora.					
 				En mi lugar especial visito un titánico árbol hueco... es una diosa, muerta hace mucho, que antecede a la humanidad por eras.					
 				Al caminar en sueños, hay un lugar especial al que siempre voy, un Parlamento de Árboles en el corazón del mundo.					
@@ -432,7 +432,7 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Aturdidos y sin un recuerdo claro,
 				Pero a Tronquero no le iban los siniestros misterios, así que prefirió irse a casa y cortar leña. #woodchopping					
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			Tronquero estaba muy contento de que la tormenta se hubiera disipado y estaba muy entusiasmado por volver a cortar leña.					
 				Nos preguntó si teníamos idea sobre el portón de hierro que bloqueaba la vasta cueva del prado... ¿qué podría haber detrás?					
-LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Que extraño... Veo un haz celestial dorado en el bosque tras el prado... ¿Alguien ha descubierto los secretos del Claro Trigonal?			89	072.jpg	67F24
+LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Qué extraño... Veo un haz celestial dorado en el bosque tras el prado... ¿Alguien ha descubierto los secretos del Claro Trigonal?			89	072.jpg	67F24
 LOGFELLA_URSULAMEADOW	Logfella			Estoy realmente preocupado por La Escita, parece muy quebrantada.					
 SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			El leñador y su hija nos observaron mientras recuperábamos el conocimiento.					
 				El prado seguía igual, toda evidencia de nuestro encuentro onírico había desaparecido.					
@@ -458,13 +458,13 @@ GIRL_AFTERYELLOWBEAM	The Scythian			Samae se sentó en una roca cerca del lugar 
 			Archetype/trifecta	Intuimos que los dos trigones restantes podrían estar perdidos en los sueños.					
 LOGFELLA_AFTERYELLOWBEAM	The Scythian			Tronquero había regresado a cortar leña, y era evidente que lo disfrutaba muchísimo.					
 			triangle/Triangle	Había visto el haz celestial que se alzaba tras el prado, así que le preguntamos por los secretos del Claro Trigonal.					
-				Nos relató una vieja leyenda que su gente contaba a sus hijos para provocarles escalofríos.					
+				Nos relató una historia que su gente contaba a sus hijos para provocarles escalofríos.					
 			Archetype/trifecta	Habló de una partida de escitas que, hace muchas lunas, llegó a estas montañas olvidadas en busca de la Trífida Trigonal.					
 			gourd/gourd	"""Aquella partida aprendió a hallar a los espíritus silvanos y enviarlos al cielo... y después buscó un lugar donde obrar un milagro."""					
 			Archetype/trifecta	"""Esperaban activar los tres haces celestiales en el Claro Trigonal, pero desconocían dónde o cuándo aparecerían los trigones."""					
 				"""Vagaron sin rumbo durante largo tiempo por el antiguo camino hacia Mingi Tau... hasta que, exhaustos, se detuvieron."""					
 				"""Entonces, un espectro inmortal los diezmó a la vera del antiguo camino, donde aún hoy permanecen sus tumbas."""					
-				Le dijimos a Tronquero que era una buena historia, aunque no nos asustó demasiado.					
+				Le dijimos a Tronquero que era un buen relato, aunque no nos asustó demasiado.					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
 ARCHETYPE_MOONGROTTO	The Archetype			Veo que has logrado alterar el humor de la luna en la Gruta Lunar. Me pregunto cuánto durará esta paradoja temporal.					
 MIRACLE2_ISLAND	The Scythian			Mientras La Luna Radiante impera, obramos un extraño milagro lunar en una isla imposible en medio de un apacible lago.			136	073.jpg	W7A3K
@@ -561,8 +561,8 @@ LOGFELLA_HALFWANE	The Scythian			Al leñador no le iban mucho las historias y ad
 GIRL_HALFWANE	The Scythian			Samae dijo haber caminado más allá del muro de piedra y haber sentido la terrible presencia de la Masa Gogolítica.			30	080.jpg	V8B04
 ARCHETYPE_HALFWANE	The Archetype			El ciclo lunar está disminuyendo y La Luna Sombría está a poco menos de una semana de distancia.					
 LOGFELLA_CRESCENTWANE	The Scythian			Al leñador no le iban mucho las historias y admitió que normalmente se quedaba dormido, aunque poseía un buen conocimiento al respecto.					
-				El leñador conocía la leyenda de la Masa Gogolítica, el espectro inmortal que acechaba en la oscuridad bajo Mingi Tau.					
-				Tronquero habló del Arremolinado Infinito, más allá de nuestra comprensión, de donde provino el Megatomo en la apenas recordada Edad de Piedra.					
+				Conocía la leyenda de la Masa Gogolítica, el espectro inmortal que acechaba en la oscuridad bajo Mingi Tau.					
+				Nos habló del Arremolinado Infinito, más allá de nuestra comprensión, de donde provino el Megatomo en la apenas recordada Edad de Piedra.					
 				Habló de seres inmortales del espacio que despertaron en la humanidad una forma rudimentaria de transmisión de pensamiento.					
 				"""Estos inmortales dieron a la humanidad el don de la civilización, y con ello, la condena de una inevitable extinción."""					
 				"""Los escitas trataron de reprimir la insidiosa propagación de la civilización y por eso aislaron el Megatomo con su protector inmortal."""					

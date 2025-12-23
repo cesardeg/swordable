@@ -273,7 +273,7 @@ ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Talvez tenha notado que o Trígono
 ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Radiante exigirá que você branda sua espada contra os projéteis e esquive dos ataques de raio carregado.					
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Você pode já ter encontrado o odioso ataque de arco-íris do Trígono da Lua Sombria. Fatie aquele arco-íris sem dó.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Sombria envolve projéteis triangulares, sutis e furtivos. Destrua-os e você sobreviverá.					
-ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então você despertou o espectro imortal que espreitava nas trevas sob Mingi Tau... Au!					
+ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então você despertou o espectro imortal que espreitava nas trevas sob Mingi Tau... Credo!					
 				Consequentemente, uma sinistra tempestade paira sobre nós e as pessoas adoráveis que vivem na cabana de pedra estão desoladas.					
 			adventureUI/megatomeItem	A boa notícia é que você tem um pesado livro conhecido como o Megatomo. Em nossa próxima sessão, falaremos sobre seu estranho propósito.					
 				Nossa pesquisa mostra que a exposição prolongada à psicosmologia mitopoética de S:S&S EP pode causar efeitos adversos.					
@@ -312,18 +312,18 @@ ARCHETYPE_GHOULINTRO	The Archetype
 				Bem, aqui estamos. Esta breve sessão marcará o fim do tratamento de S:S&S EP.					
 				A funesta missão de A Citiana está quase cumprida.					
 				Infelizmente, A Citiana teve seu corpo e psique gravemente enfraquecidos pela Espadância; ela está à beira da morte.			162	047.jpg	J4F7B
-			Archetype/trifecta	Tudo o que resta é revelar os segredos da Clareira Trigônica e elevar o Megatomo ao Remoinhado Infinito no topo de Mingi Tau.					
+			Archetype/trifecta	Tudo o que resta é revelar os segredos da Clareira Trigônica e subir o Megatomo ao Remoinhado Infinito no topo de Mingi Tau.					
 				Pressione 'jogar' apenas se tiver a coragem de testemunhar o terrível tormento do martírio.					
 END	The Scythian			No topo de Mingi Tau, detonamos o Megatomo e o precipitamos no Remoinhado Infinito.					
-END_CHEAT	The Scythian			No topo de Mingi Tau, elevamos o Megatomo à segurança eterna do Remoinhado Infinito. #cheat					
-END_CHEAT_NOBOOR	The Scythian			No topo de Mingi Tau, elevamos o Megatomo à segurança eterna do Remoinhado Infinito. #cheat #noboor					
-END_CHEAT_PSYCHO	The Scythian			No topo de Mingi Tau, elevamos o Megatomo à segurança eterna do Remoinhado Infinito. #cheat #psycho					
-END_CHEAT_LOVE	The Scythian			No topo de Mingi Tau, elevamos o Megatomo à segurança eterna do Remoinhado Infinito. #cheat #love			202	048.jpg	D4A81
-END_MOONGROTTO_PSYCHO	The Scythian			No topo de Mingi Tau, elevamos o Megatomo à segurança eterna do Remoinhado Infinito. #moongrotto #psycho			180	049.jpg	74D9P
-END_MOONGROTTO_LOVE	The Scythian			No topo de Mingi Tau, elevamos o Megatomo à segurança eterna do Remoinhado Infinito. #moongrotto #love			176	050.jpg	Y5F0P
-END_HONEST_PSYCHO	The Scythian			No topo de Mingi Tau, elevamos o Megatomo à segurança eterna do Remoinhado Infinito. #honest #psycho			179	051.jpg	M5C1H
-END_HONEST_LOVE	The Scythian			No topo de Mingi Tau, elevamos o Megatomo à segurança eterna do Remoinhado Infinito. #honest #love			177	052.jpg	55E2B
-END_HONEST_NOBOOR	The Scythian			No topo de Mingi Tau, elevamos o Megatomo à segurança eterna do Remoinhado Infinito. #honest #noboor			178	053.jpg	75G3V
+END_CHEAT	The Scythian			No topo de Mingi Tau, subimos o Megatomo à segurança eterna do Remoinhado Infinito. #cheat					
+END_CHEAT_NOBOOR	The Scythian			No topo de Mingi Tau, subimos o Megatomo à segurança eterna do Remoinhado Infinito. #cheat #noboor					
+END_CHEAT_PSYCHO	The Scythian			No topo de Mingi Tau, subimos o Megatomo à segurança eterna do Remoinhado Infinito. #cheat #psycho					
+END_CHEAT_LOVE	The Scythian			No topo de Mingi Tau, subimos o Megatomo à segurança eterna do Remoinhado Infinito. #cheat #love			202	048.jpg	D4A81
+END_MOONGROTTO_PSYCHO	The Scythian			No topo de Mingi Tau, subimos o Megatomo à segurança eterna do Remoinhado Infinito. #moongrotto #psycho			180	049.jpg	74D9P
+END_MOONGROTTO_LOVE	The Scythian			No topo de Mingi Tau, subimos o Megatomo à segurança eterna do Remoinhado Infinito. #moongrotto #love			176	050.jpg	Y5F0P
+END_HONEST_PSYCHO	The Scythian			No topo de Mingi Tau, subimos o Megatomo à segurança eterna do Remoinhado Infinito. #honest #psycho			179	051.jpg	M5C1H
+END_HONEST_LOVE	The Scythian			No topo de Mingi Tau, subimos o Megatomo à segurança eterna do Remoinhado Infinito. #honest #love			177	052.jpg	55E2B
+END_HONEST_NOBOOR	The Scythian			No topo de Mingi Tau, subimos o Megatomo à segurança eterna do Remoinhado Infinito. #honest #noboor			178	053.jpg	75G3V
 GIRL_GHOULTHOUGHTS	Girl			A Citiana sabe que é possível deter a Massa Gogolítica tocando sua caveira com Espadância? Provavelmente não.					
 				Espero que A Citiana saiba que deve manter pressionado o caminho para se remexer, remexer bem rapidinho... se não o fizer, estará frita.					
 				Onde estou? O que aconteceu? A última coisa que me lembro é de estar caminhando em sonhos pela floresta quando vi uma luz rosa perturbadora.					
@@ -416,7 +416,7 @@ ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Atravessar o limiar da liminaridade em
 				Quando você está lúcido em um sonho, percebe quem imaginou ser... mas se identificar com o sonho é se deixar encantar.					
 				Mesmo em um sonho conhecido, há novos lugares para explorar e novas conexões para considerar... se você continuar acreditando.					
 GIRL_MOONGROTTOCOMMENT	Girl			Sinto como se o cosmos tivesse girado e agora tudo estivesse levemente... desajustado.					
-LOGFELLA_MOONGROTTOCOMMENT	Logfella			De 0 a 1 há uma longa jornada, e se um alien dissesse 'olá', seria um código criptografado no rádio. Espere... O quê?					
+LOGFELLA_MOONGROTTOCOMMENT	Logfella			De 0 a 1 há uma longa jornada, e se um alien dissesse 'olá', seria um código criptografado no estéreo. Espere... O quê?					
 GIRL_HUGETREETHOUGHTS	Girl			Claro, nunca falo com as pessoas sobre estes sonhos de deusas e árvores, pois certamente me tomariam por uma sonhadora.					
 				Em meu lugar especial, visito uma titânica árvore oca... ela é uma deusa, morta há muito tempo, que antecede a humanidade por eras.					
 				Ao caminhar em sonhos, há um lugar especial para onde sempre vou, um Parlamento de Árvores no coração do mundo.					
@@ -439,7 +439,7 @@ SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			O lenhador e sua filha nos obs
 GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae ouviu em silêncio nossa estranha história do encontro com o Trígono Dourado.					
 			triangle/Triangle	Ela se perguntou sobre os segredos da Clareira Trigônica além da vasta caverna na campina... Poderia haver alguma conexão?					
 GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Estou muito preocupada com A Citiana... ela sumiu por dias depois que a tempestade se dissipou. Tomara que esteja bem.					
-GIRL_URSULAMEADOW_OFF	Girl			Au, então A Citiana estava desacordada na campina? Que loucura.					
+GIRL_URSULAMEADOW_OFF	Girl			Uau, então A Citiana estava desacordada na campina? Que loucura.					
 DOGFELLA_GETDARKTRIGON	The Scythian			Depois de ativar outro facho celestial na Clareira Trigônica, notamos algo peculiar no cachorro chamado Cachorreiro.					
 			Archetype/trifecta	De repente, parecia que entendíamos o que ele estava dizendo: nos instigou a buscar o Trígono da Lua Sombria e completar a Tríade Trigônica.					
 DOGFELLA_GETBRIGHTTRIGON	The Scythian			Depois de ativar outro facho celestial na Clareira Trigônica, notamos algo peculiar no cachorro chamado Cachorreiro.					
@@ -458,13 +458,13 @@ GIRL_AFTERYELLOWBEAM	The Scythian			Samae sentou-se em uma rocha perto do local 
 			Archetype/trifecta	Pressentimos que os dois trígonos restantes poderiam estar perdidos nos sonhos.					
 LOGFELLA_AFTERYELLOWBEAM	The Scythian			Troncadeiro havia voltado a cortar lenha, e era evidente que estava totalmente absorto na tarefa.					
 			triangle/Triangle	Ele vira o facho celestial que se erguia na floresta atrás da campina, então perguntamos sobre os segredos da Clareira Trigônica.					
-				Ele nos contou uma velha história que seu povo recitava às crianças para lhes provocar arrepio.					
+				Ele nos contou uma história que seu povo narrava às crianças para lhes provocar arrepio.					
 			Archetype/trifecta	Troncadeiro falou de uma comitiva de cítios que, há muitas luas, chegou a estas montanhas esquecidas em busca da Tríade Trigônica.					
 			gourd/gourd	"""A comitiva aprendeu a buscar os espíritos silvanos e enviá-los ao céu... e depois procurou um lugar para obrar um milagre."""					
 			Archetype/trifecta	"""Esperavam ativar os três fachos celestiais na Clareira Trigônica, mas não sabiam onde nem quando encontrariam os trígonos."""					
 				"""Vagaram sem rumo por muito tempo pelo antigo caminho para Mingi Tau... até que, exaustos, pararam."""					
 				"""Então, a comitiva foi dizimada por um espectro imortal à beira do antigo caminho, onde suas tumbas permanecem até hoje."""					
-				Dissemos a Troncadeiro que era uma boa história, embora não nos tenha assustado tanto.					
+				Dissemos a Troncadeiro que era um bom conto, embora não nos tenha assustado tanto.					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
 ARCHETYPE_MOONGROTTO	The Archetype			Vejo que você conseguiu alterar o humor da lua na Gruta Lunar. Me pergunto quanto tempo esse paradoxo temporal durará.					
 MIRACLE2_ISLAND	The Scythian			Enquanto a Lua Radiante paira, obramos um estranho milagre lunar em uma ilha impossível no meio de um aprazível lago.			136	073.jpg	W7A3K
@@ -561,13 +561,13 @@ LOGFELLA_HALFWANE	The Scythian			O lenhador não aguentava muito folclore e admi
 GIRL_HALFWANE	The Scythian			Samae disse ter caminhado além do muro de pedra e sentido a terrível presença da Massa Gogolítica.			30	080.jpg	V8B04
 ARCHETYPE_HALFWANE	The Archetype			O ciclo lunar está diminuindo e a Lua Sombria está a menos de uma semana de distância.					
 LOGFELLA_CRESCENTWANE	The Scythian			O lenhador não aguentava muito folclore e admitiu que geralmente dormia, embora tivesse um bom conhecimento sobre o assunto.					
-				O lenhador conhecia a história da Massa Gogolítica, o espectro imortal que espreitava nas trevas sob Mingi Tau.					
-				Troncadeiro falou sobre o Remoinhado Infinito, além de nossa compreensão, de onde o Megatomo veio na mal lembrada Idade da Pedra.					
+				Conhecia a lenda da Massa Gogolítica, o espectro imortal que espreitava nas trevas sob Mingi Tau.					
+				Nos falou sobre o Remoinhado Infinito, além de nossa compreensão, de onde o Megatomo veio na mal lembrada Idade da Pedra.					
 				Ele falou de seres imortais do espaço que despertaram na humanidade uma forma rudimentar de transmissão de pensamento.					
 				"""Esses imortais deram à humanidade o dom da civilização e, com isso, a condenação de uma inevitável extinção."""					
 				"""Os cítios tentaram reprimir a insidiosa propagação da civilização e por isso isolaram o Megatomo com seu protetor imortal."""					
 				"""O imortal tem espreitado nas trevas desde então, degenerando-se no espectro conhecido como a Massa Gogolítica."""					
-				O lenhador provavelmente teria continuado essa história interminável se não o tivéssemos interrompido respeitosamente.					
+				Provavelmente teria continuado com esse relato interminável se não o tivéssemos interrompido respeitosamente.					
 GIRL_CRESCENTWANE	The Scythian			Samae observou a lua minguante. Ela disse que em breve partiria e a Lua Sombria reinaria.					
 ARCHETYPE_CRESCENTWANE	The Archetype			O ciclo lunar está quase completo. A Lua Sombria está muito próxima.					
 DARKMOONLOOMS_ARCHETYPE	The Archetype			A Lua Sombria reina, o fim do ciclo lunar está próximo.					
