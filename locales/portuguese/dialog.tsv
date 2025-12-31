@@ -234,7 +234,7 @@ GIRL_SUPERMOTHERTREE	Girl			Ao caminhar em sonhos, há uma calma emocionante qua
 				Todas as noites desde que a tempestade se dissipou, tenho tido o mesmo sonho em que caminho pela floresta na hora antes do amanhecer.					
 ARCHETYPE_TREEHINT	The Archetype			Lembre-se de que o consumo de cogumelos florestais pode oferecer certa perspectiva dos fenômenos criptozoológicos e coisas do tipo.					
 				Busque as melódicas espumas dos espíritos silvanos e investigue seu entorno.					
-				Uma vez que tenha iniciado a Canção da Espadância, você pode tocar a aura e deslizar para olhar ao seu redor.					
+				Uma vez que tenha iniciado a Canção da Espadância, você pode tocar a aura e deslizar (ou usar as setas) para olhar ao seu redor.					
 ARCHETYPE_TREEHINT_NINSWITCH	The Archetype			Lembre-se de que o consumo de cogumelos florestais pode oferecer certa perspectiva dos fenômenos criptozoológicos e coisas do tipo.					
 				Busque as melódicas espumas dos espíritos silvanos e investigue seu entorno.					
 				Uma vez que tenha iniciado a Canção da Espadância, você pode tocar a aura e deslizar para olhar ao redor.					
@@ -428,7 +428,7 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Atordoados e sem uma lembrança cl
 			triangle/Triangle	Lembramos do milagre na campina e nosso encontro com o Trígono Dourado...					
 			triangle/Triangle	...Quais novos poderes nos foram concedidos?					
 			triangle/Triangle	Troncadeiro ficou totalmente impressionado com o quão incrível e estranha a luta contra o Trígono Dourado soava.			81	071.jpg	R7C14
-			triangle/Triangle	Ele se perguntou se talvez o Trígono Dourado pudesse estar relacionado aos sinistros mistérios além do portão de ferro na campina...					
+			triangle/Triangle	Ele se perguntou se talvez o Trígono pudesse estar relacionado aos sinistros mistérios além do portão de ferro na campina...					
 				Mas Troncadeiro não era fã de sinistros mistérios, então preferiu ir para casa cortar lenha. #woodchopping					
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			Troncadeiro estava muito feliz por a tempestade ter se dissipado e estava animado para voltar a cortar lenha.					
 				Ele nos perguntou se tínhamos ideia sobre o portão de ferro que bloqueava a vasta caverna na campina... o que poderia haver por trás?					
@@ -472,7 +472,7 @@ MIRACLE2_PINKTRIGONCOLLECTED	The Scythian			Conseguimos o Trígono da Lua Radian
 MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			Fomos tentados a abandonar completamente esta funesta missão, mas havia algo de atraente no martírio.					
 				Bem, provavelmente não importará muito no fim. Afinal, entrar no Remoinhado Infinito não exige um exame físico.					
 				Era evidente que tantas caminhadas oníricas e trígonos domados estavam começando a cobrar seu preço.					
-				Ao amainar a luz e o som, nos encontramos na margem de um lago com uma forte dor de cabeça e o nariz sangrando.					
+				Ao amainar a luz e o som, nos encontramos na margem de um lago com uma dor de cabeça terrível e o nariz sangrando.					
 GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Falamos com Samae sobre nosso encontro onírico com o Trígono da Lua Radiante e de nossas intenções de reconstruir a Tríade Trigônica.					
 				Ela disse que nosso encontro parecia fascinante e lamentou não ter estado lá. #lies					
 				Nos questionou se tínhamos passado pela Clareira Trigônica... Talvez pudéssemos ativar outro facho celestial?					
