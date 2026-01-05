@@ -21,7 +21,7 @@ DOOR_SIDEBMEADOW	The Scythian			Uma pequena porta sem maçaneta, feita de um mat
 DOOR_UPSLOPEWOODS1	The Scythian			Bem no muro de pedra, uma porta trancada bloqueava o antigo caminho para Mingi Tau.					
 DOOR_UPSLOPEWOODS3	The Scythian			Uma porta trancada se escondia entre a mata abaixo do antigo caminho que leva a Mingi Tau. #moongrotto					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
-LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		O lenhador lenhador lenhava lenha. #obviously #woodchopping			71	007.jpg	70E70
+LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		O lenhador lenhava lenha. #obviously #woodchopping			71	007.jpg	70E70
 				Os montanheses do Cáucaso o chamavam de Troncadeiro e ele parecia agradável.					
 				Conhecia bem nossa funesta missão e concordou em nos guiar pelo antigo caminho.					
 				Mesmo assim, ficou claro que ele não estava nada empolgado com isso.					
@@ -201,7 +201,7 @@ LOGFELLA_LOSTKEY	The Scythian			O lenhador aflito conhecido como Troncadeiro sur
 			AdventureUI/keyItem	Troncadeiro nos explicou que achava ter perdido sua chave no reino crepuscular dos sonhos.					
 				Já tínhamos ouvido falar dos estranhos sonhos dos montanheses do Cáucaso de cabelo escuro, então isso fez todo o sentido para nós.					
 				Troncadeiro nos convidou para aquecer nossas botas junto ao fogo para sonhar ao seu lado.			63	029.jpg	U2C92
-ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos na vigília e na psicosmologia mitopoética dos sonhos como estados separados, mas eles interagem de forma curiosa.					
+ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos na vigília e na psicocosmologia mitopoética dos sonhos como estados separados, mas eles interagem de forma curiosa.					
 				O limiar da liminaridade é um espaço entre a vigília e os sonhos onde o pensamento direcionado é impossível.			56	030.jpg	13A0A
 				Procure um lugar acolhedor e deixe o sono envolvê-lo para descobrir o limiar da liminaridade.					
 ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	Que tal sentar-se junto ao fogo na cabana e atravessar o limiar da liminaridade para encontrar a chave perdida de Troncadeiro?			55	031.jpg	23C1X
@@ -274,9 +274,9 @@ ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Você pode já ter encontrado o odioso ataque de arco-íris do Trígono da Lua Sombria. Fatie aquele arco-íris sem dó.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Sombria envolve projéteis triangulares, sutis e furtivos. Destrua-os e você sobreviverá.					
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então você despertou o espectro imortal que espreitava nas trevas sob Mingi Tau... Credo!					
-				Consequentemente, uma sinistra tempestade paira sobre nós e as pessoas adoráveis que vivem na cabana de pedra estão desoladas.					
+				Consequentemente, uma sinistra tempestade paira ameaçadora e as pessoas adoráveis que vivem na cabana de pedra estão desoladas.					
 			adventureUI/megatomeItem	A boa notícia é que você tem um pesado livro conhecido como o Megatomo. Em nossa próxima sessão, falaremos sobre seu estranho propósito.					
-				Nossa pesquisa mostra que a exposição prolongada à psicosmologia mitopoética de S:S&S EP pode causar efeitos adversos.					
+				Nossa pesquisa mostra que a exposição prolongada à psicocosmologia mitopoética de S:S&S EP pode causar efeitos adversos.					
 				Agora que você completou a Sessão I, que tal uma pausa? Estarei aqui quando você quiser começar a Sessão II.					
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
 				É bom te ver novamente. Vamos começar a Sessão II de S:S&S EP?					
@@ -679,7 +679,7 @@ ARCHETYPE_CREDITS	The Archetype
 				S:S&S EP é uma abordagem fresca ao videogame de aventura old school com ênfase no estilo audiovisual.					
 				S:S&S EP se inspira no trabalho de criadores pioneiros de videogames Shigeru Miyamoto, Jordan Mechner, Eric Chahi e Fumito Ueda.					
 				S:S&S EP é um sonho febril de Famicom.			38	082.jpg	28B24
-				S:S&S EP inspira-se na psicosmologia mitopoética das histórias de espada e feitiçaria de Robert E. Howard.					
+				S:S&S EP inspira-se na psicocosmologia mitopoética das histórias de espada e feitiçaria de Robert E. Howard.					
 				S:S&S EP é um 'Link' com o passado.			167	083.jpg	18E3V
 				S:S&S EP é um primeiro esforço e sim, é um pouco experimental.					
 				O conceito estético de S:S&S EP é 'a aventura arquetípica de videogame'.					

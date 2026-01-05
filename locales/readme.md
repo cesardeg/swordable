@@ -185,8 +185,8 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | **cosmic friends forever** | amigos cósmicos para siempre | amigos cósmicos para sempre | ✅ Ending phrase |
 | | | | |
 | linguistic thought transmission | transmisión de pensamiento lingüístico | transmissão de pensamento linguístico | ✅ |
-| mythopoetic psychocosmology | psicosmología mitopoética | psicosmologia mitopoética | ✅ |
-| set and setting | set y setting | set and setting | ⚠️ Keep English terms |
+ | mythopoetic psychocosmology | psicocosmología mitopoética | psicocosmologia mitopoética | ✅ |
+ | set and setting | Disposición y Entorno | Preparação e Ambiente | ✅ Adapted concepts |
 
 ### Atmospheric Terms
 

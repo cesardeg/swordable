@@ -21,7 +21,7 @@ DOOR_SIDEBMEADOW	The Scythian			Encontramos una pequeña puerta sin pomo hecha d
 DOOR_UPSLOPEWOODS1	The Scythian			En el muro de piedra, una puerta trancada bloqueaba el antiguo camino hacia Mingi Tau.					
 DOOR_UPSLOPEWOODS3	The Scythian			Una puerta trancada se escondía entre la maleza, debajo del antiguo camino que lleva hacia Mingi Tau. #moongrotto					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
-LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador leñador leñaba leña. #obviously #woodchopping			71	007.jpg	70E70
+LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador leñaba leña. #obviously #woodchopping			71	007.jpg	70E70
 				Los montañeses del Cáucaso lo llamaban Tronquero y parecía buena gente.					
 				Conocía bien nuestro funesto cometido y accedió a guiarnos por el antiguo camino.					
 				Aunque era obvio que el asunto no le hacía ninguna gracia.					
@@ -60,11 +60,11 @@ ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo
 				Agradecemos sinceramente que hayas decidido participar en este tratamiento experimental para la aflicción profunda del alma.					
 				Encontrarás que esta primera sesión de S:S&S EP es bastante sencilla y suele durar entre 15 y 30 minutos.					
 				¿Todo listo? ¡Presiona 'jugar' y vamos allá!					
-ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP no busca crear la experiencia trascendental, solo pretende liberar tu sistema nervioso de sus patrones habituales.					
+ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP no busca crear la experiencia trascendental, solo pretende liberar el sistema nervioso de sus patrones habituales.					
 				El segundo aspecto del Entorno es lo cultural: las nociones predominantes sobre la realidad y la normalidad. Evitaremos esta discusión por ahora.					
 				El 'Entorno' abarca la comodidad, la seguridad y la calidez del lugar donde ocurre la experiencia.					
 				Hemos descubierto que un individuo relajado y curioso es más propenso a tener una experiencia placentera con S:S&S EP.					
-				La 'Disposición' se refiere al estado mental y la personalidad que aportas a la experiencia: tus pensamientos, tu ánimo y tus expectativas.					
+				La 'Disposición' se refiere al estado mental y la personalidad que aportas a la experiencia: tus pensamientos, estado de ánimo y expectativas.					
 				Hablemos de la Disposición y el Entorno para una experiencia positiva con esta obra altamente psicoactiva: Superbrothers: Sword & Sworcery EP.					
 				La conciencia expandida, el potencial ilimitado e inexplorado de la mente, es lo que en Superbrothers llamamos 'Espadancia'. #sworcery					
 				La 'Espadancia' es la técnica psiónica que permite percibir una realidad dentro de la que ya conoces.					
@@ -166,7 +166,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			En un matorral a la vera del antiguo camino,
 				"""Lo de encontrar el Trigón Luna Radiante no fue muy bien... nos perdimos por completo, la verdad."""					
 				"""Poco a poco nos dimos cuenta de la importancia del ciclo lunar y de su influencia en los espíritus que duermen en los reinos del crepúsculo."""					
 				"""Así que nos sentamos aquí a observar el humor de la luna para aprender cuándo estar dónde y cómo."""			7	026.jpg	Q2D6P
-				"""Nos morimos de aburrimiento esperando a que cambiara el humor de la luna."""					
+				"""Morimos de aburrimiento esperando que cambiara el humor de la luna."""					
 				"""Bueno... en realidad, morimos por una discusión que tuvimos por puro aburrimiento."""					
 				"""Prefiero no entrar en detalles, si no te importa."""					
 				"""Resulta que uno de los nuestros era un tramposo redomado, y lo atrapamos con las manos en la masa."""					
@@ -201,7 +201,7 @@ LOGFELLA_LOSTKEY	The Scythian			Tronquero, el leñador, estaba hecho un manojo d
 			AdventureUI/keyItem	Tronquero nos dijo que creía haber perdido su llave en el reino crepuscular de los sueños.					
 				Ya habíamos oído hablar de los extraños sueños de los montañeses del Cáucaso de cabello oscuro, así que aquello tenía todo el sentido para nosotros.					
 				Tronquero nos invitó a calentar nuestras botas junto al fuego para soñar a su lado.			63	029.jpg	U2C92
-ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos en la vigilia y la psicosmología mitopoética de los sueños como estados separados, pero interactúan de formas curiosas.					
+ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos en la vigilia y la psicocosmología mitopoética de los sueños como estados separados, pero interactúan de formas curiosas.					
 				El umbral de la liminalidad es un espacio entre la vigilia y los sueños donde el pensamiento dirigido es imposible.			56	030.jpg	13A0A
 				Busca un lugar cálido y permite que el sueño te envuelva para descubrir el umbral de la liminalidad.					
 ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	¿Qué tal si te sientas junto al fuego en la choza y cruzas el umbral de la liminalidad para encontrar la llave perdida de Tronquero?			55	031.jpg	23C1X
@@ -274,9 +274,9 @@ ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			El patrón final del Trigón Luna 
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Quizá ya te hayas enfrentado al odioso ataque de arcoíris del Trigón Luna Sombría. Rebana ese arcoíris tan fuerte y rápido como puedas.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			El patrón final del Trigón Luna Sombría implica proyectiles triangulares, sutiles y furtivos. Destrúyelos y sobrevivirás.					
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que despertaste al espectro inmortal que acechaba en la oscuridad bajo Mingi Tau... ¡Uf!					
-				Como consecuencia, una siniestra tormenta se cierne sobre nosotros y la gente adorable de la choza de piedra está desolada.					
+				Como consecuencia, una siniestra tormenta se cierne amenazante y la gente adorable de la choza de piedra está desolada.					
 			adventureUI/megatomeItem	La buena noticia es que tienes un pesado libro conocido como el Megatomo. En nuestra próxima sesión hablaremos de su extraño propósito.					
-				Nuestra investigación muestra que la exposición prolongada a la psicosmología mitopoética de S:S&S EP puede causar efectos adversos.					
+				Nuestra investigación muestra que la exposición prolongada a la psicocosmología mitopoética de S:S&S EP puede causar efectos adversos.					
 				Así que ahora que completaste la Sesión I, ¿qué tal si descansamos un poco? Estaré justo aquí cuando quieras comenzar la Sesión II.					
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
 				Me alegra verte de nuevo. ¿Comenzamos con la Sesión II de S:S&S EP?					
@@ -306,7 +306,7 @@ ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	Entonces, ¿domaste lo
 			Archetype/trifecta	Eres especial y por eso mismo te aprecio tanto.					
 				Fue un acto de gran valentía y generosidad ofrecer como mártir a La Escita en la cima de Mingi Tau.					
 				En serio, estamos en deuda contigo.					
-				Solo queda arrastrar a La Escita a la cima y contemplar el Arremolinado Infinito.					
+				Solo te queda arrastrar a La Escita a la cima y contemplar el Arremolinado Infinito.					
 				¡Ten valor, el final está cerca!					
 ARCHETYPE_GHOULINTRO	The Archetype								
 				Bueno, aquí estamos. Esta breve sesión marcará el fin del tratamiento de S:S&S EP.					
@@ -414,9 +414,9 @@ LOGFELLA_JIMTHOUGHTS	Logfella			He tenido esta cancioncita en mi cabeza durante 
 ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Atravesar sin riesgo el umbral de la liminalidad es sencillo: busca los lugares familiares y el calor del hogar.					
 				Si logras estabilizar tu lucidez, podrás co-crear con ella... en lugar de luchar, resistir y maldecirla.					
 				Cuando estás lúcido en un sueño, te das cuenta de quién has imaginado ser... pero identificarse con el sueño es dejarse hechizar.					
-				Incluso en un sueño ya conocido, hay nuevos lugares para explorar y nuevas conexiones para considerar... si sigues creyendo.					
+				Incluso en un sueño conocido hay nuevos lugares que explorar y nuevas conexiones que descubrir... si sigues creyendo.					
 GIRL_MOONGROTTOCOMMENT	Girl			Siento como si el cosmos hubiera dado un giro y ahora todo estuviera levemente... desajustado.					
-LOGFELLA_MOONGROTTOCOMMENT	Logfella			De 0 a 1 hay un largo trecho, y si un alien dijera 'hola', sería un código críptico en el estéreo. Espera... ¿Qué?					
+LOGFELLA_MOONGROTTOCOMMENT	Logfella			Hay un largo camino de 0 a 1, y si un extraterrestre dijera 'hola', lo haría en código críptico por el estéreo. Espera... ¿Qué?					
 GIRL_HUGETREETHOUGHTS	Girl			Por supuesto, nunca le cuento a la gente sobre estos sueños de diosas y árboles, pues seguramente me tomarían por una soñadora.					
 				En mi lugar especial visito un titánico árbol hueco... es una diosa, muerta hace mucho, que antecede a la humanidad por eras.					
 				Al caminar en sueños, hay un lugar especial al que siempre voy, un Parlamento de Árboles en el corazón del mundo.					
@@ -438,7 +438,7 @@ SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			El leñador y su hija nos obse
 				El prado seguía igual, toda evidencia de nuestro encuentro onírico había desaparecido.					
 GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae escuchó en silencio nuestra extraña historia sobre nuestro encuentro con el Trigón Dorado.					
 			triangle/Triangle	Se preguntó por los secretos del Claro Trigonal más allá de la vasta cueva del prado... ¿Habría alguna conexión?					
-GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Me preocupa mucho La Escita... desapareció por varios días después de que se disipara la tormenta. Ojalá esté bien.					
+GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Me preocupa mucho La Escita... desapareció durante varios días después de que se disipara la tormenta. Ojalá esté bien.					
 GIRL_URSULAMEADOW_OFF	Girl			Vaya, ¿Entonces La Escita estaba desmayada en el prado? Qué locura.					
 DOGFELLA_GETDARKTRIGON	The Scythian			Después de activar otro haz celestial en el Claro Trigonal, notamos algo peculiar en el perro llamado Perrero.					
 			Archetype/trifecta	De repente, pareció que lo entendíamos: nos instó a buscar el Trigón Luna Sombría y completar la Trífida Trigonal.					
@@ -679,7 +679,7 @@ ARCHETYPE_CREDITS	The Archetype
 				S:S&S EP es un enfoque fresco al videojuego de aventura old school con énfasis en el estilo audiovisual.					
 				S:S&S EP se inspira en el trabajo de creadores pioneros de videojuegos Shigeru Miyamoto, Jordan Mechner, Eric Chahi y Fumito Ueda.					
 				S:S&S EP es un sueño febril de Famicom.			38	082.jpg	28B24
-				S:S&S EP se inspira en la psicosmología mitopoética de las historias de espada y hechicería de Robert E. Howard.					
+				S:S&S EP se inspira en la psicocosmología mitopoética de las historias de espada y hechicería de Robert E. Howard.					
 				S:S&S EP es un 'Link' al pasado.			167	083.jpg	18E3V
 				S:S&S EP es un primer esfuerzo y sí, es un poco experimental.					
 				El concepto estético de S:S&S EP es 'la aventura arquetípica de videojuego'.					
