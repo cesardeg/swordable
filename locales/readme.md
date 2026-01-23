@@ -69,7 +69,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | **Dogfella** | Perrero | Cachorreiro | ✅ The dog. See Philosophy section. |
 | **Jim Guthrie** | Jim Guthrie | Jim Guthrie | ✅ Never translate proper name |
 | **The Grizzled Boor** | El Canoso Tosco | O Patife Grisalho | ✅ Antagonist. PT: "Grosseiro" not "Tosco" |
-| **Andre (The Giant)** | André 'El Gigante' | André 'O Gigante' | ✅ Ghost character, maintain quotes |
+| **Andre (The Giant)** | André 'El Gigante' | André, 'O Gigante' | ✅ Ghost character, maintain quotes |
 | **The Gogolithic Mass** | La Masa Gogolítica | A Massa Gogolítica | ✅ The deathless specter |
 
 ---
@@ -89,7 +89,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | **stone hut** | choza de piedra | cabana de pedra | ⚠️ Logfella's dwelling |
 | **stone wall** | muro de piedra | muro de pedra | ✅ Blocks the old road |
 | **meadow** | prado | campina | ✅ Starting area |
-| **deepwater pond** | estanque insondable | lagoa insondável | ✅ Near the hut |
+| **deepwater pond** | insondable estanque | insondável lagoa | ✅ Adjective before noun (Epic tone) |
 | **old road** | antiguo camino | antigo caminho | ✅ ES: Never "viejo". PT: Never "estrada velha" |
 | **log bridge** | puente de troncos | ponte de toras | ✅ |
 | **the whirling infinite** | el Arremolinado Infinito | o Remoinhado Infinito | ✅ Summit gateway |
@@ -102,7 +102,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | mountain temple | templo de la montaña | templo da montanha |
 | iron gate | portón de hierro | portão de ferro |
 | cavernous cave | vasta cueva | vasta caverna |
-| titanic hollow tree | árbol hueco titánico | árvore oca titânica |
+| titanic hollow tree | titánico árbol hueco | titânica árvore oca |
 | parliament of trees | Parlamento de Árboles | Parlamento de Árvores |
 
 ---
@@ -124,7 +124,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | hearth | hoguera / fuego | fogo / lareira | ⚠️ PT: `fogo` (fire), `lareira` (hearth) |
 | firewood | leña | lenha | ✅ |
 | well | pozo | poço | ✅ |
-| nestbox | nido | ninho | ✅ |
+| nestbox | nido | ninho | ✅ Also "nido curioso" / "ninho curioso" |
 
 ### Special Items
 
@@ -157,8 +157,8 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | touch & hold | mantén pulsado | manter pressionado | ✅ Primary interaction |
 | tap / tip tap | toca / haz tap tap | tocar / tap tap | ✅ Quick touch |
 | swipe | desliza / deslizar | deslizar / deslize | ✅ Gesture |
-| move it move it | mover el bote | se remexer | ✅ Fast movement, colloquial |
-| shield button | botón de escudo | botão do escudo | ✅ |
+| move it move it | mover el bote | remexer | ✅ Fast movement, colloquial |
+| shield button | botón del escudo | botão do escudo | ✅ With article |
 | swing sword | blandir espada | brandir espada | ✅ |
 | dodge/evade | esquivar | esquivar | ✅ |
 
@@ -166,10 +166,11 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 
 | English | Spanish (ES) | Portuguese (PT-BR) |
 |---------|--------------|-------------------|
-| dream-walking | paseos oníricos | caminhadas oníricas |
+| dream-walking (Narrator) | paseos oníricos | caminhadas oníricas |
+| dream-walking (Character) | caminar en sueños | caminhar em sonhos |
 | threshold of liminality | umbral de la liminalidad | limiar da liminaridade |
 | twilight realm | reino crepuscular | reino crepuscular |
-| time of miracles | temporada de milagres | época dos milagres |
+| time of miracles | temporada de milagros | época dos milagres |
 
 ---
 
@@ -180,7 +181,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | **woeful errand** | funesto cometido | funesta missão | ✅ The Scythian's quest |
 | **martyrdom** | martirio | martírio | ✅ The Scythian's fate |
 | **deathless specter** | espectro inmortal | espectro imortal | ✅ The Gogolithic Mass |
-| **heebie jeebies** | nervios de punta | nervos à flor da pele | ✅ ES: standing nerves, PT: nerves at skin |
+| **heebie jeebies** | escalofrío | frio na espinha | ✅ Physical sensation of fear |
 | **cosmic friends forever** | amigos cósmicos para siempre | amigos cósmicos para sempre | ✅ Ending phrase |
 | | | | |
 | linguistic thought transmission | transmisión de pensamiento lingüístico | transmissão de pensamento linguístico | ✅ |
@@ -274,12 +275,12 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 
 | English | Spanish (ES) | Portuguese (PT-BR) | Notes |
 |---------|--------------|-------------------|-------|
-| amirite? | ¿no? / ¿verdad? | não é? / não? | ✅ Casual agreement |
+| amirite? | ¿no? | Fala sério, né? | ✅ Casual agreement / Exasperation |
 | Y'know | Sabes / Ya sabes | Sabe / Você sabe | ✅ |
 | Whoa | Vaya / Guau | Au / Nossa | ✅ Context dependent |
-| Yikes! | ¡Uf! / ¡Zas! | Au! / Uf! | ✅ |
+| Yikes! | ¡Uf! | Au! | ✅ |
 | Hmm... | Hmm... | Hmm... | ✅ Keep as is |
-| cool | genial / cool | legal / cool | ⚠️ Regional variation |
+| cool | genial / amable | legal / agradável | ⚠️ Context: Person vs Situation |
 
 ### Character-Specific Speech
 
@@ -305,9 +306,9 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 - Dark Moon → **"reina"** (reigns).
 - Creates intentional contrast between the two moons
 
-#### 3. **"Heebie Jeebies" Translation**
-- Standard: **"nervios de punta"** ✅
-- Alternate: "piel de gallina" (only for literal chills)
+#### 3. **"Heebie Jeebies" / Fear Translation**
+- Standard: **"escalofrío"** (shiver) ✅
+- Alternate: **"manojo de nervios"** (freaking out)
 - Never mix within same document
 
 #### 4. **Old Road**
@@ -465,14 +466,14 @@ This glossary uses **Brazilian Portuguese (PT-BR)** conventions:
 | 10 | The Gogolithic Mass | La Masa Gogolítica | A Massa Gogolítica |
 | 11 | Trigon Trifecta | Trífida Trigonal | Tríade Trigônica |
 | 12 | sonorous spume | melodiosas brumas | melódicas espumas |
-| 13 | dream-walking | paseos oníricos | caminhadas oníricas |
+| 13 | dream-walking | paseos oníricos / caminar en sueños | caminhadas oníricas / caminhar em sonhos |
 | 14 | the whirling infinite | Arremolinado Infinito | Remoinhado Infinito |
 | 15 | touch & hold | mantén pulsado | manter pressionado |
 | 16 | Perilous Precipice | Precipicio Peligroso | Precipício Perigoso |
 | 17 | old road | antiguo camino | antigo caminho |
 | 18 | stone hut | choza de piedra | cabana de pedra |
-| 19 | deepwater pond | estanque insondable | lagoa insondável |
-| 20 | heebie jeebies | nervios de punta | nervos à flor da pele |
+| 19 | deepwater pond | insondable estanque | insondável lagoa |
+| 20 | heebie jeebies | escalofrío | frio na espinha |
 
 ---
 
