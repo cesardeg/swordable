@@ -60,7 +60,7 @@ ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo
 				Agradecemos sinceramente por você ter decidido participar deste tratamento experimental para a aflição profunda da alma.					
 				Você verá que esta primeira sessão de S:S&S EP é bastante simples e geralmente dura entre 15 e 30 minutos.					
 				Tudo pronto? Pressione 'jogar' e vamos lá!					
-ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP não busca proporcionar a experiência transcendental, mas simplesmente pretende liberar o sistema nervoso de seus padrões habituais.					
+ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP não produz a experiência transcendental, mas simplesmente pretende liberar o sistema nervoso de seus padrões habituais.					
 				Outro aspecto do Ambiente é o cultural: as noções que predominam sobre realidade e normalidade. Evitaremos essa discussão por enquanto.					
 				O 'Ambiente' abrange o conforto, a segurança e o calor do local onde a experiência ocorre.					
 				Descobrimos que um indivíduo relaxado e curioso é mais propenso a ter uma experiência agradável com S:S&S EP.					
@@ -99,8 +99,8 @@ INFO_CABINSHEEP	The Scythian			Outra ovelha inútil, por que continuamos olhando
 INFO_MEADOWSUN	The Scythian			Lembramos vividamente de quão incrível o sol parecia naquele primeiro dia de primavera.					
 INFO_MEADOWGATE	The Scythian			Na campina, topamos com um impenetrável portão de ferro que bloqueava uma vasta caverna.					
 INFO_MEADOWGATEACTIVE	The Scythian			Na campina, observamos um portão e tivemos a sensação de que talvez pudéssemos abri-lo de alguma forma.					
-INFO_MEADOWGATETRIGONACTIVE	The Scythian			Sobre o portão de ferro, distinguimos um troço com a forma do Trígono Dourado. Será que reagiria à nossa Canção da Espadância?					
-INFO_MEADOWGATETRIGON	The Scythian			Sobre o portão de ferro, notamos um troço.					
+INFO_MEADOWGATETRIGONACTIVE	The Scythian			Sobre o portão de ferro, distinguimos uma geringonça com a forma do Trígono Dourado. Será que reagiria à nossa Canção da Espadância?					
+INFO_MEADOWGATETRIGON	The Scythian			Sobre o portão de ferro, notamos uma geringonça.					
 INFO_LOCKEDDOORSTONEWALL	The Scythian			Uma porta trancada no muro de pedra bloqueava o antigo caminho para Mingi Tau e, aparentemente, a chave estava perdida nos sonhos.					
 INFO_LOOMINGBIRDSCULPTURES	The Scythian			Na campina, avistamos a imponente escultura de um pássaro zangado. #subtlereference					
 INFO_MEADOWSUNSTICK	The Scythian			Na campina, reparamos em um cajado de formato estranho.					
@@ -194,7 +194,7 @@ GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de uma titânica árvore oca, junt
 				"""Busque um sinal dos espíritos silvanos e entoe a Canção da Espadância no local para revelar um trígono oculto."""					
 GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de uma titânica árvore oca, junto a uma tumba solitária, um fantasma audacioso surgiu para nos contar algumas coisas.			117	028.jpg	E2A80
 				"""A canção do trígono terminou por enquanto. Pergunto-me quando a ouvirei novamente."""					
-LOGFELLA_LOSTKEY	The Scythian			O lenhador aflito conhecido como Troncadeiro surtava totalmente.					
+LOGFELLA_LOSTKEY	The Scythian			Troncadeiro, o lenhador aflito, surtava totalmente.					
 			AdventureUI/keyItem	Parece que ele perdeu a chave da porta trancada no muro de pedra que bloqueia o antigo caminho para Mingi Tau.					
 				E pensamos, com um suspiro: 'Outra missão de busca? Fala sério, né?'.					
 				Ele nos contou que estava sentado bem ali quando caiu em um profundo sono.					
@@ -416,7 +416,7 @@ ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Atravessar o limiar da liminaridade em
 				Quando você está lúcido em um sonho, percebe quem imaginou ser... mas se identificar com o sonho é se deixar encantar.					
 				Mesmo em um sonho conhecido, há novos lugares para explorar e novas conexões para considerar... se você continuar acreditando.					
 GIRL_MOONGROTTOCOMMENT	Girl			Sinto como se o cosmos tivesse girado e agora tudo estivesse levemente... desajustado.					
-LOGFELLA_MOONGROTTOCOMMENT	Logfella			De 0 a 1 há uma longa jornada, e se um alien dissesse 'olá', seria um código criptografado no estéreo. Espere... O quê?					
+LOGFELLA_MOONGROTTOCOMMENT	Logfella			De 0 a 1 é um longo caminho, e se um alien dissesse 'olá', seria um código criptografado no estéreo. Espere... O quê?					
 GIRL_HUGETREETHOUGHTS	Girl			Claro, nunca falo com as pessoas sobre estes sonhos de deusas e árvores, pois certamente me tomariam por uma sonhadora.					
 				Em meu lugar especial, visito uma titânica árvore oca... ela é uma deusa, morta há muito tempo, que antecede a humanidade por eras.					
 				Ao caminhar em sonhos, há um lugar especial para onde sempre vou, um Parlamento de Árvores no coração do mundo.					
@@ -502,7 +502,7 @@ ARCHETYPE_GROTTOPARADOX	The Archetype
 ARCHETYPE_KILLBOOR	The Archetype			Agora, imagino que você esteja se perguntando para que serve essa chave. Para ser honesto, não faço ideia.			119	075.jpg	87C5S
 				Não é que eu esteja sugerindo que você seja na verdade um sociopata violento... hehe... Tenho certeza de que você tinha suas razões, né? #thegrizzledboor					
 				O Patife Grisalho foi incluído no S:S&S EP para tentar os participantes a se identificarem como sociopatas violentos.					
-				Fui informado de que o Patife Grisalho foi morto... Você sabe algo a respeito? #slaughter					
+				Fui informado de que o Patife Grisalho foi aniquilado... Você sabe algo a respeito? #slaughter					
 ARCHETYPE_SPAREBOOR	The Archetype			Agora, imagino que você esteja se perguntando para que serve essa chave. Para ser honesto, não faço ideia.			119	075.jpg	87C5S
 				Sim, isso mesmo, é incrível e te amamos por isso!					
 				O Patife Grisalho foi incluído no S:S&S EP para permitir que os participantes se identifiquem como pessoas compassivas e razoáveis.					
@@ -586,7 +586,7 @@ RABBITS_53MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 53 
 RABBITS_91MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 91 coelhos indefesos.					
 RABBITS_107MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 107 coelhos indefesos. Talvez nossa compulsão diminua se pararmos de contar?					
 ARCHETYPE_CREDITS	The Archetype								
-				S:S&S EP é um projeto colaborativo tipo videogame criado em Toronto de 2009 a 2011, na internet em swordandsworcery.com.					
+				S:S&S EP é um projeto colaborativo de videogame criado em Toronto de 2009 a 2011, na internet em swordandsworcery.com.					
 			Logos/superbrothers	Conceito original da organização de arte e design Superbrothers A/V Inc. em superbrothersHQ.com.					
 				Músicas e alguns sons pelo amado compositor e roqueiro Jim Guthrie em jimguthrie.org.					
 			Logos/capy	Engenharia e milagres pelo estúdio independente de videogames Capy em capybaragames.com.					

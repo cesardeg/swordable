@@ -254,7 +254,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | Settings | Configuración | Configurações |
 | Date/Time | Fecha/Hora | Data/Hora |
 | Home button | botón Home | botão Home |
-| Authorized Personnel Only | Solo personal autorizado | Apenas pessoal Autorizado |
+| Authorized Personnel Only | Solo personal autorizado | Apenas Pessoal Autorizado |
 
 ---
 
@@ -278,7 +278,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | amirite? | ¿no? | Fala sério, né? | ✅ Casual agreement / Exasperation |
 | Y'know | Sabes / Ya sabes | Sabe / Você sabe | ✅ |
 | Whoa | Vaya / Guau | Au / Nossa | ✅ Context dependent |
-| Yikes! | ¡Uf! | Au! | ✅ |
+| Yikes! | ¡Uf! | Credo! | ✅ |
 | Hmm... | Hmm... | Hmm... | ✅ Keep as is |
 | cool | genial / amable | legal / agradável | ⚠️ Context: Person vs Situation |
 

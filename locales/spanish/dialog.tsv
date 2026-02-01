@@ -24,9 +24,9 @@ LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1
 LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador leñaba leña. #obviously #woodchopping			71	007.jpg	70E70
 				Los montañeses del Cáucaso lo llamaban Tronquero y parecía buena gente.					
 				Conocía bien nuestro funesto cometido y accedió a guiarnos por el antiguo camino.					
-				Aunque era obvio que el asunto no le hacía ninguna gracia.					
+				Aunque era obvio que el asunto no le entusiasmaba demasiado.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		El leñador nos esperó para continuar por el antiguo camino.			12	008.jpg	U0D88
-LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Atravesamos el abismo y no vamos a mentir, nos sentimos brillantes.			22	009.jpg	L0B9S
+LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Atravesamos el abismo y no vamos a mentir, nos sentimos unos genios.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Le contamos a Tronquero que íbamos tras un pesado libro de siniestra magia conocido como el Megatomo.					
 			adventureUI/megatomeItem	Estaba oculto más allá del Precipicio Peligroso, en algún lugar de la oscuridad bajo Mingi Tau.					
 			adventureUI/megatomeItem	Decidimos ir por él y luego salir de allí con vida.					
@@ -60,7 +60,7 @@ ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo
 				Agradecemos sinceramente que hayas decidido participar en este tratamiento experimental para la aflicción profunda del alma.					
 				Encontrarás que esta primera sesión de S:S&S EP es bastante sencilla y suele durar entre 15 y 30 minutos.					
 				¿Todo listo? ¡Presiona 'jugar' y vamos allá!					
-ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP no busca crear la experiencia trascendental, solo pretende liberar el sistema nervioso de sus patrones habituales.					
+ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP no produce la experiencia trascendental, solo pretende liberar el sistema nervioso de sus patrones habituales.					
 				El segundo aspecto del Entorno es lo cultural: las nociones predominantes sobre la realidad y la normalidad. Evitaremos esta discusión por ahora.					
 				El 'Entorno' abarca la comodidad, la seguridad y la calidez del lugar donde ocurre la experiencia.					
 				Hemos descubierto que un individuo relajado y curioso es más propenso a tener una experiencia placentera con S:S&S EP.					
@@ -258,7 +258,7 @@ ARCHETYPE_MEADOWHINT	The Archetype			Una vez que el sol esté alineado, recibir�
 				¿Percibes esa vibra extraña? ¡Es la temporada de milagros! Entona la Canción de Espadancia y mira hacia los imponentes 'Angry Birds'.			76	038.jpg	A3G84
 ARCHETYPE_MEADOWHINTTWO	The Archetype			Mira al cielo en busca de cierta perspectiva sobre el funcionamiento de este milagro del prado y admira el Trigón Dorado.					
 ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... interesante cómo manejaste ese encuentro con el caníbal cabeza de oso.			120	039.jpg	O3G9D
-				No, no, tranquilo, está bien, solo es curioso. Nunca vi a nadie hacer lo que hiciste. Es excepcional, pero no te alarmes.					
+				No, no, está bien, solo es curioso. Nunca vi a nadie hacer lo que hiciste. Es excepcional, pero no te alarmes.					
 				Bueno, sigamos. Aún te quedan muchas cosas por disfrutar en tu experiencia con S:S&S EP, particularmente en la Cara B.					
 ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			Para domar el Trigón Dorado debes sobrevivir a los tres movimientos de su extraña canción usando una mezcla de ataque y defensa.					
 				Es crucial que mantengas pulsado el botón del escudo cuando puedas para recobrar tu fuerza perdida.					
@@ -416,7 +416,7 @@ ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Atravesar sin riesgo el umbral de la l
 				Cuando estás lúcido en un sueño, te das cuenta de quién has imaginado ser... pero identificarse con el sueño es dejarse hechizar.					
 				Incluso en un sueño conocido hay nuevos lugares que explorar y nuevas conexiones que descubrir... si sigues creyendo.					
 GIRL_MOONGROTTOCOMMENT	Girl			Siento como si el cosmos hubiera dado un giro y ahora todo estuviera levemente... desajustado.					
-LOGFELLA_MOONGROTTOCOMMENT	Logfella			Hay un largo camino de 0 a 1, y si un extraterrestre dijera 'hola', lo haría en código críptico por el estéreo. Espera... ¿Qué?					
+LOGFELLA_MOONGROTTOCOMMENT	Logfella			Del 0 al 1 hay un largo trecho, y si un extraterrestre dijera 'hola', lo haría en código críptico por el estéreo. Espera... ¿Qué?					
 GIRL_HUGETREETHOUGHTS	Girl			Por supuesto, nunca le cuento a la gente sobre estos sueños de diosas y árboles, pues seguramente me tomarían por una soñadora.					
 				En mi lugar especial visito un titánico árbol hueco... es una diosa, muerta hace mucho, que antecede a la humanidad por eras.					
 				Al caminar en sueños, hay un lugar especial al que siempre voy, un Parlamento de Árboles en el corazón del mundo.					
@@ -502,7 +502,7 @@ ARCHETYPE_GROTTOPARADOX	The Archetype
 ARCHETYPE_KILLBOOR	The Archetype			Ahora, me imagino que te preguntarás para qué sirve esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S
 				No es que esté sugiriendo que en realidad seas un sociópata violento... jeje... Estoy seguro de que tenías tus razones, ¿o me equivoco? #thegrizzledboor					
 				El Canoso Tosco fue incluido en S:S&S EP para tentar a los participantes a identificarse como sociópatas violentos.					
-				Me han informado de que el Canoso Tosco ha sido asesinado... ¿Sabes algo al respecto? #slaughter					
+				Me han informado de que el Canoso Tosco ha sido aniquilado... ¿Sabes algo al respecto? #slaughter					
 ARCHETYPE_SPAREBOOR	The Archetype			Ahora, me imagino que te preguntarás para qué sirve esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S
 				Sí, eso es increíble y te queremos muchísimo por eso.					
 				El Canoso Tosco fue incluido en S:S&S EP para permitir que los participantes se identificaran a sí mismos como personas compasivas y razonables.					
@@ -577,7 +577,7 @@ DARKMOON_LOGFELLATHOUGHTS	Logfella			Anoche escuché el sonido de una música vi
 DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño solo vislumbré las sutiles y melodiosas brumas de los espíritus silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Reconstruimos la Trífida Trigonal y ahora somos héroes.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Sin ninguna razón, hemos matado a 3 conejos indefensos.					
-RABBITS_7MURDERS	The Scythian			Sin ninguna razón, hemos matado a 7 conejos indefensos. ¿Es esto evidencia de una mente trastornada?					
+RABBITS_7MURDERS	The Scythian			Sin ninguna razón, hemos matado a 7 conejos indefensos. ¿Es esto prueba de una mente trastornada?					
 RABBITS_13MURDERS	The Scythian			Sin ninguna razón, hemos matado a 13 conejos indefensos.					
 RABBITS_17MURDERS	The Scythian			Sin ninguna razón, hemos matado a 17 conejos indefensos. Somos imparables.					
 RABBITS_23MURDERS	The Scythian			Sin ninguna razón, hemos matado a 23 conejos indefensos.					
@@ -586,7 +586,7 @@ RABBITS_53MURDERS	The Scythian			Sin ninguna razón, hemos matado a 53 conejos i
 RABBITS_91MURDERS	The Scythian			Sin ninguna razón, hemos matado a 91 conejos indefensos.					
 RABBITS_107MURDERS	The Scythian			Sin ninguna razón, hemos matado a 107 conejos indefensos. ¿Tal vez nuestra obsesión ceda si dejamos de contar?					
 ARCHETYPE_CREDITS	The Archetype								
-				S:S&S EP es un proyecto colaborativo tipo videojuego creado en Toronto de 2009 a 2011, en internet en swordandsworcery.com.					
+				S:S&S EP es un proyecto colaborativo de videojuego creado en Toronto de 2009 a 2011, en internet en swordandsworcery.com.					
 			Logos/superbrothers	Concepto original de la organización de arte y diseño Superbrothers A/V Inc. en superbrothersHQ.com.					
 				Canciones y algunos sonidos por el amado compositor y rockero Jim Guthrie en jimguthrie.org.					
 			Logos/capy	Ingeniería y milagros por el estudio independiente de videojuegos Capy en capybaragames.com.					
