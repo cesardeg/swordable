@@ -16,7 +16,7 @@ INFO_CROSSMOUNTAINLEFT	The Scythian			En la pendiente rocosa de Mingi Tau, una t
 INFO_CROSSMOUNTAINRIGHT	The Scythian			En la pendiente rocosa de Mingi Tau, una tumba solitaria indica dónde se termina el sendero de grava.					
 INFO_RIDGESKULLPOLE	The Scythian			En la cresta rocosa rumbo a la cima de Mingi Tau, se erguía un siniestro poste decorado con una calavera astada.					
 INFO_CROSSRIDGE	The Scythian			En la cresta rocosa rumbo a la cima de Mingi Tau, una tumba solitaria era un lúgubre recordatorio de cuántos han muerto aquí.					
-INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos el Megatomo aferrado entre dos huesudas manos y sentimos que nuestra espada se estremecía en su vaina. #megatome			33	006.jpg	30D6C
+INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos el Megatomo aferrado entre dos huesudas manos y sentimos nuestra espada estremecerse en su vaina. #megatome			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Encontramos una pequeña puerta sin pomo hecha de un material desconocido. El letrero dice «Solo personal autorizado».					
 DOOR_UPSLOPEWOODS1	The Scythian			En el muro de piedra, una puerta trancada bloqueaba el antiguo camino hacia Mingi Tau.					
 DOOR_UPSLOPEWOODS3	The Scythian			Una puerta trancada se escondía entre la maleza, debajo del antiguo camino que lleva hacia Mingi Tau. #moongrotto					
@@ -24,7 +24,7 @@ LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1
 LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador leñaba leña. #obviously #woodchopping			71	007.jpg	70E70
 				Los montañeses del Cáucaso lo llamaban Tronquero y parecía buena gente.					
 				Conocía bien nuestro funesto cometido y accedió a guiarnos por el antiguo camino.					
-				Aunque era obvio que el asunto no le entusiasmaba demasiado.					
+				Aunque era obvio que el asunto no le entusiasmaba mucho.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		El leñador nos esperó para continuar por el antiguo camino.			12	008.jpg	U0D88
 LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Salvamos el abismo y no vamos a mentir, nos sentimos unos genios.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Le contamos a Tronquero que íbamos tras un pesado libro de siniestra magia conocido como el Megatomo.					
@@ -36,26 +36,26 @@ LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó 
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Tronquero iba a quedarse aquí esperando a que volviéramos con el Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Tronquero había elegido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
 				Parecía saberlo todo acerca del odioso arcoíris y el glifo cercano que representaba una espada apuntando al cielo.					
-				Y aun así, no soltó palabra sobre qué hacer después, lo que, siendo sinceros, nos molestó bastante.					
+				Y aun así, no soltó palabra sobre qué hacer después, lo cual, siendo sinceros, nos molestó un poco.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador había visto alguna criatura monstruosa y decidió dejar que nos encargáramos de ello.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos el Megatomo y Tronquero estaba completamente listo para mover el bote hasta su refugio.					
 				A pesar de la tormenta que se avecinaba, una canción brotó en nuestro corazón.					
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		A la luz de la inminente tormenta, Tronquero admitió que un escalofrío le recorría la espalda.					
-				¿Intentaba asustarnos deliberadamente? #yes #no #maybe					
+				¿Intentaba asustarnos a propósito? #yes #no #maybe					
 				En cualquier caso, lo mejor era quedarse a resguardo durante algún tiempo.					
 QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	¡Conseguimos el Megatomo! Somos los más listos. #gotmegatome			40	011.jpg	81C1E
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
 	The Archetype			Damas y caballeros, ¿qué tal si tocan a estos dos pequeños espíritus silvanos para calibrar su sistema de sonido estéreo?					
-	The Archetype			Desde nuestro experimento anterior en 2011, hemos comprobado que las redes sociales tienen un impacto catastrófico en la sociedad.					
+	The Archetype			Desde nuestro experimento anterior en 2011, las redes sociales han demostrado ser catastróficas para la sociedad.					
 				En esta ocasión, promovemos el aislamiento y la reflexión llena de arrepentimiento.					
 				Agradecemos sinceramente que hayas decidido participar en este tratamiento experimental para la aflicción profunda del alma.					
 				Encontrarás que esta primera sesión de S:S&S EP es bastante sencilla y suele durar entre 15 y 30 minutos.					
 				¿Todo listo? ¡Presiona 'jugar' y vamos allá!					
 ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
 	The Archetype			Damas y caballeros, ¿qué tal si tocan a estos dos pequeños espíritus silvanos para calibrar su sistema de sonido estéreo?					
-	The Archetype			Desde nuestro experimento anterior en 2011, hemos comprobado que las redes sociales tienen un impacto catastrófico en la sociedad.					
+	The Archetype			Desde nuestro experimento anterior en 2011, las redes sociales han demostrado ser catastróficas para la sociedad.					
 				En esta ocasión, promovemos el aislamiento y la reflexión llena de arrepentimiento.					
 				Agradecemos sinceramente que hayas decidido participar en este tratamiento experimental para la aflicción profunda del alma.					
 				Encontrarás que esta primera sesión de S:S&S EP es bastante sencilla y suele durar entre 15 y 30 minutos.					
@@ -117,7 +117,7 @@ INFO_NESTBOXWEATHERED	The Scythian			Avistamos un desgastado nido con un inquiet
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre un puente de troncos en el antiguo camino, se erguía un siniestro mástil decorado con calaveras.					
 INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la vasta cueva del prado, en un claro oculto, avistamos un conjunto extraño de estructuras de piedra.					
 			Archetype/trifecta	...¿Era este el Claro Trigonal? #trigongrove			93	016.jpg	B1D6J
-			triangle/Triangle	Junto a la primera estructura pensamos en el Trigón Dorado y sentimos que nuestra espada se estremecía en su vaina.					
+			triangle/Triangle	Junto a la primera estructura pensamos en el Trigón Dorado y sentimos nuestra espada estremecerse en su vaina.					
 INFO_DARKTRIGONALTAR	The Scythian			En el Claro Trigonal, hallamos otra estructura de piedra, vieja y llena de musgo. #darkmoontrigon					
 				Nos preguntamos qué sucedería si la golpeáramos con nuestra espada.					
 INFO_BRIGHTTRIGONALTAR	The Scythian			En el Claro Trigonal, descubrimos otra estructura de piedra con un glifo circular que representaba a La Luna Radiante. #brightmoontrigon					
@@ -196,7 +196,7 @@ GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un titánico árbol hue
 				"""El canto del Trigón ha terminado por ahora. Me pregunto cuándo volveré a escucharlo."""					
 LOGFELLA_LOSTKEY	The Scythian			Tronquero, el leñador, estaba hecho un manojo de nervios.					
 			AdventureUI/keyItem	Al parecer, había perdido la llave de la puerta trancada en el muro de piedra que bloqueaba el antiguo camino hacia Mingi Tau.					
-				Y pensamos con un suspiro: 'Otra misión de búsqueda más, ¿en serio?'.					
+				Y nosotros, tipo... ¿En serio? ¿Otra misión de recadero?					
 				Nos contó que estaba sentado justo aquí cuando cayó en un profundo sueño.					
 			AdventureUI/keyItem	Tronquero nos dijo que creía haber perdido su llave en el reino crepuscular de los sueños.					
 				Ya habíamos oído hablar de los extraños sueños de los montañeses del Cáucaso de cabello oscuro, así que aquello tenía todo el sentido para nosotros.					
