@@ -125,7 +125,7 @@ ERRMSG_UNABLE_TO_SAVE	Não foi possível salvar o arquivo
 ERRMSG_UNABLE_TO_DELETE	Não foi possível excluir o arquivo	
 ERRMSG_UNABLE_TO_DELETE_STEAM	Falha ao excluir o arquivo de salvamento do Steam.	
 ERRMSG_UNABLE_TO_SAVE_STEAM	Falha ao criar um arquivo de salvamento do Steam.	
-ERRMSG_CORRUPT_SAVE_PROGRESS	Dados salvos corrompidos e não puderam ser lidos. Todo o progresso será apagado ao pressionar OK.	
+ERRMSG_CORRUPT_SAVE_PROGRESS	Os dados salvos estão corrompidos e não puderam ser lidos. Todo o progresso será apagado ao pressionar Aceitar.	
 PROMPT_CONFIRM_EXITGAME	DESEJA SAIR DO JOGO?	
 HASHTAG_SWORCERY	#sworcery	
 DIGIT_STRING	0123456789	

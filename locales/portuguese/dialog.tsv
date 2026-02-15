@@ -26,7 +26,7 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		O lenhador lenhava l
 				Conhecia bem nossa funesta missão e concordou em nos guiar pelo antigo caminho.					
 				Mesmo assim, ficou claro que ele não estava nada empolgado com isso.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		O lenhador nos esperou para prosseguir pelo antigo caminho.			12	008.jpg	U0D88
-LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Vencemos o abismo e não vamos mentir, nos sentimos demais.			22	009.jpg	L0B9S
+LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Vencemos o abismo e não vamos mentir, nos sentimos gênios.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Contamos a Troncadeiro que buscávamos um pesado livro de sinistra magia conhecido como o Megatomo.					
 			adventureUI/megatomeItem	Estava oculto além do Precipício Perigoso, em algum lugar nas trevas sob Mingi Tau.					
 			adventureUI/megatomeItem	Decidimos buscá-lo e depois escapar com vida.					
@@ -112,7 +112,7 @@ ARCHETYPE_UNWELLWELLOUTRO	The Archetype
 INFO_CABINCHIMNEY	The Scythian			Diante de uma insondável lagoa, descobrimos uma robusta cabana de pedra com um telhado de palha.					
 INFO_CABINWOODPILE	The Scythian			Perto da cabana, encontramos uma pilha de lenha, nada de mais.					
 INFO_SPUME	The Scythian			Localizamos as sutis e melódicas espumas de um espírito silvano adormecido. E agora... como despertá-lo?					
-INFO_NESTBOX	The Scythian			Descobrimos um curioso ninho, agora lar de uma 'colmeia de escória'.			13	015.jpg	B1C5F
+INFO_NESTBOX	The Scythian			Descobrimos um curioso ninho, agora lar de uma colmeia de escória.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Vimos um desgastado ninho com uma inquietante semelhança a um rosto.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre uma ponte de toras no antigo caminho, erguia-se um sinistro mastro decorado com caveiras.					
 INFO_GOLDTRIGONALTAR	The Scythian			Além da vasta caverna na campina, em uma clareira isolada, avistamos um conjunto estranho de estruturas de pedra.					
@@ -502,9 +502,9 @@ ARCHETYPE_GROTTOPARADOX	The Archetype
 ARCHETYPE_KILLBOOR	The Archetype			Agora, imagino que você esteja se perguntando para que serve essa chave. Para ser honesto, não faço ideia.			119	075.jpg	87C5S
 				Não é que eu esteja sugerindo que você seja na verdade um sociopata violento... hehe... Tenho certeza de que você tinha suas razões, né? #thegrizzledboor					
 				O Patife Grisalho foi incluído no S:S&S EP para tentar os participantes a se identificarem como sociopatas violentos.					
-				Fui informado de que o Patife Grisalho foi aniquilado... Você sabe algo a respeito? #slaughter					
+				Fui informado de que o Patife Grisalho foi assassinado... Você sabe algo a respeito? #slaughter					
 ARCHETYPE_SPAREBOOR	The Archetype			Agora, imagino que você esteja se perguntando para que serve essa chave. Para ser honesto, não faço ideia.			119	075.jpg	87C5S
-				Sim, isso mesmo, é incrível e te amamos por isso!					
+				Sim, isso mesmo, é incrível e te amamos demais por isso!					
 				O Patife Grisalho foi incluído no S:S&S EP para permitir que os participantes se identifiquem como pessoas compassivas e razoáveis.					
 				Fui informado de que deixaram o Patife Grisalho escapar ileso. É uma notícia encorajadora.					
 LOGFELLA_FOUNDATION	Logfella	AdventureUI/tweetIconBabelBook		...					
@@ -576,15 +576,15 @@ DARKMOON_GIRLTHOUGHTS	Girl			Ao caminhar em sonhos, encontrei um Parlamento de �
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Ontem à noite, ouvi o som de uma música vibrante que se filtrava pelos bosques atrás de minha cabana. O que poderia ser?					
 DARKMOON_DOGFELLATHOUGHTS	Dogfella			Au Au Au. Em meu estado de sonho, só vislumbrei as sutis e melódicas espumas dos espíritos silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Reconstruímos a Tríade Trigônica e agora somos heróis.			164	081.jpg	48G1Q
-RABBITS_3MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 3 coelhos indefesos.					
-RABBITS_7MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 7 coelhos indefesos. É esta a evidência de uma mente transtornada?					
-RABBITS_13MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 13 coelhos indefesos.					
-RABBITS_17MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 17 coelhos indefesos. Somos imparáveis.					
-RABBITS_23MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 23 coelhos indefesos.					
-RABBITS_37MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 37 coelhos indefesos. Estamos curiosos para saber o que acontecerá se continuarmos com esta matança.					
-RABBITS_53MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 53 coelhos indefesos. Claramente, sofremos de um transtorno obsessivo-compulsivo.					
-RABBITS_91MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 91 coelhos indefesos.					
-RABBITS_107MURDERS	The Scythian			Sem razão aparente, acabamos com a vida de 107 coelhos indefesos. Talvez nossa compulsão diminua se pararmos de contar?					
+RABBITS_3MURDERS	The Scythian			Sem razão aparente, assassinamos 3 coelhos indefesos.					
+RABBITS_7MURDERS	The Scythian			Sem razão aparente, assassinamos 7 coelhos indefesos. É esta a evidência de uma mente transtornada?					
+RABBITS_13MURDERS	The Scythian			Sem razão aparente, assassinamos 13 coelhos indefesos.					
+RABBITS_17MURDERS	The Scythian			Sem razão aparente, assassinamos 17 coelhos indefesos. Somos imparáveis.					
+RABBITS_23MURDERS	The Scythian			Sem razão aparente, assassinamos 23 coelhos indefesos.					
+RABBITS_37MURDERS	The Scythian			Sem razão aparente, assassinamos 37 coelhos indefesos. Estamos curiosos para saber o que acontecerá se continuarmos com esta matança.					
+RABBITS_53MURDERS	The Scythian			Sem razão aparente, assassinamos 53 coelhos indefesos. Claramente, sofremos de um transtorno obsessivo-compulsivo.					
+RABBITS_91MURDERS	The Scythian			Sem razão aparente, assassinamos 91 coelhos indefesos.					
+RABBITS_107MURDERS	The Scythian			Sem razão aparente, assassinamos 107 coelhos indefesos. Talvez nossa compulsão diminua se pararmos de contar?					
 ARCHETYPE_CREDITS	The Archetype								
 				S:S&S EP é um projeto colaborativo de videogame criado em Toronto de 2009 a 2011, na internet em swordandsworcery.com.					
 			Logos/superbrothers	Conceito original da organização de arte e design Superbrothers A/V Inc. em superbrothersHQ.com.					

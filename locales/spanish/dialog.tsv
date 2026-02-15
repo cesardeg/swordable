@@ -43,7 +43,7 @@ LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos el Megatom
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		A la luz de la inminente tormenta, Tronquero admitió que un escalofrío le recorría la espalda.					
 				¿Intentaba asustarnos a propósito? #yes #no #maybe					
 				En cualquier caso, lo mejor era quedarse a resguardo durante algún tiempo.					
-QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	¡Conseguimos el Megatomo! Somos los más listos. #gotmegatome			40	011.jpg	81C1E
+QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	¡Conseguimos el Megatomo y somos los más listos! #gotmegatome			40	011.jpg	81C1E
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
@@ -66,7 +66,7 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP no produce la experiencia trascend
 				Hemos descubierto que un individuo relajado y curioso es más propenso a tener una experiencia placentera con S:S&S EP.					
 				La 'Disposición' se refiere al estado mental y la personalidad que aportas a la experiencia: tus pensamientos, estado de ánimo y expectativas.					
 				Hablemos de la Disposición y el Entorno para una experiencia positiva con esta obra altamente psicoactiva: Superbrothers: Sword & Sworcery EP.					
-				La conciencia expandida, el potencial ilimitado e inexplorado de la mente, es lo que llamamos 'Sworcery' (o 'Espadancia') en Superbrothers. #sworcery					
+				La conciencia expandida, el potencial inexplorado e ilimitado de la mente, es lo que en Superbrothers llamamos 'Sworcery' (o 'Espadancia'). #sworcery					
 				La Espadancia es la técnica psiónica que permite percibir una realidad dentro de la que ya conoces.					
 				Para detener la Canción de Espadancia, toca dos veces el aura que rodea a La Escita.					
 				Una vez entonada, desliza el aura para mirar a tu alrededor.					
@@ -112,7 +112,7 @@ ARCHETYPE_UNWELLWELLOUTRO	The Archetype
 INFO_CABINCHIMNEY	The Scythian			Junto a un insondable estanque, descubrimos una robusta choza de piedra con un techo de paja.					
 INFO_CABINWOODPILE	The Scythian			Cerca de la choza, vimos una pila de leña, nada del otro mundo.					
 INFO_SPUME	The Scythian			Localizamos las sutiles y melodiosas brumas de un espíritu silvano adormecido. Y ahora... ¿cómo despertarlo?					
-INFO_NESTBOX	The Scythian			Avistamos un curioso nido, ahora hogar de una 'colmena de escoria'.			13	015.jpg	B1C5F
+INFO_NESTBOX	The Scythian			Avistamos un curioso nido, ahora hogar de una colmena de escoria.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Avistamos un desgastado nido con un inquietante parecido a un rostro.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre un puente de troncos en el antiguo camino, se erguía un siniestro mástil decorado con calaveras.					
 INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la vasta cueva del prado, en un claro oculto, avistamos un conjunto extraño de estructuras de piedra.					
@@ -226,7 +226,7 @@ GIRL_FOUNDKEY	The Scythian			En un sendero lateral encontramos a Samae, empapada
 			gourd/gourd	Mencionó tenues arcoíris que se formaban a la vera del Precipicio Peligroso.					
 			adventureUI/megatomeItem	...y luego, inquieta, nos sugirió consultar el Megatomo si llegábamos a sentirnos perdidos o desorientados.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Me parece bien que La Escita se quede con la llave si va a disipar la tormenta.					
-				Debo haberme quedado dormido en algún momento durante el épico relato de La Escita. La verdad es que no me van mucho las historias.					
+				Debo haberme quedado dormido en algún momento durante el épico relato de La Escita. La verdad es que no me va mucho el folclore.					
 				Le pregunté sin rodeos a La Escita sobre su funesto cometido... empezó a hablar de las estepas y del dedo de Dios.					
 GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos espíritus silvanos más enviados al cielo disiparán la incesante tormenta... ¡Y entonces será la temporada de milagros! #miracles			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			Al caminar en sueños, hay una calma emocionante cuando la luna brilla más... y cuando está oscura, los bosques se vuelven salvajes.					
@@ -502,7 +502,7 @@ ARCHETYPE_GROTTOPARADOX	The Archetype
 ARCHETYPE_KILLBOOR	The Archetype			Ahora, me imagino que te preguntarás para qué sirve esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S
 				No es que esté sugiriendo que en realidad seas un sociópata violento... jeje... Estoy seguro de que tenías tus razones, ¿o me equivoco? #thegrizzledboor					
 				El Canoso Tosco fue incluido en S:S&S EP para tentar a los participantes a identificarse como sociópatas violentos.					
-				Me han informado de que el Canoso Tosco ha sido aniquilado... ¿Sabes algo al respecto? #slaughter					
+				Me han informado de que el Canoso Tosco ha sido asesinado... ¿Sabes algo al respecto? #slaughter					
 ARCHETYPE_SPAREBOOR	The Archetype			Ahora, me imagino que te preguntarás para qué sirve esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S
 				Sí, eso es increíble y te queremos muchísimo por ello.					
 				El Canoso Tosco fue incluido en S:S&S EP para permitir que los participantes se identificaran a sí mismos como personas compasivas y razonables.					
@@ -546,21 +546,21 @@ LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se comporta
 GIRL_BRIGHTMOON	The Scythian			Samae habló sobre paseos oníricos por el bosque poco antes del amanecer, con La Luna Radiante imperando en el cielo.					
 				Mencionó el aire fresco de la mañana y una isla imposible en medio de un apacible lago.					
 ARCHETYPE_BRIGHTMOON	The Archetype			Sal afuera y mira hacia arriba. ¡Maravíllate con La Luna Radiante que impera en el cielo!			95	079.jpg	07D95
-LOGFELLA_ALMOSTWANE	The Scythian			Al leñador no le iban mucho las historias y admitió que normalmente se quedaba dormido, aunque poseía un buen conocimiento al respecto.					
+LOGFELLA_ALMOSTWANE	The Scythian			Al leñador no le iba mucho el folclore y admitió que normalmente se quedaba dormido, aunque poseía un buen conocimiento al respecto.					
 				El leñador era conocedor de todos los detalles sobre Mingi Tau y por qué era conocido como el Reino de las Nubes.					
 				Sabía que Mingi Tau era la montaña más alta del mundo conocido, incluso más que el Monte Olimpo, donde habitaban los dioses aqueos.					
 				Asimismo, sabía que la cima de Mingi Tau, siempre envuelta en nubes, era considerada la entrada al Arremolinado Infinito.					
 				El leñador nunca se había atrevido a poner un pie en las laderas malditas de Mingi Tau, y nunca lo haría.					
 GIRL_ALMOSTWANE	The Scythian			Samae se preguntó por qué tantos hongos crecían justo antes y después de La Luna Radiante... ¿A qué se debería?					
 ARCHETYPE_ALMOSTWANE	The Archetype			La luna está ligeramente menos brillante que ayer, y el ciclo lunar está comenzando a disminuir.					
-LOGFELLA_HALFWANE	The Scythian			Al leñador no le iban mucho las historias y admitió que normalmente se quedaba dormido, aunque poseía un buen conocimiento al respecto.					
+LOGFELLA_HALFWANE	The Scythian			Al leñador no le iba mucho el folclore y admitió que normalmente se quedaba dormido, aunque poseía un buen conocimiento al respecto.					
 				Explicó que en Escitia y Persia, Mingi Tau era conocida como La Montaña Eterna.					
 				Relató cómo, hace siglos, una raza olvidada había excavado un templo en la roca viva bajo Mingi Tau.					
 				Mencionó los pasajes subterráneos y los espacios cavernosos esculpidos en la roca viva.					
 				Según él, dichas cavernas se labraron hace siglos para proteger el Megatomo.					
 GIRL_HALFWANE	The Scythian			Samae dijo haber caminado más allá del muro de piedra y haber sentido la terrible presencia de la Masa Gogolítica.			30	080.jpg	V8B04
 ARCHETYPE_HALFWANE	The Archetype			El ciclo lunar está disminuyendo y La Luna Sombría está a poco menos de una semana de distancia.					
-LOGFELLA_CRESCENTWANE	The Scythian			Al leñador no le iban mucho las historias y admitió que normalmente se quedaba dormido, aunque poseía un buen conocimiento al respecto.					
+LOGFELLA_CRESCENTWANE	The Scythian			Al leñador no le iba mucho el folclore y admitió que normalmente se quedaba dormido, aunque poseía un buen conocimiento al respecto.					
 				Conocía la leyenda de la Masa Gogolítica, el espectro inmortal que acechaba en la oscuridad bajo Mingi Tau.					
 				Nos habló del Arremolinado Infinito, más allá de nuestra comprensión, de donde provino el Megatomo en la apenas recordada Edad de Piedra.					
 				Habló de seres inmortales del espacio que despertaron en la humanidad una forma rudimentaria de transmisión de pensamiento.					
@@ -576,15 +576,15 @@ DARKMOON_GIRLTHOUGHTS	Girl			Al caminar en sueños, me encontré con un Parlamen
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Anoche escuché el sonido de una música vibrante que se filtraba por los bosques detrás de mi choza. ¿Qué podría ser?					
 DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño solo vislumbré las sutiles y melodiosas brumas de los espíritus silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Reconstruimos la Trífida Trigonal y ahora somos héroes.			164	081.jpg	48G1Q
-RABBITS_3MURDERS	The Scythian			Sin ninguna razón, hemos matado a 3 conejos indefensos.					
-RABBITS_7MURDERS	The Scythian			Sin ninguna razón, hemos matado a 7 conejos indefensos. ¿Es esto prueba de una mente trastornada?					
-RABBITS_13MURDERS	The Scythian			Sin ninguna razón, hemos matado a 13 conejos indefensos.					
-RABBITS_17MURDERS	The Scythian			Sin ninguna razón, hemos matado a 17 conejos indefensos. Somos imparables.					
-RABBITS_23MURDERS	The Scythian			Sin ninguna razón, hemos matado a 23 conejos indefensos.					
-RABBITS_37MURDERS	The Scythian			Sin ninguna razón, hemos matado a 37 conejos indefensos. Nos da curiosidad saber qué pasará si continuamos con esta masacre.					
-RABBITS_53MURDERS	The Scythian			Sin ninguna razón, hemos matado a 53 conejos indefensos. Claramente, sufrimos de un trastorno obsesivo-compulsivo.					
-RABBITS_91MURDERS	The Scythian			Sin ninguna razón, hemos matado a 91 conejos indefensos.					
-RABBITS_107MURDERS	The Scythian			Sin ninguna razón, hemos matado a 107 conejos indefensos. ¿Tal vez nuestra obsesión ceda si dejamos de contar?					
+RABBITS_3MURDERS	The Scythian			Sin ninguna razón, hemos asesinado a 3 conejos indefensos.					
+RABBITS_7MURDERS	The Scythian			Sin ninguna razón, hemos asesinado a 7 conejos indefensos. ¿Es esto prueba de una mente trastornada?					
+RABBITS_13MURDERS	The Scythian			Sin ninguna razón, hemos asesinado a 13 conejos indefensos.					
+RABBITS_17MURDERS	The Scythian			Sin ninguna razón, hemos asesinado a 17 conejos indefensos. Somos imparables.					
+RABBITS_23MURDERS	The Scythian			Sin ninguna razón, hemos asesinado a 23 conejos indefensos.					
+RABBITS_37MURDERS	The Scythian			Sin ninguna razón, hemos asesinado a 37 conejos indefensos. Nos da curiosidad saber qué pasará si continuamos con esta masacre.					
+RABBITS_53MURDERS	The Scythian			Sin ninguna razón, hemos asesinado a 53 conejos indefensos. Claramente, sufrimos de un trastorno obsesivo-compulsivo.					
+RABBITS_91MURDERS	The Scythian			Sin ninguna razón, hemos asesinado a 91 conejos indefensos.					
+RABBITS_107MURDERS	The Scythian			Sin ninguna razón, hemos asesinado a 107 conejos indefensos. ¿Tal vez nuestra obsesión ceda si dejamos de contar?					
 ARCHETYPE_CREDITS	The Archetype								
 				S:S&S EP es un proyecto colaborativo de videojuego creado en Toronto de 2009 a 2011, en internet en swordandsworcery.com.					
 			Logos/superbrothers	Concepto original de la organización de arte y diseño Superbrothers A/V Inc. en superbrothersHQ.com.					
