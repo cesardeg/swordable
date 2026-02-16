@@ -5,9 +5,9 @@ SIGN_TADPOL	The Scythian			"""Onde a lareira arde, o lar faz alarde."" #threegut
 SIGN_WALL	The Scythian			"""Cítia, Ciméria, Assíria e Pérsia, esses são todos reinos dos homens. Mingi Tau é o Reino das Nuvens."""					
 SIGN_CHASM	The Scythian			À beira do Precipício Perigoso, encontramos uma rocha gravada com o glifo de uma espada erguida, sob as cores do arco-íris.					
 				Nós cítios abominamos os arco-íris. #loathsomerainbows			21	002.jpg	40C27
-SIGN_BIRDTREE	The Scythian			Em um caminho secundário que se afastava do antigo caminho, encontramos uma rocha gravada com uma série de símbolos indecifráveis.					
+SIGN_BIRDTREE	The Scythian			Por uma trilha lateral que se afastava do antigo caminho, encontramos uma rocha gravada com uma série de símbolos indecifráveis.					
 				Entre esses símbolos impossíveis de decifrar, alcançamos a distinguir uns glifos lunares.					
-SIGN_BIRDTREEDECIPHERED	The Scythian			Por um caminho secundário, encontramos uma rocha gravada com uma série de glifos lunares que antes não entendíamos.					
+SIGN_BIRDTREEDECIPHERED	The Scythian			Por uma trilha lateral, encontramos uma rocha gravada com uma série de glifos lunares que antes não entendíamos.					
 				Os glifos falavam de um lugar secreto perto daqui «...onde se pode alterar o humor da lua».					
 				Será que é a Gruta Lunar...? #moongrotto #whatisit #itsamystery			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			À beira do antigo caminho, encontramos uma rocha gravada com um par de glifos em forma de espada e escudo. #hinthint			16	004.jpg	T0C4X
@@ -86,7 +86,7 @@ GIRL_STORM	The Scythian			Samae, a garota de cabelos escuros, era consumida pela
 			gourd/gourd	Mencionou um espírito em uma campina próxima e outro em um curioso ninho onde três pássaros cantores se abrigavam da chuva.					
 			gourd/gourd	Pediu que buscássemos as espumas desses três espíritos e os enviássemos ao céu com a Canção da Espadância.					
 ARCHETYPE_SWORCERY	The Archetype			"""Chegou a hora de aprender a Canção da Espadância, uma técnica de expansão da consciência que revela uma dimensão musical mística."""					
-			gourd/gourd	"""Mantenha a calma e siga minhas instruções para despertar o espírito silvano que dorme nas águas frescas da insondável lagoa."""					
+			gourd/gourd	"""Mantenha a calma e siga minhas instruções para despertar o espírito silvano que dorme nas frescas águas da insondável lagoa."""					
 ARCHETYPE_TADPOLES	The Archetype			Era evidente que o homem estranhamente vestido esperava que fizéssemos algo, mas não tínhamos ideia do que.					
 			gourd/gourd	"""Você vê as melódicas espumas na insondável lagoa? Um espírito silvano dorme ali e você deve despertá-lo."""					
 			gourd/gourd	"""Mantenha pressionado sobre A Citiana para entoar a Canção da Espadância e revelar uma realidade oculta."""					
@@ -115,22 +115,22 @@ INFO_SPUME	The Scythian			Localizamos as sutis e melódicas espumas de um espír
 INFO_NESTBOX	The Scythian			Descobrimos um curioso ninho, agora lar de uma colmeia de escória.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Vimos um desgastado ninho com uma inquietante semelhança a um rosto.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre uma ponte de toras no antigo caminho, erguia-se um sinistro mastro decorado com caveiras.					
-INFO_GOLDTRIGONALTAR	The Scythian			Além da vasta caverna na campina, em uma clareira isolada, avistamos um conjunto estranho de estruturas de pedra.					
+INFO_GOLDTRIGONALTAR	The Scythian			Além da vasta caverna na campina, em uma clareira isolada, avistamos um estranho conjunto de estruturas de pedra.					
 			Archetype/trifecta	...Era esta a Clareira Trigônica? #trigongrove			93	016.jpg	B1D6J
 			triangle/Triangle	Junto à primeira estrutura pensamos no Trígono Dourado e sentimos nossa espada estremecer na bainha.					
 INFO_DARKTRIGONALTAR	The Scythian			Na Clareira Trigônica, encontramos outra estrutura de pedra, velha e coberta de musgo. #darkmoontrigon					
 				Nos perguntamos o que aconteceria se a golpeássemos com nossa espada.					
 INFO_BRIGHTTRIGONALTAR	The Scythian			Na Clareira Trigônica, descobrimos outra estrutura de pedra com um glifo circular que representava a Lua Radiante. #brightmoontrigon					
 				Nos perguntamos o que aconteceria se a golpeássemos com nossa espada.					
-INFO_STONEHEAD	The Scythian			No Precipício Perigoso, notamos uma escultura de cabeça familiar talhada na rocha com a boca escancarada.			24	017.jpg	61B76
-INFO_STONEHEADSHUT	The Scythian			No Precipício Perigoso, distinguimos uma escultura de cabeça talhada na rocha que nos parecia familiar.					
-INFO_STONEHEADFLAGPOLE	The Scythian			Sobre uma grande escultura talhada na rocha, erguia-se um sinistro mastro decorado com caveiras ou algo assim.					
+INFO_STONEHEAD	The Scythian			No Precipício Perigoso, notamos uma enorme cabeça familiar talhada na rocha com a boca escancarada.			24	017.jpg	61B76
+INFO_STONEHEADSHUT	The Scythian			No Precipício Perigoso, distinguimos uma enorme cabeça familiar talhada na rocha.					
+INFO_STONEHEADFLAGPOLE	The Scythian			Sobre uma enorme escultura talhada na rocha, erguia-se um sinistro mastro tetricamente decorado com caveiras ou algo assim.					
 INFO_CHASMSTONESHELTER	The Scythian			Perto do Precipício Perigoso, avistamos um impressionante dólmen com dois confortáveis assentos de pedra.			25	018.jpg	O1C8M
 INFO_SKULLPOLE	The Scythian			Sobre uma oscilante ponte, erguia-se um sinistro poste decorado com uma caveira galhada.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre a entrada esculpida na rocha do templo da montanha, notamos uma representação pictórica da Tríade Trigônica.					
 INFO_MOUNTAINGATE	The Scythian			No interior do templo da montanha, avistamos um impenetrável portão de ferro, além do qual vimos a nublada paisagem montanhosa de Mingi Tau.					
-INFO_MOUNTAINGATETRIGON	The Scythian			No interior do templo da montanha, sobre uma passagem alta, notamos três estranhas formas triangulares.					
-INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			No interior do templo da montanha, sobre uma passagem alta, distinguimos o símbolo da Tríade Trigônica.					
+INFO_MOUNTAINGATETRIGON	The Scythian			No interior do templo da montanha, sobre uma alta passagem, notamos três estranhas formas triangulares.					
+INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			No interior do templo da montanha, sobre uma alta passagem, distinguimos o símbolo da Tríade Trigônica.					
 INFO_CABINRECORD	The Scythian			Dentro da cabana, sobre o fogo, reparamos em um pequeno trambolho redondo. #theballadofthespacebabies			46	019.jpg	P1D99
 INFO_CABINHEARTH	The Scythian			Dentro da cabana, o fogo crepitava tranquilamente, proporcionando um reconfortante calor.					
 INFO_CABINSEAT	The Scythian			Dentro da cabana, em ambos os lados do fogo, observamos dois rústicos assentos de madeira.					
@@ -188,7 +188,7 @@ GRAVE_HOLLOWGHOST	The Scythian			Dentro de uma titânica árvore oca, junto a um
 				"""Observe o humor da lua sem hesitar, e saberá quando estar, onde agir e como lá chegar."""					
 				"""E fique tranquilo, não quero assustar ninguém; é que brilhar assim faz parte de quem sou também."""					
 GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de uma titânica árvore oca, junto a uma tumba solitária, um fantasma audacioso surgiu cantando uma rima maluca.			117	028.jpg	E2A80
-				"""Atrás de ti, no caminho encoberto, encontre as espumas melódicas com olhar desperto."""					
+				"""Atrás de ti, no caminho encoberto, encontre as melódicas espumas com olhar desperto."""					
 				"""Cinco espíritos silvanos envie ao céu em ascensão; obrarão um milagre de fulgor e amplidão, e o Trígono buscado virá em revelação."""					
 GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de uma titânica árvore oca, junto a uma tumba solitária, um fantasma audacioso surgiu para nos contar algumas coisas.			117	028.jpg	E2A80
 				"""Busque um sinal dos espíritos silvanos e entoe a Canção da Espadância no local para revelar um Trígono oculto."""					
@@ -210,7 +210,7 @@ GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Nossa, o Troncadeiro está
 LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que A Citiana possa encontrar minha chave... eu a perdi na margem arenosa de um aprazível lago.			62	032.jpg	U3A20
 LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Ah, que pena, como odeio essa chuva... Como odeio ter as botas molhadas... Como queria voltar a cortar lenha.					
 				Droga! Onde foi parar minha chave? Estou tão chateado e envergonhado que não consigo me acalmar!					
-LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Troncadeiro sentiu-se aliviado de verdade por termos recuperado sua chave perdida do reino crepuscular dos sonhos.					
+LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Troncadeiro mostrou-se aliviado de verdade por termos recuperado sua chave perdida do reino crepuscular dos sonhos.					
 				O lenhador quis saber como nos tornamos tão espertos e perguntou sobre nossa funesta missão.					
 				Contamos a ele como crescemos nas estepes ao lado de nossas valentes irmãs e irmãos cítios.					
 				Explicamos a Troncadeiro por que vagávamos por aquela deserta montanha e como éramos guiados pelo dedo de um Deus onisciente.					
@@ -220,7 +220,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Troncadeiro sentiu-se alivia
 				Mas ficou claríssimo que o lenhador já não prestava atenção.					
 			AdventureUI/keyItem	Decidimos ficar com a chave e seguir pelo antigo caminho, além do muro de pedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Perguntamos ao lenhador se podíamos ficar com a chave e ele achou legal.					
-GIRL_FOUNDKEY	The Scythian			Em uma trilha lateral, encontramos Samae, completamente encharcada pela chuva.					
+GIRL_FOUNDKEY	The Scythian			Por uma trilha lateral, encontramos Samae, completamente encharcada pela chuva.					
 			gourd/gourd	Ela ouvira as sutis e melódicas espumas dos espíritos silvanos além do muro de pedra, no antigo caminho para Mingi Tau.					
 			gourd/gourd	Falou de altíssimas árvores que ladeavam um impetuoso rio.					
 			gourd/gourd	Mencionou tênues arco-íris que surgiam à beira do Precipício Perigoso.					
@@ -260,7 +260,7 @@ ARCHETYPE_MEADOWHINTTWO	The Archetype			Olhe para o céu em busca de certa persp
 ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... interessante como você lidou com aquele encontro com o canibal de cabeça de urso.			120	039.jpg	O3G9D
 				Não, não se preocupe, está tudo bem, é apenas curioso. Eu nunca tinha visto alguém fazer o que você fez. É excepcional, mas não se alarme.					
 				Bem, vamos continuar. Ainda há muitas coisas para você aproveitar em sua experiência com S:S&S EP, especialmente no Lado B.					
-ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			Para domar o Trígono Dourado, você deve sobreviver aos três movimentos de sua canção bizarra, usando uma mistura de ataque e defesa.					
+ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			Para domar o Trígono Dourado, você deve sobreviver aos três movimentos de sua bizarra canção, usando uma mistura de ataque e defesa.					
 				É absolutamente fundamental que você segure o botão do escudo sempre que puder para recuperar sua força perdida.					
 				Vejo que você já invocou e tentou domar o Trígono Dourado. Tenho algumas coisas para te contar que acredito que serão úteis.					
 ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Rebata os projéteis psiônicos do Trígono com sua espada e espere a oportunidade para esquivar de seus ataques de raio.			83	040.jpg	34E01
@@ -314,19 +314,19 @@ ARCHETYPE_GHOULINTRO	The Archetype
 				Infelizmente, A Citiana teve seu corpo e psique gravemente enfraquecidos pela Espadância; ela está à beira da morte.			162	047.jpg	J4F7B
 			Archetype/trifecta	Tudo o que resta é revelar os segredos da Clareira Trigônica e subir o Megatomo ao Remoinhado Infinito no topo de Mingi Tau.					
 				Pressione 'jogar' apenas se tiver a coragem de testemunhar o terrível tormento do martírio.					
-END	The Scythian			No topo de Mingi Tau, detonamos o Megatomo e o precipitamos no Remoinhado Infinito.					
-END_CHEAT	The Scythian			No topo de Mingi Tau, subimos o Megatomo à segurança eterna do Remoinhado Infinito. #cheat					
-END_CHEAT_NOBOOR	The Scythian			No topo de Mingi Tau, subimos o Megatomo à segurança eterna do Remoinhado Infinito. #cheat #noboor					
-END_CHEAT_PSYCHO	The Scythian			No topo de Mingi Tau, subimos o Megatomo à segurança eterna do Remoinhado Infinito. #cheat #psycho					
-END_CHEAT_LOVE	The Scythian			No topo de Mingi Tau, subimos o Megatomo à segurança eterna do Remoinhado Infinito. #cheat #love			202	048.jpg	D4A81
-END_MOONGROTTO_PSYCHO	The Scythian			No topo de Mingi Tau, subimos o Megatomo à segurança eterna do Remoinhado Infinito. #moongrotto #psycho			180	049.jpg	74D9P
-END_MOONGROTTO_LOVE	The Scythian			No topo de Mingi Tau, subimos o Megatomo à segurança eterna do Remoinhado Infinito. #moongrotto #love			176	050.jpg	Y5F0P
-END_HONEST_PSYCHO	The Scythian			No topo de Mingi Tau, subimos o Megatomo à segurança eterna do Remoinhado Infinito. #honest #psycho			179	051.jpg	M5C1H
-END_HONEST_LOVE	The Scythian			No topo de Mingi Tau, subimos o Megatomo à segurança eterna do Remoinhado Infinito. #honest #love			177	052.jpg	55E2B
-END_HONEST_NOBOOR	The Scythian			No topo de Mingi Tau, subimos o Megatomo à segurança eterna do Remoinhado Infinito. #honest #noboor			178	053.jpg	75G3V
+END	The Scythian			No topo de Mingi Tau detonamos o Megatomo e o precipitamos no Remoinhado Infinito.					
+END_CHEAT	The Scythian			No topo de Mingi Tau subimos o Megatomo à segurança eterna do Remoinhado Infinito. #cheat					
+END_CHEAT_NOBOOR	The Scythian			No topo de Mingi Tau subimos o Megatomo à segurança eterna do Remoinhado Infinito. #cheat #noboor					
+END_CHEAT_PSYCHO	The Scythian			No topo de Mingi Tau subimos o Megatomo à segurança eterna do Remoinhado Infinito. #cheat #psycho					
+END_CHEAT_LOVE	The Scythian			No topo de Mingi Tau subimos o Megatomo à segurança eterna do Remoinhado Infinito. #cheat #love			202	048.jpg	D4A81
+END_MOONGROTTO_PSYCHO	The Scythian			No topo de Mingi Tau subimos o Megatomo à segurança eterna do Remoinhado Infinito. #moongrotto #psycho			180	049.jpg	74D9P
+END_MOONGROTTO_LOVE	The Scythian			No topo de Mingi Tau subimos o Megatomo à segurança eterna do Remoinhado Infinito. #moongrotto #love			176	050.jpg	Y5F0P
+END_HONEST_PSYCHO	The Scythian			No topo de Mingi Tau subimos o Megatomo à segurança eterna do Remoinhado Infinito. #honest #psycho			179	051.jpg	M5C1H
+END_HONEST_LOVE	The Scythian			No topo de Mingi Tau subimos o Megatomo à segurança eterna do Remoinhado Infinito. #honest #love			177	052.jpg	55E2B
+END_HONEST_NOBOOR	The Scythian			No topo de Mingi Tau subimos o Megatomo à segurança eterna do Remoinhado Infinito. #honest #noboor			178	053.jpg	75G3V
 GIRL_GHOULTHOUGHTS	Girl			A Citiana sabe que é possível deter a Massa Gogolítica tocando sua caveira com Espadância? Provavelmente não.					
-				Espero que A Citiana saiba que deve manter pressionado o caminho para se remexer, remexer bem rapidinho... se não o fizer, estará frita.					
-				Onde estou? O que aconteceu? A última coisa que me lembro é de estar caminhando em sonhos pela floresta quando vi uma luz rosa perturbadora.					
+				Espero que saiba que deve manter pressionado o caminho para se remexer, remexer bem rapidinho... se não o fizer, estará frita.					
+				Onde estou? O que aconteceu? A última coisa que me lembro é de estar caminhando em sonhos pela floresta quando vi uma perturbadora luz rosa.					
 LOGFELLA_GHOULTHOUGHTS	Logfella			A Citiana continua falando sobre sua funesta missão de abrir uma entrada para o Remoinhado Infinito no topo de Mingi Tau.					
 				Tudo tem sido uma loucura lunática desde que A Citiana apareceu há muitas luas.					
 LOGFELLA_GHOUL	The Scythian			Perto da Clareira Trigônica, acordamos atordoados de um profundo sono, com Troncadeiro ao nosso lado.			88	054.jpg	J5D44
