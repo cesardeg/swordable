@@ -28,9 +28,9 @@ FOLLOW	¿SEGUIR?
 ROTATE_UNSHEATHE	< < DESENVAINA	
 GO_HOME	¿IR A CASA?	
 START_ARROW_RIGHT	INICIO > > >	
-TRESPASS	INFÍLTRATE	
+TRESPASS	IRRUMPE	
 AVOID	EVITA	
-CONSIDER	EXAMINA	
+CONSIDER	MEDITA	
 PERSEVERE	PERSEVERA	
 START_OVER	¿REINICIAR?	
 PROMPT_YES	SÍ	
@@ -109,7 +109,7 @@ MOON_TIME_3	hace un rato
 MOON_TIME_4	hace muchos días	
 MOON_TIME_5	hace muchas lunas	
 MOON_TIME_6	hace mucho tiempo	
-COSMIC_FRIENDS	AHORA SOMOS AMIGOS CÓSMICOS PARA SIEMPRE, ¿OK?	
+COSMIC_FRIENDS	AHORA SOMOS AMIGOS CÓSMICOS PARA SIEMPRE, ¿TRATO?	
 The Scythian	La Escita	
 Girl	Samae	
 Logfella	Tronquero	
@@ -178,7 +178,7 @@ POINTCLICK_CURSORSENS_NINSWITCH	SENSIBILIDAD DEL CURSOR DE APUNTAR Y HACER CLIC
 FAM_CURSOR_NOT_USED	Sensibilidad del cursor de FAMICOM	
 POINTCLICK_PROMPT_NINSWITCH	El modo Apuntar y hacer clic permite jugar con un solo Joy-Con como puntero. Se disfruta más cuando juegas en un televisor. ¿Seguro que quieres activar el modo Apuntar y hacer clic?	
 POINTCLICK_PROMPT_ALT_NINSWITCH	El modo Apuntar y hacer clic permite jugar con un solo Joy-Con como puntero. Se disfruta más cuando juegas en un televisor. ¿Seguro que quieres activar el modo Apuntar y hacer clic?	
-SWAP_STICKS_NINSWITCH	INTERCAMBIAR JOYSTICKS	
+SWAP_STICKS_NINSWITCH	INVERTIR JOYSTICKS	
 PLAY_MENU_NINSWITCH	JUGAR	
 CREDITS_MENU_NINSWITCH	CRÉDITOS	
 GAMEPAD_NINSWITCH	GAMEPAD	

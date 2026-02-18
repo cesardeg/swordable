@@ -116,9 +116,9 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | **shield** | escudo | escudo | ✅ |
 | **key** | llave | chave | ✅ Logfella's lost key |
 | | | | |
-| **Gold Trigon** | Trigón Dorado | Trígono Dourado | ✅ First trigon |
-| **Bright Moon Trigon** | Trigón Luna Radiante | Trígono da Lua Radiante | ✅ Pink/bright trigon |
-| **Dark Moon Trigon** | Trigón Luna Sombría | Trígono da Lua Sombria | ✅ Blue/dark trigon |
+**Gold Trigon** | Trigón Dorado | Trígono Dourado | ✅ First trigon |
+**Bright Moon Trigon** | Trigón de la Luna Radiante | Trígono da Lua Radiante | ✅ Pink/bright trigon |
+**Dark Moon Trigon** | Trigón de la Luna Sombría | Trígono da Lua Sombria | ✅ Blue/dark trigon |
 | **The Trigon Trifecta** | La Trífida Trigonal | A Tríade Trigônica | ✅ All three trigons |
 | | | | |
 | hearth | hoguera / fuego | fogo / lareira | ⚠️ PT: `fogo` (fire), `lareira` (hearth) |
