@@ -32,7 +32,7 @@ LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Vencemos o abi
 			adventureUI/megatomeItem	Decidimos buscá-lo e depois escapar com vida.					
 LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	O lenhador confirmou que ele tinha a única chave da porta trancada no muro de pedra.					
 			AdventureUI/keyItem	Era uma chave realmente bonita.					
-				Estávamos prontíssimos para manter pressionado o caminho e nos remexer, remexer, remexer!					
+				Estávamos prontíssimos para manter pressionado no caminho e nos remexer, remexer, remexer!					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Troncadeiro ia ficar aqui esperando até que voltássemos com o Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Troncadeiro escolheu relaxar em um abrigo de pedra perto do Precipício Perigoso.					
 				Parecia saber tudo sobre o odioso arco-íris e o glifo que representava uma espada apontando para o céu.					
@@ -47,13 +47,6 @@ QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos o Megatomo! Somos 
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			Senhoras e senhores, que tal tocarem nestes dois pequenos espíritos silvanos para calibrar o seu sistema de som estéreo?					
-	The Archetype			Desde nossa experiência anterior em 2011, constatamos que as redes sociais têm um impacto catastrófico na sociedade.					
-				Nesta ocasião, promovemos o isolamento e a reflexão cheia de arrependimento.					
-				Agradecemos sinceramente por você ter decidido participar deste tratamento experimental para a aflição profunda da alma.					
-				Você verá que esta primeira sessão de S:S&S EP é bastante simples e geralmente dura entre 15 e 30 minutos.					
-				Tudo pronto? Pressione 'jogar' e vamos lá!					
-ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
 	The Archetype			Senhoras e senhores, que tal tocarem nestes dois pequenos espíritos silvanos para calibrar o seu sistema de som estéreo?					
 	The Archetype			Desde nossa experiência anterior em 2011, constatamos que as redes sociais têm um impacto catastrófico na sociedade.					
 				Nesta ocasião, promovemos o isolamento e a reflexão cheia de arrependimento.					
@@ -137,7 +130,7 @@ INFO_CABINSEAT	The Scythian			Dentro da cabana, em ambos os lados do fogo, obser
 INFO_GOGOLITHICMASS	The Scythian			Nas trevas sob Mingi Tau, notamos uma caveira galhada a flutuar.					
 INFO_MEGATOMBTRIFECTA	The Scythian			Nas trevas sob Mingi Tau, distinguimos uma representação pictórica da Tríade Trigônica.					
 INFO_ROCKSHOWGIRL	The Scythian			No show de rock, encontramos Samae e nos pareceu que ela sussurrou algo como 'Fogo, caminhe comigo'.					
-INFO_ROCKSHOWSKOLOTOI	The Scythian			No show de rock, notamos um daqueles esqueletos vibrando ao ritmo sinistro.					
+INFO_ROCKSHOWSKOLOTOI	The Scythian			No show de rock, notamos um daqueles esqueletos vibrando ao sinistro ritmo.					
 INFO_ROCKSHOWJIM	The Scythian			Encabeçando o show de rock, vimos o misterioso músico conhecido como Jim Guthrie.			160	020.jpg	T2G03
 INFO_ROCKSHOWBOOR	The Scythian			No show de rock, avistamos o Patife Grisalho exibindo seu estilo nudista.			121	021.jpg	E2G15
 INFO_ROCKSHOWCROWD	The Scythian			No show de rock, observamos uma multidão considerável de senhoras e senhores.					
@@ -203,7 +196,7 @@ LOGFELLA_LOSTKEY	The Scythian			Troncadeiro, o lenhador desolado, surtava totalm
 				Troncadeiro nos convidou para aquecer nossas botas junto ao fogo para sonhar ao seu lado.			63	029.jpg	U2C92
 ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos na vigília e na psicocosmologia mitopoética dos sonhos como estados separados, mas eles interagem de forma curiosa.					
 				O limiar da liminaridade é um espaço entre a vigília e os sonhos onde o pensamento direcionado é impossível.			56	030.jpg	13A0A
-				Procure um lugar acolhedor e deixe o sono envolvê-lo para descobrir o limiar da liminaridade.					
+				Procure um fogo acolhedor e deixe o sono envolvê-lo para descobrir o limiar da liminaridade.					
 ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	Que tal sentar-se junto ao fogo na cabana e atravessar o limiar da liminaridade para encontrar a chave perdida de Troncadeiro?			55	031.jpg	23C1X
 GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Nossa, o Troncadeiro está surtando... O que será que ele tem? Melhor eu sair e deixá-lo em paz.					
 				Vi A Citiana entoar a Canção da Espadância e enviar três espíritos silvanos ao céu. Será que eles ajudarão a dissipar a tempestade?					
@@ -364,8 +357,8 @@ GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Au Au Au Au Au Au. #ba
 				Au Au Au Au Au Au.					
 GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Há algo estranho no comportamento de A Citiana; parecia controlada por uma força invisível.					
 				Gostaria de saber mais sobre A Citiana e sua épica história, aposto que então tudo faria sentido.					
-GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que A Citiana esteja se dedicando à questão dos espíritos silvanos.					
-				Essa tempestade está me afetando muito, me faz desejar que os videogames existissem no... no momento em que se supõe que estamos.					
+GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que A Citiana esteja cuidando daquela história dos espíritos silvanos.					
+				Essa droga de tempestade está me afetando muito, me faz desejar que os videogames existissem no... momento em que se supõe que estamos.					
 GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Tudo tem sido uma loucura lunática desde que A Citiana apareceu.			3	062.jpg	36E2Z
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Essa tempestade toda estava me afetando muito. Estava tudo tããão lúgubre!					
 				A chuva começou a diminuir e o céu parece estar clareando... Será que é a época dos milagres? Espero que sim, eu adoro milagres.					
@@ -522,7 +515,7 @@ DOGFELLA_FOUNDATION	Dogfella	AdventureUI/tweetIconBabelBook		...
 				...					
 				...					
 LOGFELLA_DARKMOON	The Scythian			O lenhador falou sobre caminhadas oníricas pela floresta pouco antes do amanhecer, sob um céu escuro e tempestuoso.					
-				Ele mencionou uma luz rosa perturbadora e uma canção misteriosa que surgiam da floresta sem nome atrás da campina.					
+				Ele mencionou uma perturbadora luz rosa e uma misteriosa canção que surgiam da floresta sem nome atrás da campina.					
 				Supomos que Troncadeiro provavelmente estava se referindo ao show de rock da Lua Sombria.					
 GIRL_DARKMOON	The Scythian			Samae falou sobre caminhadas oníricas pela floresta pouco antes do amanhecer, sob um céu escuro e tempestuoso.					
 				Ela comentou como se abrigou da tempestade em uma árvore oca de proporções titânicas.					
@@ -573,7 +566,7 @@ ARCHETYPE_CRESCENTWANE	The Archetype			O ciclo lunar está quase completo. A Lua
 DARKMOONLOOMS_ARCHETYPE	The Archetype			A Lua Sombria reina, o fim do ciclo lunar está próximo.					
 DARKMOONBEGINS_ARCHETYPE	The Archetype			Contemple: A Lua Sombria!			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			Ao caminhar em sonhos, encontrei um Parlamento de Árvores atingido por um raio e senti a presença de algo profundamente sagrado.					
-DARKMOON_LOGFELLATHOUGHTS	Logfella			Ontem à noite, ouvi o som de uma música vibrante que se filtrava pelos bosques atrás de minha cabana. O que poderia ser?					
+DARKMOON_LOGFELLATHOUGHTS	Logfella			Ontem à noite, ouvi o som de uma música vibrante que se filtrava pelos bosques atrás de minha cabana. Que droga é isso?					
 DARKMOON_DOGFELLATHOUGHTS	Dogfella			Au Au Au. Em meu estado de sonho, só vislumbrei as sutis e melódicas espumas dos espíritos silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Reconstruímos a Tríade Trigônica e agora somos heróis.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Sem razão aparente, assassinamos 3 coelhos indefesos.					
@@ -627,8 +620,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Suporte adicional de localização japonesa fornecido por Yutaka Ohbuchi, John Ricciardi e Masanobu Suto.					
 				Design do incrível logo japonês cortesia de POLYGRAPH em polygraph.jp.					
 				Magia web japonesa por Jonathan Lumb em jonnyram.com.					
-				E finalmente, agradecimento por apoio e amizade do Japão: Suda 51, Tomoaki Takahashi, Hideto Yamada...					
-				E os artistas de remix: Baiyon, Akira Yamaoka, Michiru Yamane, macotom3 e Decassegui Hip.					
+				Obrigado ao Japão: Suda 51, Tomoaki Takahashi, Hideto Yamada. Remixers: Baiyon, Akira Yamaoka, Michiru Yamane, macotom3, Decasségui Hip.					
 				* * * O DOMÍNIO DO CANADÁ * * *					
 			Logos/omdc	Este projeto foi possível graças ao apoio financeiro da Ontario Creates.					
 				* * * AMAMOS VOCÊS DEMAIS * * *					
@@ -636,13 +628,13 @@ ARCHETYPE_CREDITS	The Archetype
 				Muito amor às incríveis comunidades indie de videogames de Toronto e à gente encantadora da The Hand Eye Society, TOJam e Gamercamp.					
 				A todos que apoiaram este projeto: obrigado.					
 				* * * PROCESSO * * *					
-				Arte em pixel criada inteiramente no Promotion da Cosmigo; outros elementos visuais no Illustrator e Photoshop da Adobe.					
+				Pixel art criada inteiramente no Promotion da Cosmigo; outros elementos visuais no Illustrator e Photoshop da Adobe.					
 				Sons e músicas criados com MTV Music Generator da Codemasters para PSOne e/ou Garageband e Logic Studio da Apple.					
 			Logos/FMOD	Sons e músicas integrados ao projeto usando FMOD da Firelight Technologies.					
 				Dolby e o símbolo de duplo D são marcas comerciais da Dolby Laboratories.					
 				É necessária solução de áudio para PC contendo Dolby® Digital Live para áudio Dolby Digital.					
 				DTS® e DTS Digital Surround® são marcas comerciais registradas da DTS, Inc.					
-				Código programado em C++ e Lua script com tolua++. Mapas e elementos do mundo com ferramentas proprietárias da Capy.					
+				Código programado em C++ e scripts em Lua com tolua++. Mapas e elementos do mundo com ferramentas próprias da Capy.					
 				Cálculo de fases lunares e algoritmos astronômicos: voidware.com/moon_phase.htm					
 				APIs utilizadas na criação de S:S&S EP incluem tinyxml, libpng/zlib, SDL, cmake e minizip.					
 				Uma versão absurdamente inicial foi enviada ao Independent Games Festival em 1 de novembro de 2009.					
@@ -691,3 +683,9 @@ ARCHETYPE_CREDITS	The Archetype
 				S:S&S EP ia se chamar 'Poopsock' originalmente. Isso é realmente verdade.					
 				* * * ACABOU * * *					
 				Agora somos amigos cósmicos para sempre, combinado?			87	084.jpg	L8A48
+ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
+	The Archetype			Senhoras e senhores, que tal tocarem nestes dois pequenos espíritos silvanos para calibrar o seu sistema de som estéreo?					
+	The Archetype			Desde nossa experiência anterior em 2011, constatamos que as redes sociais têm um impacto catastrófico na sociedade.					
+				Nesta ocasião, promovemos o isolamento e a reflexão cheia de arrependimento.					
+				Você verá que esta primeira sessão de S:S&S EP é bastante simples e geralmente dura entre 15 e 30 minutos.					
+				Tudo pronto? Pressione 'jogar' e vamos lá!					

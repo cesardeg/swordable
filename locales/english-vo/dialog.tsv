@@ -1,8 +1,8 @@
 id	user	icon	portrait	English	Japanese
 GIRL_TONGUES	Girl			Far from the war-ravaged steppes of Scythia we met a dark-haired girl in a sunlit meadow. #helloworld	
 				To the mountain folk of The Caucasus she was known as Samae & she seemed nice. #obviously	
-SIGN_TADPOL	The Scythian			Home is where the hearth is. #threegutrecords4ever	
-SIGN_WALL	The Scythian			"Scythia, Cimmeria, Assyria & Persia - these are all kingdoms of men. Mingi Taw is The Kingdom of the Cloud."	
+SIGN_TADPOL	The Scythian			"""Home is where the hearth is."" #threegutrecords4ever"	
+SIGN_WALL	The Scythian			"""Scythia, Cimmeria, Assyria & Persia - these are all kingdoms of men. Mingi Taw is The Kingdom of the Cloud."""	
 SIGN_CHASM	The Scythian			At the edge of the perilous precipice stood a stone carved with the glyph of a skyward sword beneath the colors of a rainbow.	
 				We Scythians loathe rainbows. #loathsomerainbows	
 SIGN_BIRDTREE	The Scythian			On a side path leading away from the old road was a stone carved with series of indecipherable glyphs.	
@@ -53,22 +53,22 @@ ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo
 				We are profoundly grateful that you have chosen to participate in this experimental treatment for acute soul-sickness.	
 				You'll find this first S:S&S EP session to be fairly straightforward. It typically only requires 15 - 30 minutes to complete.	
 				Ready to begin? Press play & let's go.	
-ARCHETYPE_FOUNDATION	The Archetype			Let's talk about the set & setting for a positive experience with the highly psychoactive Superbrothers: Sword & Sworcery EP.	
-				"Set refers to the mental state & personality structure you bring to the experience - thoughts, moods and/or expectations."	
-				"We have found that a relaxed, curious individual is more likely to have a pleasant experience with S:S&S EP."	
-				"Setting includes the comfort, security & warmth of the room or outdoor environment where the experience will occur."	
+ARCHETYPE_FOUNDATION	The Archetype			"S:S&S EP does not produce the transcendent experience, it is merely intended to free the nervous system of ordinary patterns."	
 				"The second aspect of ""Setting"" is the cultural - prevailing notions of reality & normalcy. We will avoid this discussion for now."	
-				"S:S&S EP does not produce the transcendent experience, it is merely intended to free the nervous system of ordinary patterns."	
+				"Setting includes the comfort, security & warmth of the room or outdoor environment where the experience will occur."	
+				"We have found that a relaxed, curious individual is more likely to have a pleasant experience with S:S&S EP."	
+				"Set refers to the mental state & personality structure you bring to the experience - thoughts, moods and/or expectations."	
+				Let's talk about the set & setting for a positive experience with the highly psychoactive Superbrothers: Sword & Sworcery EP.	
 				"The expanded consciousness, the untapped & limitless potential of the mind, is what we at Superbrothers refer to as ""sworcery""."	
 				The song of sworcery can be understood as a psionics technique & it allows you to perceive a reality within the one that you know.	
 				"To stop the song of sworcery at any time, simply double click the sworcery aura that surrounds The Scythian."	
 				"Once you have begun to sing a song of sworcery, press & hold on the sworcery aura & swipe to look around."	
 				"To sing a song of sworcery at any time, press & hold upon The Scythian for a moment or two & observe the gathering sworcery aura."	
 				"As you can see, The Megatome gathers & collects linguistic thought transmissions. Scroll down to see what I was thinking before."	
-ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	Very nicely done - you've learned the Song of Sworcery & now the unfathomable power of The Megatome is yours.	
-			adventureUI/megatomeItem	The Megatome intercepts linguistic thought-transmissions & it contains everything you'll need to complete your woeful errand.	
-			adventureUI/megatomeItem	I'm thinking about something right this moment... why not open The Megatome & look for me to find out what's on my mind?	
-				Look for a white triangle in the top-right... press it & then equip The Megatome to reveal what is hidden.	
+ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Very nicely done - you've learned the Song of Sworcery & now the unfathomable power of The Megatome is yours."""	
+			adventureUI/megatomeItem	"""The Megatome intercepts linguistic thought-transmissions & it contains everything you'll need to complete your woeful errand."""	
+			adventureUI/megatomeItem	"""I'm thinking about something right this moment... why not open The Megatome & look for me to find out what's on my mind?"""	
+				"""Look for a white triangle in the top-right... press it & then equip The Megatome to reveal what is hidden."""	
 LOGFELLA_STORM	The Scythian			The woodsman known as Logfella had given up on his wood-chopping due to the sinister storm. #wetboots	
 			adventureUI/megatomeItem	Logfella reminded us of how the storm rolled in pretty much right after we had retrieved The Megatome from beneath Mingi Taw.	
 				Was Logfella not-so-subtly suggesting that maybe we oughta try to do something to lift the storm? #yes #no #maybe	
@@ -78,12 +78,12 @@ GIRL_STORM	The Scythian			The dark haired girl known as Samae was feeling the wo
 			gourd/gourd	She asked us to investigate the sonorous spume bubbling up out of the deepwater pond outside the hut.	
 			gourd/gourd	Samae spoke of a sprite in a meadow nearby & yet another sprite in a nestbox that was home to three rain-soaked songbirds.	
 			gourd/gourd	Samae told us to seek the sonorous spumes of these three sylvan sprites & send them skyward with the song of sworcery.	
-ARCHETYPE_SWORCERY	The Archetype			It is time to learn the Song of Sworcery - a consciousness expansion technique that reveals a mystical musical dimension.	
-			gourd/gourd	Keep calm & follow my directions to summon the sylvan sprite that softly slumbers in the cool waters of the deepwater pond.	
+ARCHETYPE_SWORCERY	The Archetype			"""It is time to learn the Song of Sworcery - a consciousness expansion technique that reveals a mystical musical dimension."""	
+			gourd/gourd	"""Keep calm & follow my directions to summon the sylvan sprite that softly slumbers in the cool waters of the deepwater pond."""	
 ARCHETYPE_TADPOLES	The Archetype			It was 100% obvious that the strangely-attired man expected us to do something or other but we had no idea what.	
-			gourd/gourd	Do you see the sonorous spume in the deepwater pond? A sylvan sprite softly slumbers there & you must summon it.	
-			gourd/gourd	Sing a Song of Sworcery at any time by touching & holding on The Scythian to access a reality within the one you know.	
-			gourd/gourd	Guide the two tiny swimming things to where the sprite slumbers & then send the sprite skyward with three touches of sworcery.	
+			gourd/gourd	"""Do you see the sonorous spume in the deepwater pond? A sylvan sprite softly slumbers there & you must summon it."""	
+			gourd/gourd	"""Sing a Song of Sworcery at any time by touching & holding on The Scythian to access a reality within the one you know."""	
+			gourd/gourd	"""Guide the two tiny swimming things to where the sprite slumbers & then send the sprite skyward with three touches of sworcery."""	
 GIRL_LOSTKEY	The Scythian			Samae stood sheltered from the rain beneath the broad wooden roof of the well.	
 				She had left the comfort of the hearth in the hut because apparently Logfella was freaking out about something or other.	
 INFO_BIRDEYESCULPTURE	The Scythian			We spied an angry bird sculpture looming above the meadow. #subtlereference	
