@@ -118,8 +118,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | | | | |
 **Gold Trigon** | Trigón Dorado | Trígono Dourado | ✅ First trigon |
 **Bright Moon Trigon** | Trigón de la Luna Radiante | Trígono da Lua Radiante | ✅ Pink/bright trigon |
-**Dark Moon Trigon** | Trigón de la Luna Sombría | Trígono da Lua Sombria | ✅ Blue/dark trigon |
-| **The Trigon Trifecta** | La Trífida Trigonal | A Tríade Trigônica | ✅ All three trigons |
+| **The Trigon Trifecta** | La Tríada Trigonal | A Tríade Trigônica | ✅ All three trigons |
 | | | | |
 | hearth | hoguera / fuego | fogo / lareira | ⚠️ PT: `fogo` (fire), `lareira` (hearth) |
 | firewood | leña | lenha | ✅ |
@@ -142,11 +141,11 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 
 | English | Spanish (ES) | Portuguese (PT-BR) | Notes |
 |---------|--------------|-------------------|-------|
-| **Sworcery** | Espadancia | Espadância | ✅ Core mechanic neologism. See Philosophy section. |
-| **Song of Sworcery** | Canción de Espadancia | Canção da Espadância | ✅ Main ability |
-| **sworcery aura** | aura de Espadancia | aura de Espadância | ✅ Visual indicator |
+| **Sworcery** | espadancia | espadância | ✅ Lowercase as common noun (magic/science). Cap only in Title/Intro. |
+| **Song of Sworcery** | Canción de Espadancia | Canção da Espadância | ✅ Main ability (Proper noun) |
+| **sworcery aura** | aura de espadancia | aura de espadância | ✅ Visual indicator |
 | **sylvan sprite** | espíritu silvano | espírito silvano | ✅ Collectible creatures. |
-| **sonorous spume** | melodiosas brumas | melódicas espumas | ✅ Sprite indicators. |
+| **sonorous spume** | sonoras espumas | sonoras espumas | ✅ Sprite indicators. |
 | **skyward beam** | haz celestial | facho celestial | ✅ Trigon activation. PT: "facho" not "raio" |
 | **miracle** | milagro | milagre | ✅ Special events |
 
@@ -275,12 +274,12 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 
 | English | Spanish (ES) | Portuguese (PT-BR) | Notes |
 |---------|--------------|-------------------|-------|
-| amirite? | ¿no? | Fala sério, né? | ✅ Casual agreement / Exasperation |
+| amirite? | ¿no? / ¿verdad? | Fala sério, né? | ✅ Casual agreement / Exasperation |
 | Y'know | Sabes / Ya sabes | Sabe / Você sabe | ✅ |
 | Whoa | Vaya / Guau | Au / Nossa | ✅ Context dependent |
-| Yikes! | ¡Uf! | Credo! | ✅ |
+| Yikes! | ¡Madre mía! / ¡Caray! | Credo! / Caramba! | ✅ Context dependent (Ghost vs Archetype) |
 | Hmm... | Hmm... | Hmm... | ✅ Keep as is |
-| cool | genial / amable | legal / agradável | ⚠️ Context: Person vs Situation |
+| cool | genial / buena gente | legal / incrível | ⚠️ Context: Person vs Situation |
 
 ### Character-Specific Speech
 
@@ -464,8 +463,8 @@ This glossary uses **Brazilian Portuguese (PT-BR)** conventions:
 | 8 | Logfella | Tronquero | Troncadeiro |
 | 9 | Mingi Taw | Mingi Tau | Mingi Tau |
 | 10 | The Gogolithic Mass | La Masa Gogolítica | A Massa Gogolítica |
-| 11 | Trigon Trifecta | Trífida Trigonal | Tríade Trigônica |
-| 12 | sonorous spume | melodiosas brumas | melódicas espumas |
+| 11 | Trigon Trifecta | Tríada Trigonal | Tríade Trigônica |
+| 12 | sonorous spume | sonoras espumas | sonoras espumas |
 | 13 | dream-walking | paseos oníricos / caminar en sueños | caminhadas oníricas / caminhar em sonhos |
 | 14 | the whirling infinite | Arremolinado Infinito | Remoinhado Infinito |
 | 15 | touch & hold | mantén pulsado | manter pressionado |
@@ -487,9 +486,10 @@ These translations prioritize:
 4. **Playability** - terms must be clear in gameplay context
 
 ### Neologism Strategy
-- "Sworcery" required creative solution in both languages
-- **Spanish: "Espadancia"**. The `-ancia` suffix (like `constancia`, `elegancia`) gives it a more abstract, psionic, and philosophical quality, reflecting the game's description of it as a "consciousness expansion technique" rather than a standard form of magic. This aligns it with the unique spirit of the original "Sworcery".
-- **Portuguese: "Espadância"**. A brilliant neologism using the `-ância` suffix to create a similar mystical and unique feel.
+- "Sworcery" required creative solution in both languages.
+- **Style Rule:** Treated as a common noun (lowercase) in both languages, similar to "magic" or "science", except when used in the proper title "Song of Sworcery" or when first introduced/defined.
+- **Spanish: "espadancia"**. The `-ancia` suffix (like `constancia`, `elegancia`) gives it a more abstract, psionic, and philosophical quality, reflecting the game's description of it as a "consciousness expansion technique" rather than a standard form of magic.
+- **Portuguese: "espadância"**. A brilliant neologism using the `-ância` suffix to create a similar mystical and unique feel.
 
 ### Character Names
 - **Logfella**: Wordplay on "fella" + wood/logs
