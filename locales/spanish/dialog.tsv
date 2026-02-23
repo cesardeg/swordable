@@ -2,7 +2,7 @@ id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
 GIRL_TONGUES	Girl			Lejos de las estepas asoladas por la guerra de Escitia, hallamos a una chica de cabello oscuro en un prado iluminado por el sol. #helloworld			72	001.jpg	Z0E1Q
 				Los montañeses del Cáucaso la llamaban Samae y parecía simpática. #obviously					
 SIGN_TADPOL	The Scythian			"""Donde el fuego alumbra, el hogar se vislumbra."" #threegutrecords4ever"					
-SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia, son todos reinos de los hombres. Mingi Tau es el Reino de las Nubes."""					
+SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia son todos reinos de los hombres. Mingi Tau es el Reino de las Nubes."""					
 SIGN_CHASM	The Scythian			A la vera del Precipicio Peligroso, encontramos una roca grabada con el glifo de una espada alzada, bajo los colores del arcoíris.					
 				Los escitas aborrecemos los arcoíris. #loathsomerainbows			21	002.jpg	40C27
 SIGN_BIRDTREE	The Scythian			Por un sendero lateral encontramos una roca grabada con una serie de símbolos indescifrables.					
@@ -59,7 +59,7 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP no produce la experiencia trascend
 				Hemos descubierto que un individuo relajado y curioso es más propenso a tener una experiencia placentera con S:S&S EP.					
 				La 'Disposición' alude al estado mental y a la personalidad que aportas: tus pensamientos, tu ánimo y tus expectativas.					
 				Hablemos de la 'Disposición' y el 'Entorno' para una experiencia positiva con esta obra altamente psicoactiva: Superbrothers: Sword & Sworcery EP.					
-				La conciencia expandida, el potencial inexplorado e ilimitado de la mente, es lo que en Superbrothers llamamos 'Sworcery' (o 'Espadancia'). #sworcery					
+				La conciencia expandida, el potencial inexplorado e ilimitado de la mente, es lo que en Superbrothers llamamos 'sworcery' (o espadancia). #sworcery					
 				La espadancia es la técnica psiónica que permite percibir una realidad dentro de la que ya conoces.					
 				Para detener la Canción de Espadancia, toca dos veces el aura que rodea a La Escita.					
 				Una vez entonada, desliza el aura para mirar a tu alrededor.					
@@ -74,7 +74,7 @@ LOGFELLA_STORM	The Scythian			Tronquero había renunciado a cortar leña debido 
 				¿Nos estaba sugiriendo, sin mucha sutileza, que deberíamos intentar disipar la tormenta? #yes #no #maybe					
 GIRL_STORM	The Scythian			Samae, la chica de cabello oscuro, se mostraba llena de pesadumbre. #woe					
 			gourd/gourd	Desde que estalló la tormenta, había notado las sonoras espumas de los espíritus silvanos que dormían en los bosques cercanos.					
-			gourd/gourd	Se preguntó si acaso los tres espíritus podrían ayudar a disipar la tormenta. #yes					
+			gourd/gourd	Se preguntó si los tres espíritus podrían ayudar a disipar la tormenta. #yes					
 			gourd/gourd	Nos pidió investigar aquellas espumas que burbujeaban en el insondable estanque junto a la choza.					
 			gourd/gourd	Nos habló de un espíritu en un prado cercano y otro en un curioso nido donde tres pájaros cantores se guarecían de la lluvia.					
 			gourd/gourd	Nos encomendó buscar las espumas de esos tres espíritus y enviarlos al cielo con la Canción de Espadancia.					
@@ -175,7 +175,7 @@ GRAVE_CHASMGHOST	The Scythian			Al filo del Precipicio Peligroso, junto a la tum
 				"""Dejé a esos pobres diablos dando vueltas sin rumbo mientras yo investigaba más a fondo este truco de la lógica lunar."""					
 				El viejo fantasma resplandeciente contó que hizo trampa al salir de S:S&S EP y alterar la fecha y hora de su dispositivo.					
 				Describió lo incómodo que fue el proceso, ¡pero dijo que eso le permitió alterar el humor de la luna!					
-				"""La verdad es que desde que hice trampa, un escalofrío no me abandonó más... y sí, me morí literalmente de vergüenza."""					
+				"""La verdad es que desde que hice trampa, los escalofríos no me abandonaron más... y sí, me morí literalmente de vergüenza."""					
 GRAVE_HOLLOW	The Scythian			Dentro de un titánico árbol hueco, una tumba solitaria despertó nuestra curiosidad.					
 GRAVE_HOLLOWGHOST	The Scythian			Dentro de un titánico árbol hueco, junto a una tumba solitaria, un fantasma audaz apareció para cantarnos una alocada rima.			117	028.jpg	E2A80
 				"""Vigila el humor de la luna sin cesar, y sabrás cuándo, dónde y cómo actuar."""					
@@ -378,7 +378,7 @@ GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Tal vez oíste hab
 				Hemos estado monitoreando tus acciones en silencio y queremos señalar que, cuanto más tardes en decidir, más pequeña será la celebración.					
 				Parece que has progresado bastante en tu esfuerzo para localizar y domar el Trigón de la Luna Radiante, ¡muy bien hecho!					
 GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		¿Son los espíritus silvanos hijos de la Madre Tierra o son visitantes solitarios del Arremolinado Infinito?					
-				Para ser honesta, los espíritus silvanos me dan escalofríos. Es decir... ¿qué son? ¿De dónde vienen?					
+				Para ser honesta, los espíritus silvanos me dan miedo. Es decir... ¿qué son? ¿De dónde vienen?					
 GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Cuando los espíritus hayan sido enviados al cielo y la temporada de milagros esté sobre ti, debes buscar el titánico árbol.					
 				Sé que sabes lo que sé y quiero que sepas que estás completamente en lo correcto.			109	066.jpg	F6D6H
 				Guau Guau Guau Snif Guau Guau Guau.					
@@ -451,7 +451,7 @@ GIRL_AFTERYELLOWBEAM	The Scythian			Samae se sentó en una roca cerca del lugar 
 			Archetype/trifecta	Intuimos que los dos Trigones restantes podrían estar perdidos en los sueños.					
 LOGFELLA_AFTERYELLOWBEAM	The Scythian			Tronquero había regresado a cortar leña, y era evidente que lo disfrutaba muchísimo.					
 			triangle/Triangle	Había visto el haz celestial que se alzaba tras el prado, así que le preguntamos por los secretos del Claro Trigonal.					
-				Nos relató una historia que su gente contaba a sus hijos para provocarles escalofríos.					
+				Nos relató una historia que su gente contaba a sus hijos para darles miedo.					
 			Archetype/trifecta	Habló de una partida de escitas que, hace muchas lunas, llegó a estas montañas olvidadas en busca de la Tríada Trigonal.					
 			gourd/gourd	"""Esa partida aprendió a encontrar los espíritus silvanos y enviarlos al cielo... luego buscaron dónde obrar un milagro."""					
 			Archetype/trifecta	"""Querían activar los tres haces celestiales en el Claro Trigonal, pero no sabían dónde ni cuándo aparecerían los Trigones."""					
