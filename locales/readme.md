@@ -180,7 +180,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | **woeful errand** | funesto cometido | funesta missão | ✅ The Scythian's quest |
 | **martyrdom** | martirio | martírio | ✅ The Scythian's fate |
 | **deathless specter** | espectro inmortal | espectro imortal | ✅ The Gogolithic Mass |
-| **heebie jeebies** | escalofrío | frio na espinha | ✅ Physical sensation of fear |
+| **heebie jeebies** | escalofríos | frio na espinha | ✅ Physical sensation of fear |
 | **cosmic friends forever** | amigos cósmicos para siempre | amigos cósmicos para sempre | ✅ Ending phrase |
 | | | | |
 | linguistic thought transmission | transmisión de pensamiento lingüístico | transmissão de pensamento linguístico | ✅ |
@@ -306,7 +306,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 - Creates intentional contrast between the two moons
 
 #### 3. **"Heebie Jeebies" / Fear Translation**
-- Standard: **"escalofrío"** (shiver) ✅
+- Standard: **"escalofríos"** (shivers) ✅
 - Alternate: **"manojo de nervios"** (freaking out)
 - Never mix within same document
 
