@@ -259,16 +259,16 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 
 ## Expressions & Idioms
 
-### Hashtags (Keep Original)
+### Hashtags
 
 | English | Spanish (ES) | Portuguese (PT-BR) |
 |---------|--------------|-------------------|
-| #helloworld | #helloworld | #helloworld |
-| #obviously | #obviously | #obviously |
-| #gotmegatome | #gotmegatome | #gotmegatome |
-| #miracles | #miracles | #miracles |
-| #woodchopping | #woodchopping | #woodchopping |
-| #yes #no #maybe | #yes #no #maybe | #yes #no #maybe |
+| #helloworld | #holamundo | #olamundo |
+| #obviously | #obvio | #obvio |
+| #gotmegatome | #tengomegatomo | #tenhomegatomo |
+| #miracles | #milagros | #milagres |
+| #woodchopping | #leñando | #lenhando |
+| #yes #no #maybe | #si #no #talvez | #sim #nao #talvez |
 
 ### Colloquialisms
 
