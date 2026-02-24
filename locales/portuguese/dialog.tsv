@@ -71,8 +71,8 @@ ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muito bem, 
 				"""Procure um triângulo branco no canto superior direito; toque nele e equipe-o para revelar o oculto."""					
 LOGFELLA_STORM	The Scythian			Troncadeiro parou de cortar lenha devido à sinistra tempestade. #botasmolhadas					
 			adventureUI/megatomeItem	Nos lembrou de como a tempestade havia estourado logo depois que recuperamos o Megatomo sob Mingi Tau.					
-				Será que ele estava insinuando, sem muita sutileza, que devíamos tentar dissipar a tempestade? #sim #nao #talvez					
-GIRL_STORM	The Scythian			Samae, a garota de cabelos escuros, mostrava-se consumida pela desolação. #desolaçao					
+				Será que ele estava insinuando sem muita sutileza que devíamos tentar dissipar a tempestade? #sim #nao #talvez					
+GIRL_STORM	The Scythian			Samae, a garota de cabelos escuros, sentia-se desolada. #angustia					
 			gourd/gourd	Desde que a tempestade estourou, ela observava as sonoras espumas dos espíritos silvanos adormecidos nas florestas próximas.					
 			gourd/gourd	Perguntou-se se os três espíritos poderiam ajudar a dissipar a tempestade. #sim					
 			gourd/gourd	Pediu que investigássemos as espumas que borbulhavam na insondável lagoa fora da cabana.					
@@ -267,7 +267,7 @@ ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Você pode já ter encontrado o odioso ataque de arco-íris do Trígono da Lua Sombria. Fatie aquele arco-íris sem dó.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Sombria envolve projéteis triangulares, sutis e furtivos. Destrua-os e você sobreviverá.					
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então você despertou o espectro imortal que espreitava nas trevas sob Mingi Tau... Caramba!					
-				Consequentemente, uma sinistra tempestade paira ameaçadora e as pessoas adoráveis que vivem na cabana de pedra estão angustiadas.					
+				Consequentemente, uma sinistra tempestade paira ameaçadora e as pessoas adoráveis que vivem na cabana de pedra estão desoladas.					
 			adventureUI/megatomeItem	A boa notícia é que você tem um pesado livro conhecido como o Megatomo. Em nossa próxima sessão, falaremos sobre seu estranho propósito.					
 				Nossa pesquisa mostra que a exposição prolongada à psicocosmologia mitopoética de S:S&S EP pode causar efeitos adversos.					
 				Agora que você completou a Sessão I, que tal uma pausa? Estarei aqui quando você quiser começar a Sessão II.					
@@ -275,7 +275,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				É bom te ver novamente. Vamos começar a Sessão II de S:S&S EP?					
 			adventureUI/megatomeItem	Ótimo, onde estávamos? Ah, sim, já me lembro, você conseguiu um pesado livro conhecido como o Megatomo.					
 				Você despertou o espectro imortal que ainda espreita nas trevas sob Mingi Tau. Que sujeito bizarro, né?			204	042.jpg	24B2J
-				São tempos de desolação: uma sinistra tempestade cobriu o céu e as pessoas adoráveis que vivem na cabana estão angustiadas.					
+				São tempos de angústia: uma sinistra tempestade cobriu o céu e as pessoas adoráveis que vivem na cabana estão desoladas.					
 				Desfazer a tempestade exigirá algum conhecimento em psiônica, criptozoologia e milagres...					
 			adventureUI/megatomeItem	1. O toque de um espadancista liberará o Megatomo, revelando os pensamentos não expressos das criaturas vivas e outros materiais esotéricos.					
 			gourd/gourd	2. Estranhos espíritos silvanos, fontes de espadância, dormem em lagos, florestas e campinas. Procure por suas sutis e sonoras espumas.					
@@ -326,7 +326,7 @@ LOGFELLA_GHOUL	The Scythian			Perto da Clareira Trigônica, acordamos atordoados
 				Ele nos contou que Samae havia desaparecido na noite anterior.					
 				O lenhador sabia que nosso fim estava próximo e que precisávamos voltar a Mingi Tau para cumprir nossa funesta missão.					
 LOGFELLA_TRIGONGROVETIPS	The Scythian			Troncadeiro nunca tinha visto a Clareira Trigônica antes e se perguntava do que se tratava tudo aquilo.					
-LOGFELLA_TRIFECTATIPS	The Scythian			Troncadeiro mostrava-se desolado pela ausência de Samae.					
+LOGFELLA_TRIFECTATIPS	The Scythian			Troncadeiro sentia-se muito desolado pela ausência de Samae.					
 				Dissemos a ele que sabíamos onde ela poderia estar e que logo resolveríamos as coisas.					
 				Olhou para a plataforma próxima e nos agradeceu antecipadamente por toda essa história de martírio.					
 URSULA_AVATAR			Ursula/idleSEhandsonhip						

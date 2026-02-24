@@ -182,6 +182,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | **deathless specter** | espectro inmortal | espectro imortal | ✅ The Gogolithic Mass |
 | **heebie jeebies** | escalofríos | frio na espinha | ✅ Physical sensation of fear |
 | **cosmic friends forever** | amigos cósmicos para siempre | amigos cósmicos para sempre | ✅ Ending phrase |
+| **Time of Woe** | Tiempos de Angustia | Tempos de Angústia | ✅ Session II Theme |
 | | | | |
 | linguistic thought transmission | transmisión de pensamiento lingüístico | transmissão de pensamento linguístico | ✅ |
  | mythopoetic psychocosmology | psicocosmología mitopoética | psicocosmologia mitopoética | ✅ |
@@ -269,6 +270,10 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | #miracles | #milagros | #milagres |
 | #woodchopping | #leñando | #lenhando |
 | #yes #no #maybe | #si #no #talvez | #sim #nao #talvez |
+| #woe | #angustia | #angustia |
+| #wetboots | #botasmojadas | #botasmolhadas |
+| #loathsomerainbows | #odiososarcoiris | #odiososarcoiris |
+| #slaughter | #masacre | #matança |
 
 ### Colloquialisms
 

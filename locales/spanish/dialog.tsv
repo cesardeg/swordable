@@ -71,8 +71,8 @@ ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien, h
 				"""Busca un triángulo blanco arriba a la derecha; presiónalo y equípalo para revelar lo oculto."""					
 LOGFELLA_STORM	The Scythian			Tronquero había renunciado a cortar leña debido a la siniestra tormenta. #botasmojadas					
 			adventureUI/megatomeItem	Nos recordó cómo la tormenta había estallado justo después de que recuperamos el Megatomo bajo Mingi Tau.					
-				¿Nos estaba sugiriendo, sin mucha sutileza, que deberíamos intentar disipar la tormenta? #si #no #talvez					
-GIRL_STORM	The Scythian			Samae, la chica de cabello oscuro, se mostraba llena de pesadumbre. #pesadumbre					
+				¿Nos estaba sugiriendo sin mucha sutileza que deberíamos intentar disipar la tormenta? #si #no #talvez					
+GIRL_STORM	The Scythian			Samae, la chica de cabello oscuro, se sentía desolada. #angustia					
 			gourd/gourd	Desde que estalló la tormenta, había notado las sonoras espumas de los espíritus silvanos que dormían en los bosques cercanos.					
 			gourd/gourd	Se preguntó si los tres espíritus podrían ayudar a disipar la tormenta. #si					
 			gourd/gourd	Nos pidió investigar aquellas espumas que burbujeaban en el insondable estanque fuera de la choza.					
@@ -187,7 +187,7 @@ GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un titánico árbol hueco, junt
 				"""Busca una señal de los espíritus silvanos y entona allí la Canción de Espadancia para revelar un Trigón oculto."""					
 GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un titánico árbol hueco, junto a una tumba solitaria, un fantasma audaz apareció y nos dijo algunas cosas.			117	028.jpg	E2A80
 				"""El Canto del Trigón ha terminado por ahora. Me pregunto cuándo volveré a escucharlo."""					
-LOGFELLA_LOSTKEY	The Scythian			Tronquero, el apesadumbrado leñador, estaba hecho un manojo de nervios.					
+LOGFELLA_LOSTKEY	The Scythian			Tronquero, el desolado leñador, estaba hecho un manojo de nervios.					
 			AdventureUI/keyItem	Al parecer, había perdido la llave de la puerta trancada en el muro de piedra que bloqueaba el antiguo camino hacia Mingi Tau.					
 				Y nosotros, tipo... ugh. ¿Otra misión de recadero? ¿En serio?					
 				Nos contó que estaba sentado justo aquí cuando cayó en un profundo sueño.					
@@ -275,7 +275,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				Me alegra verte de nuevo. ¿Empezamos la Sesión II de S:S&S EP?					
 			adventureUI/megatomeItem	Bien, ¿en qué estábamos? Ah, ya recuerdo. Conseguiste un pesado libro conocido como el Megatomo.					
 				Despertaste al espectro inmortal que aún acecha en la oscuridad bajo Mingi Tau. Qué tipo tan siniestro, ¿verdad?			204	042.jpg	24B2J
-				Son tiempos de pesadumbre: una siniestra tormenta ha nublado el cielo y la gente adorable de la choza de piedra está desolada.					
+				Son tiempos de angustia: una siniestra tormenta ha nublado el cielo y la gente adorable de la choza de piedra está desolada.					
 				Disipar la tormenta requerirá cierta familiaridad con la psiónica, la criptozoología y los milagros...					
 			adventureUI/megatomeItem	1. El toque de un espadancista liberará el Megatomo, revelando los pensamientos no expresados de criaturas vivas y otro material esotérico.					
 			gourd/gourd	2. Extraños espíritus silvanos, fuentes de espadancia, duermen en estanques, bosques y prados. Busca sus sutiles y sonoras espumas.					
@@ -326,7 +326,7 @@ LOGFELLA_GHOUL	The Scythian			Cerca del Claro Trigonal, despertamos aturdidos de
 				Él nos contó que Samae había desaparecido la noche anterior.					
 				El leñador sabía que nuestro fin estaba cerca y que debíamos volver a Mingi Tau para cumplir nuestro funesto cometido.					
 LOGFELLA_TRIGONGROVETIPS	The Scythian			Tronquero nunca antes había visto el Claro Trigonal y se preguntaba de qué se trataba todo aquello.					
-LOGFELLA_TRIFECTATIPS	The Scythian			Tronquero se mostraba muy apesadumbrado por la ausencia de Samae.					
+LOGFELLA_TRIFECTATIPS	The Scythian			Tronquero se sentía muy desolado por la ausencia de Samae.					
 				Le dijimos que sabíamos dónde podría estar y que pronto arreglaríamos las cosas.					
 				Miró el pedestal cercano y nos agradeció de antemano por toda esa historia del martirio.					
 URSULA_AVATAR			Ursula/idleSEhandsonhip						
