@@ -100,7 +100,7 @@ INFO_MEADOWSUNSTICK	The Scythian			Avistamos um cajado de formato estranho vigia
 INFO_CABINWELL	The Scythian			Avistamos um poço de construção sólida com um amplo telhado de madeira.					
 INFO_UNWELLWELL	The Scythian			O poço soltou um soluço. #poço #soluço					
 INFO_WELLNESS	The Scythian			Bem está o que bem acaba. #poço #soluço #bemestar					
-INFO_WELLWHITESTAG	The Scythian			VIDA LONGA À NOVA CARNE.					
+INFO_WELLWHITESTAG	The Scythian			VIDA LONGA À NOVA CARNE					
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Diante de uma insondável lagoa, descobrimos uma robusta cabana de pedra com um telhado de palha.					
 INFO_CABINWOODPILE	The Scythian			Perto da cabana, encontramos uma pilha de lenha, nada de mais.					
@@ -239,7 +239,7 @@ ARCHETYPE_TRIGONGROVE	The Archetype			Sente? Começa a entender? Os símbolos es
 				Este facho conecta o mundo dos vivos ao dos mortos, então talvez você conheça algum fantasma com quem conversar em suas jornadas.					
 				Fui informado de que você ativou o primeiro facho celestial na Clareira Trigônica.					
 GIRL_CABINSHEEP	The Scythian			Perguntamos a Samae sobre as ovelhas inúteis que estavam vadiando na cabana e ela comentou que elas se assustaram há um tempo.					
-			gourd/gourd	Contamos a Samae que havíamos enviado cinco espíritos silvanos ao céu e ela nos disse que talvez a época dos milagres estivesse próxima.					
+			gourd/gourd	Contamos que havíamos enviado cinco espíritos silvanos ao céu e ela nos disse que talvez a época dos milagres estivesse próxima.					
 				Supomos que talvez devêssemos investigar a campina onde as ovelhas costumavam vadiar.					
 LOGFELLA_CABINSHEEP	The Scythian			Troncadeiro sentia que a época dos milagres havia chegado e se perguntava se algo incrível estava prestes a acontecer.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			Mas o que... A chuva parou! Será que a tempestade está começando a se dissipar? Tomara que sim.					

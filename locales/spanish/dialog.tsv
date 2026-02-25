@@ -100,7 +100,7 @@ INFO_MEADOWSUNSTICK	The Scythian			Avistamos un bastón con forma extraña vigil
 INFO_CABINWELL	The Scythian			Avistamos un pozo bien construido con un amplio tejado de madera.					
 INFO_UNWELLWELL	The Scythian			El pozo lanzó un sollozo. #pozo #sollozo					
 INFO_WELLNESS	The Scythian			Bien está lo que bien acaba. #pozo #sollozo #bienestar					
-INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE.					
+INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE					
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Junto a un insondable estanque, descubrimos una robusta choza de piedra con un tejado de paja.					
 INFO_CABINWOODPILE	The Scythian			Cerca de la choza, vimos una pila de leña, nada del otro mundo.					
@@ -239,7 +239,7 @@ ARCHETYPE_TRIGONGROVE	The Archetype			¿Lo sientes? ¿Empiezas a comprender? ¿C
 				Este haz conecta el mundo de los vivos y los muertos, así que quizá conozcas a algún fantasma con quien hablar en tus viajes.					
 				Acabo de enterarme de que activaste el primer haz celestial en el Claro Trigonal.					
 GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las ovejas inútiles que holgazaneaban por la choza y nos comentó que se habían asustado hace un rato.					
-			gourd/gourd	Le contamos a Samae que habíamos enviado cinco espíritus silvanos al cielo y ella nos dijo que quizá la temporada de milagros estaba por llegar.					
+			gourd/gourd	Le contamos que habíamos enviado cinco espíritus silvanos al cielo y ella nos dijo que quizá la temporada de milagros estaba por llegar.					
 				Pensamos que tal vez deberíamos ir a investigar el prado donde solían holgazanear las ovejas.					
 LOGFELLA_CABINSHEEP	The Scythian			Tronquero sentía que había llegado la temporada de milagros y se preguntaba si estaba por ocurrir algo increíble.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			¡Pero qué...! ¡Dejó de llover! ¿Se estará disipando la tormenta? Espero que sí.					
