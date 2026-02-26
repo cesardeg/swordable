@@ -42,6 +42,12 @@ res_dir=$(cd "${project_root}/build/steam/$locale" && pwd)
 # Copy the sworcery.dat file to the res directory
 cp "$sworcery_dat_path" "$res_dir"
 
+# Double check if sworcery.dat exists in res_dir
+if [ ! -f "${res_dir}/sworcery.dat" ]; then
+  echo "Error: Failed to copy sworcery.dat to ${res_dir}"
+  exit 1
+fi
+
 # Run the unpack.sh script
 # "${script_dir}/unpack.sh" "$res_dir" "$locale"
 

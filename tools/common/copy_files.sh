@@ -30,8 +30,7 @@ else
 fi
 
 # Determine the project root (up 2 levels from tools/common)
-# Using relative paths to avoid issues with absolute path mapping on Windows/msys
-project_root="${script_dir}/../../"
+project_root=$(cd "${script_dir}/../../" && pwd)
 
 # Determine the fonts and locales folders using the resolved project root
 locales_folder="${project_root}/data/locales/${locale_name}"
@@ -43,7 +42,9 @@ else
 fi
 
 # Iterate over the files in files.txt
-while IFS= read -r file; do
+# Using tr to remove potential \r from Windows-commited files
+while IFS= read -r line; do
+  file=$(echo "$line" | tr -d '\r')
   if [ -z "$file" ]; then
     # File path is empty, skip this iteration
     continue
