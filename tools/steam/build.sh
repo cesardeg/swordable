@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Get the directory of the script
-script_dir=$(dirname "$(realpath "$0")")
+script_dir=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
 
 # Validate the number of arguments
 if [ $# -lt 1 ]; then

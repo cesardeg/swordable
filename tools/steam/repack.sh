@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Get the directory of the script
-script_dir=$(dirname "$(realpath "$0")")
+script_dir=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
 
 # Set the res_dir argument to script_dir if not provided
 res_dir=${1:-"$script_dir"}
@@ -15,7 +15,8 @@ else
 fi
 
 # Calculate relative path to files_txt from res_dir to avoid absolute path issues with 7za on Windows
-rel_files_txt=$(realpath --relative-to="${res_dir}" "${files_txt}")
+# Using python for cross-platform realpath --relative-to compatibility (macOS/Linux/Windows)
+rel_files_txt=$(python3 -c "import os, sys; print(os.path.relpath(sys.argv[1], sys.argv[2]))" "${files_txt}" "${res_dir}")
 
 # Update the sworcery.dat file using 7za
 # Password priority: 1. Argument $3, 2. Env Var $SWORCERY_PASSWORD
