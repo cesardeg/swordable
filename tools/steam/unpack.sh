@@ -14,9 +14,10 @@ else
   files_txt="${script_dir}/../common/files/desk_latin.txt"
 fi
 
-# Copy listfile locally to avoid path issues with 7za on Windows
+# Copy listfile locally and clean CRLF to avoid path issues with 7za on Windows
 listfile_name=$(basename "${files_txt}")
-cp "${files_txt}" "${res_dir}/${listfile_name}"
+# Use tr to ensure no \r characters are passed to 7-Zip
+cat "${files_txt}" | tr -d '\r' > "${res_dir}/${listfile_name}"
 
 # Extract files using 7za
 # Password priority: 1. Argument $3, 2. Env Var $SWORCERY_PASSWORD
