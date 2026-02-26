@@ -65,10 +65,6 @@ jobs:
         env:
           SWORCERY_PASSWORD: ${{ secrets.SWORCERY_PASSWORD }}
         run: |
-          # Ensure 7za points to 7z on Windows
-          if [[ "${{ matrix.os }}" == "windows-latest" ]]; then
-            alias 7za='7z'
-          fi
           chmod +x tools/steam/*.sh tools/common/*.sh
           ./tools/steam/build.sh sworcery.dat ${{ matrix.locale }}
 
