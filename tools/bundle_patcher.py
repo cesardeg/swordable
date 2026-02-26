@@ -26,7 +26,7 @@ def main():
     print(f"DEBUG: project_root={project_root}")
     print(f"DEBUG: current_dir={os.getcwd()}")
     # Use 'PIL' for import check, bootstrap.py will handle mapping to 'Pillow' for pip
-    ensure_environment(required_packages=['pyinstaller', 'PIL'])
+    ensure_environment(required_packages=['PyInstaller', 'PIL'])
 
     # 2. Check if build data exists
     data_build_dir = os.path.join(project_root, "build", "steam", args.locale)
@@ -93,12 +93,18 @@ def main():
             sys.executable, "-m", "PyInstaller",
             "--onefile",
             "--noconsole",
-            "--add-data", f"{temp_assets_dir}{separator}.",
+            "--add-data", f"{temp_assets_dir}/*{separator}.",
             "--name", output_name,
             "--clean",
-            "--icon", icon_file if os.path.exists(icon_file) else "",
+        ]
+        if icon_file and os.path.exists(icon_file):
+            cmd += ["--icon", icon_file]
+
+        cmd += [
             "--workpath", work_path,
             "--specpath", spec_path,
+            "--hidden-import", "PIL.Image",
+            "--hidden-import", "PIL.ImageTk",
             "installer/patcher.py"
         ]
 

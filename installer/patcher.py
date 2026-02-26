@@ -26,7 +26,7 @@ import tkinter as tk
 from tkinter import filedialog, messagebox
 from typing import Optional, Dict, List, Any, Union
 try:
-    from PIL import Image, ImageTk
+    from PIL import Image, ImageTk # Helping PyInstaller find the module
     HAS_PILLOW = True
 except ImportError:
     HAS_PILLOW = False
@@ -277,10 +277,10 @@ class SworceryInstaller(tk.Tk):
         btn_frame = tk.Frame(self, bg=self.colors["border_dark"], padx=1, pady=1)
         
         btn = tk.Label(btn_frame, text=text.upper(), font=self.font_main,
-                       width=22, height=1, fg=fg_color, bg=self.colors["surface"],
-                       cursor="hand2", padx=15, pady=8,
-                       relief="raised", borderwidth=2)
-        btn.pack()
+                       fg=fg_color, bg=self.colors["surface"],
+                       cursor="hand2", padx=25, pady=10,
+                       relief="raised", borderwidth=4)
+        btn.pack(fill="both", expand=True)
         
         def on_press(e):
             if str(btn.cget("state")) != "disabled":
@@ -291,8 +291,11 @@ class SworceryInstaller(tk.Tk):
                 btn.config(relief="raised", bg=self.colors["surface"])
                 command()
 
+        # Bind events to BOTH the frame and the label to ensure no "dead zones"
         btn.bind("<ButtonPress-1>", on_press)
         btn.bind("<ButtonRelease-1>", on_release)
+        btn_frame.bind("<ButtonPress-1>", on_press)
+        btn_frame.bind("<ButtonRelease-1>", on_release)
         
         window_id = self.canvas.create_window(250, y_pos, window=btn_frame)
         return btn, window_id

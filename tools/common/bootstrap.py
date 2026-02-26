@@ -59,6 +59,7 @@ def ensure_environment(required_packages=None):
             # Map common import names to pip package names (e.g., PIL -> Pillow)
             pip_name = package
             if package == "PIL": pip_name = "Pillow"
+            if package == "PyInstaller": pip_name = "pyinstaller"
             
             try:
                 importlib.import_module(package)
