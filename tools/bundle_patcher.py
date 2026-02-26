@@ -105,8 +105,12 @@ def main():
             "--specpath", spec_path,
             "--hidden-import", "PIL.Image",
             "--hidden-import", "PIL.ImageTk",
+            "--collect-all", "PIL",  # Ensure ALL Pillow components are bundled
             "installer/patcher.py"
         ]
+
+        # Log for debugging
+        print(f"DEBUG: Running PyInstaller command: {' '.join(cmd)}")
 
         # Run from project root
         subprocess.check_call(cmd, cwd=project_root)

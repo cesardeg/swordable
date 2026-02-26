@@ -276,9 +276,11 @@ class SworceryInstaller(tk.Tk):
         # Frame for border
         btn_frame = tk.Frame(self, bg=self.colors["border_dark"], padx=1, pady=1)
         
+        # Use a fixed width for consistency and better hit area
         btn = tk.Label(btn_frame, text=text.upper(), font=self.font_main,
-                       fg=fg_color, bg=self.colors["surface"],
-                       cursor="hand2", padx=25, pady=10,
+                       width=26, fg=fg_color, bg=self.colors["surface"],
+                       activeforeground=fg_color, activebackground=self.colors["surface"],
+                       cursor="hand2", padx=10, pady=12,
                        relief="raised", borderwidth=4)
         btn.pack(fill="both", expand=True)
         
@@ -290,12 +292,21 @@ class SworceryInstaller(tk.Tk):
             if str(btn.cget("state")) != "disabled":
                 btn.config(relief="raised", bg=self.colors["surface"])
                 command()
+        
+        def on_enter(e):
+             if str(btn.cget("state")) != "disabled":
+                btn.config(bg=self.colors["border_light"])
+
+        def on_leave(e):
+             if str(btn.cget("state")) != "disabled":
+                btn.config(bg=self.colors["surface"])
 
         # Bind events to BOTH the frame and the label to ensure no "dead zones"
-        btn.bind("<ButtonPress-1>", on_press)
-        btn.bind("<ButtonRelease-1>", on_release)
-        btn_frame.bind("<ButtonPress-1>", on_press)
-        btn_frame.bind("<ButtonRelease-1>", on_release)
+        for widget in [btn, btn_frame]:
+            widget.bind("<ButtonPress-1>", on_press)
+            widget.bind("<ButtonRelease-1>", on_release)
+            widget.bind("<Enter>", on_enter)
+            widget.bind("<Leave>", on_leave)
         
         window_id = self.canvas.create_window(250, y_pos, window=btn_frame)
         return btn, window_id
