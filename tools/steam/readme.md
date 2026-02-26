@@ -6,7 +6,12 @@ This project provides a set of scripts for generating localized files (`sworcery
 
 - Bash
 - Python 3.x
-- 7-Zip (command-line version)
+- **7-Zip (7za)**: Required to manipulate the `.dat` file.
+    - **macOS**: `brew install p7zip`
+    - **Linux**: `sudo apt install p7zip-full`
+    - **Windows**:
+        - Option A: Download `7zr.exe` from [7-zip.org](https://www.7-zip.org/download.html), rename it to `7za.exe` and add it to your PATH.
+        - Option B: `choco install 7zip`
 
 ## Getting Started
 

@@ -20,12 +20,21 @@ fi
 
 # Set locale argument
 locale=${2:-"es"}
+# Set password argument
+password=${3:-$SWORCERY_PASSWORD}
 
-source "${script_dir}/../utils/validate_locale.sh"
+if [ -z "$password" ]; then
+  echo "Error: SWORCERY_PASSWORD not set."
+  echo "Please set it via: export SWORCERY_PASSWORD=your_password"
+  echo "Or pass it as the 3rd argument: ./build.sh <dat_path> <locale> <password>"
+  exit 1
+fi
+
+source "${script_dir}/../common/validate_locale.sh"
 validate_locale "$locale"
 
-# Set the res dir based on the script directory and locale
-res_dir="${script_dir}/../build/steam/$locale"
+# Set the res dir based on the project root
+res_dir="${script_dir}/../../build/steam/$locale"
 
 # Create the res directory if it doesn't exist
 mkdir -p "$res_dir"
@@ -37,7 +46,7 @@ cp "$sworcery_dat_path" "$res_dir"
 # "${script_dir}/unpack.sh" "$res_dir" "$locale"
 
 # Run the copy_files.sh script
-"${script_dir}/../utils/copy_files.sh" "$res_dir" "$locale" "desk"
+"${script_dir}/../common/copy_files.sh" "$res_dir" "$locale" "desk"
 
 if [ $? -ne 0 ]; then
   echo "Error: Copy files script failed."
@@ -45,7 +54,7 @@ if [ $? -ne 0 ]; then
 fi
 
 # Run the repack.sh script
-"${script_dir}/repack.sh" "$res_dir" "$locale"
+"${script_dir}/repack.sh" "$res_dir" "$locale" "$password"
 
 if [ $? -ne 0 ]; then
   echo "Error: Repack .dat failed."

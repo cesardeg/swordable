@@ -15,9 +15,9 @@ def main():
     # Get the directory of this script (e.g., /path/to/swordable/steam)
     script_dir = os.path.dirname(os.path.realpath(__file__))
 
-    # Find the main build.py script at the project root (one level up)
-    project_root = os.path.dirname(script_dir)
-    main_build_script = os.path.join(project_root, 'utils', 'build.py')
+    # Find the main build.py script at the tools folder (one level up)
+    tools_root = os.path.dirname(script_dir)
+    main_build_script = os.path.join(tools_root, 'common', 'build.py')
 
     # Construct the command to call the main script
     # e.g., "python3 /path/to/build.py steam [args...]"

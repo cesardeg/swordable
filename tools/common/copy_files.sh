@@ -29,13 +29,13 @@ else
   files_txt="${script_dir}/files/${platform}_latin.txt"
 fi
 
-# Determine the fonts and locales folders based on the locale
-locales_folder="${script_dir}/../locales/${locale_name}"
+# Determine the fonts and locales folders based on the new project structure
+locales_folder="${script_dir}/../../data/locales/${locale_name}"
 
 if [[ $locale == "ru" ]]; then
-  fonts_folder="${script_dir}/../fonts/cyrillic"
+  fonts_folder="${script_dir}/../../data/fonts/cyrillic"
 else
-  fonts_folder="${script_dir}/../fonts/patched"
+  fonts_folder="${script_dir}/../../data/fonts/patched"
 fi
 
 # Iterate over the files in files.txt

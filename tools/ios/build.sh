@@ -10,7 +10,7 @@ fi
 # Get the locale from the second argument
 locale=${2:-"es"}
 
-source "${script_dir}/../utils/validate_locale.sh"
+source "${script_dir}/../common/validate_locale.sh"
 validate_locale "$locale"
 
 # Get the IPA file path or directory
@@ -31,8 +31,8 @@ if [ ${#ipa_files[@]} -eq 0 ]; then
   exit 1
 fi
 
-# Define the resource directory (res_dir)
-res_dir="${script_dir}/../build/ios/${locale}"
+# Define the resource directory (res_dir) based on project root
+res_dir="${script_dir}/../../build/ios/${locale}"
 
 # Create the resource directory if it doesn't exist
 mkdir -p "$res_dir"
@@ -54,7 +54,7 @@ for ipa_file in "${ipa_files[@]}"; do
   fi
 
   # Run the copy_files.sh script
-  "${script_dir}/../utils/copy_files.sh" "$app_folder" "$locale" "mobile"
+  "${script_dir}/../common/copy_files.sh" "$app_folder" "$locale" "mobile"
 
   # Modify the Info.plist using Python and plistlib
   python3 "$script_dir/patch_info_plist.py" "$app_folder/Info.plist"

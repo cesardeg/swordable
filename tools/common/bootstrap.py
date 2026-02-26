@@ -16,8 +16,8 @@ def ensure_environment(required_packages=None):
     if required_packages is None:
         required_packages = []
 
-    # Determine the project root (assuming this script is in a subdirectory like 'utils')
-    project_root = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+    # Determine the project root (going up 2 levels from tools/common/)
+    project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
     venv_path = os.path.join(project_root, "venv")
 
     # Determine the python executable path within the venv
@@ -39,11 +39,22 @@ def ensure_environment(required_packages=None):
         os.execv(python_executable, [python_executable] + sys.argv)
 
     # 3. If we are in the venv, check and install dependencies.
+    # Update pip first to avoid issues
+    try:
+        subprocess.check_call([sys.executable, "-m", "pip", "install", "--upgrade", "pip"],
+                              stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    except:
+        pass
+
     if required_packages:
         for package in required_packages:
+            # Map common import names to pip package names (e.g., PIL -> Pillow)
+            pip_name = package
+            if package == "PIL": pip_name = "Pillow"
+            
             try:
                 importlib.import_module(package)
             except ImportError:
-                print(f"Dependency '{package}' not found. Installing...")
-                subprocess.check_call([sys.executable, "-m", "pip", "install", package])
-                print(f"'{package}' has been successfully installed.")
+                print(f"Dependency '{package}' not found. Installing '{pip_name}'...")
+                subprocess.check_call([sys.executable, "-m", "pip", "install", pip_name])
+                print(f"'{pip_name}' has been successfully installed.")

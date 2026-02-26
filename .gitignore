@@ -1,5 +1,6 @@
 .DS_Store
 sworcery.dat*
 build
+dist
 venv
 __pycache__

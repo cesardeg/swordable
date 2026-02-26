@@ -9,13 +9,13 @@ import struct
 import zipfile
 
 # --- Environment and Dependency Setup ---
-# Since this script is in 'utils', the project root is one level up.
-project_root = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
-utils_dir = os.path.join(project_root, 'utils')
+# Since this script is in 'tools/common', the project root is three levels up.
+project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
+utils_dir = os.path.join(project_root, 'tools', 'common')
 sys.path.insert(0, utils_dir)
 
 # Dynamically add script directories to path for imports
-sys.path.insert(0, os.path.join(project_root, 'ios'))
+sys.path.insert(0, os.path.join(project_root, 'tools', 'ios'))
 
 from bootstrap import ensure_environment
 
@@ -25,7 +25,8 @@ ensure_environment(required_packages=['py7zr'])
 import py7zr
 
 # --- Global Constants ---
-SWORCERY_DAT_PASSWORD = "GdHGhd4yuNF"
+# This will be initialized in main() from CLI args or ENV
+SWORCERY_DAT_PASSWORD = None
 
 # =============================================================================
 # --- 1. General Helper Functions ---
@@ -39,8 +40,8 @@ def copy_files(destination_dir, locale, platform):
     files_txt_name = f"{platform}_cyrillic.txt" if locale == "ru" else f"{platform}_latin.txt"
     files_txt_path = os.path.join(utils_dir, "files", files_txt_name)
 
-    locales_folder = os.path.join(project_root, "locales", language_name)
-    fonts_folder = os.path.join(project_root, "fonts", "cyrillic" if locale == "ru" else "patched")
+    locales_folder = os.path.join(project_root, "data", "locales", language_name)
+    fonts_folder = os.path.join(project_root, "data", "fonts", "cyrillic" if locale == "ru" else "patched")
 
     with open(files_txt_path, 'r') as f:
         for file_rel_path in f:
@@ -360,6 +361,7 @@ def build_ios(args):
 
 def main():
     parser = argparse.ArgumentParser(description="Unified build script for Sword & Sworcery localization.")
+    parser.add_argument("-p", "--password", help="Password for the .dat files (overrides SWORCERY_PASSWORD env var).")
     subparsers = parser.add_subparsers(dest="platform", required=True, help="The platform to build for.")
 
     # Define shared locale options to avoid repetition
@@ -379,6 +381,17 @@ def main():
     parser_ios.set_defaults(func=build_ios)
 
     args = parser.parse_args()
+
+    # Initialize the global password from CLI -> ENV
+    global SWORCERY_DAT_PASSWORD
+    SWORCERY_DAT_PASSWORD = args.password or os.getenv("SWORCERY_PASSWORD")
+
+    if not SWORCERY_DAT_PASSWORD:
+        print("Error: SWORCERY_PASSWORD not set.")
+        print("Please set it via: export SWORCERY_PASSWORD=your_password")
+        print("Or pass it as an argument: python build.py -p your_password ...")
+        sys.exit(1)
+
     args.func(args)
 
 if __name__ == "__main__":
