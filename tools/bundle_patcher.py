@@ -7,8 +7,8 @@ import subprocess
 import argparse
 
 # --- Path Setup ---
-script_dir = os.path.dirname(os.path.realpath(__file__))
-project_root = os.path.dirname(script_dir)
+script_dir = os.path.dirname(os.path.abspath(__file__))
+project_root = os.path.abspath(os.path.join(script_dir, ".."))
 common_tools_dir = os.path.join(script_dir, 'common')
 
 # Add common tools to path for bootstrap import
@@ -23,6 +23,8 @@ def main():
 
     # 1. Ensure environment and dependencies
     print(f"--- Bootstrapping Environment for Locale: {args.locale} ---")
+    print(f"DEBUG: project_root={project_root}")
+    print(f"DEBUG: current_dir={os.getcwd()}")
     ensure_environment(required_packages=['pyinstaller', 'Pillow'])
 
     # 2. Check if build data exists
@@ -66,7 +68,10 @@ def main():
     output_dir = os.path.join(project_root, "build", "installer", args.locale)
     
     if not os.path.exists(output_dir):
+        print(f"DEBUG: Creating output directory {output_dir}")
         os.makedirs(output_dir)
+    else:
+        print(f"DEBUG: Output directory already exists {output_dir}")
 
     # 5. Run PyInstaller
     print(f"--- Running PyInstaller for {output_name} ---")
