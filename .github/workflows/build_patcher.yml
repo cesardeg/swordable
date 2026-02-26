@@ -73,18 +73,20 @@ jobs:
         env:
           APP_LOCALE: ${{ matrix.locale }}
         run: |
-          python3 tools/bundle_patcher.py ${{ matrix.locale }}
+          python tools/bundle_patcher.py ${{ matrix.locale }}
 
       - name: Debug Output Directory
         shell: bash
         run: |
+          echo "Current directory: $(pwd)"
           echo "Listing build/installer recursively:"
           ls -R build/installer || echo "Directory build/installer not found"
+          echo "Full tree:"
+          find build -maxdepth 4 || true
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
           name: Patcher_${{ matrix.locale }}_${{ runner.os }}
-          path: |
-            build/installer/${{ matrix.locale }}/**/*
-            build/installer/${{ matrix.locale }}/*
+          path: build/installer/
+          if-no-files-found: error

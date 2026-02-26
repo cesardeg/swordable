@@ -186,9 +186,9 @@ class SworceryInstaller(tk.Tk):
         self.install_btn_window: int = None  # type: ignore
         self.uninstall_btn: tk.Label = None  # type: ignore
         self.uninstall_btn_window: int = None  # type: ignore
-        self.help_img: tk.PhotoImage = None  # type: ignore
-        self.help_btn: tk.Label = None  # type: ignore
-        self.subtitle: tk.Label = None  # type: ignore
+        self.help_img: Optional[tk.PhotoImage] = None
+        self.help_btn: Optional[tk.Label] = None
+        self.subtitle: Optional[Union[tk.Label, int]] = None
         
         self.locale = ARGS.locale
         self.text = STRINGS.get(self.locale, STRINGS["es"])
