@@ -34,7 +34,7 @@ jobs:
             # Windows runners already have 7z.exe in the PATH
             7z --help > /dev/null
           elif [ "${{ matrix.os }}" = "macos-latest" ]; then
-            brew install p7zip
+            brew install p7zip || true
           else
             sudo apt-get update && sudo apt-get install -y p7zip-full
           fi
@@ -75,8 +75,16 @@ jobs:
         run: |
           python3 tools/bundle_patcher.py ${{ matrix.locale }}
 
+      - name: Debug Output Directory
+        shell: bash
+        run: |
+          echo "Listing build/installer recursively:"
+          ls -R build/installer || echo "Directory build/installer not found"
+
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
           name: Patcher_${{ matrix.locale }}_${{ runner.os }}
-          path: build/installer/${{ matrix.locale }}/*
+          path: |
+            build/installer/${{ matrix.locale }}/**/*
+            build/installer/${{ matrix.locale }}/*

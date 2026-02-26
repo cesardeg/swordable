@@ -24,6 +24,7 @@ except ImportError:
 
 import tkinter as tk
 from tkinter import filedialog, messagebox
+from typing import Optional, Dict, List, Any, Union
 try:
     from PIL import Image, ImageTk
     HAS_PILLOW = True

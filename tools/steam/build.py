@@ -21,7 +21,9 @@ def main():
 
     # Construct the command to call the main script
     # e.g., "python3 /path/to/build.py steam [args...]"
-    command = [sys.executable, main_build_script, 'steam'] + sys.argv[1:]
+    # Using a list copy to satisfy the linter's slice indexing check
+    args_list = list(sys.argv)
+    command = [sys.executable, main_build_script, 'steam'] + args_list[1:]
 
     # Execute the command and exit with its status code
     result = subprocess.run(command)
