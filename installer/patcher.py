@@ -122,13 +122,22 @@ class CustomAlert(tk.Toplevel):
         self.geometry("380x180")
         self.resizable(False, False)
         self.configure(bg=parent.colors["bg"])
-        self.transient(parent)
-        self.grab_set()
+        if sys.platform != "darwin":
+            self.transient(parent)
         
-        # Center on parent
-        x = parent.winfo_x() + (parent.winfo_width() // 2) - 190
-        y = parent.winfo_y() + (parent.winfo_height() // 2) - 90
+        # Center on parent safely
+        parent.update_idletasks()
+        px, py = parent.winfo_x(), parent.winfo_y()
+        pw, ph = parent.winfo_width(), parent.winfo_height()
+        x = px + (pw // 2) - 190
+        y = py + (ph // 2) - 90
         self.geometry(f"380x180+{x}+{y}")
+        
+        # Safe grab
+        try:
+            self.wait_visibility()
+            self.grab_set()
+        except: pass
  
         # UI Elements
         canvas = tk.Canvas(self, width=380, height=180, bg=parent.colors["bg"], highlightthickness=0)
@@ -290,23 +299,20 @@ class SworceryInstaller(tk.Tk):
         def on_release(e):
             if str(btn.cget("state")) != "disabled":
                 btn.config(relief="raised", bg=self.colors["surface"])
-                command()
-        
+                self.after(10, command)
+
         def on_enter(e):
-             if str(btn.cget("state")) != "disabled":
+            if str(btn.cget("state")) != "disabled":
                 btn.config(bg=self.colors["border_light"])
 
         def on_leave(e):
-             if str(btn.cget("state")) != "disabled":
+            if str(btn.cget("state")) != "disabled":
                 btn.config(bg=self.colors["surface"])
 
-        # Bind to both frame and label. Use <Button-1> instead of Press/Release on Mac for robustness
-        click_event = "<Button-1>" if sys.platform == "darwin" else "<ButtonRelease-1>"
-        press_event = "<ButtonPress-1>"
-        
+        # Unified bindings for all platforms
         for w in [btn, btn_frame]:
-            w.bind(press_event, on_press)
-            w.bind(click_event, on_release)
+            w.bind("<ButtonPress-1>", on_press)
+            w.bind("<ButtonRelease-1>", on_release)
             w.bind("<Enter>", on_enter)
             w.bind("<Leave>", on_leave)
         
@@ -438,29 +444,14 @@ class SworceryInstaller(tk.Tk):
             btn.bind("<Button-1>", lambda e: help_win.destroy())
             canvas.create_window(230, 380, window=btn_frame)
             
-            help_win.grab_set()
-        except:
+            # Safe grab
+            try:
+                help_win.wait_visibility()
+                help_win.grab_set()
+            except: pass
+        except Exception:
             # Fallback for old/unstable environments
             messagebox.showinfo(self.text["help_title"], self.text["help_manual"])
- 
-        canvas = tk.Canvas(help_win, width=460, height=420, bg=self.colors["bg"], highlightthickness=0)
-        canvas.pack(fill="both", expand=True)
- 
-        tk.Label(help_win, text=self.text["help_title"], font=self.font_header,
-                 fg=self.colors["mint"], bg=self.colors["bg"]).place(x=230, y=40, anchor="center")
- 
-        manual_txt = tk.Label(help_win, text=self.text["help_manual"], font=self.font_small,
-                              fg=self.colors["text"], bg=self.colors["bg"],
-                              wraplength=420, justify="left")
-        manual_txt.place(x=20, y=80, anchor="nw")
- 
-        btn_frame = tk.Frame(help_win, bg=self.colors["border_dark"], padx=1, pady=1)
-        btn = tk.Label(btn_frame, text="ENTENDIDO", font=self.font_main,
-                       width=12, fg=self.colors["text"], bg=self.colors["surface"],
-                       cursor="hand2", padx=10, pady=5, relief="raised", borderwidth=2)
-        btn.pack()
-        btn.bind("<ButtonRelease-1>", lambda e: help_win.destroy())
-        canvas.create_window(230, 380, window=btn_frame)
 
     def browse_path(self):
         current = self.path_entry.get().strip()
