@@ -17,26 +17,34 @@ def ensure_environment(required_packages=None):
         required_packages = []
 
     # Determine the project root (going up 2 levels from tools/common/)
-    project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
+    project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     venv_path = os.path.join(project_root, "venv")
 
-    # Determine the python executable path within the venv
-    python_executable = os.path.join(venv_path, "bin", "python")
-    if sys.platform == "win32":
-        python_executable = os.path.join(venv_path, "Scripts", "python.exe")
+    # CI Detection: GitHub Actions runners already provide a clean environment.
+    # We skip venv creation/re-launch to avoid os.execv race conditions on Windows.
+    is_ci = os.getenv("GITHUB_ACTIONS") == "true"
 
-    # 1. If venv doesn't exist, create it.
-    if not os.path.isdir(venv_path):
-        print(f"Virtual environment not found. Creating one at: {venv_path}")
-        # Use the system's python to create the venv
-        system_python = sys.executable
-        subprocess.check_call([system_python, "-m", "venv", venv_path])
-        print("Virtual environment created.")
+    if is_ci:
+        print("CI Environment detected. Skipping virtual environment setup.")
+        # In CI, we just use the current python and install dependencies globally.
+    else:
+        # Determine the python executable path within the venv
+        python_executable = os.path.join(venv_path, "bin", "python")
+        if sys.platform == "win32":
+            python_executable = os.path.join(venv_path, "Scripts", "python.exe")
 
-    # 2. If the script is not running from the venv, re-launch it.
-    if sys.executable != python_executable:
-        print("Switching to the project's virtual environment...")
-        os.execv(python_executable, [python_executable] + sys.argv)
+        # 1. If venv doesn't exist, create it.
+        if not os.path.isdir(venv_path):
+            print(f"Virtual environment not found. Creating one at: {venv_path}")
+            # Use the system's python to create the venv
+            system_python = sys.executable
+            subprocess.check_call([system_python, "-m", "venv", venv_path])
+            print("Virtual environment created.")
+
+        # 2. If the script is not running from the venv, re-launch it.
+        if sys.executable != python_executable:
+            print("Switching to the project's virtual environment...")
+            os.execv(python_executable, [python_executable] + sys.argv)
 
     # 3. If we are in the venv, check and install dependencies.
     # Update pip first to avoid issues

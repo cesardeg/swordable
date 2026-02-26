@@ -73,6 +73,7 @@ jobs:
         env:
           APP_LOCALE: ${{ matrix.locale }}
         run: |
+          mkdir -p build/installer
           python tools/bundle_patcher.py ${{ matrix.locale }}
 
       - name: Debug Output Directory
