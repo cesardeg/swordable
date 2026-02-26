@@ -105,7 +105,9 @@ def main():
             "--specpath", spec_path,
             "--hidden-import", "PIL.Image",
             "--hidden-import", "PIL.ImageTk",
-            "--collect-all", "PIL",  # Ensure ALL Pillow components are bundled
+            "--hidden-import", "PIL._imaging",
+            "--collect-all", "PIL",
+            "--collect-submodules", "PIL",
             "installer/patcher.py"
         ]
 

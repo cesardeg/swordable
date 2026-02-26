@@ -270,17 +270,16 @@ class SworceryInstaller(tk.Tk):
         return ""
 
     def create_retro_button(self, y_pos, text, command, is_primary=True):
-        """Creates a classic beveled button inspired by System 7 / Poolside."""
+        """Creates a classic beveled button with robust hit areas."""
         fg_color = self.colors["primary"] if is_primary else self.colors["secondary"]
         
-        # Frame for border
         btn_frame = tk.Frame(self, bg=self.colors["border_dark"], padx=1, pady=1)
         
-        # Use a fixed width for consistency and better hit area
+        # Avoid fixed width, use padding for safe hit area
         btn = tk.Label(btn_frame, text=text.upper(), font=self.font_main,
-                       width=26, fg=fg_color, bg=self.colors["surface"],
+                       fg=fg_color, bg=self.colors["surface"],
                        activeforeground=fg_color, activebackground=self.colors["surface"],
-                       cursor="hand2", padx=10, pady=12,
+                       cursor="hand2", padx=30, pady=12,
                        relief="raised", borderwidth=4)
         btn.pack(fill="both", expand=True)
         
@@ -301,12 +300,15 @@ class SworceryInstaller(tk.Tk):
              if str(btn.cget("state")) != "disabled":
                 btn.config(bg=self.colors["surface"])
 
-        # Bind events to BOTH the frame and the label to ensure no "dead zones"
-        for widget in [btn, btn_frame]:
-            widget.bind("<ButtonPress-1>", on_press)
-            widget.bind("<ButtonRelease-1>", on_release)
-            widget.bind("<Enter>", on_enter)
-            widget.bind("<Leave>", on_leave)
+        # Bind to both frame and label. Use <Button-1> instead of Press/Release on Mac for robustness
+        click_event = "<Button-1>" if sys.platform == "darwin" else "<ButtonRelease-1>"
+        press_event = "<ButtonPress-1>"
+        
+        for w in [btn, btn_frame]:
+            w.bind(press_event, on_press)
+            w.bind(click_event, on_release)
+            w.bind("<Enter>", on_enter)
+            w.bind("<Leave>", on_leave)
         
         window_id = self.canvas.create_window(250, y_pos, window=btn_frame)
         return btn, window_id
@@ -390,18 +392,56 @@ class SworceryInstaller(tk.Tk):
         self.path_entry.bind("<KeyRelease>", self.update_status)
  
     def show_help(self):
-        """Shows the HUD Integrated Manual."""
-        help_win = tk.Toplevel(self)
-        help_win.title(self.text["help_title"])
-        help_win.geometry("460x420")
-        help_win.resizable(False, False)
-        help_win.configure(bg=self.colors["bg"])
-        help_win.transient(self)
-        help_win.grab_set()
-        
-        x = self.winfo_x() + (parent_width := self.winfo_width()) // 2 - 230
-        y = self.winfo_y() + (parent_height := self.winfo_height()) // 2 - 210
-        help_win.geometry(f"460x420+{x}+{y}")
+        """Shows the HUD Integrated Manual with crash protection."""
+        try:
+            help_win = tk.Toplevel(self)
+            help_win.title(self.text["help_title"])
+            help_win.geometry("460x420")
+            help_win.resizable(False, False)
+            help_win.configure(bg=self.colors["bg"])
+            help_win.transient(self)
+            
+            help_win.update_idletasks()
+            help_win.lift()
+            
+            # Simple math for robust compatibility
+            pw, ph = self.winfo_width(), self.winfo_height()
+            px, py = self.winfo_x(), self.winfo_y()
+            x = px + (pw // 2) - 230
+            y = py + (ph // 2) - 210
+            help_win.geometry(f"460x420+{x}+{y}")
+
+            canvas = tk.Canvas(help_win, width=460, height=420, bg=self.colors["bg"], highlightthickness=0)
+            canvas.pack(fill="both", expand=True)
+
+            tk.Label(help_win, text=self.text["help_title"], font=self.font_header,
+                     fg=self.colors["mint"], bg=self.colors["bg"]).place(x=230, y=40, anchor="center")
+
+            # Pillow status indicator
+            status_color = self.colors["river"] if HAS_PILLOW else self.colors["fire"]
+            status_text = "PILLOW OK" if HAS_PILLOW else "PILLOW MISSING (LOW-RES)"
+            tk.Label(help_win, text=status_text, font=self.font_small,
+                     fg=status_color, bg=self.colors["bg"]).place(x=230, y=65, anchor="center")
+
+            manual_txt = tk.Label(help_win, text=self.text["help_manual"], font=self.font_small,
+                                  fg=self.colors["text"], bg=self.colors["bg"],
+                                  wraplength=420, justify="left")
+            manual_txt.place(x=20, y=90, anchor="nw")
+
+            btn_frame = tk.Frame(help_win, bg=self.colors["border_dark"], padx=1, pady=1)
+            btn = tk.Label(btn_frame, text="ENTENDIDO", font=self.font_main,
+                           width=12, fg=self.colors["text"], bg=self.colors["surface"],
+                           cursor="hand2", padx=10, pady=5, relief="raised", borderwidth=4)
+            btn.pack()
+            
+            # Safe binding
+            btn.bind("<Button-1>", lambda e: help_win.destroy())
+            canvas.create_window(230, 380, window=btn_frame)
+            
+            help_win.grab_set()
+        except:
+            # Fallback for old/unstable environments
+            messagebox.showinfo(self.text["help_title"], self.text["help_manual"])
  
         canvas = tk.Canvas(help_win, width=460, height=420, bg=self.colors["bg"], highlightthickness=0)
         canvas.pack(fill="both", expand=True)
