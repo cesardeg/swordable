@@ -222,7 +222,7 @@ class SworceryInstaller(tk.Tk):
             "border_dark": "#0A120E"
         }
 
-        # Core Fonts (Standard and consistent)
+        # Core Fonts (Hardened and consistent across Mac/Win)
         self.font_main = ("Courier", 12, "bold")
         self.font_header = ("Courier", 22, "bold")
         self.font_small = ("Courier", 10)
@@ -293,14 +293,16 @@ class SworceryInstaller(tk.Tk):
                        relief="raised", borderwidth=4)
         btn.pack(fill="both", expand=True)
         
-        def on_press(e):
+        # Zen Click: Immediate trigger on Press for macOS responsiveness
+        # This bypasses trackpad "drag-release" event loss.
+        def trigger_command(e):
             if str(btn.cget("state")) != "disabled":
                 btn.config(relief="sunken", bg=self.colors["bg"])
-
-        def on_release(e):
-            if str(btn.cget("state")) != "disabled":
-                btn.config(relief="raised", bg=self.colors["surface"])
-                self.after(10, command)
+                self.update_idletasks()
+                self.after(50, lambda: [
+                    btn.config(relief="raised", bg=self.colors["surface"]),
+                    command()
+                ])
 
         def on_enter(e):
             if str(btn.cget("state")) != "disabled":
@@ -310,14 +312,8 @@ class SworceryInstaller(tk.Tk):
             if str(btn.cget("state")) != "disabled":
                 btn.config(bg=self.colors["surface"])
 
-        # Unified bindings for all platforms with hit-area expansion
-        def trigger_command(e):
-            if str(btn.cget("state")) != "disabled":
-                on_release(e)
-
         for w in [btn, btn_frame]:
-            w.bind("<ButtonPress-1>", on_press)
-            w.bind("<ButtonRelease-1>", trigger_command)
+            w.bind("<Button-1>", trigger_command)
             w.bind("<Enter>", on_enter)
             w.bind("<Leave>", on_leave)
         window_id = self.canvas.create_window(250, y_pos, window=btn_frame)
