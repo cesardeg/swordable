@@ -34,10 +34,8 @@ source "${script_dir}/../common/validate_locale.sh"
 validate_locale "$locale"
 
 # Set the res dir based on the project root
-res_dir="${script_dir}/../../build/steam/$locale"
-
-# Create the res directory if it doesn't exist
-mkdir -p "$res_dir"
+mkdir -p "${script_dir}/../../build/steam/$locale"
+res_dir=$(cd "${script_dir}/../../build/steam/$locale" && pwd)
 
 # Copy the sworcery.dat file to the res directory
 cp "$sworcery_dat_path" "$res_dir"

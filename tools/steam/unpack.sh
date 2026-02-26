@@ -14,6 +14,9 @@ else
   files_txt="${script_dir}/../common/files/desk_latin.txt"
 fi
 
+# Calculate relative path to files_txt from current directory for 7za compatibility on Windows
+rel_files_txt=$(realpath --relative-to="." "${files_txt}")
+
 # Extract files using 7za
 # Password priority: 1. Argument $3, 2. Env Var $SWORCERY_PASSWORD
 PASS=${3:-${SWORCERY_PASSWORD}}
@@ -25,4 +28,4 @@ if [ -z "$PASS" ]; then
   exit 1
 fi
 
-7za x -aoa "${res_dir}/sworcery.dat" -i@"$files_txt" -o"${res_dir}" -p"${PASS}"
+7za x -aoa "${res_dir}/sworcery.dat" -i@"$rel_files_txt" -o"${res_dir}" -p"${PASS}"

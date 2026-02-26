@@ -29,13 +29,16 @@ else
   files_txt="${script_dir}/files/${platform}_latin.txt"
 fi
 
-# Determine the fonts and locales folders based on the new project structure
-locales_folder="${script_dir}/../../data/locales/${locale_name}"
+# Determine the project root (up 2 levels from tools/common)
+project_root=$(cd "${script_dir}/../../" && pwd)
+
+# Determine the fonts and locales folders using the resolved project root
+locales_folder="${project_root}/data/locales/${locale_name}"
 
 if [[ $locale == "ru" ]]; then
-  fonts_folder="${script_dir}/../../data/fonts/cyrillic"
+  fonts_folder="${project_root}/data/fonts/cyrillic"
 else
-  fonts_folder="${script_dir}/../../data/fonts/patched"
+  fonts_folder="${project_root}/data/fonts/patched"
 fi
 
 # Iterate over the files in files.txt
