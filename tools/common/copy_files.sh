@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Get the directory of the script
-script_dir=$(dirname "$(realpath "$0")")
+script_dir=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
 
 # Set the destination_dir argument to script_dir if not provided
 destination_dir=$1
@@ -30,7 +30,8 @@ else
 fi
 
 # Determine the project root (up 2 levels from tools/common)
-project_root=$(cd "${script_dir}/../../" && pwd)
+# Using relative paths to avoid issues with absolute path mapping on Windows/msys
+project_root="${script_dir}/../../"
 
 # Determine the fonts and locales folders using the resolved project root
 locales_folder="${project_root}/data/locales/${locale_name}"

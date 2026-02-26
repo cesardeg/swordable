@@ -174,6 +174,21 @@ class SworceryInstaller(tk.Tk):
     def __init__(self):
         super().__init__()
         
+        # Initialize UI attributes to fix lint errors
+        self.canvas: tk.Canvas = None  # type: ignore
+        self.bg_img: tk.PhotoImage = None  # type: ignore
+        self.folder_img: tk.PhotoImage = None  # type: ignore
+        self.path_frame: tk.Frame = None  # type: ignore
+        self.path_entry: tk.Entry = None  # type: ignore
+        self.browse_btn: tk.Label = None  # type: ignore
+        self.install_btn: tk.Label = None  # type: ignore
+        self.install_btn_window: int = None  # type: ignore
+        self.uninstall_btn: tk.Label = None  # type: ignore
+        self.uninstall_btn_window: int = None  # type: ignore
+        self.help_img: tk.PhotoImage = None  # type: ignore
+        self.help_btn: tk.Label = None  # type: ignore
+        self.subtitle: tk.Label = None  # type: ignore
+        
         self.locale = ARGS.locale
         self.text = STRINGS.get(self.locale, STRINGS["es"])
         
@@ -311,7 +326,8 @@ class SworceryInstaller(tk.Tk):
         self.canvas.create_text(250, 82, text=self.text["header"], fill=self.colors["text"], font=self.font_header, justify="center")
         
         # Subtitle
-        self.subtitle = self.canvas.create_text(250, 122, text=self.text["subtitle"], fill=self.colors["river"], font=self.font_small)
+        self.subtitle = self.canvas.create_text(250, 115, text=self.text["subtitle"], 
+                                                 fill=self.colors["river"], font=self.font_main)
 
         self.canvas.create_text(250, 180, text=self.text["detected"], fill=self.colors["text"], font=self.font_small)
         
@@ -438,7 +454,7 @@ class SworceryInstaller(tk.Tk):
         self.game_path = self.path_entry.get().strip()
         
         # Smart resolution for macOS: if path is a .app or contains one
-        if sys.platform == "darwin" and not os.path.exists(os.path.join(self.game_path, "sworcery.dat")):
+        if sys.platform == "darwin" and not os.path.exists(os.path.join(str(self.game_path), "sworcery.dat")):
             # If the path itself is the .app
             if self.game_path.endswith(".app"):
                 for sub in [os.path.join("Contents", "Resources", "Game"), os.path.join("Contents", "Resources")]:

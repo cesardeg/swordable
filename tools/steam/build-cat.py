@@ -10,7 +10,7 @@ utils_dir = os.path.join(script_dir, '..', 'common')
 sys.path.insert(0, utils_dir)
 
 # Import only the function we need from the main build script
-from build import create_cat_file
+from build import create_cat_file  # type: ignore
 
 def main():
     """

@@ -16,7 +16,8 @@ fi
 
 # Calculate relative path to files_txt from current directory for 7za compatibility on Windows
 # Using python for cross-platform realpath --relative-to compatibility (macOS/Linux/Windows)
-rel_files_txt=$(python3 -c "import os, sys; print(os.path.relpath(sys.argv[1], sys.argv[2]))" "${files_txt}" ".")
+PY_CMD="import os, sys; print(os.path.relpath(sys.argv[1], sys.argv[2]))"
+rel_files_txt=$(python3 -c "$PY_CMD" "${files_txt}" "." 2>/dev/null || python -c "$PY_CMD" "${files_txt}" ".")
 
 # Extract files using 7za
 # Password priority: 1. Argument $3, 2. Env Var $SWORCERY_PASSWORD

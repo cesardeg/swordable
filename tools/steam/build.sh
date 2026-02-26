@@ -2,6 +2,8 @@
 
 # Get the directory of the script
 script_dir=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+# Get the project root
+project_root=$(cd "${script_dir}/../.." && pwd)
 
 # Validate the number of arguments
 if [ $# -lt 1 ]; then
@@ -34,8 +36,8 @@ source "${script_dir}/../common/validate_locale.sh"
 validate_locale "$locale"
 
 # Set the res dir based on the project root
-mkdir -p "${script_dir}/../../build/steam/$locale"
-res_dir=$(cd "${script_dir}/../../build/steam/$locale" && pwd)
+mkdir -p "${project_root}/build/steam/$locale"
+res_dir=$(cd "${project_root}/build/steam/$locale" && pwd)
 
 # Copy the sworcery.dat file to the res directory
 cp "$sworcery_dat_path" "$res_dir"
