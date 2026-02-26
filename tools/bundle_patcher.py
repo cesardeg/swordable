@@ -93,16 +93,13 @@ def main():
             sys.executable, "-m", "PyInstaller",
             "--onefile",
             "--noconsole",
-            "--add-data", f"{temp_assets_dir}/*{separator}.",
+            "--add-data", f"{temp_assets_dir}{os.pathsep}.",
             "--name", output_name,
             "--clean",
         ]
         if icon_file and os.path.exists(icon_file):
             cmd += ["--icon", icon_file]
 
-        # Use direct mapping for assets to ensure path consistency
-        assets_src = os.path.join(project_root, "installer", "assets")
-        
         cmd += [
             "--workpath", work_path,
             "--specpath", spec_path,
@@ -111,7 +108,6 @@ def main():
             "--hidden-import", "PIL._imaging",
             "--collect-all", "PIL",
             "--collect-submodules", "PIL",
-            "--add-data", f"{assets_src}{os.pathsep}assets",
             "installer/patcher.py"
         ]
 

@@ -222,10 +222,11 @@ class SworceryInstaller(tk.Tk):
             "border_dark": "#0A120E"
         }
 
-        # MacOS 7 / Monaco Style Font family (System Fallbacks)
-        self.font_main = ("Monaco", 10, "bold") if sys.platform == "darwin" else ("Courier New", 10, "bold")
-        self.font_small = ("Monaco", 9) if sys.platform == "darwin" else ("Courier New", 9)
-        self.font_header = ("Monaco", 14, "bold") if sys.platform == "darwin" else ("Courier New", 14, "bold")
+        # Core Fonts (Standard and consistent)
+        self.font_main = ("Courier", 12, "bold")
+        self.font_header = ("Courier", 22, "bold")
+        self.font_small = ("Courier", 10)
+        self.font_mini = ("Monaco" if sys.platform == "darwin" else "Courier", 8)
 
         self.game_path = ARGS.game_path if ARGS.game_path else self.detect_game_path()
         self.setup_ui()
@@ -309,13 +310,16 @@ class SworceryInstaller(tk.Tk):
             if str(btn.cget("state")) != "disabled":
                 btn.config(bg=self.colors["surface"])
 
-        # Unified bindings for all platforms
+        # Unified bindings for all platforms with hit-area expansion
+        def trigger_command(e):
+            if str(btn.cget("state")) != "disabled":
+                on_release(e)
+
         for w in [btn, btn_frame]:
             w.bind("<ButtonPress-1>", on_press)
-            w.bind("<ButtonRelease-1>", on_release)
+            w.bind("<ButtonRelease-1>", trigger_command)
             w.bind("<Enter>", on_enter)
             w.bind("<Leave>", on_leave)
-        
         window_id = self.canvas.create_window(250, y_pos, window=btn_frame)
         return btn, window_id
 
@@ -393,7 +397,7 @@ class SworceryInstaller(tk.Tk):
         self.canvas.create_window(470, 435, window=self.help_btn)
  
         # Credits
-        self.canvas.create_text(250, 435, text="POR @CESARDEG // SWORCERY PATCHER // 2026", fill=self.colors["river"], font=("Monospace", 7))
+        self.canvas.create_text(250, 435, text="POR @CESARDEG // SWORCERY PATCHER // 2026", fill=self.colors["river"], font=self.font_mini)
  
         self.path_entry.bind("<KeyRelease>", self.update_status)
  
