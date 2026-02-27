@@ -1,8 +1,6 @@
 name: Build Sworcery Patcher
 
 on:
-  push:
-    branches: [ master ]
   workflow_dispatch:
 
 jobs:
@@ -111,6 +109,6 @@ jobs:
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: Sworcery_Patcher_${{ matrix.locale }}_${{ matrix.os_name }}
+          name: sworcery_patcher_${{ matrix.locale }}_${{ matrix.os_name }}
           path: patcher/src-tauri/target/release/bundle/
           if-no-files-found: ignore
