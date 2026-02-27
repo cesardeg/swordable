@@ -24,6 +24,11 @@ cd steam
 
 2. Ensure that you have the necessary requirements installed, as mentioned in the Requirements section.
 
+3. Export the required decryption password as an environment variable in your terminal:
+```bash
+export SWORCERY_PASSWORD="your_password_here"
+```
+
 ## Scripts
 
 ### build.sh

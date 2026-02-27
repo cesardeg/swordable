@@ -1,0 +1,115 @@
+name: Build Sworcery Patcher
+
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  build_tauri:
+    name: Build Tauri ${{ matrix.locale }} for ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        locale: [es, pt]
+        os: [windows-latest, macos-latest, ubuntu-latest]
+        include:
+          - os: windows-latest
+            os_name: windows
+          - os: macos-latest
+            os_name: macos
+          - os: ubuntu-latest
+            os_name: linux
+    
+    steps:
+      - uses: actions/checkout@v4
+
+      # Setup Python for the existing tools/steam/build.sh 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+
+      - name: Install 7za (Binary Setup)
+        shell: bash
+        run: |
+          mkdir -p bin
+          if [ "${{ matrix.os }}" = "windows-latest" ]; then
+            7z --help > /dev/null
+          elif [ "${{ matrix.os }}" = "macos-latest" ]; then
+            brew install p7zip || true
+          else
+            sudo apt-get update && sudo apt-get install -y p7zip-full
+          fi
+          
+      # Install Rust & Node for Tauri
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup Rust
+        uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: x86_64-pc-windows-msvc, x86_64-apple-darwin, x86_64-unknown-linux-gnu
+
+      - name: Install Linux dependencies
+        if: matrix.os == 'ubuntu-latest'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libgtk-3-dev libwebkit2gtk-4.1-dev libappindicator3-dev librsvg2-dev patchelf
+
+      - name: Download Base sworcery.dat
+        id: download_base
+        shell: bash
+        env:
+          DOWNLOAD_URL: ${{ secrets.SWORCERY_DAT_URL }}
+        run: |
+          if [ ! -f "sworcery.dat" ]; then
+            if [ -n "$DOWNLOAD_URL" ]; then
+              echo "Downloading sworcery.dat from remote URL..."
+              curl -L "$DOWNLOAD_URL" -o sworcery.dat
+            else
+              echo "::error::sworcery.dat not found and SWORCERY_DAT_URL secret is not set!"
+              exit 1
+            fi
+          fi
+          
+          if [ ! -f "sworcery.dat" ]; then
+            echo "::error::Failed to obtain sworcery.dat."
+            exit 1
+          fi
+
+      - name: Build Patched Data
+        shell: bash
+        env:
+          SWORCERY_PASSWORD: ${{ secrets.SWORCERY_PASSWORD }}
+        run: |
+          chmod +x tools/steam/*.sh tools/common/*.sh || true
+          ./tools/steam/build.sh sworcery.dat ${{ matrix.locale }}
+          
+          # Prepare assets for Tauri
+          mkdir -p patcher/src-tauri/assets
+          cp build/steam/${{ matrix.locale }}/sworcery.dat patcher/src-tauri/assets/
+          if [ -f "build/steam/${{ matrix.locale }}/sworcery.dat.cat" ]; then
+            cp build/steam/${{ matrix.locale }}/sworcery.dat.cat patcher/src-tauri/assets/
+          fi
+
+      - name: Build Tauri App
+        working-directory: ./patcher
+        env:
+          VITE_APP_LOCALE: ${{ matrix.locale }}
+        run: |
+          npm install
+          npm run tauri build
+
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: Sworcery_Patcher_${{ matrix.locale }}_${{ matrix.os_name }}
+          path: patcher/src-tauri/target/release/bundle/
+          if-no-files-found: ignore

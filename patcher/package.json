@@ -1,0 +1,27 @@
+{
+  "name": "patcher",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "tauri": "tauri",
+    "build-steam:es": "cd .. && ./tools/steam/build.sh sworcery.dat es",
+    "build-steam:pt": "cd .. && ./tools/steam/build.sh sworcery.dat pt",
+    "copy:es": "npm run build-steam:es && mkdir -p src-tauri/assets && cp ../build/steam/es/sworcery.dat* src-tauri/assets/ || true",
+    "copy:pt": "npm run build-steam:pt && mkdir -p src-tauri/assets && cp ../build/steam/pt/sworcery.dat* src-tauri/assets/ || true",
+    "dev:es": "npm run copy:es && VITE_APP_LOCALE=es tauri dev",
+    "dev:pt": "npm run copy:pt && VITE_APP_LOCALE=pt tauri dev",
+    "build:es": "npm run copy:es && VITE_APP_LOCALE=es tauri build && mkdir -p ../build/patcher/es && cp -R src-tauri/target/release/bundle/* ../build/patcher/es/ || true",
+    "build:pt": "npm run copy:pt && VITE_APP_LOCALE=pt tauri build && mkdir -p ../build/patcher/pt && cp -R src-tauri/target/release/bundle/* ../build/patcher/pt/ || true"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2",
+    "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2.10.1",
+    "@tauri-apps/plugin-dialog": "^2.6.0"
+  }
+}

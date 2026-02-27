@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>S:S&S PT — Sworcery Patcher</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Share+Tech+Mono&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+  <div class="window">
+    <!-- Trees silhouette -->
+    <svg class="trees" viewBox="0 0 520 80" xmlns="http://www.w3.org/2000/svg">
+      <g fill="#060e0b">
+        <polygon points="0,80 20,30 40,80" />
+        <polygon points="25,80 50,20 75,80" />
+        <polygon points="55,80 80,35 105,80" />
+        <polygon points="85,80 110,15 135,80" />
+        <polygon points="110,80 135,28 160,80" />
+        <polygon points="140,80 165,22 190,80" />
+        <polygon points="170,80 195,32 220,80" />
+        <polygon points="200,80 225,18 250,80" />
+        <polygon points="235,80 260,30 285,80" />
+        <polygon points="265,80 290,20 315,80" />
+        <polygon points="298,80 323,35 348,80" />
+        <polygon points="328,80 353,12 378,80" />
+        <polygon points="355,80 380,26 405,80" />
+        <polygon points="385,80 410,38 435,80" />
+        <polygon points="415,80 440,18 465,80" />
+        <polygon points="445,80 470,30 495,80" />
+        <polygon points="475,80 500,22 525,80" />
+      </g>
+    </svg>
+
+    <div
+      style="position:absolute;top:0;left:50%;transform:translateX(-50%);width:200px;height:160px;background:radial-gradient(ellipse at 50% 20%, rgba(78,205,164,.04) 0%, transparent 70%);z-index:1;pointer-events:none;">
+    </div>
+
+    <button class="help-btn" id="btn-help" title="Ajuda">?</button>
+
+    <div class="body">
+      <div class="hero">
+        <svg class="moon-pixel" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+          <rect x="5" y="1" width="6" height="1" fill="#c8dde8" />
+          <rect x="3" y="2" width="10" height="1" fill="#c8dde8" />
+          <rect x="2" y="3" width="12" height="1" fill="#d0e8f0" />
+          <rect x="1" y="4" width="14" height="8" fill="#d0e8f0" />
+          <rect x="2" y="12" width="12" height="1" fill="#c8dde8" />
+          <rect x="3" y="13" width="10" height="1" fill="#b8ccd4" />
+          <rect x="5" y="14" width="6" height="1" fill="#a8bcc4" />
+          <rect x="5" y="5" width="2" height="2" fill="#b0c8d4" />
+          <rect x="9" y="8" width="3" height="2" fill="#b0c8d4" />
+          <rect x="4" y="9" width="2" height="1" fill="#b8ccd8" />
+        </svg>
+        <div class="titles">
+          <div class="game-title">Superbrothers<br>Sword &amp; Sworcery EP</div>
+          <div class="game-subtitle" data-i18n="app.subtitle">Instalador · Português</div>
+        </div>
+      </div>
+
+      <div class="divider"></div>
+
+      <div class="field-label" data-i18n="patcher.detected_folder">Pasta do jogo detectada</div>
+      <div class="field-row">
+        <input class="field-input" id="path-input" type="text" value="">
+        <button class="field-btn" id="btn-browse" title="Alterar pasta">
+          <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+            <path d="M2 3a1 1 0 0 1 1-1h3.586l1 1H13a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V3z" />
+          </svg>
+        </button>
+      </div>
+
+      <div class="btn-group" id="action-buttons" style="display: none;">
+        <button class="btn btn-primary" id="btn-install" data-i18n="patcher.install">Instalar</button>
+        <button class="btn btn-primary" id="btn-reinstall" data-i18n="patcher.reinstall"
+          style="display: none;">Reinstalar</button>
+        <button class="btn btn-secondary" id="btn-remove" data-i18n="patcher.remove"
+          style="display: none;">Eliminar</button>
+      </div>
+    </div>
+
+    <div class="footer" data-i18n="app.footer">
+      por @cesardeg &nbsp;//&nbsp; Sworcery Patcher &nbsp;//&nbsp; 2026
+    </div>
+  </div>
+
+  <!-- Dynamic Modals Container -->
+  <div id="modals-container"></div>
+
+  <!-- JS Modules -->
+  <script type="module" src="/main.js" defer></script>
+</body>
+
+</html>
