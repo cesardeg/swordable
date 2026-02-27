@@ -107,10 +107,6 @@ jobs:
         run: |
           npm install
           npm run tauri build
-          
-          if [ "${{ matrix.os }}" = "windows-latest" ]; then
-            cp src-tauri/target/release/sworcery-patcher.exe src-tauri/target/release/bundle/
-          fi
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4
