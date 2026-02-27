@@ -101,6 +101,7 @@ jobs:
 
       - name: Build Tauri App
         working-directory: ./patcher
+        shell: bash
         env:
           VITE_APP_LOCALE: ${{ matrix.locale }}
         run: |
