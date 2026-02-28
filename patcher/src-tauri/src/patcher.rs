@@ -89,6 +89,8 @@ pub fn detect_path() -> Option<String> {
                 format!("{}/.steam/steam/steamapps/common/sworcery/res", home),
                 format!("{}/.steam/steam/steamapps/common/Superbrothers Sword & Sworcery EP", home),
                 format!("{}/.steam/steam/steamapps/common/Superbrothers Sword & Sworcery EP/res", home),
+                format!("{}/snap/steam/common/.local/share/Steam/steamapps/common/Superbrothers Sword & Sworcery EP", home),
+                format!("{}/snap/steam/common/.local/share/Steam/steamapps/common/Superbrothers Sword & Sworcery EP/res", home),
             ];
         }
     }

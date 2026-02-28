@@ -15,21 +15,34 @@ document.addEventListener('DOMContentLoaded', async () => {
   document.getElementById('btn-help').addEventListener('click', showManual);
 
   const pathInput = document.getElementById('path-input');
+  const fieldRow = pathInput.closest('.field-row');
   const actionButtons = document.getElementById('action-buttons');
   const btnInstall = document.getElementById('btn-install');
   const btnReinstall = document.getElementById('btn-reinstall');
   const btnRemove = document.getElementById('btn-remove');
 
+  // Scroll to end of path on focus and blur
+  pathInput.addEventListener('focus', () => {
+    setTimeout(() => {
+      pathInput.select();
+      pathInput.scrollLeft = pathInput.scrollWidth;
+    }, 0);
+  });
+
+  pathInput.addEventListener('blur', () => {
+    pathInput.scrollLeft = pathInput.scrollWidth;
+  });
+
   function setPathInputValue(val) {
     pathInput.value = val;
     pathInput.scrollLeft = pathInput.scrollWidth;
-    pathInput.focus();
     pathInput.setSelectionRange(val.length, val.length);
   }
 
   async function updateStatusButtons(path) {
     actionButtons.style.display = 'flex';
     if (!path) {
+      fieldRow.classList.remove('error');
       btnInstall.textContent = t('patcher.not_found');
       btnInstall.disabled = true;
       btnInstall.style.opacity = '0.5';
@@ -41,6 +54,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
     try {
       const isInstalled = await invoke('check_patch_status', { path });
+      fieldRow.classList.remove('error');
       btnInstall.disabled = false;
       btnInstall.style.opacity = '1';
       btnInstall.style.cursor = 'pointer';
@@ -57,6 +71,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       }
     } catch (e) {
       console.warn("Folder validation failed:", e);
+      fieldRow.classList.add('error');
       btnInstall.textContent = t('patcher.not_found');
       btnInstall.disabled = true;
       btnInstall.style.opacity = '0.5';

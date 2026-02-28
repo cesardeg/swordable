@@ -272,6 +272,20 @@ body {
   border-radius: 5px;
   overflow: hidden;
   background: rgba(0, 0, 0, .3);
+  transition: border-color .25s, box-shadow .25s;
+}
+
+.field-row.error {
+  border-color: var(--danger-dim);
+  box-shadow: 0 0 12px rgba(192, 57, 43, .12);
+}
+
+.field-row.error .field-input {
+  color: var(--danger);
+}
+
+.field-row.error .field-btn {
+  border-left-color: var(--danger-dim);
 }
 
 .field-input {
@@ -285,6 +299,7 @@ body {
   color: var(--accent);
   letter-spacing: .04em;
   min-width: 0;
+  transition: color .25s;
 }
 
 .field-input::placeholder {
