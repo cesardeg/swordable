@@ -201,8 +201,8 @@ ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	¿Qué tal si te sienta
 GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Vaya, Tronquero está hecho un manojo de nervios... ¿Qué le pasa? Mejor salgo un rato y lo dejo tranquilo.					
 				Vi a La Escita entonar la Canción de Espadancia y enviar tres espíritus silvanos al cielo. Me pregunto si ayudarán a disipar la tormenta.					
 LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que La Escita pueda encontrar mi llave... la perdí en la orilla arenosa de un apacible lago.			62	032.jpg	U3A20
-LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Maldita sea, cómo odio esta lluvia... Cómo odio tener las botas mojadas... Cómo quisiera volver a cortar leña.					
-				¡Maldición! ¿Dónde se ha ido mi llave? ¡Estoy tan molesto y avergonzado que no puedo calmarme!					
+LOGFELLA_LOSTKEYTHOUGHTS	Logfella			¡Qué angustia! Cómo odio esta lluvia... Cómo odio tener las botas mojadas... Cómo quisiera volver a cortar leña.					
+				¡Rayos! ¿Dónde se ha ido mi llave? ¡Estoy tan molesto y avergonzado que no puedo calmarme!					
 LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Tronquero se mostró sinceramente aliviado de que hubiéramos recuperado su llave perdida del reino crepuscular de los sueños.					
 				El leñador quiso saber cómo nos volvimos tan listos y nos preguntó por nuestro funesto cometido.					
 				Le contamos cómo crecimos en las estepas junto a nuestras valientes hermanas y hermanos escitas.					
@@ -566,7 +566,7 @@ ARCHETYPE_CRESCENTWANE	The Archetype			El ciclo lunar está casi completo. La Lu
 DARKMOONLOOMS_ARCHETYPE	The Archetype			La Luna Sombría se avecina, el final del ciclo lunar está muy cerca.					
 DARKMOONBEGINS_ARCHETYPE	The Archetype			He aquí, ¡La Luna Sombría!			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			Al caminar en sueños, me encontré con un Parlamento de Árboles azotado por un rayo y sentí la presencia de algo profundamente sagrado.					
-DARKMOON_LOGFELLATHOUGHTS	Logfella			Anoche escuché el sonido de una música vibrante que se filtraba por los bosques detrás de mi choza. ¿Qué diablos es eso?					
+DARKMOON_LOGFELLATHOUGHTS	Logfella			Anoche escuché el sonido de una música vibrante que se filtraba por los bosques detrás de mi choza. ¿Qué rayos es eso?					
 DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño solo vislumbré las sutiles y sonoras espumas de los espíritus silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Reconstruimos la Tríada Trigonal y ahora somos héroes.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Hemos asesinado inexplicablemente a 3 conejos indefensos.					

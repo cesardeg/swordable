@@ -201,8 +201,8 @@ ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	Que tal sentar-se junto
 GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Nossa, o Troncadeiro está surtando... O que será que ele tem? Melhor eu sair e deixá-lo em paz.					
 				Vi A Citiana entoar a Canção da Espadância e enviar três espíritos silvanos ao céu. Será que eles ajudarão a dissipar a tempestade?					
 LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que A Citiana possa encontrar minha chave... eu a perdi na margem arenosa de um aprazível lago.			62	032.jpg	U3A20
-LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Que inferno, como odeio essa chuva... Como odeio ter as botas molhadas... Como queria voltar a cortar lenha.					
-				Droga! Onde foi parar minha chave? Estou tão chateado e envergonhado que não consigo me acalmar!					
+LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Que angústia! Como odeio essa chuva... Como odeio ter as botas molhadas... Como queria voltar a cortar lenha.					
+				Raios! Onde foi parar minha chave? Estou tão chateado e envergonhado que não consigo me acalmar!					
 LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Troncadeiro mostrou-se aliviado de verdade por termos recuperado sua chave perdida do reino crepuscular dos sonhos.					
 				O lenhador quis saber como nos tornamos tão espertos e perguntou sobre nossa funesta missão.					
 				Contamos a ele como crescemos nas estepes ao lado de nossas valentes irmãs e irmãos cítios.					
@@ -566,7 +566,7 @@ ARCHETYPE_CRESCENTWANE	The Archetype			O ciclo lunar está quase completo. A Lua
 DARKMOONLOOMS_ARCHETYPE	The Archetype			A Lua Sombria se aproxima, o fim do ciclo lunar está próximo.					
 DARKMOONBEGINS_ARCHETYPE	The Archetype			Contemple: A Lua Sombria!			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			Ao caminhar em sonhos, encontrei um Parlamento de Árvores atingido por um raio e senti a presença de algo profundamente sagrado.					
-DARKMOON_LOGFELLATHOUGHTS	Logfella			Ontem à noite, ouvi o som de uma música vibrante que se filtrava pelos bosques atrás de minha cabana. Que droga é isso?					
+DARKMOON_LOGFELLATHOUGHTS	Logfella			Ontem à noite, ouvi o som de uma música vibrante que se filtrava pelos bosques atrás de minha cabana. Que raios é isso?					
 DARKMOON_DOGFELLATHOUGHTS	Dogfella			Au Au Au. Em meu estado de sonho, só vislumbrei as sutis e sonoras espumas dos espíritos silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Reconstruímos a Tríade Trigônica e agora somos heróis.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Assassinamos inexplicavelmente 3 coelhos indefesos.					
