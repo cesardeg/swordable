@@ -10,7 +10,7 @@ SIGN_BIRDTREE	The Scythian			Por uma trilha lateral que se afastava do antigo ca
 SIGN_BIRDTREEDECIPHERED	The Scythian			Por uma trilha lateral, encontramos uma rocha gravada com uma série de glifos lunares que antes não entendíamos.					
 				Os glifos falavam de um lugar secreto perto daqui «...onde se podia alterar o humor da lua».					
 				Será que é a Gruta Lunar...? #grutalunar #queisso #eummisterio			205	003.jpg	60D3C
-SIGN_WOLF	The Scythian			Junto ao antigo caminho, encontramos uma rocha gravada com um par de glifos em forma de espada e escudo. #ficaadica			16	004.jpg	T0C4X
+SIGN_WOLF	The Scythian			À beira do antigo caminho, encontramos uma rocha gravada com um par de glifos em forma de espada e escudo. #ficaadica			16	004.jpg	T0C4X
 SIGN_ANTECHAMBERLEFT	The Scythian			Num corredor subterrâneo, descobrimos uma estátua ominosa, mas não nos preocupamos muito com isso. #folclore			29	005.jpg	V0B53
 INFO_CROSSMOUNTAINLEFT	The Scythian			Na encosta rochosa de Mingi Tau, uma tumba solitária marcava o fim do caminho de cascalho.					
 INFO_CROSSMOUNTAINRIGHT	The Scythian			Na encosta rochosa de Mingi Tau, uma tumba solitária marcava o fim do caminho de cascalho.					
@@ -105,7 +105,7 @@ ARCHETYPE_UNWELLWELLOUTRO	The Archetype
 INFO_CABINCHIMNEY	The Scythian			Diante de uma insondável lagoa, descobrimos uma robusta cabana de pedra com um telhado de palha.					
 INFO_CABINWOODPILE	The Scythian			Perto da cabana, encontramos uma pilha de lenha, nada de mais.					
 INFO_SPUME	The Scythian			Localizamos as sutis e sonoras espumas de um espírito silvano adormecido. E agora... como o despertamos?					
-INFO_NESTBOX	The Scythian			Descobrimos um curioso ninho, agora lar de uma colmeia de escória.			13	015.jpg	B1C5F
+INFO_NESTBOX	The Scythian			Descobrimos um curioso ninho, agora lar de uma colmeia de escória e vilania.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Vimos um desgastado ninho com uma inquietante semelhança a um rosto.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre uma ponte de toras no antigo caminho, erguia-se um sinistro mastro decorado com caveiras.					
 INFO_GOLDTRIGONALTAR	The Scythian			Além da vasta caverna na campina, em uma clareira isolada, avistamos um estranho conjunto de estruturas de pedra.					
@@ -150,8 +150,8 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigônica, além da vasta cav
 				"""Os Trígonos restantes existem apenas nos sonhos dos montanheses do Cáucaso."""			43	024.jpg	82E45
 				"""Localizar os Trígonos restantes não é uma questão de onde, mas de quando e como."""					
 				Sem dúvida, o fantasma resplandecente disse muitas coisas confusas que não ajudaram em nada.					
-GRAVE_LOGBRIDGE	The Scythian			Em um matagal à beira do antigo caminho, umas tumbas despertaram nossa curiosidade.					
-GRAVE_LOGBRIDGEGHOST	The Scythian			Em um matagal à beira do antigo caminho, junto a umas tumbas, conhecemos alguns fantasmas que pareciam amigáveis.			116	025.jpg	62B55
+GRAVE_LOGBRIDGE	The Scythian			Em um matagal perto do antigo caminho, umas tumbas despertaram nossa curiosidade.					
+GRAVE_LOGBRIDGEGHOST	The Scythian			Em um matagal perto do antigo caminho, junto a umas tumbas, conhecemos alguns fantasmas que pareciam amigáveis.			116	025.jpg	62B55
 				O fantasma resplandecente que falou era um gigante que conhecíamos das velhas histórias, cujo famoso retrato exigia obediência. #andre					
 			Archetype/trifecta	"""No ano passado, antes das festas de Yule, juntei a galera e partimos para remontar a Tríade Trigônica."""					
 				"""Tínhamos ouvido falar da entrada para o Remoinhado Infinito no topo de Mingi Tau e achamos que seria algo legal de se ver."""					
@@ -168,7 +168,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Em um matagal à beira do antigo caminho, ju
 GRAVE_CHASM	The Scythian			Ao fio do Precipício Perigoso, uma tumba solitária despertou nossa curiosidade.					
 GRAVE_CHASMGHOST	The Scythian			Ao fio do Precipício Perigoso, junto à tumba solitária do trapaceiro inveterado, conhecemos um velho fantasma resplandecente.					
 			Archetype/trifecta	"""No ano passado, antes das festas de Yule, André, 'O Gigante', juntou a galera e partimos para remontar a Tríade Trigônica."""					
-				"""Os outros membros da galera foram enterrados em um matagal à beira do antigo caminho, junto à ponte de toras."""					
+				"""Os outros membros da galera foram enterrados em um matagal perto do antigo caminho, junto à ponte de toras."""					
 			triangle/Triangle	"""Localizamos e domamos o Trígono Dourado com bastante facilidade, mas depois disso ficamos completamente parados."""					
 				"""Procuramos pelo Trígono da Lua Radiante, então decidimos nos sentar e observar o céu, esperando o humor da lua mudar."""					
 				"""Foi super chato. Eu não estava disposto a esperar dias e dias até que a Lua Radiante pairasse."""					

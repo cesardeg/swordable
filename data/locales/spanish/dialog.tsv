@@ -10,7 +10,7 @@ SIGN_BIRDTREE	The Scythian			Por un sendero lateral encontramos una roca grabada
 SIGN_BIRDTREEDECIPHERED	The Scythian			Por un sendero lateral encontramos una roca grabada con unos glifos lunares que antes no comprendíamos.					
 				Los glifos hablaban de un lugar secreto cerca de aquí «...donde se podía alterar el humor de la luna».					
 				¿Será la Gruta Lunar...? #grutalunar #queseso #esunmisterio			205	003.jpg	60D3C
-SIGN_WOLF	The Scythian			Junto al antiguo camino encontramos una roca grabada con un par de glifos en forma de espada y escudo. #guiñoguiño			16	004.jpg	T0C4X
+SIGN_WOLF	The Scythian			A la vera del antiguo camino, encontramos una roca grabada con un par de glifos en forma de espada y escudo. #guiñoguiño			16	004.jpg	T0C4X
 SIGN_ANTECHAMBERLEFT	The Scythian			En un pasaje subterráneo, descubrimos una estatua ominosa, pero no le dimos mayor importancia. #folclore			29	005.jpg	V0B53
 INFO_CROSSMOUNTAINLEFT	The Scythian			En la pendiente rocosa de Mingi Tau, una tumba solitaria marcaba el final del sendero de grava.					
 INFO_CROSSMOUNTAINRIGHT	The Scythian			En la pendiente rocosa de Mingi Tau, una tumba solitaria marcaba el final del sendero de grava.					
@@ -105,7 +105,7 @@ ARCHETYPE_UNWELLWELLOUTRO	The Archetype
 INFO_CABINCHIMNEY	The Scythian			Junto a un insondable estanque, descubrimos una robusta choza de piedra con un tejado de paja.					
 INFO_CABINWOODPILE	The Scythian			Cerca de la choza, vimos una pila de leña, nada del otro mundo.					
 INFO_SPUME	The Scythian			Localizamos las sutiles y sonoras espumas de un espíritu silvano adormecido. Y ahora... ¿cómo lo despertamos?					
-INFO_NESTBOX	The Scythian			Avistamos un curioso nido, ahora hogar de una colmena de escoria.			13	015.jpg	B1C5F
+INFO_NESTBOX	The Scythian			Avistamos un curioso nido, ahora hogar de una colmena de escoria y villanía.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Avistamos un desgastado nido con un inquietante parecido a un rostro.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			A horcajadas sobre un puente de troncos en el antiguo camino, se erguía un siniestro mástil decorado con calaveras.					
 INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la vasta cueva del prado, en un claro oculto, avistamos un extraño conjunto de estructuras de piedra.					
@@ -150,8 +150,8 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			En el Claro Trigonal, más allá de la vas
 				"""Los Trigones restantes solo existen en los sueños de los montañeses del Cáucaso."""			43	024.jpg	82E45
 				"""Localizar los Trigones restantes no es una cuestión de dónde, sino de cuándo y cómo."""					
 				Desde luego, el fantasma resplandeciente dijo muchas cosas confusas que no ayudaban en absoluto.					
-GRAVE_LOGBRIDGE	The Scythian			En un matorral a la vera del antiguo camino, unas tumbas despertaron nuestra curiosidad.					
-GRAVE_LOGBRIDGEGHOST	The Scythian			En un matorral a la vera del antiguo camino, junto a unas tumbas, conocimos a unos fantasmas que parecían bastante amigables.			116	025.jpg	62B55
+GRAVE_LOGBRIDGE	The Scythian			En un matorral cercano al antiguo camino, unas tumbas despertaron nuestra curiosidad.					
+GRAVE_LOGBRIDGEGHOST	The Scythian			En un matorral cercano al antiguo camino, junto a unas tumbas, conocimos a unos fantasmas que parecían bastante amigables.			116	025.jpg	62B55
 				El fantasma que habló era un gigante que conocíamos de las viejas historias, cuyo célebre retrato exigía obediencia. #andre					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, junté a mi gente y nos lanzamos a reconstruir la Tríada Trigonal."""					
 				"""Oímos hablar de la entrada al Arremolinado Infinito en la cima de Mingi Tau y pensamos que sería genial verlo."""					
@@ -168,7 +168,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			En un matorral a la vera del antiguo camino,
 GRAVE_CHASM	The Scythian			Al filo del Precipicio Peligroso, una tumba solitaria despertó nuestra curiosidad.					
 GRAVE_CHASMGHOST	The Scythian			Al filo del Precipicio Peligroso, junto a la tumba solitaria del tramposo redomado, conocimos a un viejo fantasma resplandeciente.					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, André 'El Gigante' juntó a su gente y nos lanzamos a reconstruir la Tríada Trigonal."""					
-				"""Los demás del grupo están enterrados en un matorral a la vera del antiguo camino, junto al puente de troncos."""					
+				"""Los demás del grupo están enterrados en un matorral cercano al antiguo camino, junto al puente de troncos."""					
 			triangle/Triangle	"""Localizamos y domamos el Trigón Dorado con bastante facilidad, pero después de eso nos quedamos totalmente estancados."""					
 				"""Buscamos el Trigón de la Luna Radiante, así que decidimos sentarnos y observar el cielo, esperando que el humor de la luna cambiara."""					
 				"""¡Era un aburrimiento total! No iba a quedarme esperando días y días hasta que la Luna Radiante imperara."""					
