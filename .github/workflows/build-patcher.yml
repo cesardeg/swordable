@@ -104,7 +104,7 @@ jobs:
           VITE_APP_LOCALE: ${{ matrix.locale }}
         run: |
           npm install
-          npm run tauri build
+          npm run tauri build -- --config src-tauri/tauri.${{ matrix.locale }}.conf.json
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4

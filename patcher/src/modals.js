@@ -32,6 +32,7 @@ const modalsHTML = `
         <div class="manual-step"><span class="step-num">03</span><div class="step-content"><span class="step-title" data-i18n="manual.step3.title"></span><span class="step-desc" data-i18n="manual.step3.desc"></span></div></div>
         <div class="manual-step"><span class="step-num">04</span><div class="step-content"><span class="step-title" data-i18n="manual.step4.title"></span><span class="step-desc" data-i18n="manual.step4.desc"></span></div></div>
         <div class="manual-step"><span class="step-num">05</span><div class="step-content"><span class="step-title" data-i18n="manual.step5.title"></span><span class="step-desc" data-i18n="manual.step5.desc"></span></div></div>
+        <div class="manual-step"><span class="step-num">06</span><div class="step-content"><span class="step-title" data-i18n="manual.step6.title"></span><span class="step-desc" data-i18n="manual.step6.desc"></span></div></div>
       </div>
     </div>
     <div class="modal-footer" style="padding-top:0"><button class="btn-modal btn-close-modal" data-i18n="modal.btn_understood">OK</button></div>
@@ -59,42 +60,42 @@ const modalsHTML = `
 `;
 
 export function initModals() {
-    document.getElementById('modals-container').innerHTML = modalsHTML;
+  document.getElementById('modals-container').innerHTML = modalsHTML;
 
-    const hideAll = () => document.querySelectorAll('.modal-overlay').forEach(m => m.classList.remove('visible'));
+  const hideAll = () => document.querySelectorAll('.modal-overlay').forEach(m => m.classList.remove('visible'));
 
-    document.querySelectorAll('.btn-close-modal').forEach(btn => {
-        btn.addEventListener('click', hideAll);
+  document.querySelectorAll('.btn-close-modal').forEach(btn => {
+    btn.addEventListener('click', hideAll);
+  });
+
+  document.querySelectorAll('.modal-overlay').forEach(overlay => {
+    overlay.addEventListener('click', (e) => {
+      // Only close if clicking exactly on the overlay background, not the modal itself
+      if (e.target === overlay) hideAll();
     });
-
-    document.querySelectorAll('.modal-overlay').forEach(overlay => {
-        overlay.addEventListener('click', (e) => {
-            // Only close if clicking exactly on the overlay background, not the modal itself
-            if (e.target === overlay) hideAll();
-        });
-    });
+  });
 }
 
 export function showStatus(message) {
-    document.getElementById('status-message').innerHTML = message;
-    document.getElementById('status-modal').classList.add('visible');
+  document.getElementById('status-message').innerHTML = message;
+  document.getElementById('status-modal').classList.add('visible');
 }
 
 export function showManual() {
-    document.getElementById('manual-modal').classList.add('visible');
+  document.getElementById('manual-modal').classList.add('visible');
 }
 
 export function showError(title, message, detail = '') {
-    document.getElementById('error-title').innerHTML = title;
-    document.getElementById('error-message').innerHTML = message;
-    document.getElementById('error-detail').innerHTML = detail;
+  document.getElementById('error-title').innerHTML = title;
+  document.getElementById('error-message').innerHTML = message;
+  document.getElementById('error-detail').innerHTML = detail;
 
-    const overlay = document.getElementById('error-modal');
-    const box = document.getElementById('error-modal-box');
-    overlay.classList.add('visible');
+  const overlay = document.getElementById('error-modal');
+  const box = document.getElementById('error-modal-box');
+  overlay.classList.add('visible');
 
-    // Trigger shake animation
-    box.classList.remove('animate');
-    void box.offsetWidth;
-    box.classList.add('animate');
+  // Trigger shake animation
+  box.classList.remove('animate');
+  void box.offsetWidth;
+  box.classList.add('animate');
 }

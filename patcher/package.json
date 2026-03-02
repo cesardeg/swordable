@@ -11,10 +11,10 @@
     "build-steam:pt": "cd .. && ./tools/steam/build.sh sworcery.dat pt",
     "copy:es": "npm run build-steam:es && mkdir -p src-tauri/assets && cp ../build/steam/es/sworcery.dat* src-tauri/assets/ || true",
     "copy:pt": "npm run build-steam:pt && mkdir -p src-tauri/assets && cp ../build/steam/pt/sworcery.dat* src-tauri/assets/ || true",
-    "dev:es": "npm run copy:es && VITE_APP_LOCALE=es tauri dev",
-    "dev:pt": "npm run copy:pt && VITE_APP_LOCALE=pt tauri dev",
-    "build:es": "npm run copy:es && VITE_APP_LOCALE=es tauri build && mkdir -p ../build/patcher/es && cp -R src-tauri/target/release/bundle/* ../build/patcher/es/ || true",
-    "build:pt": "npm run copy:pt && VITE_APP_LOCALE=pt tauri build && mkdir -p ../build/patcher/pt && cp -R src-tauri/target/release/bundle/* ../build/patcher/pt/ || true"
+    "dev:es": "npm run copy:es && VITE_APP_LOCALE=es tauri dev --config src-tauri/tauri.es.conf.json",
+    "dev:pt": "npm run copy:pt && VITE_APP_LOCALE=pt tauri dev --config src-tauri/tauri.pt.conf.json",
+    "build:es": "npm run copy:es && VITE_APP_LOCALE=es tauri build --config src-tauri/tauri.es.conf.json && mkdir -p ../build/patcher/es && cp -R src-tauri/target/release/bundle/* ../build/patcher/es/ || true",
+    "build:pt": "npm run copy:pt && VITE_APP_LOCALE=pt tauri build --config src-tauri/tauri.pt.conf.json && mkdir -p ../build/patcher/pt && cp -R src-tauri/target/release/bundle/* ../build/patcher/pt/ || true"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^2",

@@ -1,0 +1,15 @@
+{
+    "productName": "Sworcery Patcher PT",
+    "identifier": "com.cesardeg.sworcery-patcher-pt",
+    "app": {
+        "windows": [
+            {
+                "title": "Sworcery Patcher PT",
+                "width": 520,
+                "height": 550,
+                "decorations": true,
+                "resizable": false
+            }
+        ]
+    }
+}
