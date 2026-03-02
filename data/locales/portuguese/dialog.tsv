@@ -217,7 +217,7 @@ GIRL_FOUNDKEY	The Scythian			Por uma trilha lateral, encontramos Samae, completa
 			gourd/gourd	Ela ouvira as sutis e sonoras espumas dos espíritos silvanos além do muro de pedra, no antigo caminho para Mingi Tau.					
 			gourd/gourd	Falou de altíssimas árvores que ladeavam um impetuoso rio.					
 			gourd/gourd	Mencionou tênues arco-íris que surgiam à beira do Precipício Perigoso.					
-			adventureUI/megatomeItem	...E então, receosa, sugeriu que consultássemos o Megatomo caso nos sentíssemos perdidos ou desorientados.					
+			adventureUI/megatomeItem	...e então, receosa, sugeriu que consultássemos o Megatomo caso nos sentíssemos perdidos ou desorientados.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Por mim, A Citiana pode ficar com a chave, se for para dissipar a tempestade.					
 				Devo ter dormido em algum momento durante a épica história que A Citiana contou. É que não aguento muito folclore.					
 				Perguntei na lata para A Citiana sobre sua funesta missão... ela começou a falar sobre estepes e o dedo de Deus.					
@@ -358,7 +358,7 @@ GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Au Au Au Au Au Au. #la
 GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Ainda assim, há algo estranho no comportamento de A Citiana; parecia controlada por uma força invisível.					
 				Gostaria de saber mais sobre A Citiana e sua épica história, aposto que então tudo faria sentido.					
 GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que A Citiana esteja cuidando daquela história dos espíritos silvanos.					
-				Essa maldita tempestade está me afetando muito, me faz desejar que os videogames existissem no... momento em que se supõe que estamos.					
+				Essa bendita tempestade está me afetando muito, me faz desejar que os videogames existissem no... momento em que se supõe que estamos.					
 GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Tudo tem sido uma loucura lunática desde que A Citiana apareceu.			3	062.jpg	36E2Z
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Essa tempestade toda estava me afetando muito. Estava tudo tããão lúgubre!					
 				A chuva começou a diminuir e o céu parece estar clareando... Será que é a época dos milagres? Espero que sim, eu adoro milagres.					
@@ -378,7 +378,7 @@ GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Talvez você já t
 				Estivemos monitorando suas ações em silêncio e queremos ressaltar que, quanto mais você hesitar, menor será a comemoração.					
 				Parece que você progrediu bastante em seu esforço para localizar e domar o Trígono da Lua Radiante. Muito bem feito!					
 GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		Os espíritos silvanos são filhos da Mãe Terra ou são visitantes solitários do Remoinhado Infinito?					
-				Para ser honesta, os espíritos silvanos me dão medo. Quero dizer... o que são eles? De onde eles vêm?					
+				Para ser honesta, os espíritos silvanos me dão medo. Quero dizer... O que são eles? De onde eles vêm?					
 GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Quando os espíritos forem enviados ao céu e a época dos milagres estiver sobre você, deve procurar a titânica árvore.					
 				Eu sei que você sabe o que eu sei e quero que saiba que você está completamente certo.			109	066.jpg	F6D6H
 				Au Au Au Snif Au Au Au.					
@@ -484,7 +484,7 @@ GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Falamos com Samae 
 LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			O lenhador podia ver que nossas caminhadas oníricas e o obrar de milagres haviam cobrado um alto preço da nossa saúde física.					
 			Archetype/trifecta	Troncadeiro nos perguntou se tínhamos visitado o Cachorreiro na Clareira Trigônica... Talvez pudéssemos ativar outro facho celestial?					
 ARCHETYPE_DARKMOONTRIGONCOLLECTED	The Archetype			Agora a pergunta é... o que vem a seguir?					
-				Apesar da falta de informações úteis que fornecemos, você conseguiu dominá-lo.					
+				Apesar das poucas informações úteis que lhe fornecemos, você conseguiu dominá-lo.					
 				Fui informado de que você recuperou o Trígono da Lua Sombria. É uma notícia realmente extraordinária.					
 LOGFELLA_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	O lenhador não reconheceu a chave que encontramos e não tinha ideia para que servia.					
 			AdventureUI/keyItem	...?					
