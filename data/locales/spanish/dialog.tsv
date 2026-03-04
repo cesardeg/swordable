@@ -90,7 +90,7 @@ INFO_BIRDEYESCULPTURE	The Scythian			Vimos una escultura de un pájaro enfadado 
 INFO_MEADOWSHEEP	The Scythian			En el prado, observamos unas cuantas ovejas inútiles holgazaneando. #ovejasinutiles					
 INFO_CABINSHEEP	The Scythian			Otra oveja inútil, ¿por qué seguimos mirándolas? #ovejasinutiles					
 INFO_MEADOWSUN	The Scythian			Recordamos vívidamente lo increíble que lucía el sol aquel primer día de primavera.					
-INFO_MEADOWGATE	The Scythian			En el prado, nos topamos con un impenetrable portón de hierro que bloqueaba una vasta cueva.					
+INFO_MEADOWGATE	The Scythian			En el prado, nos topamos con un impenetrable portón de hierro que bloqueaba una colosal cueva.					
 INFO_MEADOWGATEACTIVE	The Scythian			En el prado, observamos un portón de hierro y tuvimos la sensación de que tal vez podríamos abrirlo.					
 INFO_MEADOWGATETRIGONACTIVE	The Scythian			Sobre el portón de hierro, distinguimos un nosequé con la forma del Trigón Dorado, ¿reaccionaría a nuestra Canción de Espadancia?					
 INFO_MEADOWGATETRIGON	The Scythian			Sobre el portón de hierro, notamos un nosequé.					
@@ -108,7 +108,7 @@ INFO_SPUME	The Scythian			Localizamos las sutiles y sonoras espumas de un espír
 INFO_NESTBOX	The Scythian			Avistamos un curioso nido, ahora hogar de una colmena de escoria y villanía.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Avistamos un desgastado nido con un inquietante parecido a un rostro.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			A horcajadas sobre un puente de troncos en el antiguo camino, se erguía un siniestro mástil decorado con calaveras.					
-INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la vasta cueva del prado, en un claro oculto, avistamos un extraño conjunto de estructuras de piedra.					
+INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la colosal cueva del prado, en un claro oculto, avistamos un extraño conjunto de estructuras de piedra.					
 			Archetype/trifecta	...¿Era este el Claro Trigonal? #clarotrigonal			93	016.jpg	B1D6J
 			triangle/Triangle	Junto a la primera estructura pensamos en el Trigón Dorado y sentimos nuestra espada estremecerse en su vaina.					
 INFO_DARKTRIGONALTAR	The Scythian			En el Claro Trigonal, hallamos otra estructura de piedra, vieja y llena de musgo. #trigonlunasombria					
@@ -136,8 +136,8 @@ INFO_ROCKSHOWBOOR	The Scythian			En el concierto de rock, avistamos al Canoso To
 INFO_ROCKSHOWCROWD	The Scythian			En el concierto de rock, avistamos una multitud considerable de damas y caballeros.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			En el concierto de rock, distinguimos al personaje conocido como El Arquetipo y nos preguntamos qué tramaba con todo esto.					
 INFO_TRIGONGROVESKULLSTICK	The Scythian			Un siniestro poste decorado con una calavera astada conecta este lugar con el espectro inmortal que acecha bajo Mingi Tau.					
-GRAVE_TRIGONGROVE	The Scythian			En el Claro Trigonal, más allá de la vasta cueva del prado, una tumba solitaria despertó nuestra curiosidad.					
-GRAVE_TRIGONGROVEGHOST	The Scythian			En el Claro Trigonal, más allá de la vasta cueva del prado, junto a una tumba solitaria, un fantasma resplandeciente nos recibió.					
+GRAVE_TRIGONGROVE	The Scythian			En el Claro Trigonal, más allá de la colosal cueva del prado, una tumba solitaria despertó nuestra curiosidad.					
+GRAVE_TRIGONGROVEGHOST	The Scythian			En el Claro Trigonal, más allá de la colosal cueva del prado, junto a una tumba solitaria, un fantasma resplandeciente nos recibió.					
 				La verdad, nos asustó bastante al principio.			96	022.jpg	T2B2H
 			adventureUI/megatomeItem	Al ver nuestra vestimenta escita y el Megatomo, preguntó si entendíamos sus enigmáticos símbolos.					
 				En un susurro pronunció el nombre del espectro inmortal que habíamos despertado en la oscuridad bajo Mingi Tau: La Masa Gogolítica.			166	023.jpg	O2B39
@@ -424,13 +424,13 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Aturdidos y sin un recuerdo claro,
 			triangle/Triangle	Se preguntó por la conexión del Trigón con los siniestros misterios más allá del portón de hierro en el prado.					
 				Pero a Tronquero no le iban los siniestros misterios, así que prefirió irse a casa y cortar leña. #leñando					
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			Tronquero estaba muy contento de que la tormenta se hubiera disipado y estaba muy entusiasmado por volver a cortar leña.					
-				Nos preguntó si teníamos idea sobre el portón de hierro que bloqueaba la vasta cueva del prado... ¿qué podría haber detrás?					
+				Nos preguntó si teníamos idea sobre el portón de hierro que bloqueaba la colosal cueva del prado... ¿qué podría haber detrás?					
 LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Qué extraño... Veo un haz celestial dorado en el bosque tras el prado... ¿alguien ha descubierto los secretos del Claro Trigonal?			89	072.jpg	67F24
 LOGFELLA_URSULAMEADOW	Logfella			Estoy realmente preocupado por La Escita, parece estar hecha polvo.					
 SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			El leñador y su hija nos observaron mientras recuperábamos el conocimiento.					
 				El prado seguía igual, toda evidencia de nuestro encuentro onírico había desaparecido.					
 GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae escuchó en silencio nuestra extraña historia sobre el encuentro con el Trigón Dorado.					
-			triangle/Triangle	Se preguntó por los secretos del Claro Trigonal más allá de la vasta cueva del prado... ¿habría alguna conexión?					
+			triangle/Triangle	Se preguntó por los secretos del Claro Trigonal más allá de la colosal cueva del prado... ¿habría alguna conexión?					
 GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Me preocupa mucho La Escita... desapareció durante varios días después de que se disipara la tormenta. Ojalá esté bien.					
 GIRL_URSULAMEADOW_OFF	Girl			Vaya, ¿Entonces La Escita estaba desmayada en el prado? Qué locura.					
 DOGFELLA_GETDARKTRIGON	The Scythian			Después de activar otro haz celestial en el Claro Trigonal, notamos algo peculiar en el perro llamado Perrero.					
