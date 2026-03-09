@@ -9,7 +9,7 @@ def main():
     Wrapper script for iOS builds.
 
     This script acts as a shortcut, calling the main build script
-    (utils/build.py) with the 'ios' platform pre-selected. All arguments
+    (common/build.py) with the 'ios' platform pre-selected. All arguments
     passed to this script (e.g., ipa_path, --locale, --help) are forwarded.
     """
     # Get the directory of this script (e.g., /path/to/swordable/ios)

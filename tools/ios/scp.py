@@ -4,10 +4,10 @@ import sys
 import os
 
 # --- Environment and Dependency Setup ---
-# Add the 'utils' directory to the system path to find the bootstrap module
+# Add the 'common' directory to the system path to find the bootstrap module
 script_dir = os.path.dirname(os.path.realpath(__file__))
-utils_dir = os.path.join(script_dir, '..', 'utils')
-sys.path.insert(0, utils_dir)
+common_dir = os.path.join(script_dir, '..', 'common')
+sys.path.insert(0, common_dir)
 
 from bootstrap import ensure_environment
 
@@ -51,13 +51,14 @@ else:
     exit(1)
 
 # Local file paths for fonts and locales
-fonts_dir = os.path.join(script_dir, "..", "fonts")
-locales_dir = os.path.join(script_dir, "..", "locales", language_dir)
+fonts_dir = os.path.join(script_dir, "..", "..", "data", "fonts")
+locales_dir = os.path.join(script_dir, "..", "..", "data", "locales", language_dir)
 
 # Create an SSH client instance
 client = paramiko.SSHClient()
 client.load_system_host_keys()
 
+sftp = None
 try:
     # Add the server's host key to the known hosts file
     client.set_missing_host_key_policy(paramiko.AutoAddPolicy())

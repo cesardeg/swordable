@@ -4,10 +4,10 @@ import sys
 import os
 
 # --- Path Setup to find the main build script ---
-# Add the 'utils' directory to the system path to find the build module
+# Add the 'common' directory to the system path to find the build module
 script_dir = os.path.dirname(os.path.realpath(__file__))
-utils_dir = os.path.join(script_dir, '..', 'common')
-sys.path.insert(0, utils_dir)
+common_dir = os.path.join(script_dir, '..', 'common')
+sys.path.insert(0, common_dir)
 
 # Import only the function we need from the main build script
 from build import patch_info_plist

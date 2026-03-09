@@ -11,8 +11,8 @@ import zipfile
 # --- Environment and Dependency Setup ---
 # Since this script is in 'tools/common', the project root is three levels up.
 project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
-utils_dir = os.path.join(project_root, 'tools', 'common')
-sys.path.insert(0, utils_dir)
+common_dir = os.path.join(project_root, 'tools', 'common')
+sys.path.insert(0, common_dir)
 
 # Dynamically add script directories to path for imports
 sys.path.insert(0, os.path.join(project_root, 'tools', 'ios'))
@@ -38,7 +38,7 @@ def copy_files(destination_dir, locale, platform):
     language_name = get_language_name(locale)
 
     files_txt_name = f"{platform}_cyrillic.txt" if locale == "ru" else f"{platform}_latin.txt"
-    files_txt_path = os.path.join(utils_dir, "files", files_txt_name)
+    files_txt_path = os.path.join(common_dir, "files", files_txt_name)
 
     locales_folder = os.path.join(project_root, "data", "locales", language_name)
     fonts_folder = os.path.join(project_root, "data", "fonts", "cyrillic" if locale == "ru" else "patched")
@@ -282,7 +282,7 @@ def build_steam(args):
 
     # 3. Determine which files to repack based on locale
     files_txt_name = "desk_cyrillic.txt" if args.locale == "ru" else "desk_latin.txt"
-    files_txt_path = os.path.join(utils_dir, "files", files_txt_name)
+    files_txt_path = os.path.join(common_dir, "files", files_txt_name)
     try:
         with open(files_txt_path, 'r') as f:
             files_to_repack = [line.strip() for line in f if line.strip()]
