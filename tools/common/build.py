@@ -386,10 +386,11 @@ def main():
     global SWORCERY_DAT_PASSWORD
     SWORCERY_DAT_PASSWORD = args.password or os.getenv("SWORCERY_PASSWORD")
 
-    if not SWORCERY_DAT_PASSWORD:
-        print("Error: SWORCERY_PASSWORD not set.")
+    # The password is only required for the Steam build which handles .dat files.
+    if args.platform == "steam" and not SWORCERY_DAT_PASSWORD:
+        print("Error: SWORCERY_PASSWORD not set for Steam build.")
         print("Please set it via: export SWORCERY_PASSWORD=your_password")
-        print("Or pass it as an argument: python build.py -p your_password ...")
+        print("Or pass it as an argument: python build.py steam -p your_password ...")
         sys.exit(1)
 
     args.func(args)
