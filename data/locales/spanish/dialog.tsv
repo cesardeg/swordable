@@ -3,14 +3,14 @@ GIRL_TONGUES	Girl			Lejos de las estepas asoladas por la guerra de Escitia, hall
 				Los montañeses del Cáucaso la llamaban Samae y parecía simpática. #obvio					
 SIGN_TADPOL	The Scythian			"""Donde el fuego alumbra, el hogar se vislumbra."" #threegutrecordsx100pre"					
 SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia son todos reinos de los hombres. Mingi Tau es el Reino de las Nubes."""					
-SIGN_CHASM	The Scythian			A la vera del Precipicio Peligroso, encontramos una roca grabada con el glifo de una espada alzada, bajo los colores del arcoíris.					
+SIGN_CHASM	The Scythian			Al borde del Precipicio Peligroso había una roca grabada con el símbolo de una espada alzada hacia el cielo, bajo los colores del arcoíris.					
 				Los escitas aborrecemos los arcoíris. #odiososarcoiris			21	002.jpg	40C27
 SIGN_BIRDTREE	The Scythian			Por un sendero lateral encontramos una roca grabada con una serie de símbolos indescifrables.					
-				Entre esos símbolos imposibles de descifrar, alcanzamos a distinguir unos glifos lunares.					
-SIGN_BIRDTREEDECIPHERED	The Scythian			Por un sendero lateral encontramos una roca grabada con unos glifos lunares que antes no comprendíamos.					
-				Los glifos hablaban de un lugar secreto cerca de aquí «...donde se podía alterar el humor de la luna».					
+				Entre los símbolos también había varios pictogramas lunares.					
+SIGN_BIRDTREEDECIPHERED	The Scythian			Por un sendero lateral encontramos una roca grabada con unos pictogramas lunares que antes no comprendíamos.					
+				Los pictogramas hablaban de un lugar secreto cerca de aquí «...donde se podía alterar el humor de la luna».					
 				¿Será la Gruta Lunar...? #grutalunar #queseso #esunmisterio			205	003.jpg	60D3C
-SIGN_WOLF	The Scythian			A la vera del antiguo camino, encontramos una roca grabada con un par de glifos en forma de espada y escudo. #guiñoguiño			16	004.jpg	T0C4X
+SIGN_WOLF	The Scythian			A la vera del antiguo camino, encontramos una roca grabada con un par de símbolos en forma de espada y escudo. #guiñoguiño			16	004.jpg	T0C4X
 SIGN_ANTECHAMBERLEFT	The Scythian			En un pasaje subterráneo, descubrimos una estatua ominosa, pero no le dimos mayor importancia. #folclore			29	005.jpg	V0B53
 INFO_CROSSMOUNTAINLEFT	The Scythian			En la pendiente rocosa de Mingi Tau, una tumba solitaria marcaba el final del sendero de grava.					
 INFO_CROSSMOUNTAINRIGHT	The Scythian			En la pendiente rocosa de Mingi Tau, una tumba solitaria marcaba el final del sendero de grava.					
@@ -18,8 +18,8 @@ INFO_RIDGESKULLPOLE	The Scythian			En la cresta rocosa rumbo a la cima de Mingi 
 INFO_CROSSRIDGE	The Scythian			En la cresta rocosa rumbo a la cima de Mingi Tau, una tumba solitaria era un lúgubre recordatorio de cuántos habían muerto allí.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos el Megatomo aferrado entre dos huesudas manos y sentimos nuestra espada estremecerse en su vaina. #megatomo			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Encontramos una pequeña puerta sin pomo hecha de un material desconocido. El letrero dice «Solo personal autorizado».					
-DOOR_UPSLOPEWOODS1	The Scythian			Una puerta trancada bloqueaba el antiguo camino hacia Mingi Tau.					
-DOOR_UPSLOPEWOODS3	The Scythian			Una puerta trancada se escondía entre la maleza, debajo del antiguo camino que lleva hacia Mingi Tau. #grutalunar					
+DOOR_UPSLOPEWOODS1	The Scythian			Una puerta en el muro de piedra bloqueaba el antiguo camino hacia Mingi Tau.					
+DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se escondía entre la maleza, debajo del antiguo camino que lleva hacia Mingi Tau. #grutalunar					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
 LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador leñaba leña. #obvio #leñando			71	007.jpg	70E70
 				Los montañeses del Cáucaso lo llamaban Tronquero y parecía buena gente.					
@@ -30,12 +30,12 @@ LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Salvamos el ab
 			adventureUI/megatomeItem	Le contamos a Tronquero que íbamos tras un pesado libro de siniestra espadancia conocido como el Megatomo.					
 			adventureUI/megatomeItem	El Megatomo acechaba en algún lugar de la oscuridad embrujada más allá del Precipicio Peligroso, bajo Mingi Tau.					
 			adventureUI/megatomeItem	Decidimos ir por él y luego salir de allí con vida.					
-LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó que tenía la única llave para la puerta trancada del muro de piedra.					
-			AdventureUI/keyItem	Era una llave realmente bonita.					
+LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó que tenía la única llave para la puerta en el muro de piedra.					
+			AdventureUI/keyItem	Era una llave muy bonita.					
 				Estábamos más que listos para mantener pulsado en el camino ¡y a mover, mover el bote!					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Tronquero iba a quedarse aquí esperando a que volviéramos con el Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Tronquero había elegido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
-				Parecía saberlo todo acerca del odioso arcoíris y el glifo cercano que representaba una espada apuntando al cielo.					
+				Parecía saberlo todo acerca del odioso arcoíris y el símbolo cercano que representaba una espada alzada hacia el cielo.					
 				Y aun así, no nos dio ninguna pista sobre qué hacer a continuación, lo cual nos fastidió un poco, la verdad.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador había visto alguna criatura monstruosa y decidió dejar que nos encargáramos de ello.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos el Megatomo y Tronquero estaba completamente listo para mover, mover el bote hasta su refugio.					
@@ -94,7 +94,7 @@ INFO_MEADOWGATE	The Scythian			En el prado, nos topamos con un impenetrable port
 INFO_MEADOWGATEACTIVE	The Scythian			En el prado, observamos un portón de hierro y tuvimos la sensación de que tal vez podríamos abrirlo.					
 INFO_MEADOWGATETRIGONACTIVE	The Scythian			Sobre el portón de hierro, distinguimos un nosequé con la forma del Trigón Dorado, ¿reaccionaría a nuestra Canción de Espadancia?					
 INFO_MEADOWGATETRIGON	The Scythian			Sobre el portón de hierro, notamos un nosequé.					
-INFO_LOCKEDDOORSTONEWALL	The Scythian			Una puerta trancada en el muro de piedra bloqueaba el antiguo camino hacia Mingi Tau y, al parecer, la llave se había perdido en los sueños.					
+INFO_LOCKEDDOORSTONEWALL	The Scythian			Una puerta en el muro de piedra bloqueaba el antiguo camino hacia Mingi Tau y, al parecer, la llave se había perdido en los sueños.					
 INFO_LOOMINGBIRDSCULPTURES	The Scythian			Vimos una escultura de un pájaro enfadado que se cernía sobre el prado. #sutilreferencia					
 INFO_MEADOWSUNSTICK	The Scythian			Avistamos un bastón con forma extraña vigilando el prado.					
 INFO_CABINWELL	The Scythian			Avistamos un pozo bien construido con un amplio tejado de madera.					
@@ -113,14 +113,14 @@ INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la colosal cueva del prado, en
 			triangle/Triangle	Junto a la primera estructura pensamos en el Trigón Dorado y sentimos nuestra espada estremecerse en su vaina.					
 INFO_DARKTRIGONALTAR	The Scythian			En el Claro Trigonal, hallamos otra estructura de piedra, vieja y llena de musgo. #trigonlunasombria					
 				Nos preguntamos qué sucedería si la golpeáramos con nuestra espada.					
-INFO_BRIGHTTRIGONALTAR	The Scythian			En el Claro Trigonal, descubrimos otra estructura de piedra con un glifo circular que representaba a la Luna Radiante. #trigonlunaradiante					
+INFO_BRIGHTTRIGONALTAR	The Scythian			En el Claro Trigonal, descubrimos otra estructura de piedra con un pictograma circular que representaba a la Luna Radiante. #trigonlunaradiante					
 				Nos preguntamos qué sucedería si la golpeáramos con nuestra espada.					
 INFO_STONEHEAD	The Scythian			En el Precipicio Peligroso, notamos una enorme cabeza de aspecto familiar tallada en la roca con la boca abierta de par en par.			24	017.jpg	61B76
 INFO_STONEHEADSHUT	The Scythian			En el Precipicio Peligroso, notamos una enorme cabeza de aspecto familiar tallada en la roca.					
 INFO_STONEHEADFLAGPOLE	The Scythian			Sobre una enorme escultura tallada en roca, se erguía un siniestro mástil tétricamente decorado con calaveras o algo así.					
 INFO_CHASMSTONESHELTER	The Scythian			A un lado del Precipicio Peligroso se erigía un maravilloso dólmen con dos cómodos asientos de piedra.			25	018.jpg	O1C8M
 INFO_SKULLPOLE	The Scythian			A horcajadas sobre un tambaleante puente, se erguía un siniestro poste decorado con una calavera astada.					
-INFO_TRIFECTASYMBOL	The Scythian			Sobre la entrada excavada en la roca del templo de la montaña, notamos una representación pictórica de la Tríada Trigonal.					
+INFO_TRIFECTASYMBOL	The Scythian			Sobre la entrada excavada en la roca del templo de la montaña, notamos una representación de la Tríada Trigonal.					
 INFO_MOUNTAINGATE	The Scythian			En lo profundo del templo de la montaña, hallamos un impenetrable portón de hierro, tras el cual vimos el nublado paisaje montañoso de Mingi Tau.					
 INFO_MOUNTAINGATETRIGON	The Scythian			En lo profundo del templo de la montaña, sobre un alto pasaje, notamos tres extrañas formas triangulares.					
 INFO_MOUNTAINGATETRIGONACTIVE	The Scythian			En lo profundo del templo de la montaña, sobre un alto pasaje, distinguimos el símbolo de la Tríada Trigonal.					
@@ -128,7 +128,7 @@ INFO_CABINRECORD	The Scythian			Dentro de la choza, sobre el fuego, nos percatam
 INFO_CABINHEARTH	The Scythian			Dentro de la choza, el fuego crepitaba tranquilamente, proporcionando un calor reconfortante.					
 INFO_CABINSEAT	The Scythian			Dentro de la choza, a ambos lados del fuego, observamos dos rústicos asientos de madera.					
 INFO_GOGOLITHICMASS	The Scythian			En la oscuridad bajo Mingi Tau, notamos una calavera astada flotando.					
-INFO_MEGATOMBTRIFECTA	The Scythian			En la oscuridad bajo Mingi Tau, distinguimos una representación pictórica de la Tríada Trigonal.					
+INFO_MEGATOMBTRIFECTA	The Scythian			En la oscuridad bajo Mingi Tau, distinguimos una representación de la Tríada Trigonal.					
 INFO_ROCKSHOWGIRL	The Scythian			En el concierto de rock, hallamos a Samae y nos pareció que susurró algo así como 'Fuego, camina conmigo'.					
 INFO_ROCKSHOWSKOLOTOI	The Scythian			En el concierto de rock, notamos a uno de esos esqueletos vibrando al siniestro ritmo.					
 INFO_ROCKSHOWJIM	The Scythian			Encabezando el concierto de rock, vimos al misterioso músico conocido como Jim Guthrie.			160	020.jpg	T2G03
@@ -188,7 +188,7 @@ GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un titánico árbol hueco, junt
 GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un titánico árbol hueco, junto a una tumba solitaria, un fantasma audaz apareció y nos dijo algunas cosas.			117	028.jpg	E2A80
 				"""El Canto del Trigón ha terminado por ahora. Me pregunto cuándo volveré a escucharlo."""					
 LOGFELLA_LOSTKEY	The Scythian			Tronquero, el desolado leñador, estaba hecho un manojo de nervios.					
-			AdventureUI/keyItem	Al parecer, había perdido la llave de la puerta trancada en el muro de piedra que bloqueaba el antiguo camino hacia Mingi Tau.					
+			AdventureUI/keyItem	Al parecer, había perdido la llave de la puerta en el muro de piedra que bloqueaba el antiguo camino hacia Mingi Tau.					
 				Y nosotros, tipo... ugh. ¿Otra misión de recadero? ¿En serio?					
 				Nos contó que estaba sentado justo aquí cuando cayó en un profundo sueño.					
 			AdventureUI/keyItem	Tronquero nos dijo que creía haber perdido su llave en el reino crepuscular de los sueños.					
@@ -216,7 +216,7 @@ LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñ
 GIRL_FOUNDKEY	The Scythian			Por un sendero lateral encontramos a Samae, empapada por la lluvia.					
 			gourd/gourd	Había oído las sutiles y sonoras espumas de los espíritus silvanos más allá del muro de piedra, en el antiguo camino hacia Mingi Tau.					
 			gourd/gourd	Nos habló de colosales árboles que flanqueaban un impetuoso río.					
-			gourd/gourd	Mencionó tenues arcoíris que se formaban a la vera del Precipicio Peligroso.					
+			gourd/gourd	Mencionó tenues arcoíris que se formaban al borde del Precipicio Peligroso.					
 			adventureUI/megatomeItem	...y luego, inquieta, nos sugirió consultar el Megatomo si llegábamos a sentirnos perdidos o desorientados.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Por mí, que La Escita se quede con la llave si va a disipar la tormenta.					
 				Debo haberme quedado dormido en algún momento durante el épico relato de La Escita. La verdad es que no me va mucho el folclore.					
@@ -239,7 +239,7 @@ ARCHETYPE_TRIGONGROVE	The Archetype			¿Lo sientes? ¿Empiezas a comprender? ¿C
 				Este haz conecta el mundo de los vivos y los muertos, así que quizá conozcas a algún fantasma con quien hablar en tus viajes.					
 				Acabo de enterarme de que activaste el primer haz celestial en el Claro Trigonal.					
 GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las ovejas inútiles que holgazaneaban por la choza y nos comentó que se habían asustado hace un rato.					
-			gourd/gourd	Le contamos que habíamos enviado cinco espíritus silvanos al cielo y ella nos dijo que quizá la temporada de milagros estaba por llegar.					
+			gourd/gourd	Le contamos que habíamos enviado cinco espíritus silvanos al cielo y nos dijo que quizá la temporada de milagros estaba por llegar.					
 				Pensamos que tal vez deberíamos ir a investigar el prado donde solían holgazanear las ovejas.					
 LOGFELLA_CABINSHEEP	The Scythian			Tronquero sentía que había llegado la temporada de milagros y se preguntaba si estaba por ocurrir algo increíble.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			¡Pero qué...! ¡Dejó de llover! ¿Se estará disipando la tormenta? Espero que sí.					
@@ -258,7 +258,7 @@ ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			Para domar el Trigón Dorado debes s
 				Veo que has invocado e intentado domar el Trigón Dorado. Tengo algunas cosas que comentarte que creo te serán útiles.					
 ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Golpea los proyectiles psiónicos del Trigón con tu espada y espera la oportunidad para esquivar sus ataques de rayo.			83	040.jpg	34E01
 				La inescrutable lógica del Trigón Dorado se ha cobrado las almas de quienes te precedieron... ellos carecían de tenacidad y coraje.					
-ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			El Trigón Dorado debe ser domado, no hay otra opción.					
+ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			Hay que dominar al Trigón Dorado. No hay otra opción.					
 				En el tercer patrón, debes golpear los pequeños proyectiles triangulares con tu espada y esquivar los ataques de rayo.					
 				En el segundo patrón, debes esperar su ataque de rayo y pulsar el botón del escudo en el momento adecuado para esquivarlo.					
 				En el primer patrón, debes blandir tu espada para devolver la bola de energía.					
@@ -337,19 +337,19 @@ GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despert
 GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Entonamos la Canción de Espadancia y despertamos a un espíritu silvano de las frescas aguas de un insondable estanque, ¡Qué raro!			50	057.jpg	G5F78
 GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano en un curioso nido, rodeado de tres empapados pájaros cantores.					
 GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano junto a un impasible puente de troncos, donde cuatro pares de árboles flanquean un impetuoso río.					
-GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano entre dos odiosos arcoíris a la vera del Precipicio Peligroso.					
+GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano entre dos odiosos arcoíris al borde del Precipicio Peligroso.					
 GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Sombría reina, despertamos a un espíritu silvano rodeado por cinco cascadas.					
 GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Sombría reina, despertamos a un espíritu silvano entre la maleza en lo alto de un peñasco rocoso.					
 GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano en un claro oculto donde casualmente se encontraba Jim Guthrie.			132	058.jpg	G5F8U
 GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano en las tranquilas aguas de un lago donde una pata madre se agitaba frenética.					
 GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano donde el reflejo del lago era ligeramente incongruente.			127	059.jpg	65D98
 GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano en un apacible lago bajo un terceto de búhos.					
-GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tenemos la peculiar sensación de que, quizá, solo quizá, estemos ante la temporada de milagros. #milagros					
+GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tenemos la extraña sensación de que, quizá, solo quizá, estemos ante la temporada de milagros. #milagros					
 GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Sombría reina, despertamos a un espíritu silvano rodeado por tres pequeñas cascadas.					
 GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Sombría reina, despertamos a un espíritu silvano rodeado de cuatro pequeños y redondos árboles en los bosques más oscuros.					
 GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Sombría reina, despertamos a un espíritu silvano entre la maleza al otro lado del lago.					
 GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano acechando en la raíz de un titánico árbol.					
-GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tenemos esa peculiar sensación de que, tal vez, estemos ante la temporada de milagros. ¿Dónde están nuestros milagros? #milagros			77	060.jpg	86D06
+GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tenemos esa extraña sensación de que, tal vez, estemos ante la temporada de milagros. ¿Dónde están nuestros milagros? #milagros			77	060.jpg	86D06
 GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau Guau Guau Guau. #ladrando			135	061.jpg	M6F1I
 				Guau Guau Guau. #sololadrando					
 				A veces me canso de ladrar tanto, pero un perro tiene que hacer lo que un perro tiene que hacer.					
@@ -433,11 +433,11 @@ GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae escuchó en silencio nuestra ext
 			triangle/Triangle	Se preguntó por los secretos del Claro Trigonal más allá de la colosal cueva del prado... ¿habría alguna conexión?					
 GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Me preocupa mucho La Escita... desapareció durante varios días después de que se disipara la tormenta. Ojalá esté bien.					
 GIRL_URSULAMEADOW_OFF	Girl			Vaya, ¿Entonces La Escita estaba desmayada en el prado? Qué locura.					
-DOGFELLA_GETDARKTRIGON	The Scythian			Después de activar otro haz celestial en el Claro Trigonal, notamos algo peculiar en el perro llamado Perrero.					
+DOGFELLA_GETDARKTRIGON	The Scythian			Después de activar otro haz celestial en el Claro Trigonal, notamos algo extraño en el perro llamado Perrero.					
 			Archetype/trifecta	De repente, pareció que lo entendíamos: nos instó a buscar el Trigón de la Luna Sombría y completar la Tríada Trigonal.					
-DOGFELLA_GETBRIGHTTRIGON	The Scythian			Después de activar otro haz celestial en el Claro Trigonal, notamos algo peculiar en el perro llamado Perrero.					
+DOGFELLA_GETBRIGHTTRIGON	The Scythian			Después de activar otro haz celestial en el Claro Trigonal, notamos algo extraño en el perro llamado Perrero.					
 			Archetype/trifecta	De repente, pareció que lo entendíamos: nos instó a buscar el Trigón de la Luna Radiante y completar la Tríada Trigonal.					
-DOGFELLA_THREETRIGONS	The Scythian			Después de activar otro haz celestial en el Claro Trigonal, notamos algo peculiar en el perro llamado Perrero.					
+DOGFELLA_THREETRIGONS	The Scythian			Después de activar otro haz celestial en el Claro Trigonal, notamos algo extraño en el perro llamado Perrero.					
 			Archetype/trifecta	De repente, pareció que lo entendíamos: nos instó a activar el tercer haz celestial y abrir la entrada al Arremolinado Infinito.					
 DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.					
 				Guau Guau Snif Guau.					
@@ -445,7 +445,7 @@ DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.
 				Guau Guau Guau Guau Guau.					
 				Guau Guau Guau.					
 GIRL_AFTERYELLOWBEAM	The Scythian			Samae se sentó en una roca cerca del lugar donde el leñador cortaba leña.					
-			Archetype/trifecta	Le preguntamos por los secretos del Claro Trigonal y los peculiares sueños de los montañeses del Cáucaso.					
+			Archetype/trifecta	Le preguntamos por los secretos del Claro Trigonal y los extraños sueños de los montañeses del Cáucaso.					
 				Nos contó cómo los sueños de su gente contenían muchos misterios y reflejaban el humor de la luna de manera extraña.					
 				Nos invitó a sentarnos junto al fuego en la choza de piedra cuando quisiéramos, ya fuera para explorar los sueños o para recobrar fuerzas.					
 			Archetype/trifecta	Intuimos que los dos Trigones restantes podrían estar perdidos en los sueños.					
@@ -456,7 +456,7 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			Tronquero había regresado a cortar leñ
 			gourd/gourd	"""Esa partida aprendió a encontrar los espíritus silvanos y enviarlos al cielo... luego buscaron dónde obrar un milagro."""					
 			Archetype/trifecta	"""Querían activar los tres haces celestiales en el Claro Trigonal, pero no sabían dónde ni cuándo aparecerían los Trigones."""					
 				"""Vagaron sin rumbo durante largo tiempo por el antiguo camino hacia Mingi Tau... hasta que, exhaustos, se detuvieron."""					
-				"""Entonces, un espectro inmortal los diezmó a la vera del antiguo camino, donde aún hoy permanecen sus tumbas."""					
+				"""Entonces, un espectro inmortal los diezmó cerca del antiguo camino, donde aún hoy permanecen sus tumbas."""					
 				Le dijimos a Tronquero que era un buen relato, aunque no nos asustó demasiado.					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
 ARCHETYPE_MOONGROTTO	The Archetype			Veo que has logrado alterar el humor de la luna en la Gruta Lunar. Me pregunto cuánto durará esta Paradoja Temporal.					
@@ -479,7 +479,7 @@ MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			Además... llevar el Megatomo a 
 				Nos sentíamos algo consumidos... probablemente tenía algo que ver con el fulgor de todos esos rayos láser cósmicos.					
 				Al amainar la luz y el sonido, nos encontramos empapados por la fría lluvia en medio de un Parlamento de Árboles.					
 GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Samae del encuentro onírico con el Trigón de la Luna Sombría y de reconstruir la Tríada Trigonal.					
-				Le contamos cómo habíamos neutralizado el odioso ataque arcoíris del Trigón de la Luna Sombría y ella respondió '¡Qué genial!'.					
+				Le contamos cómo habíamos neutralizado el odioso ataque arcoíris del Trigón de la Luna Sombría y respondió '¡Qué genial!'.					
 				No parecía molestarle escuchar nuestras historias extravagantes.					
 LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			El leñador veía que nuestros paseos oníricos y el obrar de milagros habían pasado factura a nuestra salud física.					
 			Archetype/trifecta	Tronquero nos preguntó si habíamos visitado a Perrero en el Claro Trigonal... ¿Quizás podríamos activar otro haz celestial?					
@@ -488,7 +488,7 @@ ARCHETYPE_DARKMOONTRIGONCOLLECTED	The Archetype			Ahora la pregunta es... ¿qué
 				Me han informado que has recuperado el Trigón de la Luna Sombría. Es una noticia realmente extraordinaria.					
 LOGFELLA_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	El leñador no reconoció la llave que encontramos y no tenía ni idea de para qué era.					
 			AdventureUI/keyItem	¿...?					
-GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae vio la llave que encontramos y nos animó a estar atentos por si veíamos una puerta trancada.					
+GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae vio la llave que encontramos y nos animó a estar atentos por si veíamos una puerta cerrada.					
 				No tenía ninguna otra idea, pero recordamos algo que habíamos visto en el antiguo camino hacia Mingi Tau.					
 ARCHETYPE_GROTTOPARADOX	The Archetype								
 				Una vez que el humor de la luna ha sido alterado en la Gruta Lunar, la...					
@@ -527,12 +527,12 @@ GIRL_CRESCENTWAX	The Scythian			Samae estaba emocionada, ¡Hoy comenzaba un nuev
 ARCHETYPE_CRESCENTWAX	The Archetype			Un destello de luna creciente ha aparecido, marcando el inicio de un nuevo ciclo lunar de veintiocho días.			118	045.jpg	Y4E5Q
 LOGFELLA_HALFWAX	The Scythian			El leñador admitió que sí, de hecho, había cortado una buena cantidad de leña en su vida.					
 				Habló de fríos inviernos y profundas nevadas aquí, en las majestuosas montañas del Cáucaso, que se alzaban sobre las estepas de Escitia.					
-				El leñador esperaba tener suficiente comida y leña para sobrevivir los largos y fríos meses venideros.					
+				Esperaba tener suficiente comida y leña para sobrevivir los largos y fríos meses venideros.					
 GIRL_HALFWAX	The Scythian			En mi sueño de anoche, estaba caminando por el bosque y tenía un antojo terrible de un muffin, pero no había ni uno solo.			108	078.jpg	07D87
 ARCHETYPE_HALFWAX	The Archetype			Algunos folcloristas lunáticos afirman que no existe una relación causal entre la locura y el humor de la luna.					
-LOGFELLA_ALMOSTWAX	The Scythian			El leñador dijo que nunca solía pensar demasiado en la Masa Gogolítica y en la desierta montaña de Mingi Tau.					
+LOGFELLA_ALMOSTWAX	The Scythian			El leñador dijo que casi nunca pensaba en la Masa Gogolítica y en la desierta montaña de Mingi Tau.					
 				Sin embargo, mencionó que últimamente la presencia espectral de la Masa Gogolítica había comenzado a acosarlo.					
-				El leñador admitió que le daban escalofríos cuando la Luna Radiante impera... y cuando la Luna Sombría reina.					
+				De hecho, el leñador admitió que le daban escalofríos cuando la Luna Radiante impera... y cuando la Luna Sombría reina.					
 GIRL_ALMOSTWAX	The Scythian			Samae comentó algo sobre la luna creciente y se preguntó cuánto tiempo pasaría hasta que la Luna Radiante imperara en el cielo.					
 ARCHETYPE_ALMOSTWAX	The Archetype			La luna crece ligeramente cada día... en unos pocos días, la Luna Radiante imperará... ¿Y eso qué?			165	046.jpg	P4B6A
 LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se comportaba de manera extraña cada vez que la Luna Radiante impera en el cielo.			135	061.jpg	M6F1I
@@ -540,7 +540,7 @@ GIRL_BRIGHTMOON	The Scythian			Samae habló sobre paseos oníricos por el bosque
 				Mencionó el aire fresco de la mañana y una isla imposible en medio de un apacible lago.					
 ARCHETYPE_BRIGHTMOON	The Archetype			Sal afuera y mira hacia arriba. ¡Maravíllate con la Luna Radiante que impera en el cielo!			95	079.jpg	07D95
 LOGFELLA_ALMOSTWANE	The Scythian			Al leñador no le iba mucho el folclore y admitió que normalmente se quedaba dormido, aunque poseía un buen conocimiento al respecto.					
-				El leñador era conocedor de todos los detalles sobre Mingi Tau y por qué era conocido como el Reino de las Nubes.					
+				Conocía todos los detalles sobre Mingi Tau y por qué era conocido como el Reino de las Nubes.					
 				Sabía que Mingi Tau era la montaña más alta del mundo conocido, incluso más que el Monte Olimpo, donde habitaban los dioses aqueos.					
 				Asimismo, sabía que la cima de Mingi Tau, siempre envuelta en nubes, era considerada la entrada al Arremolinado Infinito.					
 				El leñador nunca se había atrevido a poner un pie en las laderas malditas de Mingi Tau, y nunca lo haría.					
