@@ -3,7 +3,7 @@ GIRL_TONGUES	Girl			Lejos de las estepas asoladas por la guerra de Escitia, hall
 				Los montañeses del Cáucaso la llamaban Samae y parecía simpática. #obvio					
 SIGN_TADPOL	The Scythian			"""Donde el fuego alumbra, el hogar se vislumbra."" #threegutrecordsx100pre"					
 SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia son todos reinos de los hombres. Mingi Tau es el Reino de las Nubes."""					
-SIGN_CHASM	The Scythian			Al borde del Precipicio Peligroso había una roca grabada con el símbolo de una espada alzada hacia el cielo, bajo los colores del arcoíris.					
+SIGN_CHASM	The Scythian			Al borde del Precipicio Peligroso había una roca grabada con el símbolo de una espada alzada al cielo, bajo los colores del arcoíris.					
 				Los escitas aborrecemos los arcoíris. #odiososarcoiris			21	002.jpg	40C27
 SIGN_BIRDTREE	The Scythian			Por un sendero lateral encontramos una roca grabada con una serie de símbolos indescifrables.					
 				Entre los símbolos también había varios pictogramas lunares.					
@@ -35,7 +35,7 @@ LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó 
 				Estábamos más que listos para mantener pulsado en el camino ¡y a mover, mover el bote!					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Tronquero iba a quedarse aquí esperando a que volviéramos con el Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Tronquero había elegido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
-				Parecía saberlo todo acerca del odioso arcoíris y el símbolo cercano que representaba una espada alzada hacia el cielo.					
+				Parecía saberlo todo acerca del odioso arcoíris y el símbolo cercano que representaba una espada alzada al cielo.					
 				Y aun así, no nos dio ninguna pista sobre qué hacer a continuación, lo cual nos fastidió un poco, la verdad.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador había visto alguna criatura monstruosa y decidió dejar que nos encargáramos de ello.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos el Megatomo y Tronquero estaba completamente listo para mover, mover el bote hasta su refugio.					
@@ -305,18 +305,18 @@ ARCHETYPE_GHOULINTRO	The Archetype
 				Bueno, aquí estamos. Esta breve sesión marcará el fin del tratamiento de S:S&S EP.					
 				El funesto cometido de La Escita está casi cumplido.					
 				Por desgracia, La Escita ha visto su cuerpo y psique gravemente debilitados por la espadancia; ella está al borde de la muerte.			162	047.jpg	J4F7B
-			Archetype/trifecta	Todo lo que resta es desvelar los secretos del Claro Trigonal y subir el Megatomo al Arremolinado Infinito en la cima de Mingi Tau.					
+			Archetype/trifecta	Todo lo que resta es desvelar los secretos del Claro Trigonal y transferir el Megatomo al Arremolinado Infinito en la cima de Mingi Tau.					
 				Pulsa 'jugar' solo si tienes el valor de presenciar el terrible tormento del martirio.					
 END	The Scythian			En la cima de Mingi Tau detonamos el Megatomo y lo precipitamos al Arremolinado Infinito.					
-END_CHEAT	The Scythian			En la cima de Mingi Tau subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #trampa					
-END_CHEAT_NOBOOR	The Scythian			En la cima de Mingi Tau subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #trampa #sincanoso					
-END_CHEAT_PSYCHO	The Scythian			En la cima de Mingi Tau subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #trampa #psicopata					
-END_CHEAT_LOVE	The Scythian			En la cima de Mingi Tau subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #trampa #amor			202	048.jpg	D4A81
-END_MOONGROTTO_PSYCHO	The Scythian			En la cima de Mingi Tau subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #grutalunar #psicopata			180	049.jpg	74D9P
-END_MOONGROTTO_LOVE	The Scythian			En la cima de Mingi Tau subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #grutalunar #amor			176	050.jpg	Y5F0P
-END_HONEST_PSYCHO	The Scythian			En la cima de Mingi Tau subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #honesto #psicopata			179	051.jpg	M5C1H
-END_HONEST_LOVE	The Scythian			En la cima de Mingi Tau subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #honesto #amor			177	052.jpg	55E2B
-END_HONEST_NOBOOR	The Scythian			En la cima de Mingi Tau subimos el Megatomo a la seguridad eterna del Arremolinado Infinito. #honesto #sincanoso			178	053.jpg	75G3V
+END_CHEAT	The Scythian			En la cima de Mingi Tau transferimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #trampa					
+END_CHEAT_NOBOOR	The Scythian			En la cima de Mingi Tau transferimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #trampa #sincanoso					
+END_CHEAT_PSYCHO	The Scythian			En la cima de Mingi Tau transferimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #trampa #psicopata					
+END_CHEAT_LOVE	The Scythian			En la cima de Mingi Tau transferimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #trampa #amor			202	048.jpg	D4A81
+END_MOONGROTTO_PSYCHO	The Scythian			En la cima de Mingi Tau transferimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #grutalunar #psicopata			180	049.jpg	74D9P
+END_MOONGROTTO_LOVE	The Scythian			En la cima de Mingi Tau transferimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #grutalunar #amor			176	050.jpg	Y5F0P
+END_HONEST_PSYCHO	The Scythian			En la cima de Mingi Tau transferimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #honesto #psicopata			179	051.jpg	M5C1H
+END_HONEST_LOVE	The Scythian			En la cima de Mingi Tau transferimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #honesto #amor			177	052.jpg	55E2B
+END_HONEST_NOBOOR	The Scythian			En la cima de Mingi Tau transferimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #honesto #sincanoso			178	053.jpg	75G3V
 GIRL_GHOULTHOUGHTS	Girl			¿Sabe que es posible detener a la Masa Gogolítica tocando su calavera con espadancia? Probablemente no.					
 				Espero que La Escita sepa que debe mantener pulsado el camino para mover, mover el bote bien rápido... si no lo hace, estará frita.					
 				¿Dónde estoy? ¿Qué ha pasado? Lo último que recuerdo es que estaba caminando en sueños por el bosque cuando vi una inquietante luz rosada.					
@@ -667,7 +667,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Capy lanzó el maravilloso Grindstone en 2019 y continúa añadiendo contenido para los jugadores (Apple Arcade + Switch + PC + PS + Xbox).					
 				Mientras tanto, a partir de 2023, el equipo está cocinando un delicioso nuevo juego en su caldero de juegos.					
 				* * * ¿QUÉ ES S:S&S EP? * * *					
-				S:S&S EP pretende ser un valiente experimento en Cine Interactivo, sea lo que eso signifique.					
+				S:S&S EP pretende ser un valiente experimento en Input Output Cinema, sea lo que se supone que sea eso.					
 				S:S&S EP es un enfoque fresco al videojuego de aventura old school con énfasis en el estilo audiovisual.					
 				S:S&S EP se inspira en el trabajo de creadores pioneros de videojuegos Shigeru Miyamoto, Jordan Mechner, Eric Chahi y Fumito Ueda.					
 				S:S&S EP es un sueño febril de Famicom.			38	082.jpg	28B24
