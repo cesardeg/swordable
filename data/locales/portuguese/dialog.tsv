@@ -36,7 +36,7 @@ LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	O lenhador confirmou que e
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Troncadeiro ia ficar aqui esperando até que voltássemos com o Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Troncadeiro escolheu relaxar em um abrigo de pedra perto do Precipício Perigoso.					
 				Parecia saber tudo sobre o odioso arco-íris e o símbolo que representava uma espada apontada ao céu.					
-				E mesmo assim, não deu nenhuma pista sobre o que fazer, o que, a bem da verdade, nos deixou meio atravessado.					
+				E mesmo assim, não deu nenhuma pista sobre o que fazer, o que, a bem da verdade, nos deixou meio atravessados.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		O lenhador tinha visto algum tipo de monstro assustador e decidiu deixar que nós cuidássemos disso.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos o Megatomo e Troncadeiro estava mais do que pronto para remexer, remexer até seu refúgio seguro.					
 				Apesar da tempestade que se formava, uma pequena canção começou a brotar em nosso coração.					
@@ -73,15 +73,15 @@ LOGFELLA_STORM	The Scythian			Troncadeiro parou de cortar lenha devido à sinist
 			adventureUI/megatomeItem	Nos lembrou de como a tempestade havia estourado logo depois que recuperamos o Megatomo sob Mingi Tau.					
 				Será que ele estava insinuando sem muita sutileza que devíamos tentar dissipar a tempestade? #sim #nao #talvez					
 GIRL_STORM	The Scythian			Samae, a garota de cabelos escuros, sentia a aflição. #angustia					
-			gourd/gourd	Desde que a tempestade estourou, ela observava as sonoras espumas dos espíritos silvanos adormecidos nas florestas próximas.					
+			gourd/gourd	Desde que a tempestade estourou, ela observava as sussurrantes espumas dos espíritos silvanos adormecidos nas florestas próximas.					
 			gourd/gourd	Perguntou-se se os três espíritos poderiam ajudar a dissipar a tempestade. #sim					
 			gourd/gourd	Ela nos pediu que investigássemos as espumas que borbulhavam na insondável lagoa fora da cabana.					
 			gourd/gourd	Mencionou um espírito em uma campina próxima e outro em um curioso ninho onde três pássaros cantores se abrigavam da chuva.					
 			gourd/gourd	Ela nos pediu que buscássemos as espumas desses três espíritos e os enviássemos ao céu com a Canção da Espadância.					
 ARCHETYPE_SWORCERY	The Archetype			"""Chegou a hora de aprender a Canção da Espadância, uma técnica de expansão da consciência que revela uma dimensão musical mística."""					
 			gourd/gourd	"""Mantenha a calma e siga minhas instruções para despertar o espírito silvano que dorme nas frescas águas da insondável lagoa."""					
-ARCHETYPE_TADPOLES	The Archetype			Era evidente que o homem de roupas estranhas esperava que fizéssemos algo, mas não tínhamos ideia do que.					
-			gourd/gourd	"""Você vê as sonoras espumas na insondável lagoa? Um espírito silvano dorme ali e você deve despertá-lo."""					
+ARCHETYPE_TADPOLES	The Archetype			Estava mais do que claro que o homem de roupas estranhas esperava que fizéssemos algo, mas não tínhamos a menor ideia do quê.					
+			gourd/gourd	"""Você vê as sussurrantes espumas na insondável lagoa? Um espírito silvano dorme ali e você deve despertá-lo."""					
 			gourd/gourd	"""Mantenha pressionado sobre A Citiana para entoar a Canção da Espadância e acessar uma realidade dentro daquela que você já conhece."""					
 			gourd/gourd	"""Guie as duas pequenas criaturas nadando em direção ao local onde o espírito dorme e envie-as ao céu com três toques de espadância."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Samae se abrigava da chuva sob o amplo telhado de madeira do poço.					
@@ -104,7 +104,7 @@ INFO_WELLWHITESTAG	The Scythian			VIDA LONGA À NOVA CARNE
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Diante de uma insondável lagoa, descobrimos uma robusta cabana de pedra com um telhado de palha.					
 INFO_CABINWOODPILE	The Scythian			Perto da cabana, encontramos uma pilha de lenha, nada de mais.					
-INFO_SPUME	The Scythian			Localizamos as sutis e sonoras espumas de um espírito silvano adormecido. E agora... como o despertamos?					
+INFO_SPUME	The Scythian			Localizamos as sutis sussurrantes espumas de um espírito silvano imerso em sonho. E agora... como o despertamos?					
 INFO_NESTBOX	The Scythian			Vimos um curioso ninho, agora lar de uma colmeia de escória e vilania.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Vimos um desgastado ninho com uma inquietante semelhança a um rosto.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre uma ponte de toras no antigo caminho, erguia-se um sinistro mastro decorado com caveiras.					
@@ -181,7 +181,7 @@ GRAVE_HOLLOWGHOST	The Scythian			Dentro de uma titânica árvore oca, nos aproxi
 				"""Observe o humor da lua sem hesitar, e saberá quando estar, onde agir e como lá chegar."""					
 				"""E fique tranquilo, não quero assustar ninguém; é que brilhar assim faz parte de quem sou também."""					
 GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de uma titânica árvore oca, nos aproximamos de uma tumba solitária e um fantasma audacioso surgiu cantando uma rima maluca.			117	028.jpg	E2A80
-				"""Atrás de ti, no caminho encoberto, encontre as sonoras espumas com olhar desperto."""					
+				"""Atrás de ti, no caminho encoberto, encontre as sussurrantes espumas com olhar desperto."""					
 				"""Cinco espíritos silvanos envie ao céu em ascensão; obrarão um milagre de fulgor e amplidão, e o Trígono buscado virá em revelação."""					
 GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de uma titânica árvore oca, nos aproximamos de uma tumba solitária e um fantasma audacioso surgiu e nos contou algumas coisas.			117	028.jpg	E2A80
 				"""Busque um sinal dos espíritos silvanos e entoe a Canção da Espadância no local para revelar um Trígono oculto."""					
@@ -214,7 +214,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Troncadeiro mostrou-se alivi
 			AdventureUI/keyItem	Decidimos ficar com a chave e seguir pelo antigo caminho, além do muro de pedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Perguntamos ao lenhador se podíamos ficar com a chave e ele achou legal.					
 GIRL_FOUNDKEY	The Scythian			Por uma trilha lateral, encontramos Samae, completamente encharcada pela chuva.					
-			gourd/gourd	Ela ouvira as sutis e sonoras espumas dos espíritos silvanos além do muro de pedra, no antigo caminho para Mingi Tau.					
+			gourd/gourd	Ela ouvira as sutis sussurrantes espumas dos espíritos silvanos além do muro de pedra, no antigo caminho para Mingi Tau.					
 			gourd/gourd	Falou de altíssimas árvores que ladeavam um impetuoso rio.					
 			gourd/gourd	Mencionou tênues arco-íris que surgiam à beira do Precipício Perigoso.					
 			adventureUI/megatomeItem	...e então, receosa, sugeriu que consultássemos o Megatomo caso nos sentíssemos perdidos ou desorientados.					
@@ -226,10 +226,10 @@ GIRL_SUPERMOTHERTREE	Girl			Ao caminhar em sonhos, há uma calma emocionante qua
 				Nos sonhos, os lugares e espaços são sempre os mesmos, exceto quando variam de acordo com o humor da lua.					
 				Todas as noites desde que a tempestade se dissipou, tenho tido o mesmo sonho em que caminho pela floresta pouco antes do amanhecer.					
 ARCHETYPE_TREEHINT	The Archetype			Lembre-se de que o consumo de cogumelos florestais pode oferecer certa perspectiva dos fenômenos criptozoológicos e coisas do tipo.					
-				Busque as sonoras espumas dos espíritos silvanos e investigue seu entorno.					
+				Busque as sussurrantes espumas dos espíritos silvanos e investigue seu entorno.					
 				Uma vez que tenha entoado a Canção da Espadância, você pode tocar de leve a borda da tela para olhar ao redor (ou usar as setas).					
 ARCHETYPE_TREEHINT_NINSWITCH	The Archetype			Lembre-se de que o consumo de cogumelos florestais pode oferecer certa perspectiva dos fenômenos criptozoológicos e coisas do tipo.					
-				Busque as sonoras espumas dos espíritos silvanos e investigue seu entorno.					
+				Busque as sussurrantes espumas dos espíritos silvanos e investigue seu entorno.					
 				Uma vez que tenha entoado a Canção da Espadância, talvez seja bom olhar ao redor e observar o ambiente.					
 ARCHETYPE_MUSHROOMHINT	The Archetype			Há quem afirme que cogumelos adivinhatórios podem ter desempenhado um papel importante no desenvolvimento da psique humana.					
 				Evidências arqueológicas indicam que o uso xamânico de cogumelos para comunhão religiosa, adivinhação e cura é bastante antigo.					
@@ -278,7 +278,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				São tempos de angústia: uma sinistra tempestade cobriu o céu e as pessoas adoráveis que vivem na cabana estão desoladas.					
 				Desfazer a tempestade exigirá algum conhecimento em psiônica, criptozoologia e milagres...					
 			adventureUI/megatomeItem	1. O toque de um espadancista liberará o Megatomo, revelando os pensamentos não expressos das criaturas vivas e outros materiais esotéricos.					
-			gourd/gourd	2. Estranhos espíritos silvanos, fontes de espadância, dormem em lagos, florestas e campinas. Procure por suas sutis e sonoras espumas.					
+			gourd/gourd	2. Estranhos espíritos silvanos, fontes de espadância, dormem em lagos, florestas e campinas. Procure por suas sutis sussurrantes espumas.					
 			triangle/Triangle	3. O espadancista que puder localizar, invocar e domar a geometria cósmica do Trígono Dourado possuirá a habilidade de obrar milagres.					
 				Confusão? Palma, palma, não priemos cânico!			210	043.jpg	A4C31
 ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	Excelente! Você localizou e domou a geometria cósmica do Trígono Dourado.			86	044.jpg	24E4H
@@ -342,7 +342,7 @@ GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a 
 GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito silvano entre a mata no alto de um rochedo.					
 GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano em uma clareira isolada onde Jim Guthrie estava por acaso.			132	058.jpg	G5F8U
 GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano nas tranquilas águas de um lago onde uma pata-mãe agitava-se em pânico.					
-GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano onde o reflexo do lago era um pouco incongruente.			127	059.jpg	65D98
+GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano onde o reflexo do lago era imperceptivelmente incongruente.			127	059.jpg	65D98
 GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano em um aprazível lago sob um terceto de corujas.					
 GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Temos a estranha sensação de que, talvez, só talvez, seja a época dos milagres. #milagres					
 GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito silvano cercado por três pequenas cachoeiras.					
@@ -505,7 +505,7 @@ LOGFELLA_FOUNDATION	Logfella	AdventureUI/tweetIconBabelBook		...
 				...					
 SCYTHIAN_FOUNDATION	The Scythian			Despertamos um espírito silvano em uma insondável lagoa com lírios diante da cabana de pedra. Não sabemos o que significa.					
 				Com uma incessante tempestade sobre nós, aprendemos a entoar a Canção da Espadância e a despertar um espírito silvano adormecido.					
-				Espere... por que estou falando no singular? Não era para a história ser no plural? #erratadeediçao					
+				Espere... por que estou falando no singular? Não era para a história ser no plural? #erratadeedicao					
 				Meus pensamentos estão mesmo em ordem? Será que pensei isso há poucos segundos...?					
 				Isso é o Megatomo? Ele absorve 'transmissões de pensamento linguístico'? Estou lendo meus pensamentos enquanto os penso? Hmm...					
 GIRL_FOUNDATION	Girl	AdventureUI/tweetIconBabelBook		...					
@@ -567,7 +567,7 @@ DARKMOONLOOMS_ARCHETYPE	The Archetype			A Lua Sombria se aproxima, o fim do cicl
 DARKMOONBEGINS_ARCHETYPE	The Archetype			Contemple: A Lua Sombria!			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			Ao caminhar em sonhos, encontrei um Parlamento de Árvores atingido por um raio e senti a presença de algo profundamente sagrado.					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Ontem à noite, ouvi o som de uma música vibrante que se filtrava pelos bosques atrás de minha cabana. Que raios é isso?					
-DARKMOON_DOGFELLATHOUGHTS	Dogfella			Au Au Au. Em meu estado de sonho, só vislumbrei as sutis e sonoras espumas dos espíritos silvanos.					
+DARKMOON_DOGFELLATHOUGHTS	Dogfella			Au Au Au. Em meu estado de sonho, só vislumbrei as sutis sussurrantes espumas dos espíritos silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Reconstruímos a Tríade Trigônica e agora somos heróis.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Assassinamos inexplicavelmente 3 coelhos indefesos.					
 RABBITS_7MURDERS	The Scythian			Assassinamos inexplicavelmente 7 coelhos indefesos. É esta a evidência de uma mente transtornada?					
@@ -624,7 +624,7 @@ ARCHETYPE_CREDITS	The Archetype
 				* * * O DOMÍNIO DO CANADÁ * * *					
 			Logos/omdc	Este projeto foi possível graças ao apoio financeiro da Ontario Creates.					
 				* * * AMAMOS VOCÊS DEMAIS * * *					
-				Um grito para todos que alinharam as estrelas!					
+				Um salve para todos que alinharam as estrelas!					
 				Muito amor às incríveis comunidades indie de videogames de Toronto e à gente encantadora da The Hand Eye Society, TOJam e Gamercamp.					
 				A todos que apoiaram este projeto: obrigado.					
 				* * * PROCESSO * * *					
