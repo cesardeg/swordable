@@ -80,17 +80,17 @@ BRIGHTMOON_AFTER_MORE	DÍAS
 TIME_PARADOX	* PARADOJA TEMPORAL *	
 ERRAND_END	TU FUNESTO COMETIDO HA LLEGADO A SU FIN.	
 BEWARE_BOOR	CUIDADO CON EL CANOSO TOSCO	
-MOVE_CONTROLS	PULSA Y MANTÉN PARA MOVER	
+MOVE_CONTROLS	PULSA & MANTÉN PARA MOVER	
 STOP_CONTROLS	¿TAP TAP PARA PARAR?	
 STOP_CONTROLS_ARROW	< < ¿TAP TAP PARA PARAR?	
 SLAY	¿ANIQUILAR?	
 ZOOM_CONTROLS	< < <  ¿ACERCAR? > > >	
-LOOK_CONTROLS	MANTÉN Y DESLIZA EN EL AURA DE ESPADANCIA	
+LOOK_CONTROLS	PULSA, MANTÉN & DESLIZA EL AURA	
 LOOK_CONTROLS_2	DESLIZA PARA MIRAR ALREDEDOR	
 TONGUE_TEXT	"Inclina, desenvaina y alza tu espada escita hacia el arcoíris por unos segundos, y ten fe."	
-TOUCH_HOLD	PULSA Y MANTÉN	
-TOUCH_HOLD_ARROW_LEFT	< < PULSA Y MANTÉN	
-TOUCH_HOLD_ARROW_RIGHT	PULSA Y MANTÉN > >	
+TOUCH_HOLD	PULSA & MANTÉN	
+TOUCH_HOLD_ARROW_LEFT	< < PULSA & MANTÉN	
+TOUCH_HOLD_ARROW_RIGHT	PULSA & MANTÉN > >	
 TIP_TAP_QUESTION	¿TAP TAP?	
 TIP_TAP_ARROW_LEFT	< < TAP TAP	
 TIP_TAP_ARROW_LEFT_Q	< < ¿TAP TAP?	
@@ -166,7 +166,7 @@ ITALIAN_SPECIAL	À È É Ì Ò Ó Ù º ª « » ‹ › € ª
 GERMAN_SPECIAL	Ä ä Ö ö Ü ü ẞ ß	
 SPANISH_SPECIAL	Á É Í Ó Ú Ñ Ü ¿ ¡ º ª « » ‹ › €	
 TOUCHTRONIC_NINSWITCH	TOUCHTRONIC	
-POINTCLICK_NINSWITCH	APUNTAR Y HACER CLIC	
+POINTCLICK_NINSWITCH	APUNTAR & HACER CLIC	
 FAMICOM_NINSWITCH	FAMICOM	
 	Sensibilidad del cursor de joystick	
 SOUTHPAW_NINSWITCH	ZURDO/A	
@@ -174,10 +174,10 @@ NORTHPAW_NINSWITCH	DIESTRO/A
 JOYCON_STRAP_MSG_NINSWITCH	Cuando uses los controles Joy-Con desmontables, sigue las instrucciones, fija las correas y sujétalos bien.	
 PHOTOSENSITIVIY_MSG_NINSWITCH	Existe la posibilidad de que un porcentaje pequeño de personas sufra ataques epilépticos ante la exposición a imágenes determinadas, entre las que se incluyen patrones lumínicos o luces parpadeantes. La exposición a patrones definidos o fondos en una pantalla de computadora o durante un videojuego puede provocar un ataque de epilepsia a dichas personas. Algunas condiciones pueden instigar síntomas epilépticos no detectados incluso en personas que no tienen antecedentes de convulsiones ni epilepsia.	
 PHOTOSENSITIVIY_MSG_NINSWITCH2	Si tú o alguien de tu familia sufren de epilepsia, consulta a un médico antes de jugar. Deja de usar el juego de inmediato y consulta a un médico antes de retomarlo si presentas alguno de los síntomas siguientes mientras juegas: mareos, problemas en la vista, contracciones oculares o musculares, pérdida de conocimiento, desorientación, cualquier movimiento involuntario o convulsiones.	
-POINTCLICK_CURSORSENS_NINSWITCH	SENSIBILIDAD DEL CURSOR DE APUNTAR Y HACER CLIC	
+POINTCLICK_CURSORSENS_NINSWITCH	SENSIBILIDAD DEL CURSOR DE APUNTAR & HACER CLIC	
 FAM_CURSOR_NOT_USED	Sensibilidad del cursor de FAMICOM	
-POINTCLICK_PROMPT_NINSWITCH	El modo Apuntar y hacer clic permite jugar con un solo Joy-Con como puntero. Se disfruta más cuando juegas en un televisor. ¿Seguro que quieres activar el modo Apuntar y hacer clic?	
-POINTCLICK_PROMPT_ALT_NINSWITCH	El modo Apuntar y hacer clic permite jugar con un solo Joy-Con como puntero. Se disfruta más cuando juegas en un televisor. ¿Seguro que quieres activar el modo Apuntar y hacer clic?	
+POINTCLICK_PROMPT_NINSWITCH	El modo Apuntar & hacer clic permite jugar con un solo Joy-Con como puntero. Se disfruta más cuando juegas en un televisor. ¿Seguro que quieres activar el modo Apuntar & hacer clic?	
+POINTCLICK_PROMPT_ALT_NINSWITCH	El modo Apuntar & hacer clic permite jugar con un solo Joy-Con como puntero. Se disfruta más cuando juegas en un televisor. ¿Seguro que quieres activar el modo Apuntar & hacer clic?	
 SWAP_STICKS_NINSWITCH	INVERTIR JOYSTICKS	
 PLAY_MENU_NINSWITCH	JUGAR	
 CREDITS_MENU_NINSWITCH	CRÉDITOS	
@@ -188,7 +188,7 @@ CNTRL_MOVE_CURSOR_ALT	<switch_button_rightanalogstick> MOVER CURSOR
 SITCK_SENSITIVITY_NINSWITCH	SENSIBILIDAD DEL JOYSTICK	
 MOTION_SENSITIVITY_NINSWITCH	SENSIBILIDAD DE MOVIMIENTO	
 POINTER_SENSITIVITY_NINSWITCH	SENSIBILIDAD DEL PUNTERO	
-ENABLE_POINTCLICK_NINSWITCH	¿HABILITAR CONTROLES DE APUNTAR Y HACER CLIC?	
+ENABLE_POINTCLICK_NINSWITCH	¿HABILITAR CONTROLES DE APUNTAR & HACER CLIC?	
 ENABLE_GAMEPAD_NINSWITCH	¿HABILITAR CONTROLES DE GAMEPAD?	
 ENABLE_FAMICOM_NINSWITCH	¿HABILITAR CONTROLES DE FAMICOM?	
 ENABLE_TOUCHTRONIC_NINSWITCH	¿HABILITAR CONTROLES TÁCTILES?	

@@ -80,17 +80,17 @@ BRIGHTMOON_AFTER_MORE	DIAS
 TIME_PARADOX	* PARADOXO TEMPORAL *	
 ERRAND_END	SUA FUNESTA MISSÃO CHEGOU AO FIM.	
 BEWARE_BOOR	CUIDADO COM O PATIFE GRISALHO	
-MOVE_CONTROLS	PRESSIONE E SEGURE PARA MOVER	
+MOVE_CONTROLS	PRESSIONE & SEGURE PARA MOVER	
 STOP_CONTROLS	TAP TAP PARA PARAR?	
 STOP_CONTROLS_ARROW	< < TAP TAP PARA PARAR?	
 SLAY	ANIQUILAR?	
 ZOOM_CONTROLS	< < <  AMPLIAR? > > >	
-LOOK_CONTROLS	SEGURE E DESLIZE NA AURA DE ESPADÂNCIA	
+LOOK_CONTROLS	PRESSIONE, SEGURE & DESLIZE NA AURA	
 LOOK_CONTROLS_2	DESLIZE PARA OLHAR AO REDOR	
 TONGUE_TEXT	"Incline, desembainhe e erga sua espada citiana em direção ao arco-íris por alguns segundos, e tenha fé."	
-TOUCH_HOLD	PRESSIONE E SEGURE	
-TOUCH_HOLD_ARROW_LEFT	< < PRESSIONE E SEGURE	
-TOUCH_HOLD_ARROW_RIGHT	PRESSIONE E SEGURE > >	
+TOUCH_HOLD	PRESSIONE & SEGURE	
+TOUCH_HOLD_ARROW_LEFT	< < PRESSIONE & SEGURE	
+TOUCH_HOLD_ARROW_RIGHT	PRESSIONE & SEGURE > >	
 TIP_TAP_QUESTION	TAP TAP?	
 TIP_TAP_ARROW_LEFT	< < TAP TAP	
 TIP_TAP_ARROW_LEFT_Q	< < TAP TAP?	
@@ -166,7 +166,7 @@ ITALIAN_SPECIAL	À È É Ì Ò Ó Ù º ª « » ‹ › € ª
 GERMAN_SPECIAL	Ä ä Ö ö Ü ü ẞ ß	
 SPANISH_SPECIAL	Á É Í Ó Ú Ñ Ü ¿ ¡ º ª « » ‹ › €	
 TOUCHTRONIC_NINSWITCH	TOUCHTRONIC	
-POINTCLICK_NINSWITCH	APONTAR E CLICAR	
+POINTCLICK_NINSWITCH	APONTAR & CLICAR	
 FAMICOM_NINSWITCH	FAMICOM	
 	Sensibilidade do cursor do analógico	
 SOUTHPAW_NINSWITCH	CANHOTO(A)	
@@ -174,10 +174,10 @@ NORTHPAW_NINSWITCH	DESTRO(A)
 JOYCON_STRAP_MSG_NINSWITCH	Ao usar os controles Joy-Con destacáveis, siga as instruções, prenda as alças e segure-os firmemente.	
 PHOTOSENSITIVIY_MSG_NINSWITCH	Uma pequena porcentagem de indivíduos pode sofrer ataques epiléticos quando expostos a certas imagens visuais, incluindo padrões de luz ou luzes piscantes. A exposição a certos padrões ou fundos em uma tela de computador, ou durante um videogame, pode induzir um ataque epilético nesses indivíduos. Certas condições podem induzir sintomas epiléticos não detectados anteriormente, mesmo em pessoas sem histórico de convulsões ou epilepsia.	
 PHOTOSENSITIVIY_MSG_NINSWITCH2	Se você ou alguém da sua família tem uma condição epilética, consulte seu médico antes de jogar. Se você sentir algum dos seguintes sintomas enquanto joga um videogame: tontura, visão alterada, espasmos oculares ou musculares, perda de consciência, desorientação, qualquer movimento involuntário ou convulsões - interrompa o uso imediatamente e consulte seu médico antes de retomar o jogo.	
-POINTCLICK_CURSORSENS_NINSWITCH	SENSIBILIDADE DO CURSOR DE APONTAR E CLICAR	
+POINTCLICK_CURSORSENS_NINSWITCH	SENSIBILIDADE DO CURSOR DE APONTAR & CLICAR	
 FAM_CURSOR_NOT_USED	Sensibilidade do cursor do FAMICOM	
-POINTCLICK_PROMPT_NINSWITCH	O modo Apontar e Clicar permite que você jogue com um único Joy-Con como ponteiro. Este modo é melhor aproveitado quando jogado em uma televisão. Tem certeza de que deseja ativar o modo Apontar e Clicar?	
-POINTCLICK_PROMPT_ALT_NINSWITCH	O modo Apontar e Clicar permite que você jogue com um único Joy-Con como ponteiro e é melhor aproveitado quando jogado em uma televisão. Tem certeza de que deseja ativar os controles de Apontar e Clicar?	
+POINTCLICK_PROMPT_NINSWITCH	O modo Apontar & Clicar permite que você jogue com um único Joy-Con como ponteiro. Este modo é melhor aproveitado quando jogado em uma televisão. Tem certeza de que deseja ativar o modo Apontar & Clicar?	
+POINTCLICK_PROMPT_ALT_NINSWITCH	O modo Apontar & Clicar permite que você jogue com um único Joy-Con como ponteiro e é melhor aproveitado quando jogado em uma televisão. Tem certeza de que deseja ativar os controles de Apontar & Clicar?	
 SWAP_STICKS_NINSWITCH	INVERTER ANALÓGICOS	
 PLAY_MENU_NINSWITCH	JOGAR	
 CREDITS_MENU_NINSWITCH	CRÉDITOS	
@@ -188,7 +188,7 @@ CNTRL_MOVE_CURSOR_ALT	<switch_button_rightanalogstick> MOVER CURSOR
 SITCK_SENSITIVITY_NINSWITCH	SENSIBILIDADE DO ANALÓGICO	
 MOTION_SENSITIVITY_NINSWITCH	SENSIBILIDADE DE MOVIMENTO	
 POINTER_SENSITIVITY_NINSWITCH	SENSIBILIDADE DO PONTEIRO	
-ENABLE_POINTCLICK_NINSWITCH	ATIVAR CONTROLES DE APONTAR E CLICAR?	
+ENABLE_POINTCLICK_NINSWITCH	ATIVAR CONTROLES DE APONTAR & CLICAR?	
 ENABLE_GAMEPAD_NINSWITCH	ATIVAR CONTROLES DE GAMEPAD?	
 ENABLE_FAMICOM_NINSWITCH	ATIVAR CONTROLES DE FAMICOM?	
 ENABLE_TOUCHTRONIC_NINSWITCH	ATIVAR CONTROLES TÁTEIS?	
