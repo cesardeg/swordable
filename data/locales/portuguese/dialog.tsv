@@ -26,7 +26,7 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		O lenhador lenhava l
 				Conhecia bem nossa funesta missão e concordou em nos guiar pelo antigo caminho.					
 				Ainda assim, tivemos a sensação de que ele não estava muito empolgado com isso.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		O lenhador esperou que continuássemos pela trilha até o início do antigo caminho.			12	008.jpg	U0D88
-LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Vencemos o abismo & nos sentimos gênios.			22	009.jpg	L0B9S
+LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Vencemos o abismo e não vamos mentir, nos sentimos gênios.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Contamos a Troncadeiro que buscávamos um pesado livro de sinistra espadância conhecido como o Megatomo.					
 			adventureUI/megatomeItem	O Megatomo espreitava em algum lugar nas trevas assombradas além do Precipício Perigoso, sob Mingi Tau.					
 			adventureUI/megatomeItem	Decidimos buscá-lo e depois escapar com vida.					
@@ -47,12 +47,12 @@ QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos o Megatomo & somos
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			Senhoras & senhores, que tal tocarem nestes dois pequenos espíritos silvanos para calibrar o seu sistema de som estéreo?					
+	The Archetype			Senhoras e senhores, que tal tocarem nestes dois pequenos espíritos silvanos para calibrar o seu sistema de som estéreo?					
 	The Archetype			Desde nosso experimento anterior em 2011, constatamos que as redes sociais têm um impacto catastrófico na sociedade.					
 				Nesta ocasião, promovemos o isolamento e a reflexão cheia de arrependimento.					
 				Agradecemos sinceramente por você ter decidido participar deste tratamento experimental para a aflição profunda da alma.					
 				Você verá que esta primeira sessão de S:S&S EP é bastante simples e geralmente dura entre 15 e 30 minutos.					
-				Tudo pronto? Pressione 'jogar' & vamos lá!					
+				Tudo pronto? Pressione 'jogar' e vamos lá!					
 ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP não produz a experiência transcendental, mas simplesmente pretende liberar o sistema nervoso de seus padrões habituais.					
 				Outro aspecto do 'Ambiente' é o cultural: as noções que predominam sobre realidade e normalidade. Evitaremos essa discussão por enquanto.					
 				O 'Ambiente' abrange o conforto, a segurança e o calor do local onde a experiência ocorre.					
@@ -171,7 +171,7 @@ GRAVE_CHASMGHOST	The Scythian			Ao fio do Precipício Perigoso, nos aproximamos 
 				"""Os outros membros da galera foram enterrados em um matagal perto do antigo caminho, junto à ponte de toras."""					
 			triangle/Triangle	"""Localizamos e domamos o Trígono Dourado com bastante facilidade, mas depois disso ficamos completamente parados."""					
 				"""Procuramos pelo Trígono da Lua Radiante, então decidimos nos sentar e observar o céu, esperando o humor da lua mudar."""					
-				"""Foi super chato. Eu não estava disposto a esperar dias e dias até que a Lua Radiante pairasse."""					
+				"""Foi super chato! Eu não estava disposto a esperar dias e dias até que a Lua Radiante pairasse."""					
 				"""Deixei esses otários vagarem sem rumo enquanto eu mergulhava mais a fundo neste ardil lógico-lunar."""					
 				O velho fantasma resplandecente contou que trapaceou ao sair de S:S&S EP e alterar a data e hora de seu dispositivo.					
 				Descreveu o quão incômodo foi o processo, mas nos disse que isso lhe permitiu alterar o humor da lua!					
@@ -390,8 +390,8 @@ GCLUE_WATERFALLS	Girl			Você já percebeu que às vezes as palavras soam apenas
 GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Existem muitos ditados estranhos aqui entre os montanheses do Cáucaso.					
 				Há um ditado aqui no Cáucaso que diz que uma floresta precisa do fogo assim como o fogo precisa da árvore.					
 YELLOWTRIGON_COLLECTED	The Scythian			Domamos o Trígono Dourado & somos os maiores.			85	067.jpg	36G7U
-PINKTRIGON_COLLECTED	The Scythian			Contra todas as probabilidades, conseguimos o Trígono da Lua Radiante.			155	068.jpg	56F8U
-BLUETRIGON_COLLECTED	The Scythian			Apesar de tudo, conquistamos o Trígono da Lua Sombria.			112	069.jpg	T6G94
+PINKTRIGON_COLLECTED	The Scythian			Conseguimos o Trígono da Lua Radiante. Contra ventos & marés.			155	068.jpg	56F8U
+BLUETRIGON_COLLECTED	The Scythian			Conquistamos o Trígono da Lua Sombria. Contra tudo & contra todos.			112	069.jpg	T6G94
 GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece que todos os espíritos da Lua Sombria foram enviados ao céu, então é novamente a época dos milagres. Eu adoro milagres!					
 JIM_HINT1_OFF	The Scythian			Em uma clareira isolada, encontramos um misterioso músico ao lado de uma fogueira crepitante.					
 JIM_PINKDAWN	The Scythian			Em uma clareira isolada, encontramos um misterioso músico ao lado de uma fogueira crepitante. #jimguthrie					
@@ -460,9 +460,9 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			Troncadeiro havia voltado a cortar lenha
 				Dissemos a Troncadeiro que era um bom conto, embora não nos tenha assustado tanto.					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
 ARCHETYPE_MOONGROTTO	The Archetype			Vejo que você conseguiu alterar o humor da lua na Gruta Lunar. Me pergunto quanto tempo esse Paradoxo Temporal durará.					
-MIRACLE2_ISLAND	The Scythian			Enquanto a Lua Radiante paira, obramos um estranho milagre lunar em uma ilha impossível no meio de um aprazível lago.			136	073.jpg	W7A3K
-MIRACLE2_PINKTRIGONCOLLECTED	The Scythian			Conseguimos o Trígono da Lua Radiante, pela glória & por puro orgulho. #trigonodomado			155	068.jpg	56F8U
-MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			Fomos tentados a abandonar completamente esta funesta missão, mas havia algo de atraente no martírio.					
+MIRACLE2_ISLAND	The Scythian			Enquanto a Lua Radiante paira, obramos um estranho milagre do reflexo lunar em uma ilha impossível no meio de um aprazível lago.			136	073.jpg	W7A3K
+MIRACLE2_PINKTRIGONCOLLECTED	The Scythian			Conseguimos o Trígono da Lua Radiante. Pela glória & por puro orgulho. #trigonodomado			155	068.jpg	56F8U
+MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			Sentimos a tentação de largar toda essa história de funesta missão, mas havia algo muito atraente no martírio.					
 				Bem, provavelmente não importará muito no fim. Afinal, entrar no Remoinhado Infinito não exige um exame físico.					
 				Era evidente que tantas caminhadas oníricas e Trígonos domados estavam começando a cobrar seu preço.					
 				Ao amainar a luz e o som, nos encontramos na margem de um lago com uma dor de cabeça terrível e o nariz sangrando.					
@@ -523,15 +523,15 @@ GIRL_DARKMOON	The Scythian			Samae falou sobre caminhadas oníricas pela florest
 ARCHETYPE_DARKMOON	The Archetype			Tenha cuidado. A Lua Sombria reina.			94	076.jpg	I7F69
 LOGFELLA_CRESCENTWAX	The Scythian			O lenhador falou sobre caminhadas oníricas pela floresta pouco antes do amanhecer, sob a luz de uma lua crescente.					
 				Ele falou sobre uma criatura que encontrou, algo ou alguém estranho e nu. Era um urso? Um homem? Ou... O Patife Grisalho?			57	077.jpg	I7G7U
-GIRL_CRESCENTWAX	The Scythian			Samae estava animada, hoje começava um novo mês lunar! Longos dias a esperavam sentada em rochas.					
+GIRL_CRESCENTWAX	The Scythian			Samae estava animada. Hoje começava um novo mês lunar! Longos dias a esperavam sentada em rochas.					
 ARCHETYPE_CRESCENTWAX	The Archetype			Um brilho de lua crescente apareceu, marcando o início de um novo ciclo lunar de vinte e oito dias.			118	045.jpg	Y4E5Q
 LOGFELLA_HALFWAX	The Scythian			O lenhador admitiu que sim, de fato, tinha cortado uma boa quantidade de lenha em sua vida.					
 				Ele falou sobre frios invernos e profundas neves aqui, nas majestuosas montanhas do Cáucaso, que se erguiam sobre as estepes da Cítia.					
 				Esperava ter comida suficiente e lenha para sobreviver aos longos e frios meses que se aproximavam.					
 GIRL_HALFWAX	The Scythian			Em meu sonho de ontem, eu estava caminhando pela floresta e estava desejando muito um muffin, mas não havia nenhum.			108	078.jpg	07D87
 ARCHETYPE_HALFWAX	The Archetype			Alguns folcloristas lunáticos afirmam que não há relação causal entre a loucura e o humor da lua.					
-LOGFELLA_ALMOSTWAX	The Scythian			O lenhador disse que raramente pensava na Massa Gogolítica e na deserta montanha de Mingi Tau.					
-				No entanto, ele mencionou que ultimamente a presença espectral da Massa Gogolítica começou a atormentá-lo.					
+LOGFELLA_ALMOSTWAX	The Scythian			O lenhador disse que raramente pensava na deserta montanha de Mingi Tau e na Massa Gogolítica.					
+				No entanto, ele mencionou que ultimamente sua presença espectral começou a atormentá-lo.					
 				De fato, o lenhador admitiu que sentia um frio na espinha quando a Lua Radiante paira... e quando a Lua Sombria reina.					
 GIRL_ALMOSTWAX	The Scythian			Samae comentou sobre a lua crescente e se perguntou quanto tempo levaria até que a Lua Radiante pairasse no céu.					
 ARCHETYPE_ALMOSTWAX	The Archetype			A lua cresce um pouco a cada dia... em poucos dias, a Lua Radiante pairará... E daí?			165	046.jpg	P4B6A
@@ -568,16 +568,16 @@ DARKMOONBEGINS_ARCHETYPE	The Archetype			Contemple: A Lua Sombria!			94	076.jpg	
 DARKMOON_GIRLTHOUGHTS	Girl			Ao caminhar em sonhos, encontrei um Parlamento de Árvores atingido por um raio e senti a presença de algo profundamente sagrado.					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Ontem à noite, ouvi o som de uma música vibrante que se filtrava pelos bosques atrás de minha cabana. Que raios é isso?					
 DARKMOON_DOGFELLATHOUGHTS	Dogfella			Au Au Au. Em meu estado de sonho, só vislumbrei as sutis sussurrantes espumas dos espíritos silvanos.					
-AMPHITHEATRE_OUTRO	The Scythian			Reconstruímos a Tríade Trigônica & agora somos heróis.			164	081.jpg	48G1Q
+AMPHITHEATRE_OUTRO	The Scythian			Reconstruímos a Tríade Trigônica & somos heróis.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Assassinamos inexplicavelmente 3 coelhos indefesos.					
-RABBITS_7MURDERS	The Scythian			Assassinamos inexplicavelmente 7 coelhos indefesos. É esta a evidência de uma mente transtornada?					
+RABBITS_7MURDERS	The Scythian			Assassinamos inexplicavelmente 7 coelhos indefesos. Será isso evidência de uma mente transtornada?					
 RABBITS_13MURDERS	The Scythian			Assassinamos inexplicavelmente 13 coelhos indefesos.					
 RABBITS_17MURDERS	The Scythian			Assassinamos inexplicavelmente 17 coelhos indefesos. Somos imparáveis.					
 RABBITS_23MURDERS	The Scythian			Assassinamos inexplicavelmente 23 coelhos indefesos.					
-RABBITS_37MURDERS	The Scythian			Assassinamos inexplicavelmente 37 coelhos indefesos. Estamos curiosos para saber o que acontecerá se continuarmos com esta matança.					
-RABBITS_53MURDERS	The Scythian			Assassinamos inexplicavelmente 53 coelhos indefesos. Claramente, sofremos de um transtorno obsessivo-compulsivo.					
+RABBITS_37MURDERS	The Scythian			Assassinamos inexplicavelmente 37 coelhos indefesos. Temos curiosidade de ver o que acontecerá se continuarmos essa matança.					
+RABBITS_53MURDERS	The Scythian			Assassinamos inexplicavelmente 53 coelhos indefesos. Claramente padecemos de um transtorno obsessivo-compulsivo.					
 RABBITS_91MURDERS	The Scythian			Assassinamos inexplicavelmente 91 coelhos indefesos.					
-RABBITS_107MURDERS	The Scythian			Assassinamos inexplicavelmente 107 coelhos indefesos. Talvez nossa compulsão diminua se pararmos de contar?					
+RABBITS_107MURDERS	The Scythian			Assassinamos inexplicavelmente 107 coelhos indefesos. Talvez nossa compulsão assassina diminua se pararmos de contar?					
 ARCHETYPE_CREDITS	The Archetype								
 				S:S&S EP é um projeto colaborativo de videogame criado em Toronto de 2009 a 2011, na internet em swordandsworcery.com					
 			Logos/superbrothers	Conceito original da organização de arte e design Superbrothers A/V Inc. em superbrothersHQ.com					
@@ -684,8 +684,8 @@ ARCHETYPE_CREDITS	The Archetype
 				* * * ACABOU * * *					
 				Agora somos amigos cósmicos para sempre, combinado?			87	084.jpg	L8A48
 ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			Senhoras & senhores, que tal tocarem nestes dois pequenos espíritos silvanos para calibrar o seu sistema de som estéreo?					
+	The Archetype			Senhoras e senhores, que tal tocarem nestes dois pequenos espíritos silvanos para calibrar o seu sistema de som estéreo?					
 	The Archetype			Desde nosso experimento anterior em 2011, constatamos que as redes sociais têm um impacto catastrófico na sociedade.					
 				Nesta ocasião, promovemos o isolamento e a reflexão cheia de arrependimento.					
 				Você verá que esta primeira sessão de S:S&S EP é bastante simples e geralmente dura entre 15 e 30 minutos.					
-				Tudo pronto? Pressione 'jogar' & vamos lá!					
+				Tudo pronto? Pressione 'jogar' e vamos lá!					

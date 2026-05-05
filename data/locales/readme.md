@@ -100,8 +100,9 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 |---------|--------------|-------------------|
 | stone shelter | refugio de piedra | abrigo de pedra |
 | mountain temple | templo de la montaña | templo da montanha |
-| iron gate | portón de hierro | portão de ferro |
-| cavernous cave | vasta cueva | vasta caverna |
+| iron gate of the meadow | portón de hierro del prado | portão de ferro da campina |
+| cavernous cave of the meadow | colosal cueva del prado | colossal caverna da campina |
+| miracle of the meadow | milagro del prado | milagre da campina |
 | titanic hollow tree | titánico árbol hueco | titânica árvore oca |
 | parliament of trees | Parlamento de Árboles | Parlamento de Árvores |
 
@@ -185,6 +186,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | **Time of Woe** | Tiempos de Angustia | Tempos de Angústia | ✅ Session II Theme |
 | | | | |
 | linguistic thought transmission | transmisión de pensamiento lingüístico | transmissão de pensamento linguístico | ✅ |
+| oblique insight | visión reveladora | visão reveladora | ✅ The Archetype's clues |
  | mythopoetic psychocosmology | psicocosmología mitopoética | psicocosmologia mitopoética | ✅ |
  | set and setting | Disposición y Entorno | Preparação e Ambiente | ✅ Adapted concepts |
 
@@ -246,6 +248,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | equipped | equipado | equipado | ✅ |
 | scroll down | desplázate hacia abajo | role para baixo | ✅ |
 | rotate to reveal | rota para revelar | rotacione para revelar | ✅ |
+| BELIEVE | CONFÍA | ACREDITE | ✅ UI Action prompt |
 
 ### Menu/System
 
@@ -281,7 +284,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 |---------|--------------|-------------------|-------|
 | amirite? | ¿no? / ¿verdad? | Fala sério, né? | ✅ Casual agreement / Exasperation |
 | Y'know | Sabes / Ya sabes | Sabe / Você sabe | ✅ |
-| Whoa | Vaya / Guau | Au / Nossa | ✅ Context dependent |
+| Whoa | Vaya / Guau | Nossa / Ué / Eita | ✅ Context dependent (Ué/Eita for confusion) |
 | Yikes! | ¡Madre mía! / ¡Caray! | Credo! / Caramba! | ✅ Context dependent (Ghost vs Archetype) |
 | Hmm... | Hmm... | Hmm... | ✅ Keep as is |
 | cool | genial / buena gente | legal / incrível | ⚠️ Context: Person vs Situation |
@@ -331,7 +334,11 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 - ✅ **Correct:** `...cómo nos volvimos tan listos.`
 - ❌ **Incorrect:** `...cómo nos volvimos tan listas.`
 
-
+#### 7. **Stylistic Ampersands (`&`)**
+- ✅ **UI Instructions**: Use for mechanical button prompts (e.g., `PULSA & MANTÉN`).
+- ✅ **Ceremonials & Signs**: Use in high-impact ceremonial dialogue, ancient signs, and milestones to preserve the game's quirky aesthetic (e.g., `Cimeria, Asiria & Persia`).
+- ❌ **Standard Prose**: Do NOT use in regular descriptive prose or everyday dialogue to avoid visual clutter.
+- 💡 **Exception (Trigon Collections)**: While milestones generally use `&`, the specific Trigon collection achievements use a deadpan, two-sentence structure without an ampersand (e.g., `Domamos el Trigón Dorado. Somos lo máximo.`) to match the dry humor of the English source.
 
 ---
 
@@ -358,6 +365,12 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 - **"fogo"** = fire (casual references)
 - **"lareira"** = hearth (formal/poetic contexts)
 - Special phrase: **"Onde a lareira arde, o lar faz alarde"** ✅ (Poetic wordplay using rhyme and meter).
+
+#### 5. **Stylistic Ampersands (`&`)**
+- ✅ **UI Instructions**: Use for mechanical button prompts (e.g., `PRESSIONE & SEGURE`).
+- ✅ **Ceremonials & Signs**: Use in high-impact ceremonial dialogue, ancient signs, and milestones to preserve the game's quirky aesthetic (e.g., `Cítia, Ciméria, Assíria & Pérsia`).
+- ❌ **Standard Prose**: Do NOT use in regular descriptive prose or everyday dialogue to avoid visual clutter.
+- 💡 **Exception (Trigon Collections)**: While milestones generally use `&`, the specific Trigon collection achievements use a deadpan, two-sentence structure without an ampersand (e.g., `Domamos o Trígono Dourado. Somos os maiores.`) to match the dry humor of the English source.
 
 ### Verb Strategy for "We spied..." (ES/PT)
 
