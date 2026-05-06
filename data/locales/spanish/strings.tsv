@@ -86,7 +86,7 @@ STOP_CONTROLS_ARROW	< < ¿TAP TAP PARA PARAR?
 SLAY	¿ANIQUILAR?	
 ZOOM_CONTROLS	< < <  ¿ACERCAR? > > >	
 LOOK_CONTROLS	PULSA, MANTÉN & DESLIZA EL AURA	
-LOOK_CONTROLS_2	DESLIZA PARA MIRAR ALREDEDOR	
+LOOK_CONTROLS_2	PULSA & DESLIZA PARA MIRAR ALREDEDOR	
 TONGUE_TEXT	"Inclina, desenvaina y alza tu espada escita hacia el arcoíris por unos segundos, y ten fe."	
 TOUCH_HOLD	PULSA & MANTÉN	
 TOUCH_HOLD_ARROW_LEFT	< < PULSA & MANTÉN	
@@ -101,10 +101,10 @@ TAP_ARROW_LEFT	< < TOCA
 MOON_TIME_1	hace instantes	
 MOON_TIME_2	hace un ratito	
 MOON_TIME_3	hace un rato	
-MOON_TIME_4	hace muchos días	
+MOON_TIME_4	en tiempos de antaño	
 MOON_TIME_5	hace muchas lunas	
 MOON_TIME_6	hace mucho tiempo	
-COSMIC_FRIENDS	AHORA SOMOS AMIGOS CÓSMICOS PARA SIEMPRE, ¿TRATO?	
+COSMIC_FRIENDS	AHORA SOMOS AMIGOS CÓSMICOS PARA SIEMPRE, ¿SÍ?	
 The Scythian	La Escita	
 Girl	Samae	
 Logfella	Tronquero	

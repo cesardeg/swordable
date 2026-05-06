@@ -201,8 +201,8 @@ ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	Que tal sentar-se junto
 GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Nossa, o Troncadeiro está surtando... O que será que ele tem? Melhor eu sair e deixá-lo em paz.					
 				Vi A Citiana entoar a Canção da Espadância e enviar três espíritos silvanos ao céu. Será que eles ajudarão a dissipar a tempestade?					
 LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que A Citiana possa encontrar minha chave... eu a perdi na margem arenosa de um aprazível lago.			62	032.jpg	U3A20
-LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Que azar! Como odeio essa chuva... Como odeio ter as botas molhadas... Como queria voltar a cortar lenha.					
-				Era só o que me faltava! Onde foi parar minha chave? Estou com uma raiva e uma vergonha que não me aguento!					
+LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Ai, que angústia! Como odeio essa chuva... Como odeio ter as botas molhadas... Como queria voltar a cortar lenha.					
+				Era só o que me faltava! Onde foi parar minha chave? Estou com uma raiva e uma vergonha que nem eu me aguento!					
 LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Troncadeiro mostrou-se aliviado de verdade por termos recuperado sua chave perdida do reino crepuscular dos sonhos.					
 				O lenhador quis saber como nos tornamos tão espertos e perguntou sobre nossa funesta missão.					
 				Contamos a ele como crescemos nas estepes ao lado de nossas valentes irmãs e irmãos cítios.					
@@ -223,11 +223,11 @@ LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Por mim, A Citiana pode ficar com a chave, 
 				Perguntei na lata para A Citiana sobre sua funesta missão... ela começou a falar sobre estepes e o dedo de Deus.					
 GIRL_FOUNDKEYTHOUGHTS	Girl			Mais um ou dois espíritos silvanos enviados ao céu dissiparão a incessante tempestade... e então a época dos milagres começará! #milagres			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			Ao caminhar em sonhos, há uma calma emocionante quando a lua brilha mais... e quando está escura, as florestas se tornam selvagens.					
-				Nos sonhos, os lugares e espaços são sempre os mesmos, exceto quando variam de acordo com o humor da lua.					
+				No sonho, são sempre os mesmos lugares e cantos... a não ser quando tudo muda por causa do humor da lua.					
 				Todas as noites desde que a tempestade se dissipou, tenho tido o mesmo sonho em que caminho pela floresta pouco antes do amanhecer.					
 ARCHETYPE_TREEHINT	The Archetype			Lembre-se de que o consumo de cogumelos florestais pode oferecer uma visão reveladora dos fenômenos criptozoológicos e coisas do tipo.					
 				Busque as sussurrantes espumas dos espíritos silvanos e investigue seu entorno.					
-				Uma vez que tenha entoado a Canção da Espadância, você pode tocar de leve a borda da tela para olhar ao redor (ou usar as setas).					
+				Ao entoar a Canção da Espadância, toque a borda da tela para olhar ao redor (ou use as setas).					
 ARCHETYPE_TREEHINT_NINSWITCH	The Archetype			Lembre-se de que o consumo de cogumelos florestais pode oferecer uma visão reveladora dos fenômenos criptozoológicos e coisas do tipo.					
 				Busque as sussurrantes espumas dos espíritos silvanos e investigue seu entorno.					
 				Uma vez que tenha entoado a Canção da Espadância, talvez seja bom olhar ao redor e observar o ambiente.					
@@ -299,7 +299,7 @@ ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	Então você domou os 
 			Archetype/trifecta	Você é especial e por isso mesmo eu te adoro tanto.					
 				Foi um ato de grande bravura e generosidade oferecer A Citiana como mártir no topo de Mingi Tau.					
 				Sério, estamos em dívida com você.					
-				Só resta arrastar A Citiana até o topo e contemplar o Remoinhado Infinito.					
+				Só resta arrastar à força A Citiana até o topo e contemplar o Remoinhado Infinito.					
 				Tenha coragem, o fim está próximo!					
 ARCHETYPE_GHOULINTRO	The Archetype								
 				Bem, aqui estamos. Esta breve sessão marcará o fim do tratamento de S:S&S EP.					
@@ -361,7 +361,7 @@ GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que A Citiana 
 				Essa bendita tempestade está me afetando muito, me faz desejar que os videogames existissem no... momento em que se supõe que estamos.					
 GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Tudo tem sido uma loucura lunática desde que A Citiana apareceu.			3	062.jpg	36E2Z
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Essa tempestade toda estava me afetando muito. Estava tudo tããão lúgubre!					
-				A chuva começou a diminuir e o céu parece estar clareando... Será que é a época dos milagres? Espero que sim, eu adoro milagres.					
+				A chuva começou a diminuir e o céu parece estar clareando... Será que é a época dos milagres? Tomara que sim, eu amo milagres.					
 				Eita... o quê? As ovelhas na campina estão assustadas... Eu me pergunto o que acontece, poderia ser... O Trígono Dourado?					
 GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		Au Au Au.					
 				Às vezes, quando as coisas estão muito escuras para mim, eu como algo e vejo até o que não está lá.					
@@ -392,7 +392,7 @@ GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Existem muitos ditados estra
 YELLOWTRIGON_COLLECTED	The Scythian			Domamos o Trígono Dourado & somos os maiores.			85	067.jpg	36G7U
 PINKTRIGON_COLLECTED	The Scythian			Conseguimos o Trígono da Lua Radiante. Contra ventos & marés.			155	068.jpg	56F8U
 BLUETRIGON_COLLECTED	The Scythian			Conquistamos o Trígono da Lua Sombria. Contra tudo & contra todos.			112	069.jpg	T6G94
-GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece que todos os espíritos da Lua Sombria foram enviados ao céu, então é novamente a época dos milagres. Eu adoro milagres!					
+GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece que todos os espíritos da Lua Sombria foram enviados ao céu, então é novamente a época dos milagres. Eu amo milagres!					
 JIM_HINT1_OFF	The Scythian			Em uma clareira isolada, encontramos um misterioso músico ao lado de uma fogueira crepitante.					
 JIM_PINKDAWN	The Scythian			Em uma clareira isolada, encontramos um misterioso músico ao lado de uma fogueira crepitante. #jimguthrie					
 JIM_BRIGHTMOON	The Scythian			Enquanto a Lua Radiante paira, junto a uma fogueira crepitante conhecemos um misterioso músico que se apresentou como Jim Guthrie.			128	070.jpg	07G00
@@ -403,7 +403,7 @@ JIM_POSTSONG	The Scythian			Jim Guthrie nos ensinou que não se pode negar pensa
 			Archetype/trifecta	Nos revelou que tinha um show de rock programado para o outro lado do lago em uma quinzena.					
 JIM_LOGFELLATHOUGHTS	Logfella			A música soa tão familiar... Onde eu a ouvi antes? #1000songs					
 				De repente, entrou na minha cabeça uma melodia muito curiosa. #andwegotolder					
-LOGFELLA_JIMTHOUGHTS	Logfella			Tenho essa cançãozinha na cabeça há anos... apenas algumas notas que se repetem uma e outra vez. Me pergunto o que isso quer dizer.					
+LOGFELLA_JIMTHOUGHTS	Logfella			Tenho essa cançãozinha na cabeça há anos... apenas algumas notas que se repetem uma e outra vez. Me pergunto por que será.					
 ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Atravessar o limiar da liminaridade em segurança é simples: procure por lugares familiares e pelo calor do lar.					
 				Se você conseguir estabilizar sua lucidez, poderá co-criar com ela... em vez de lutar, resistir e amaldiçoá-la.					
 				Quando você está lúcido em um sonho, percebe quem imaginou ser... mas se identificar com o sonho é se deixar encantar.					
@@ -568,7 +568,7 @@ DARKMOONBEGINS_ARCHETYPE	The Archetype			Contemple: A Lua Sombria!			94	076.jpg	
 DARKMOON_GIRLTHOUGHTS	Girl			Ao caminhar em sonhos, encontrei um Parlamento de Árvores atingido por um raio e senti a presença de algo profundamente sagrado.					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Ontem à noite, ouvi o som de uma música vibrante que se filtrava pelos bosques atrás de minha cabana. Que raios é isso?					
 DARKMOON_DOGFELLATHOUGHTS	Dogfella			Au Au Au. Em meu estado de sonho, só vislumbrei as sutis sussurrantes espumas dos espíritos silvanos.					
-AMPHITHEATRE_OUTRO	The Scythian			Reconstruímos a Tríade Trigônica & somos heróis.			164	081.jpg	48G1Q
+AMPHITHEATRE_OUTRO	The Scythian			Reconstruímos a Tríade Trigônica & agora somos heróis.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Assassinamos inexplicavelmente 3 coelhos indefesos.					
 RABBITS_7MURDERS	The Scythian			Assassinamos inexplicavelmente 7 coelhos indefesos. Será isso evidência de uma mente transtornada?					
 RABBITS_13MURDERS	The Scythian			Assassinamos inexplicavelmente 13 coelhos indefesos.					
