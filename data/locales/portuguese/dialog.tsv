@@ -142,14 +142,14 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigônica, além da caverna c
 			adventureUI/megatomeItem	Ao ver nossa vestimenta citiana e o Megatomo, perguntou se entendíamos seus enigmáticos símbolos.					
 				Num sussurro, ele pronunciou o nome do espectro imortal que havíamos despertado nas trevas sob Mingi Tau: a Massa Gogolítica.			166	023.jpg	O2B39
 				Conhecíamos esse nome temível das velhas histórias e sentimos nosso sangue gelar.					
-				"""Até agora, tive a impressão de que a Massa Gogolítica não te levava a sério."""					
-			triangle/Triangle	"""Agora que você aprendeu a Canção da Espadância e domou o Trígono Dourado, cada passo seu estará amaldiçoado."""					
+				"""Até agora, eu tinha a sensação de que a Massa Gogolítica te via meio que como um turista."""					
+			triangle/Triangle	"""Agora que você aprendeu a Canção da Espadância e domou o Trígono Dourado, descobrirá que cada passo seu está assombrado."""					
 				Não ficou claro se o fantasma nos animava ou tentava nos assustar.					
 				Revelamos ao fantasma nossa intenção de detonar o Megatomo no topo de Mingi Tau e libertar a Massa Gogolítica de sua imortalidade.					
 			Archetype/trifecta	Perguntamos a ele sobre a Tríade Trigônica e a localização dos Trígonos restantes, mas sua resposta foi irritantemente ambígua.					
 				"""Os Trígonos restantes existem apenas nos sonhos dos montanheses do Cáucaso."""			43	024.jpg	82E45
 				"""Localizar os Trígonos restantes não é uma questão de onde, mas de quando e como."""					
-				Sem dúvida, o fantasma resplandecente disse muitas coisas confusas que não ajudaram em nada.					
+				Sem dúvida, o fantasma resplandecente falou um monte de baboseiras inúteis.					
 GRAVE_LOGBRIDGE	The Scythian			Em um matagal perto do antigo caminho, umas tumbas despertaram nossa curiosidade.					
 GRAVE_LOGBRIDGEGHOST	The Scythian			Em um matagal perto do antigo caminho, nos aproximamos de umas tumbas e conhecemos alguns fantasmas que pareciam amigáveis.			116	025.jpg	62B55
 				O fantasma resplandecente que falou era um gigante que conhecíamos das velhas histórias, cujo famoso retrato exigia obediência. #andre					
@@ -157,25 +157,25 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Em um matagal perto do antigo caminho, nos a
 				"""Tínhamos ouvido falar da entrada para o Remoinhado Infinito no topo de Mingi Tau e achamos que seria algo legal de se ver."""					
 			triangle/Triangle	"""Enfim, domamos o Trígono Dourado e demos uma olhada na Clareira Trigônica antes de sair para procurar o Trígono da Lua Radiante."""					
 				"""Achar o Trígono da Lua Radiante não deu muito certo... nos perdemos totalmente, pra ser sincero."""					
-				"""Aos poucos, percebemos a importância do ciclo lunar e sua influência nos espíritos que dormem nos reinos do crepúsculo."""					
-				"""Então nos sentamos aqui para observar o humor da lua e aprender quando estar onde e como."""			7	026.jpg	Q2D6P
+				"""Aos poucos, fomos percebendo a importância do ciclo lunar e sua influência nos espíritos que dormem nos reinos do crepúsculo."""					
+				"""Foi aí que sentamos aqui para observar o humor da lua e aprender quando estar onde e como."""			7	026.jpg	Q2D6P
 				"""Morremos de tédio esperando que o humor da lua mudasse."""					
 				"""Bem, na verdade, morremos por causa de uma briga que tivemos por puro tédio."""					
 				"""Prefiro não entrar em detalhes, se não se importar."""					
 				"""Acontece que um de nós era um trapaceiro inveterado, e o pegamos com a boca na botija."""					
-				"""Estourou uma briga e o trapaceiro fugiu pelo antigo caminho em direção ao Precipício Perigoso."""					
-				"""Ficamos ali pensando no que fazer... quando, de repente, a Massa Gogolítica apareceu... Credo!"""			113	027.jpg	62B75
+				"""Rolou uma briga e o trapaceiro fugiu pelo antigo caminho em direção ao Precipício Perigoso."""					
+				"""Aí ficamos lá, de bobeira, pensando no que fazer... quando, de repente, a Massa Gogolítica apareceu... Credo!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			Ao fio do Precipício Perigoso, uma tumba solitária despertou nossa curiosidade.					
 GRAVE_CHASMGHOST	The Scythian			Ao fio do Precipício Perigoso, nos aproximamos da tumba solitária do trapaceiro inveterado e conhecemos um velho fantasma resplandecente.					
 			Archetype/trifecta	"""No ano passado, antes das festas de Yule, André, 'O Gigante', juntou a galera e partimos para remontar a Tríade Trigônica."""					
 				"""Os outros membros da galera foram enterrados em um matagal perto do antigo caminho, junto à ponte de toras."""					
 			triangle/Triangle	"""Localizamos e domamos o Trígono Dourado com bastante facilidade, mas depois disso ficamos completamente parados."""					
-				"""Procuramos pelo Trígono da Lua Radiante, então decidimos nos sentar e observar o céu, esperando o humor da lua mudar."""					
+				"""Estávamos atrás do Trígono da Lua Radiante, então decidimos sentar e observar o céu, esperando o humor da lua mudar."""					
 				"""Foi super chato! Eu não estava disposto a esperar dias e dias até que a Lua Radiante pairasse."""					
 				"""Deixei esses otários vagarem sem rumo enquanto eu mergulhava mais a fundo neste ardil lógico-lunar."""					
 				O velho fantasma resplandecente contou que trapaceou ao sair de S:S&S EP e alterar a data e hora de seu dispositivo.					
 				Descreveu o quão incômodo foi o processo, mas nos disse que isso lhe permitiu alterar o humor da lua!					
-				"""O fato é que fiquei com aquele frio na espinha desde que trapaceei e, para falar a verdade, acabei morrendo de vergonha."""					
+				"""O caso é que fiquei com aquele frio na espinha desde que trapaceei... e foi por isso que morri de vergonha."""					
 GRAVE_HOLLOW	The Scythian			Dentro de uma titânica árvore oca, uma tumba solitária despertou nossa curiosidade.					
 GRAVE_HOLLOWGHOST	The Scythian			Dentro de uma titânica árvore oca, nos aproximamos de uma tumba solitária e um fantasma audacioso surgiu cantando uma rima maluca.			117	028.jpg	E2A80
 				"""Observe o humor da lua sem hesitar, e saberá quando estar, onde agir e como lá chegar."""					
@@ -210,7 +210,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Troncadeiro mostrou-se alivi
 			adventureUI/megatomeItem	Revelamos também o que suspeitávamos que os enigmáticos símbolos dentro do Megatomo poderiam significar.					
 			gourd/gourd	Intuíamos que ainda precisávamos despertar mais alguns espíritos silvanos para dissipar a tempestade.			104	033.jpg	W3D3G
 			triangle/Triangle	Em um sussurro, falamos de nossa intenção de encontrar e domar a geometria cósmica conhecida como o Trígono Dourado.					
-				Mas ficou 100% claro que o lenhador já não prestava atenção.					
+				Mas ficou 100% claro que o lenhador tinha parado de prestar atenção.					
 			AdventureUI/keyItem	Decidimos ficar com a chave e seguir pelo antigo caminho, além do muro de pedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Perguntamos ao lenhador se podíamos ficar com a chave e ele achou legal.					
 GIRL_FOUNDKEY	The Scythian			Por uma trilha lateral, encontramos Samae, completamente encharcada pela chuva.					
@@ -218,9 +218,9 @@ GIRL_FOUNDKEY	The Scythian			Por uma trilha lateral, encontramos Samae, completa
 			gourd/gourd	Falou de umas altíssimas árvores que ladeavam um impetuoso rio.					
 			gourd/gourd	Mencionou uns tênues arco-íris que surgiam à beira do Precipício Perigoso.					
 			adventureUI/megatomeItem	...e então, angustiada, sugeriu que consultássemos o Megatomo caso nos sentíssemos perdidos ou desorientados.					
-LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Por mim, A Citiana pode ficar com a chave, se for para dissipar a tempestade.					
-				Devo ter cochilado em algum momento durante a épica história que A Citiana contou. É que não aguento muito folclore.					
-				Perguntei na lata para A Citiana sobre sua funesta missão... ela começou a falar sobre estepes e o dedo de Deus.					
+LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Tô super de boa com A Citiana ficar com a chave se isso significa que ela vai dissipar a tempestade.					
+				Devo ter dado uma cochilada em algum momento da história super épica de A Citiana. Minha tolerância para folclore é zero.					
+				Perguntei na lata para A Citiana sobre sua funesta missão... e ela veio com um papo sobre estepes e o dedo de Deus.					
 GIRL_FOUNDKEYTHOUGHTS	Girl			Mais um ou dois espíritos silvanos enviados ao céu dissiparão a incessante tempestade... e então a época dos milagres começará! #milagres			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			Ao caminhar em sonhos, há uma calma emocionante quando a lua brilha mais... e quando está escura, as florestas se tornam selvagens.					
 				No sonho, são sempre os mesmos lugares e cantos... a não ser quando tudo muda por causa do humor da lua.					
@@ -233,7 +233,7 @@ ARCHETYPE_TREEHINT_NINSWITCH	The Archetype			Lembre-se de que o consumo de cogum
 				Uma vez que tenha entoado a Canção da Espadância, talvez seja bom olhar ao redor e observar o ambiente.					
 ARCHETYPE_MUSHROOMHINT	The Archetype			Há quem afirme que cogumelos adivinhatórios podem ter desempenhado um papel importante no desenvolvimento da psique humana.					
 				Evidências arqueológicas indicam que o uso xamânico de cogumelos para comunhão religiosa, adivinhação e cura é bastante antigo.					
-				Fisiologicamente, é possível experimentar sensações de bem-estar e percepções ampliadas; o estresse se esvai e o apetite se dissipa.					
+				Fisiologicamente, é possível notar sensação de bem-estar e percepções aguçadas, além de dissipação do estresse e perda de apetite.					
 				Os cogumelos da floresta podem oferecer uma visão reveladora sobre o paradeiro de um espírito silvano e seus peculiares gatilhos.			60	035.jpg	53A5Y
 ARCHETYPE_TRIGONGROVE	The Archetype			Sente? Começa a entender? Os símbolos esotéricos do Megatomo agora ganham um novo significado?					
 				Este facho conecta o mundo dos vivos ao dos mortos, então talvez você conheça algum fantasma com quem conversar em suas jornadas.					
@@ -242,7 +242,7 @@ GIRL_CABINSHEEP	The Scythian			Perguntamos a Samae sobre as ovelhas inúteis que
 			gourd/gourd	Contamos que havíamos enviado cinco espíritos silvanos ao céu e nos disse que talvez a época dos milagres estivesse próxima.					
 				Supomos que talvez devêssemos investigar a campina onde as ovelhas costumavam vadiar.					
 LOGFELLA_CABINSHEEP	The Scythian			Troncadeiro sentia que a época dos milagres havia chegado e se perguntava se algo incrível estava prestes a acontecer.			79	036.jpg	V3G62
-GIRL_CABINSHEEPTHOUGHTS	Girl			Mas o que... A chuva parou! Será que a tempestade está começando a se dissipar? Tomara que sim.					
+GIRL_CABINSHEEPTHOUGHTS	Girl			Gente do céu... A chuva parou! Será que a tempestade está começando a se dissipar? Tomara que sim.					
 				Essa tempestade toda estava me afetando muito. Estava tudo tão lúgubre!					
 LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Estou com aquele frio na espinha... Com certeza algo está acontecendo... A tempestade está começando a se dissipar?					
 				Sempre que preciso recuperar as forças, sento-me junto ao fogo para aquecer minhas botas.					
@@ -257,12 +257,12 @@ ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			Para domar o Trígono Dourado, você
 				É absolutamente fundamental que você segure o botão do escudo sempre que puder para recuperar sua força perdida.					
 				Vejo que você já invocou e tentou domar o Trígono Dourado. Tenho algumas coisas para te contar que acredito que serão úteis.					
 ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Rebata os projéteis psiônicos do Trígono com sua espada e espere a oportunidade para esquivar de seus ataques de raio.			83	040.jpg	34E01
-				A inescrutável lógica do Trígono Dourado ceifou as almas de todos que vieram antes... eles não tinham tenacidade e coragem.					
+				A inescrutável lógica do Trígono Dourado ceifou as almas de todos que vieram antes... todos eles não tinham tenacidade e coragem.					
 ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			O Trígono Dourado deve ser domado. Não há outra saída.					
-				No terceiro padrão, você deve rebater os pequenos projéteis triangulares com sua espada e esquivar dos ataques de raio.					
+				No terceiro padrão, rebata os pequenos projéteis triangulares com sua espada e esquive dos ataques de raio.					
 				No segundo padrão, espere pelo ataque de raio e pressione o botão do escudo no momento adequado para esquivar.					
-				No primeiro padrão, você deve brandir sua espada para devolver a bola de energia.					
-ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Talvez tenha notado que o Trígono da Lua Radiante chove morte... espere o momento certo e pressione o escudo para esquivar.			144	041.jpg	84E11
+				No primeiro padrão, branda sua espada para devolver a bola de energia.					
+ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Talvez tenha notado que o Trígono da Lua Radiante fulmina lá do alto... espere o momento certo e pressione o escudo para esquivar.			144	041.jpg	84E11
 ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Radiante exigirá que você rebata os projéteis com sua espada e esquive dos ataques de raio carregado.					
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Você pode já ter encontrado o odioso ataque de arco-íris do Trígono da Lua Sombria. Fatie aquele arco-íris sem dó.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Sombria envolve projéteis triangulares, sutis e furtivos. Destrua-os e você sobreviverá.					
@@ -293,7 +293,7 @@ ARCHETYPE_TRIFECTAINTRO	The Archetype
 				O espectro imortal ainda espreita nas trevas sob Mingi Tau.					
 			Archetype/trifecta	Considere a geometria cósmica da Tríade Trigônica.					
 			MoonCrescent/moonCrescent	Observe o humor da lua.			118	045.jpg	Y4E5Q
-				Nossa pesquisa demonstra que os poucos que persistem em meio à loucura oblíqua que os aguarda podem se tornar amigos cósmicos para sempre.					
+				Nossa pesquisa mostra que os poucos que resistem à iminente loucura oblíqua podem se tornar amigos cósmicos para sempre.					
 				Advertimos que, daqui em diante, estaremos monitorando suas ações em relativo silêncio.					
 ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	Então você domou os dois Trígonos restantes e reconstruiu a Tríade Trigônica?			165	046.jpg	P4B6A
 			Archetype/trifecta	Você é especial e por isso mesmo eu te adoro tanto.					
@@ -304,10 +304,10 @@ ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	Então você domou os 
 ARCHETYPE_GHOULINTRO	The Archetype								
 				Bem, aqui estamos. Esta breve sessão marcará o fim do tratamento de S:S&S EP.					
 				A funesta missão de A Citiana está quase cumprida.					
-				Infelizmente, A Citiana teve seu corpo e psique gravemente enfraquecidos pela espadância; ela está à beira da morte.			162	047.jpg	J4F7B
+				Infelizmente, o corpo e a psique de A Citiana foram gravemente exauridos pela espadância... ela está às portas da morte.			162	047.jpg	J4F7B
 			Archetype/trifecta	Tudo o que resta é revelar os segredos da Clareira Trigônica e transferir o Megatomo para o Remoinhado Infinito no topo de Mingi Tau.					
-				Pressione 'jogar' apenas se tiver a coragem de testemunhar o terrível tormento do martírio.					
-END	The Scythian			No topo de Mingi Tau detonamos o Megatomo e o precipitamos no Remoinhado Infinito.					
+				Pressione 'jogar' apenas se tiver a coragem de testemunhar o atroz tormento do martírio.					
+END	The Scythian			No topo de Mingi Tau detonamos o Megatomo e o ejetamos no Remoinhado Infinito.					
 END_CHEAT	The Scythian			No topo de Mingi Tau transferimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaça					
 END_CHEAT_NOBOOR	The Scythian			No topo de Mingi Tau transferimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaça #sempatife					
 END_CHEAT_PSYCHO	The Scythian			No topo de Mingi Tau transferimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaça #psicopata					
@@ -349,7 +349,7 @@ GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto 
 GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito silvano cercado por quatro pequenas e redondas árvores nas florestas mais escuras.					
 GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito silvano entre a mata do outro lado do lago.					
 GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano espreitando na raiz de uma titânica árvore.					
-GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Temos essa estranha sensação de que talvez estejamos na época dos milagres. Onde estão nossos milagres? #milagres			77	060.jpg	86D06
+GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Temos essa estranha sensação de que talvez estejamos na época dos milagres. Cadê nossos milagres? #milagres			77	060.jpg	86D06
 GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Au Au Au Au Au Au. #latindo			135	061.jpg	M6F1I
 				Au Au Au. #solatindo					
 				Às vezes, eu me canso de latir o tempo todo, mas um cachorro tem que fazer o que um cachorro tem que fazer.					
@@ -369,8 +369,8 @@ GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		Au Au Au.
 GCLUE_SECRET2_STONESHELTER	Logfella	AdventureUI/tweetIconGourd		Eu tenho essa cançãozinha na minha cabeça... uma música alegre e triste que me enche de um medo estranho e bonito.					
 GCLUE_MOUNTAINLAKESHORE	Dogfella	AdventureUI/tweetIconGourd		Eu sei que você está tentando evitar seu fatídico martírio, mas saiba disso: o tempo é uma força e certamente seguirá seu curso.					
 				Au Au Au. Snif.					
-GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		E depois há os desconhecidos desconhecidos: aquilo que não sabemos que não sabemos.					
-				Existem os desconhecidos conhecidos: coisas que sabemos que não sabemos.			32	063.jpg	L6E31
+GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		E também há os desconhecidos desconhecidos: aquilo que não sabemos que não sabemos.					
+				Temos os desconhecidos conhecidos: coisas que sabemos que não sabemos.			32	063.jpg	L6E31
 				Au Au Au.					
 GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Meus troncos guardam muitos segredos sobre espíritos silvanos e ilhas impossíveis. Infelizmente, não falo Tronquês.					
 				Pela minha experiência, às vezes as corujas não são o que parecem, enquanto outras vezes são apenas corujas comuns.			126	064.jpg	86A47
@@ -379,14 +379,14 @@ GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Talvez você já t
 				Parece que você progrediu bastante em seu esforço para localizar e domar o Trígono da Lua Radiante. Muito bem feito!					
 GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		Os espíritos silvanos são filhos da Mãe Terra ou são visitantes solitários do Remoinhado Infinito?					
 				Pra ser sincera, os espíritos silvanos me assustam demais. Tipo... O que eles são? De onde vêm?					
-GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Quando os espíritos forem enviados ao céu e chegar a época dos milagres, você deve procurar a titânica árvore.					
+GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Quando os espíritos silvanos forem enviados ao céu e chegar a época dos milagres, você deve procurar a titânica árvore oca.					
 				Eu sei que você sabe o que eu sei e quero que saiba que você está 100% certo.			109	066.jpg	F6D6H
 				Au Au Au Snif Au Au Au.					
 GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Somente o fim da sua funesta missão trará a paz de volta às nossas vidas.					
 				Apenas a Tríade Trigônica permitirá que você compreenda os segredos da Clareira Trigônica.					
 				O Remoinhado Infinito no topo de Mingi Tau te espera.					
 				Au Au Au. #latindo					
-GCLUE_WATERFALLS	Girl			Você já percebeu que às vezes as palavras soam apenas como ruído, mas outras vezes o ruído produz o som mais bonito?			132	058.jpg	G5F8U
+GCLUE_WATERFALLS	Girl			Já reparou que às vezes as palavras soam só como ruído, mas outras vezes o ruído produz o som mais bonito?			132	058.jpg	G5F8U
 GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Existem muitos ditados estranhos aqui entre os montanheses do Cáucaso.					
 				Há um ditado aqui no Cáucaso que diz que uma floresta precisa do fogo assim como o fogo precisa da árvore.					
 YELLOWTRIGON_COLLECTED	The Scythian			Domamos o Trígono Dourado & somos os maiores.			85	067.jpg	36G7U
@@ -402,19 +402,19 @@ JIM_POSTGOURD	The Scythian			O misterioso músico conhecido como Jim Guthrie dis
 JIM_POSTSONG	The Scythian			Jim Guthrie nos ensinou que não se pode negar pensamentos ruins, assim como não se pode negar a mordida de um dragão.					
 			Archetype/trifecta	Nos revelou que tinha um show de rock programado para o outro lado do lago em uma quinzena.					
 JIM_LOGFELLATHOUGHTS	Logfella			A música soa tão familiar... Onde eu a ouvi antes? #1000songs					
-				De repente, entrou na minha cabeça uma melodia muito curiosa. #andwegotolder					
+				De repente, me veio uma musiquinha super esquisita, mas genial, na cabeça. #andwegotolder					
 LOGFELLA_JIMTHOUGHTS	Logfella			Tenho essa cançãozinha na cabeça há anos... apenas algumas notas que se repetem uma e outra vez. Me pergunto por que será.					
 ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Atravessar o limiar da liminaridade em segurança é simples: procure por lugares familiares e pelo calor do lar.					
 				Se você conseguir estabilizar sua lucidez, poderá co-criar com ela... em vez de lutar, resistir e amaldiçoá-la.					
 				Quando você está lúcido em um sonho, percebe quem imaginou ser... mas, se você se identificar com o sonho, ficará enfeitiçado.					
 				Mesmo em um sonho conhecido, há novos lugares para explorar e novas conexões para considerar... se você continuar acreditando.					
-GIRL_MOONGROTTOCOMMENT	Girl			Sinto como se o cosmos tivesse girado e agora tudo estivesse levemente... desajustado.					
+GIRL_MOONGROTTOCOMMENT	Girl			Sinto como se o cosmos tivesse pulado uma batida e agora tudo estivesse um pouquinho... estranho.					
 LOGFELLA_MOONGROTTOCOMMENT	Logfella			De 0 a 1 é um longo caminho, e se um alien dissesse 'olá', seria um código criptografado no estéreo. Espere... o quê?					
 GIRL_HUGETREETHOUGHTS	Girl			Claro, nunca conto pra ninguém sobre esses sonhos com deusas e árvores, porque com certeza me chamariam de hippie ou coisa assim.					
 				Em meu lugar especial, visito uma titânica árvore oca... ela é uma deusa, morta há muito tempo, que antecede a humanidade por eras.					
 				Ao caminhar em sonhos, há um lugar especial para onde sempre vou, um Parlamento de Árvores no coração do mundo.					
-LOGFELLA_HUGETREETHOUGHTS	Logfella			Gosto de ver as mesmas florestas com climas diferentes e simplesmente parar para ouvir... e pensar ou não, dependendo da situação.					
-				Não passo muito tempo caminhando em sonhos, mas quando o faço, geralmente volto aos meus lugares favoritos para ver o que mudou.					
+LOGFELLA_HUGETREETHOUGHTS	Logfella			Adoro ver a mesma floresta com climas diferentes e simplesmente parar pra ouvir... pensar ou não pensar, dependendo do dia.					
+				Não costumo caminhar muito em sonhos, mas quando faço isso, gosto de voltar aos meus lugares favoritos pra ver o que mudou.					
 MIRACLE1_MOUNTAINMEADOW	The Scythian			Em uma campina ensolarada, obramos um milagre dissipador de tempestades, em um estilo dobrável do grande mago 'Al Jaffee'.					
 MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			Em uma campina ensolarada, acordamos confusos e atordoados, com uma dor de cabeça terrível.					
 LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Atordoados e sem uma lembrança clara, acordamos de um profundo sono.					
@@ -432,7 +432,7 @@ SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			O lenhador e sua filha nos obs
 GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae ouviu em silêncio nossa estranha história do encontro com o Trígono Dourado.					
 			triangle/Triangle	Ela se perguntou sobre os segredos da Clareira Trigônica além da caverna colossal na campina... poderia haver alguma conexão?					
 GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Estou muito preocupada com A Citiana... ela sumiu por dias depois que a tempestade se dissipou. Tomara que esteja bem.					
-GIRL_URSULAMEADOW_OFF	Girl			Uau, então A Citiana estava desacordada na campina? Que loucura.					
+GIRL_URSULAMEADOW_OFF	Girl			Nossa, então A Citiana estava desacordada na campina? Que loucura.					
 DOGFELLA_GETDARKTRIGON	The Scythian			Depois de ativar outro facho celestial na Clareira Trigônica, notamos algo estranho no cachorro chamado Cachorreiro.					
 			Archetype/trifecta	De repente, parecia que o entendíamos: nos instigou a buscar o Trígono da Lua Sombria e completar a Tríade Trigônica.					
 DOGFELLA_GETBRIGHTTRIGON	The Scythian			Depois de ativar outro facho celestial na Clareira Trigônica, notamos algo estranho no cachorro chamado Cachorreiro.					
@@ -475,8 +475,8 @@ LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			O lenhador podia ver que nossa
 ARCHETYPE_BRIGHTMOONTRIGONCOLLECTED	The Archetype			Nossos dados de pesquisa mostram uma alta correlação entre o progresso de um participante em S:S&S EP e sua habilidade para ser incrível.			45	074.jpg	87A43
 				Vejo que você conseguiu localizar e recuperar o Trígono da Lua Radiante. É uma notícia realmente extraordinária.					
 MIRACLE3_HUGETREE	The Scythian			Enquanto a Lua Sombria reina, obramos um milagre de raio estilhaçante em meio a um Parlamento de Árvores.					
-MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			Além disso... carregar o Megatomo para todos os lugares é algo incômodo, é um livro realmente pesado em mais de um sentido.					
-				Sentíamo-nos algo consumidos... provavelmente tinha algo a ver com todos aqueles raios laser cósmicos.					
+MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			Além disso... ficar carregando o Megatomo pra cima e pra baixo é um saco, é um livro realmente pesado em mais de um sentido.					
+				Nos sentíamos meio detonados... provavelmente tinha algo a ver com todos aqueles raios laser cósmicos.					
 				Ao amainar a luz e o som, nos encontramos encharcados pela chuva fria no meio de um Parlamento de Árvores.					
 GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Falamos com Samae sobre nosso encontro onírico com o Trígono da Lua Sombria e de nossas intenções de reconstruir a Tríade Trigônica.					
 				Contamos como neutralizamos o odioso ataque de arco-íris do Trígono da Lua Sombria e ela mandou um 'que incrível'.					
@@ -536,7 +536,7 @@ LOGFELLA_ALMOSTWAX	The Scythian			O lenhador disse que raramente pensava na dese
 GIRL_ALMOSTWAX	The Scythian			Samae comentou sobre a lua crescente e se perguntou quanto tempo levaria até que a Lua Radiante pairasse no céu.					
 ARCHETYPE_ALMOSTWAX	The Archetype			A lua cresce um pouco a cada dia... em poucos dias, a Lua Radiante pairará... E daí?			165	046.jpg	P4B6A
 LOGFELLA_BRIGHTMOON	The Scythian			O lenhador admitiu que seu cachorro se comportava de maneira estranha toda vez que a Lua Radiante paira no céu.			135	061.jpg	M6F1I
-GIRL_BRIGHTMOON	The Scythian			Samae falou sobre caminhadas oníricas pela floresta pouco antes do amanhecer, com a Lua Radiante a pairar no céu.					
+GIRL_BRIGHTMOON	The Scythian			Samae falou sobre caminhadas oníricas pela floresta pouco antes do amanhecer, enquanto a Lua Radiante pairava no céu.					
 				Ela mencionou o ar fresco da manhã e uma ilha impossível no meio de um aprazível lago.					
 ARCHETYPE_BRIGHTMOON	The Archetype			Saia lá fora e olhe para cima. Maravilhe-se com a Lua Radiante que paira no céu!			95	079.jpg	07D95
 LOGFELLA_ALMOSTWANE	The Scythian			O lenhador não aguentava muito folclore e admitiu que costumava dormir, embora tivesse um bom conhecimento sobre o assunto.					
@@ -587,8 +587,8 @@ ARCHETYPE_CREDITS	The Archetype
 				* * * A EQUIPE DE S:S&S EP * * *					
 				Conceito, arte, design, direção e roteiro por representantes da Superbrothers A/V Inc.					
 				Design, liderança de projeto, apoio incansável e mais: Kris Piotrowski, diretor criativo na Capy.					
-				Sistemas, arquitetura técnica, UI, motor e mais: Jon Maur, programador técnico principal de S:S&S EP na Capy.					
-				Scripting, combate e milagres: Frankie Leung, programador de jogabilidade principal de S:S&S EP na Capy.					
+				Sistemas, arquitetura técnica, UI, motor e mais: Jon Maur, programador técnico líder de S:S&S EP na Capy.					
+				Scripting, combate e milagres: Frankie Leung, programador líder de gameplay de S:S&S EP na Capy.					
 				Inspiração, músicas, sons, alma e muito mais: Jim Guthrie, compositor, herói do folk e roqueiro.					
 				* * * ALÉM DISSO * * *					
 				Voz de Troncadeiro: Robert Ashley, criador do programa de rádio A Life Well Wasted em alifewellwasted.com					
@@ -597,15 +597,15 @@ ARCHETYPE_CREDITS	The Archetype
 				Sons cósmicos da Gruta Lunar: Scientific American em scntfc.com					
 				* * * APOIO DA CAPY * * *					
 				Produtor executivo, herói do povo, liderança e estratégia: Nathan Vella, presidente da Capy.					
-				PC Producer, assistência técnica de áudio, integração FMOD e muitíssimos sons: Sean 'Uber' Lohrisch, cofundador da Capy.					
+				Produtor de PC, assistência técnica de áudio, integração FMOD e muitíssimos sons: Sean 'Uber' Lohrisch, cofundador da Capy.					
 				Nintendo Switch Produc-tron e assistência geral de negócios: Matt Repetski, cofundador da Capy.					
-				Controle de qualidade e mega-herói de testes: Christian 'Sea Dawg' Meyer na Capy.					
+				Controle de qualidade (QA) e mega-herói de playtesting: Christian 'Sea Dawg' Meyer na Capy.					
 				Programação principal para versão Nintendo Switch e computadores domésticos fornecida por nada menos que Hubert Wong na Capy.					
 				Conceitos de design, implementação e bruxaria de Nintendo Switch preparados por Sadie Lee na Capy.					
-				Trabalho pesado variado incluindo programação PC/Mac/Linux e suporte de Nintendo Switch por Drew Grainge na Capy.					
+				Diversas tarefas pesadas, incluindo suporte de programação para PC/Mac/Linux e suporte para Nintendo Switch por Drew Grainge na Capy.					
 				Alguns recursos de arte redimensionados e sorrisos fornecidos por Vic 'Meow' Nguyen na Capy.					
-				Controle de qualidade adicional: o único e inigualável Aaron Eves.					
-				Suporte de QA de Nintendo Switch cortesia de Testronic Labs.					
+				Controle de qualidade (QA) adicional: o único e inigualável Aaron Eves.					
+				Suporte de QA para Nintendo Switch cortesia de Testronic Labs.					
 				Suporte de QA por Roopesh Pawar. A, Prashanth. DR, Veeresh Kuruva, Raghunath. BG e Roshan R Shekar da Sun technology Integrators Pvt. Ltd.					
 				Obrigado a Xavier Xaden Xen, Joseppe Theodore Blocco e Hank Hudson.					
 				Biscoitos e outras delícias fornecidas por Thea Gaerlan.					
@@ -682,7 +682,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Criamos S:S&S EP tendo em mente um público amplo e culto.					
 				S:S&S EP ia se chamar 'Poopsock' originalmente. Isso é realmente verdade.					
 				* * * ACABOU * * *					
-				Agora somos amigos cósmicos para sempre, combinado?			87	084.jpg	L8A48
+				Agora somos amigos cósmicos para sempre, tá bom?			87	084.jpg	L8A48
 ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
 	The Archetype			Senhoras e senhores, que tal tocarem nestes dois pequenos espíritos silvanos para calibrar o seu sistema de som estéreo?					
 	The Archetype			Desde nosso experimento anterior em 2011, constatamos que as redes sociais têm um impacto catastrófico na sociedade.					
