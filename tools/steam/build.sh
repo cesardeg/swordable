@@ -72,9 +72,11 @@ fi
 "${script_dir}/build-cat.py" "$res_dir"
 
 if [ $? -ne 0 ]; then
-  echo "Error: Copy files script failed."
+  echo "Error: build-cat.py script failed."
   exit 1
 else
+  # Eliminar todos los archivos y directorios excepto los .dat y .cat
+  echo "Cleaning up temporary files in $res_dir..."
+  find "$res_dir" -mindepth 1 -maxdepth 1 ! -name '*.dat' ! -name '*.cat' -exec rm -rf {} +
   echo "Localization build completed for locale: $locale"
 fi
-
