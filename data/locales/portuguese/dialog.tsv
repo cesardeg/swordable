@@ -177,15 +177,15 @@ GRAVE_CHASMGHOST	The Scythian			Ao fio do Precipício Perigoso, nos aproximamos 
 				Descreveu o quão incômodo foi o processo, mas nos disse que isso lhe permitiu alterar o humor da lua!					
 				"""O caso é que fiquei com aquele frio na espinha desde que trapaceei... e foi por isso que morri de vergonha."""					
 GRAVE_HOLLOW	The Scythian			Dentro de uma titânica árvore oca, uma tumba solitária despertou nossa curiosidade.					
-GRAVE_HOLLOWGHOST	The Scythian			Dentro de uma titânica árvore oca, nos aproximamos de uma tumba solitária e um fantasma audacioso surgiu cantando uma rima maluca.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOST	The Scythian			Dentro de uma titânica árvore oca, nos aproximamos de uma tumba solitária e um fantasma audacioso mandou uma rima maluca.			117	028.jpg	E2A80
 				"""Observe o humor da lua sem hesitar, e saberá quando estar, onde agir e como lá chegar."""					
 				"""E fique tranquilo, não quero assustar ninguém; é que brilhar assim faz parte de quem sou também."""					
-GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de uma titânica árvore oca, nos aproximamos de uma tumba solitária e um fantasma audacioso surgiu cantando uma rima maluca.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de uma titânica árvore oca, nos aproximamos de uma tumba solitária e um fantasma audacioso mandou uma rima maluca.			117	028.jpg	E2A80
 				"""Atrás de ti, no caminho encoberto, encontre as sussurrantes espumas com olhar desperto."""					
 				"""Cinco espíritos silvanos envie ao céu em ascensão; obrarão um milagre de fulgor e amplidão, e o Trígono buscado virá em revelação."""					
-GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de uma titânica árvore oca, nos aproximamos de uma tumba solitária e um fantasma audacioso surgiu e nos contou algumas coisas.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de uma titânica árvore oca, nos aproximamos de uma tumba solitária e um fantasma audacioso nos contou umas coisas.			117	028.jpg	E2A80
 				"""Busque um sinal dos espíritos silvanos e entoe a Canção da Espadância no local para revelar um Trígono oculto."""					
-GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de uma titânica árvore oca, nos aproximávamos de uma tumba solitária e um fantasma audacioso surgiu e nos contou algumas coisas.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de uma titânica árvore oca, nos aproximamos de uma tumba solitária e um fantasma audacioso nos contou umas coisas.			117	028.jpg	E2A80
 				"""A Canção do Trígono terminou por enquanto. Pergunto-me quando a ouvirei novamente."""					
 LOGFELLA_LOSTKEY	The Scythian			Troncadeiro, o lenhador desolado, surtava totalmente.					
 			AdventureUI/keyItem	Parece que ele perdeu a chave da porta no muro de pedra que bloqueia o antigo caminho para Mingi Tau.					
@@ -358,7 +358,7 @@ GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Au Au Au Au Au Au. #la
 GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Ainda assim, há algo estranho no comportamento de A Citiana; parecia como se uma força invisível a controlasse.					
 				Gostaria de saber mais sobre A Citiana e sua épica história, aposto que então tudo faria sentido.					
 GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que A Citiana esteja cuidando daquela história dos espíritos silvanos.					
-				Essa bendita tempestade tá me deixando pra baixo, me faz desejar que os videogames existissem no... momento em que se supõe que estamos.					
+				Essa bendita tempestade tá me deixando pra baixo, queria que existisse videogame na... época em que supostamente estamos.					
 GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Tudo tem sido uma loucura lunática desde que A Citiana apareceu.			3	062.jpg	36E2Z
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Essa tempestade toda estava me afetando muito. Estava tudo tããão lúgubre!					
 				A chuva começou a diminuir e o céu parece estar clareando... Será que é a época dos milagres? Tomara que sim, eu amo milagres.					

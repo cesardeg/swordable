@@ -177,15 +177,15 @@ GRAVE_CHASMGHOST	The Scythian			Al filo del Precipicio Peligroso, nos acercamos 
 				Describió lo incómodo que fue el proceso, ¡pero nos dijo que eso le permitió alterar el humor de la luna!					
 				"""El caso es que he tenido los pelos de punta desde que hice trampa... y por eso me morí de vergüenza."""					
 GRAVE_HOLLOW	The Scythian			Dentro de un titánico árbol hueco, una tumba solitaria despertó nuestra curiosidad.					
-GRAVE_HOLLOWGHOST	The Scythian			Dentro de un titánico árbol hueco, nos acercamos a una tumba solitaria y un fantasma audaz apareció para cantarnos una alocada rima.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOST	The Scythian			Dentro de un titánico árbol hueco, nos acercamos a una tumba solitaria y un fantasma audaz nos soltó una alocada rima.			117	028.jpg	E2A80
 				"""Vigila el humor de la luna sin cesar, y sabrás cuándo, dónde y cómo actuar."""					
 				"""Y que conste que no pretendo asustarte por tener este aspecto tan impresionante."""					
-GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un titánico árbol hueco, nos acercamos a una tumba solitaria y un fantasma audaz apareció para cantarnos una alocada rima.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un titánico árbol hueco, nos acercamos a una tumba solitaria y un fantasma audaz nos soltó una alocada rima.			117	028.jpg	E2A80
 				"""Tras de ti, en el sendero escondido, halla las susurrantes espumas con tu oído y tu sentido."""					
 				"""Cinco espíritus silvanos envía al cielo, sin temor; obrarán un milagro revelador, y el Trigón que buscas acudirá con su fulgor."""					
-GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un titánico árbol hueco, nos acercamos a una tumba solitaria y un fantasma audaz apareció y nos dijo algunas cosas.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un titánico árbol hueco, nos acercamos a una tumba solitaria y un fantasma audaz nos dijo un par de cosas.			117	028.jpg	E2A80
 				"""Busca una señal de los espíritus silvanos y entona allí la Canción de Espadancia para revelar un Trigón oculto."""					
-GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un titánico árbol hueco, nos acercamos a una tumba solitaria y un fantasma audaz apareció y nos dijo algunas cosas.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un titánico árbol hueco, nos acercamos a una tumba solitaria y un fantasma audaz nos dijo un par de cosas.			117	028.jpg	E2A80
 				"""El Canto del Trigón ha terminado por ahora. Me pregunto cuándo volveré a escucharlo."""					
 LOGFELLA_LOSTKEY	The Scythian			Tronquero, el desolado leñador, estaba hecho un manojo de nervios.					
 			AdventureUI/keyItem	Al parecer, había perdido la llave de la puerta en el muro de piedra que bloqueaba el antiguo camino hacia Mingi Tau.					
