@@ -1,8 +1,8 @@
 id	English	Japanese
 GAME_NAME	Superbrothers: Sword & Sworcery EP	
 GAME_MOTTO	UM CORAJOSO EXPERIMENTO EM I/O CINEMA	
-GAME_NAME_SHORT	S:S&SEP	
-WITH_SONGS	COM MÚSICAS E SONS DE	
+GAME_NAME_SHORT	S:S&S EP	
+WITH_SONGS	COM MÚSICAS & SONS DE	
 JIM_GUTHRIE	JIM GUTHRIE	
 FOR_DEMO	APENAS PARA DEMONSTRAÇÃO	
 END_DEMO	Assim termina a demonstração de	
@@ -101,9 +101,9 @@ TAP_ARROW_LEFT	< < TOQUE
 MOON_TIME_1	há um instante	
 MOON_TIME_2	há um tempinho	
 MOON_TIME_3	há um tempo	
-MOON_TIME_4	em tempos de outrora	
+MOON_TIME_4	em dias de outrora	
 MOON_TIME_5	há muitas luas	
-MOON_TIME_6	há muito tempo	
+MOON_TIME_6	há muitas eras	
 COSMIC_FRIENDS	AGORA SOMOS AMIGOS CÓSMICOS PARA SEMPRE, TÁ BOM?	
 The Scythian	A Citiana	
 Girl	Samae	

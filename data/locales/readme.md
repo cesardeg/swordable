@@ -84,7 +84,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | **The Perilous Precipice** | El Precipicio Peligroso | O Precipício Perigoso | ✅ Major location |
 | **Trigon Grove** | Claro Trigonal | Clareira Trigônica | ✅ ES: clearing, PT: grove clearing |
 | **The Moon Grotto** | La Gruta Lunar | A Gruta Lunar | ✅ Secret location |
-| **The Kingdom of the Cloud** | El Reino de las Nubes | O Reino das Nuvens | ✅ Mingi Taw's title |
+| **The Kingdom of the Cloud** | El Reino de la Nube | O Reino da Nuvem | ✅ Mingi Taw's title |
 | | | | |
 | **stone hut** | choza de piedra | cabana de pedra | ⚠️ Logfella's dwelling |
 | **stone wall** | muro de piedra | muro de pedra | ✅ Blocks the old road |

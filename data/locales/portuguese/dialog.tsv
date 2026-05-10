@@ -2,7 +2,7 @@ id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
 GIRL_TONGUES	Girl			Longe das estepes assoladas pela guerra da Cítia, encontramos uma garota de cabelos escuros em uma campina iluminada pelo sol. #olamundo			72	001.jpg	Z0E1Q
 				Os montanheses do Cáucaso a chamavam de Samae e ela parecia simpática. #obvio					
 SIGN_TADPOL	The Scythian			"""Onde a lareira arde, o lar faz alarde."" #threegutrecordsprasempre"					
-SIGN_WALL	The Scythian			"""Cítia, Ciméria, Assíria & Pérsia, todos são reinos dos homens. Mingi Tau é o Reino das Nuvens."""					
+SIGN_WALL	The Scythian			"""Cítia, Ciméria, Assíria & Pérsia, todos são reinos dos homens. Mingi Tau é o Reino da Nuvem."""					
 SIGN_CHASM	The Scythian			À beira do Precipício Perigoso erguia-se uma pedra talhada com o glifo de uma espada apontada ao céu, sob as cores do arco-íris.					
 				Nós cítios abominamos os arco-íris. #odiososarcoiris			21	002.jpg	40C27
 SIGN_BIRDTREE	The Scythian			Por uma trilha lateral, encontramos uma pedra talhada com uma série de glifos indecifráveis.					
@@ -25,7 +25,7 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		O lenhador lenhava l
 				Os montanheses do Cáucaso o chamavam de Troncadeiro e ele parecia legal.					
 				Conhecia bem nossa funesta missão e concordou em nos guiar pelo antigo caminho.					
 				Ainda assim, tivemos a sensação de que ele não estava lá muito empolgado com a ideia.					
-LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		O lenhador esperou que continuássemos pela trilha até o início do antigo caminho.			12	008.jpg	U0D88
+LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		O lenhador nos esperou para continuar pela trilha até o início do antigo caminho.			12	008.jpg	U0D88
 LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Vencemos o abismo e não vamos mentir, nos sentimos gênios.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Contamos a Troncadeiro que buscávamos um pesado livro de sinistra espadância conhecido como o Megatomo.					
 			adventureUI/megatomeItem	O Megatomo espreitava em algum lugar nas trevas assombradas além do Precipício Perigoso, sob Mingi Tau.					
@@ -201,7 +201,7 @@ ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	Que tal sentar-se junto
 GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Nossa, o Troncadeiro está surtando... O que será que ele tem? Melhor eu sair e deixá-lo em paz.					
 				Vi A Citiana entoar a Canção da Espadância e enviar três espíritos silvanos ao céu. Será que eles ajudarão a dissipar a tempestade?					
 LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que A Citiana possa encontrar minha chave... eu a perdi na margem arenosa de um aprazível lago.			62	032.jpg	U3A20
-LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Que angústia! Queria que não estivesse chovendo... Queria não estar com as botas tão molhadas... Queria poder voltar a cortar lenha.					
+LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Que saco! Queria que não estivesse chovendo... Queria não estar com as botas tão molhadas... Queria poder voltar a cortar lenha.					
 				Era só o que me faltava! Onde foi parar minha chave? Estou com uma raiva e uma vergonha que nem eu me aguento!					
 LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Troncadeiro mostrou-se aliviado de verdade por termos recuperado sua chave perdida do reino crepuscular dos sonhos.					
 				O lenhador quis saber como nos tornamos tão espertos e perguntou sobre nossa funesta missão.					
@@ -231,9 +231,9 @@ ARCHETYPE_TREEHINT	The Archetype			Lembre-se de que o consumo de cogumelos flore
 ARCHETYPE_TREEHINT_NINSWITCH	The Archetype			Lembre-se de que o consumo de cogumelos florestais pode oferecer uma visão reveladora dos fenômenos criptozoológicos e coisas do tipo.					
 				Busque as sussurrantes espumas dos espíritos silvanos e investigue seu entorno.					
 				Uma vez que tenha entoado a Canção da Espadância, talvez seja bom olhar ao redor e observar o ambiente.					
-ARCHETYPE_MUSHROOMHINT	The Archetype			Há quem afirme que cogumelos adivinhatórios podem ter desempenhado um papel importante no desenvolvimento da psique humana.					
+ARCHETYPE_MUSHROOMHINT	The Archetype			Chegou-se a afirmar que os cogumelos adivinhatórios podem ter desempenhado um papel significativo no desenvolvimento da psique humana.					
 				Evidências arqueológicas indicam que o uso xamânico de cogumelos para comunhão religiosa, adivinhação e cura é bastante antigo.					
-				Fisiologicamente, é possível notar sensação de bem-estar e percepções aguçadas, além de dissipação do estresse e perda de apetite.					
+				Fisiologicamente, é possível experimentar sensações de bem-estar e percepções aguçadas, além da dissipação do estresse e perda de apetite.					
 				Os cogumelos da floresta podem oferecer uma visão reveladora sobre o paradeiro de um espírito silvano e seus peculiares gatilhos.			60	035.jpg	53A5Y
 ARCHETYPE_TRIGONGROVE	The Archetype			Sente? Começa a entender? Os símbolos esotéricos do Megatomo agora ganham um novo significado?					
 				Este facho conecta o mundo dos vivos ao dos mortos, então talvez você conheça algum fantasma com quem conversar em suas jornadas.					
@@ -250,9 +250,9 @@ DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Au Au Au Au Au Au Au Au. #aindalatindo #m
 ARCHETYPE_MEADOWHINT	The Archetype			Uma vez que o sol estiver alinhado, você receberá o dom de dobrar a realidade do grande mago 'Al Jaffee'.					
 				Sente essa estranha vibração? É a época dos milagres! Entoe a Canção da Espadância e olhe para os imponentes 'Angry Birds'.			76	038.jpg	A3G84
 ARCHETYPE_MEADOWHINTTWO	The Archetype			Busque nos céus uma visão reveladora sobre o milagre da campina e admire o Trígono Dourado.					
-ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... interessante como você lidou com aquele encontro com o canibal de cabeça de urso.			120	039.jpg	O3G9D
-				Não, não se preocupe, está tudo bem, é apenas curioso. Eu nunca tinha visto alguém fazer o que você fez. É excepcional, mas não se alarme.					
-				Bem, vamos continuar. Ainda há muitas coisas para você aproveitar em sua experiência com S:S&S EP, especialmente no Lado B.					
+ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... é interessante a maneira como você lidou com aquele encontro com o indivíduo canibal com cabeça de urso.			120	039.jpg	O3G9D
+				Não, não, está tudo bem, é apenas curioso. Nunca vi ninguém agir desse modo. É algo excepcional, mas não há motivo para alarme.					
+				Bem, prossigamos. Há muitíssimo mais da experiência S:S&S EP para você desfrutar, particularmente no Lado B.					
 ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			Para domar o Trígono Dourado, você deve sobreviver aos três movimentos de sua bizarra canção, usando uma mistura de ataque e defesa.					
 				É absolutamente fundamental que você segure o botão do escudo sempre que puder para recuperar sua força perdida.					
 				Vejo que você já invocou e tentou domar o Trígono Dourado. Tenho algumas coisas para te contar que acredito que serão úteis.					
@@ -266,7 +266,7 @@ ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Talvez tenha notado que o Trígono
 ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Radiante exigirá que você rebata os projéteis com sua espada e esquive dos ataques de raio carregado.					
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Você pode já ter encontrado o odioso ataque de arco-íris do Trígono da Lua Sombria. Fatie aquele arco-íris sem dó.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Sombria envolve projéteis triangulares, sutis e furtivos. Destrua-os e você sobreviverá.					
-ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então você despertou o espectro imortal que espreitava nas trevas sob Mingi Tau... Caramba!					
+ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então você despertou o espectro imortal que dormitava nas trevas sob Mingi Tau... Caramba!					
 				Como consequência, uma sinistra tempestade paira ameaçadora e as pessoas adoráveis que vivem na cabana de pedra estão desoladas.					
 			adventureUI/megatomeItem	A boa notícia é que você tem um pesado livro conhecido como o Megatomo. Em nossa próxima sessão, falaremos sobre seu estranho propósito.					
 				Nossa pesquisa mostra que a exposição prolongada à psicocosmologia mitopoética de S:S&S EP pode causar efeitos adversos.					
@@ -305,18 +305,18 @@ ARCHETYPE_GHOULINTRO	The Archetype
 				Bem, aqui estamos. Esta breve sessão marcará o fim do tratamento de S:S&S EP.					
 				A funesta missão de A Citiana está quase cumprida.					
 				Infelizmente, o corpo e a psique de A Citiana foram gravemente exauridos pela espadância... ela está às portas da morte.			162	047.jpg	J4F7B
-			Archetype/trifecta	Tudo o que resta é revelar os segredos da Clareira Trigônica e transferir o Megatomo para o Remoinhado Infinito no topo de Mingi Tau.					
+			Archetype/trifecta	Tudo o que resta é revelar os segredos da Clareira Trigônica e subir o Megatomo para o Remoinhado Infinito no topo de Mingi Tau.					
 				Pressione 'jogar' apenas se tiver a coragem de testemunhar o atroz tormento do martírio.					
 END	The Scythian			No topo de Mingi Tau detonamos o Megatomo e o ejetamos no Remoinhado Infinito.					
-END_CHEAT	The Scythian			No topo de Mingi Tau transferimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaça					
-END_CHEAT_NOBOOR	The Scythian			No topo de Mingi Tau transferimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaça #sempatife					
-END_CHEAT_PSYCHO	The Scythian			No topo de Mingi Tau transferimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaça #psicopata					
-END_CHEAT_LOVE	The Scythian			No topo de Mingi Tau transferimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaça #amor			202	048.jpg	D4A81
-END_MOONGROTTO_PSYCHO	The Scythian			No topo de Mingi Tau transferimos o Megatomo para a segurança eterna do Remoinhado Infinito. #grutalunar #psicopata			180	049.jpg	74D9P
-END_MOONGROTTO_LOVE	The Scythian			No topo de Mingi Tau transferimos o Megatomo para a segurança eterna do Remoinhado Infinito. #grutalunar #amor			176	050.jpg	Y5F0P
-END_HONEST_PSYCHO	The Scythian			No topo de Mingi Tau transferimos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #psicopata			179	051.jpg	M5C1H
-END_HONEST_LOVE	The Scythian			No topo de Mingi Tau transferimos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #amor			177	052.jpg	55E2B
-END_HONEST_NOBOOR	The Scythian			No topo de Mingi Tau transferimos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #sempatife			178	053.jpg	75G3V
+END_CHEAT	The Scythian			No topo de Mingi Tau subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaça					
+END_CHEAT_NOBOOR	The Scythian			No topo de Mingi Tau subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaça #sempatife					
+END_CHEAT_PSYCHO	The Scythian			No topo de Mingi Tau subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaça #psicopata					
+END_CHEAT_LOVE	The Scythian			No topo de Mingi Tau subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaça #amor			202	048.jpg	D4A81
+END_MOONGROTTO_PSYCHO	The Scythian			No topo de Mingi Tau subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #grutalunar #psicopata			180	049.jpg	74D9P
+END_MOONGROTTO_LOVE	The Scythian			No topo de Mingi Tau subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #grutalunar #amor			176	050.jpg	Y5F0P
+END_HONEST_PSYCHO	The Scythian			No topo de Mingi Tau subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #psicopata			179	051.jpg	M5C1H
+END_HONEST_LOVE	The Scythian			No topo de Mingi Tau subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #amor			177	052.jpg	55E2B
+END_HONEST_NOBOOR	The Scythian			No topo de Mingi Tau subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #sempatife			178	053.jpg	75G3V
 GIRL_GHOULTHOUGHTS	Girl			Sabe que é possível deter a Massa Gogolítica tocando sua caveira com espadância? Provavelmente não.					
 				Espero que A Citiana saiba que deve manter pressionado o caminho para se remexer, remexer bem rapidinho... se não o fizer, estará frita.					
 				Onde estou? O que aconteceu? A última coisa que me lembro é de estar caminhando em sonhos pela floresta quando vi uma perturbadora luz rosa.					
@@ -358,7 +358,7 @@ GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Au Au Au Au Au Au. #la
 GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Ainda assim, há algo estranho no comportamento de A Citiana; parecia como se uma força invisível a controlasse.					
 				Gostaria de saber mais sobre A Citiana e sua épica história, aposto que então tudo faria sentido.					
 GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que A Citiana esteja cuidando daquela história dos espíritos silvanos.					
-				Essa bendita tempestade está me afetando muito, me faz desejar que os videogames existissem no... momento em que se supõe que estamos.					
+				Essa bendita tempestade tá me deixando pra baixo, me faz desejar que os videogames existissem no... momento em que se supõe que estamos.					
 GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Tudo tem sido uma loucura lunática desde que A Citiana apareceu.			3	062.jpg	36E2Z
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Essa tempestade toda estava me afetando muito. Estava tudo tããão lúgubre!					
 				A chuva começou a diminuir e o céu parece estar clareando... Será que é a época dos milagres? Tomara que sim, eu amo milagres.					
@@ -408,13 +408,13 @@ ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Atravessar o limiar da liminaridade em
 				Se você conseguir estabilizar sua lucidez, poderá co-criar com ela... em vez de lutar, resistir e amaldiçoá-la.					
 				Quando você está lúcido em um sonho, percebe quem imaginou ser... mas, se você se identificar com o sonho, ficará enfeitiçado.					
 				Mesmo em um sonho conhecido, há novos lugares para explorar e novas conexões para considerar... se você continuar acreditando.					
-GIRL_MOONGROTTOCOMMENT	Girl			Sinto como se o cosmos tivesse pulado uma batida e agora tudo estivesse um pouquinho... estranho.					
-LOGFELLA_MOONGROTTOCOMMENT	Logfella			De 0 a 1 é um longo caminho, e se um alien dissesse 'olá', seria um código criptografado no estéreo. Espere... o quê?					
-GIRL_HUGETREETHOUGHTS	Girl			Claro, nunca conto pra ninguém sobre esses sonhos com deusas e árvores, porque com certeza me chamariam de hippie ou coisa assim.					
-				Em meu lugar especial, visito uma titânica árvore oca... ela é uma deusa, morta há muito tempo, que antecede a humanidade por eras.					
+GIRL_MOONGROTTOCOMMENT	Girl			Sinto como se o cosmos tivesse pulado uma batida e agora tudo estivesse um pouquinho... descompassado.					
+LOGFELLA_MOONGROTTOCOMMENT	Logfella			Do 0 ao 1 há um longo caminho, e se um alien dissesse 'olá', seria em código críptico no estéreo. Pera... o quê?					
+GIRL_HUGETREETHOUGHTS	Girl			Claro, nunca falo pra ninguém desses sonhos com deusas e árvores, porque com certeza me chamariam de hippie ou coisa assim.					
+				Em meu lugar especial, visito uma titânica árvore oca... ela é uma deusa, morta há muito tempo, anterior à humanidade por incontáveis eras.					
 				Ao caminhar em sonhos, há um lugar especial para onde sempre vou, um Parlamento de Árvores no coração do mundo.					
-LOGFELLA_HUGETREETHOUGHTS	Logfella			Adoro ver a mesma floresta com climas diferentes e simplesmente parar pra ouvir... pensar ou não pensar, dependendo do dia.					
-				Não costumo caminhar muito em sonhos, mas quando faço isso, gosto de voltar aos meus lugares favoritos pra ver o que mudou.					
+LOGFELLA_HUGETREETHOUGHTS	Logfella			Gosto de ver a mesma floresta com climas diferentes e só parar pra ouvir... pensar ou não pensar, dependendo do dia.					
+				Não sou muito de caminhar em sonhos, mas quando vou, costumo voltar aos meus lugares favoritos pra ver o que mudou.					
 MIRACLE1_MOUNTAINMEADOW	The Scythian			Em uma campina ensolarada, obramos um milagre dissipador de tempestades, com a técnica de dobra do grande mago 'Al Jaffee'.					
 MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			Em uma campina ensolarada, acordamos confusos e atordoados, com uma dor de cabeça terrível.					
 LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Atordoados e sem uma lembrança clara, acordamos de um profundo sono.					
@@ -540,7 +540,7 @@ GIRL_BRIGHTMOON	The Scythian			Samae falou sobre caminhadas oníricas pela flore
 				Ela mencionou o ar fresco da manhã e uma ilha impossível no meio de um aprazível lago.					
 ARCHETYPE_BRIGHTMOON	The Archetype			Saia lá fora e olhe para cima. Maravilhe-se com a Lua Radiante que paira no céu!			95	079.jpg	07D95
 LOGFELLA_ALMOSTWANE	The Scythian			O lenhador não aguentava muito folclore e admitiu que costumava dormir, embora tivesse um bom conhecimento sobre o assunto.					
-				Conhecia todos os detalhes sobre Mingi Tau e por que era conhecido como o Reino das Nuvens.					
+				Conhecia todos os detalhes sobre Mingi Tau e por que era conhecido como o Reino da Nuvem.					
 				Ele sabia que Mingi Tau era a montanha mais alta do mundo conhecido, ainda mais alta que o Monte Olimpo, onde habitavam os deuses aqueus.					
 				Além disso, ele sabia que o topo de Mingi Tau, sempre envolto em nuvens, era considerado a entrada para o Remoinhado Infinito.					
 				O lenhador nunca ousou colocar os pés nas encostas malditas de Mingi Tau, e nunca o faria.					
