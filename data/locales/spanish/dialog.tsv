@@ -104,7 +104,7 @@ INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Junto a un insondable estanque, descubrimos una robusta choza de piedra con un tejado de paja.					
 INFO_CABINWOODPILE	The Scythian			Cerca de la choza, vimos una pila de leña, nada del otro mundo.					
-INFO_SPUME	The Scythian			Localizamos las sutiles susurrantes espumas de un espíritu silvano sumido en sueño. Y ahora... ¿cómo lo despertamos?					
+INFO_SPUME	The Scythian			Localizamos las sutiles y susurrantes espumas de un espíritu silvano sumido en sueño. Y ahora... ¿cómo lo despertamos?					
 INFO_NESTBOX	The Scythian			Avistamos un curioso nido, ahora hogar de una colmena de escoria y villanía.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Avistamos un desgastado nido con un inquietante parecido a un rostro.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre un puente de troncos en el antiguo camino, se erguía un siniestro mástil decorado con calaveras.					
@@ -214,7 +214,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Tronquero se mostró sincera
 			AdventureUI/keyItem	Decidimos guardar la llave y continuar explorando el antiguo camino, más allá del muro de piedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si podíamos quedarnos con su llave y le pareció genial.					
 GIRL_FOUNDKEY	The Scythian			Por un sendero lateral encontramos a Samae, empapada por la lluvia.					
-			gourd/gourd	Había oído las sutiles susurrantes espumas de los espíritus silvanos más allá del muro de piedra, en el antiguo camino hacia Mingi Tau.					
+			gourd/gourd	Había oído las sutiles y susurrantes espumas de los espíritus silvanos más allá del muro de piedra, en el antiguo camino hacia Mingi Tau.					
 			gourd/gourd	Nos habló de unos colosales árboles que flanqueaban un impetuoso río.					
 			gourd/gourd	Mencionó unos tenues arcoíris que se formaban al borde del Precipicio Peligroso.					
 			adventureUI/megatomeItem	...y luego, angustiada, nos sugirió consultar el Megatomo si llegábamos a sentirnos perdidos o desorientados.					
@@ -278,7 +278,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				Son tiempos de angustia: una siniestra tormenta ha nublado el cielo y la gente adorable de la choza de piedra está desolada.					
 				Disipar la tormenta requerirá cierta familiaridad con la psiónica, la criptozoología y los milagros...					
 			adventureUI/megatomeItem	1. El toque de un espadancista liberará el Megatomo, revelando los pensamientos no expresados de criaturas vivas y otro material esotérico.					
-			gourd/gourd	2. Extraños espíritus silvanos, fuentes de espadancia, duermen en estanques, bosques y prados. Busca sus sutiles susurrantes espumas.					
+			gourd/gourd	2. Extraños espíritus silvanos, fuentes de espadancia, duermen en estanques, bosques y prados. Busca sus sutiles y susurrantes espumas.					
 			triangle/Triangle	3. El espadancista que pueda localizar, invocar y domar la geometría cósmica del Trigón Dorado poseerá la habilidad de obrar milagros.					
 				¿Confusión? Calma, calma, ¡que no panda el cúnico!			210	043.jpg	A4C31
 ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	¡Bravo! Has localizado y domado la geometría cósmica del Trigón Dorado.			86	044.jpg	24E4H
@@ -567,7 +567,7 @@ DARKMOONLOOMS_ARCHETYPE	The Archetype			La Luna Sombría se avecina, el final de
 DARKMOONBEGINS_ARCHETYPE	The Archetype			He aquí, ¡La Luna Sombría!			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			Al caminar en sueños, me encontré con un Parlamento de Árboles azotado por un rayo y sentí la presencia de algo profundamente sagrado.					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Anoche escuché el sonido de una música vibrante que se filtraba por los bosques detrás de mi choza. ¿Qué rayos es eso?					
-DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño solo vislumbré las sutiles susurrantes espumas de los espíritus silvanos.					
+DARKMOON_DOGFELLATHOUGHTS	Dogfella			Guau Guau Guau. En mi estado de sueño solo vislumbré las sutiles y susurrantes espumas de los espíritus silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Reconstruimos la Tríada Trigonal & ahora somos héroes.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Asesinamos inexplicablemente a 3 conejos indefensos.					
 RABBITS_7MURDERS	The Scythian			Asesinamos inexplicablemente a 7 conejos indefensos. ¿Es esto prueba de una mente trastornada?					

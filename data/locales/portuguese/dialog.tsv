@@ -104,7 +104,7 @@ INFO_WELLWHITESTAG	The Scythian			VIDA LONGA À NOVA CARNE
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Diante de uma insondável lagoa, descobrimos uma robusta cabana de pedra com um telhado de palha.					
 INFO_CABINWOODPILE	The Scythian			Perto da cabana, encontramos uma pilha de lenha, nada de mais.					
-INFO_SPUME	The Scythian			Localizamos as sutis sussurrantes espumas de um espírito silvano imerso em sonho. E agora... como o despertamos?					
+INFO_SPUME	The Scythian			Localizamos as sutis e sussurrantes espumas de um espírito silvano imerso em sonho. E agora... como o despertamos?					
 INFO_NESTBOX	The Scythian			Vimos um curioso ninho, agora lar de uma colmeia de escória e vilania.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Vimos um desgastado ninho com uma inquietante semelhança a um rosto.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre uma ponte de toras no antigo caminho, erguia-se um sinistro mastro decorado com caveiras.					
@@ -214,7 +214,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Troncadeiro mostrou-se alivi
 			AdventureUI/keyItem	Decidimos ficar com a chave e seguir pelo antigo caminho, além do muro de pedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Perguntamos ao lenhador se podíamos ficar com a chave e ele achou legal.					
 GIRL_FOUNDKEY	The Scythian			Por uma trilha lateral, encontramos Samae, completamente encharcada pela chuva.					
-			gourd/gourd	Ela ouvira as sutis sussurrantes espumas dos espíritos silvanos além do muro de pedra, no antigo caminho para Mingi Tau.					
+			gourd/gourd	Ela ouvira as sutis e sussurrantes espumas dos espíritos silvanos além do muro de pedra, no antigo caminho para Mingi Tau.					
 			gourd/gourd	Falou de umas altíssimas árvores que ladeavam um impetuoso rio.					
 			gourd/gourd	Mencionou uns tênues arco-íris que surgiam à beira do Precipício Perigoso.					
 			adventureUI/megatomeItem	...e então, angustiada, sugeriu que consultássemos o Megatomo caso nos sentíssemos perdidos ou desorientados.					
@@ -278,7 +278,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				São tempos de angústia: uma sinistra tempestade cobriu o céu e as pessoas adoráveis que vivem na cabana estão desoladas.					
 				Desfazer a tempestade exigirá algum conhecimento em psiônica, criptozoologia e milagres...					
 			adventureUI/megatomeItem	1. O toque de um espadancista liberará o Megatomo, revelando os pensamentos não expressos das criaturas vivas e outros materiais esotéricos.					
-			gourd/gourd	2. Estranhos espíritos silvanos, fontes de espadância, dormem em lagos, florestas e campinas. Procure por suas sutis sussurrantes espumas.					
+			gourd/gourd	2. Estranhos espíritos silvanos, fontes de espadância, dormem em lagos, florestas e campinas. Procure por suas sutis e sussurrantes espumas.					
 			triangle/Triangle	3. O espadancista que puder localizar, invocar e domar a geometria cósmica do Trígono Dourado possuirá a habilidade de obrar milagres.					
 				Confusão? Palma, palma, não priemos cânico!			210	043.jpg	A4C31
 ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	Excelente! Você localizou e domou a geometria cósmica do Trígono Dourado.			86	044.jpg	24E4H
@@ -567,7 +567,7 @@ DARKMOONLOOMS_ARCHETYPE	The Archetype			A Lua Sombria se aproxima, o fim do cicl
 DARKMOONBEGINS_ARCHETYPE	The Archetype			Contemple: A Lua Sombria!			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			Ao caminhar em sonhos, encontrei um Parlamento de Árvores atingido por um raio e senti a presença de algo profundamente sagrado.					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Ontem à noite, ouvi o som de uma música vibrante que se filtrava pelos bosques atrás de minha cabana. Que raios é isso?					
-DARKMOON_DOGFELLATHOUGHTS	Dogfella			Au Au Au. Em meu estado de sonho, só vislumbrei as sutis sussurrantes espumas dos espíritos silvanos.					
+DARKMOON_DOGFELLATHOUGHTS	Dogfella			Au Au Au. Em meu estado de sonho, só vislumbrei as sutis e sussurrantes espumas dos espíritos silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Reconstruímos a Tríade Trigônica & agora somos heróis.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Assassinamos inexplicavelmente 3 coelhos indefesos.					
 RABBITS_7MURDERS	The Scythian			Assassinamos inexplicavelmente 7 coelhos indefesos. Será isso evidência de uma mente transtornada?					
