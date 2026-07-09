@@ -111,11 +111,37 @@ jobs:
           npm install
           npm run tauri build -- --config src-tauri/tauri.${{ matrix.locale }}.conf.json
 
+      - name: Prepare Release Assets
+        shell: bash
+        run: |
+          mkdir -p final-assets
+          ASSETS_DIR="$(pwd)/final-assets"
+          
+          # Copy ready installers
+          find patcher/src-tauri/target/release/bundle -type f -name "*.exe" -exec cp {} "$ASSETS_DIR/" \; || true
+          find patcher/src-tauri/target/release/bundle -type f -name "*.msi" -exec cp {} "$ASSETS_DIR/" \; || true
+          find patcher/src-tauri/target/release/bundle -type f -name "*.deb" -exec cp {} "$ASSETS_DIR/" \; || true
+          find patcher/src-tauri/target/release/bundle -type f -name "*.AppImage" -exec cp {} "$ASSETS_DIR/" \; || true
+          find patcher/src-tauri/target/release/bundle -type f -name "*.dmg" -exec cp {} "$ASSETS_DIR/" \; || true
+          
+          # On macOS, the .app is a folder. GitHub Releases requires files, so we compress it into a .zip
+          if [ "${{ matrix.os }}" = "macos-latest" ]; then
+            if [ -d "patcher/src-tauri/target/release/bundle/macos" ]; then
+              cd patcher/src-tauri/target/release/bundle/macos
+              for app in *.app; do
+                if [ -d "$app" ]; then
+                  zip -r "$ASSETS_DIR/${app%.app}.zip" "$app"
+                fi
+              done
+              cd -
+            fi
+          fi
+
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4
         with:
           name: sworcery_patcher_${{ matrix.locale }}_${{ matrix.os_name }}
-          path: patcher/src-tauri/target/release/bundle/
+          path: final-assets/*
           if-no-files-found: ignore
 
   create_release:
@@ -135,10 +161,5 @@ jobs:
         with:
           tag_name: ${{ inputs.release_tag }}
           name: Release ${{ inputs.release_tag }}
-          files: |
-            release-artifacts/**/*.exe
-            release-artifacts/**/*.msi
-            release-artifacts/**/*.dmg
-            release-artifacts/**/*.AppImage
-            release-artifacts/**/*.deb
+          files: release-artifacts/**/*
           draft: true
