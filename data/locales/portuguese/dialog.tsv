@@ -8,7 +8,7 @@ SIGN_CHASM	The Scythian			À beira do Precipício Perigoso erguia-se uma pedra t
 SIGN_BIRDTREE	The Scythian			Por uma trilha lateral, encontramos uma pedra talhada com uma série de glifos indecifráveis.					
 				Em meio aos indecifráveis glifos, distinguimos alguns pictogramas lunares.					
 SIGN_BIRDTREEDECIPHERED	The Scythian			Por uma trilha lateral, encontramos uma pedra talhada com uma série de pictogramas lunares outrora indecifráveis.					
-				Os pictogramas falavam de um lugar secreto perto daqui «...onde se podia alterar o humor da lua».					
+				"Os pictogramas falavam de um lugar secreto perto daqui ""...onde se podia alterar o humor da lua""."					
 				Será que é a Gruta Lunar...? #grutalunar #queisso #eummisterio			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			À beira do antigo caminho, nos deparamos com uma pedra talhada com um par de glifos em forma de espada e escudo. #ficaadica			16	004.jpg	T0C4X
 SIGN_ANTECHAMBERLEFT	The Scythian			Num corredor subterrâneo, descobrimos uma estátua ominosa, mas não nos preocupamos muito com isso. #folclore			29	005.jpg	V0B53
@@ -17,7 +17,7 @@ INFO_CROSSMOUNTAINRIGHT	The Scythian			Na encosta rochosa de Mingi Tau, uma tumb
 INFO_RIDGESKULLPOLE	The Scythian			Na crista rochosa a caminho do topo de Mingi Tau, erguia-se um sinistro poste decorado com uma caveira galhada.					
 INFO_CROSSRIDGE	The Scythian			Na crista rochosa a caminho do topo de Mingi Tau, uma tumba solitária era um lúgubre lembrete de quantos tinham morrido ali.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos o Megatomo apertado entre duas ossudas mãos e sentimos nossa espada estremecer na bainha. #megatomo			33	006.jpg	30D6C
-DOOR_SIDEBMEADOW	The Scythian			Uma pequena porta sem maçaneta, feita de um material desconhecido. Uma placa diz: «Apenas Pessoal Autorizado».					
+DOOR_SIDEBMEADOW	The Scythian			Uma pequena porta sem maçaneta, feita de um material desconhecido. Uma placa diz: 'Apenas Pessoal Autorizado'.					
 DOOR_UPSLOPEWOODS1	The Scythian			Uma porta no muro de pedra bloqueava o antigo caminho para Mingi Tau.					
 DOOR_UPSLOPEWOODS3	The Scythian			Uma porta fechada se escondia entre a mata abaixo do antigo caminho que leva a Mingi Tau. #grutalunar					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
@@ -89,7 +89,7 @@ GIRL_LOSTKEY	The Scythian			Samae se abrigava da chuva sob o amplo telhado de ma
 INFO_BIRDEYESCULPTURE	The Scythian			Notamos uma escultura de um pássaro zangado que se erguia sobre a campina. #sutilreferencia			6	014.jpg	F1D48
 INFO_MEADOWSHEEP	The Scythian			Observamos algumas ovelhas inúteis vadiando na campina. #ovelhasinuteis					
 INFO_CABINSHEEP	The Scythian			Outra ovelha inútil, por que continuamos olhando para elas? #ovelhasinuteis					
-INFO_MEADOWSUN	The Scythian			Lembramos perfeitamente de quão incrível o sol parecia naquele primeiro dia de primavera.					
+INFO_MEADOWSUN	The Scythian			Lembramos perfeitamente de quão incrível o sol parecia naquele dia de início de primavera.					
 INFO_MEADOWGATE	The Scythian			Na campina, nos deparamos com um impenetrável portão de ferro que bloqueava uma colossal caverna.					
 INFO_MEADOWGATEACTIVE	The Scythian			Observamos o portão de ferro da campina e tivemos a sensação de que talvez pudéssemos abri-lo de alguma forma.					
 INFO_MEADOWGATETRIGONACTIVE	The Scythian			Sobre o portão de ferro, distinguimos uma geringonça com a forma do Trígono Dourado. Será que reagiria à nossa Canção da Espadância?					
@@ -139,7 +139,7 @@ INFO_TRIGONGROVESKULLSTICK	The Scythian			Um sinistro poste decorado com uma cav
 GRAVE_TRIGONGROVE	The Scythian			Na Clareira Trigônica, além da caverna colossal na campina, uma tumba solitária despertou nossa curiosidade.					
 GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigônica, além da caverna colossal na campina, nos aproximamos de uma tumba solitária e conhecemos um fantasma resplandeciente.					
 				A bem da verdade, o fantasma nos assustou bastante no início.			96	022.jpg	T2B2H
-			adventureUI/megatomeItem	Ao ver nossa vestimenta citiana e o Megatomo, perguntou se entendíamos seus enigmáticos símbolos.					
+			adventureUI/megatomeItem	Ao ver nossa vestimenta cítia e o Megatomo, perguntou se entendíamos seus enigmáticos símbolos.					
 				Num sussurro, ele pronunciou o nome do espectro imortal que havíamos despertado nas trevas sob Mingi Tau: a Massa Gogolítica.			166	023.jpg	O2B39
 				Conhecíamos esse nome temível das velhas histórias e sentimos nosso sangue gelar.					
 				"""Até agora, eu tinha a sensação de que a Massa Gogolítica te via meio que como um turista."""					
@@ -317,7 +317,7 @@ END_MOONGROTTO_LOVE	The Scythian			No topo de Mingi Tau subimos o Megatomo para 
 END_HONEST_PSYCHO	The Scythian			No topo de Mingi Tau subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #psicopata			179	051.jpg	M5C1H
 END_HONEST_LOVE	The Scythian			No topo de Mingi Tau subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #amor			177	052.jpg	55E2B
 END_HONEST_NOBOOR	The Scythian			No topo de Mingi Tau subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #sempatife			178	053.jpg	75G3V
-GIRL_GHOULTHOUGHTS	Girl			Sabe que é possível deter a Massa Gogolítica tocando sua caveira com espadância? Provavelmente não.					
+GIRL_GHOULTHOUGHTS	Girl			Será que A Citiana sabe que é possível deter a Massa Gogolítica tocando sua caveira com espadância? Provavelmente não.					
 				Espero que A Citiana saiba que deve manter pressionado o caminho para se remexer, remexer bem rapidinho... se não o fizer, estará frita.					
 				Onde estou? O que aconteceu? A última coisa que me lembro é de estar caminhando em sonhos pela floresta quando vi uma perturbadora luz rosa.					
 LOGFELLA_GHOULTHOUGHTS	Logfella			A Citiana continua falando sobre sua funesta missão de abrir uma entrada para o Remoinhado Infinito no topo de Mingi Tau.					
@@ -336,7 +336,7 @@ AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Esses dois excêntric
 GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito silvano na fértil terra de uma campina onde pastavam quatro pares de ovelhas inúteis.			52	056.jpg	15B63
 GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Entoamos a Canção da Espadância e despertamos um espírito silvano das frescas águas de uma insondável lagoa, que estranho!			50	057.jpg	G5F78
 GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito silvano em um curioso ninho, cercado por três encharcados pássaros cantores.					
-GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito silvano junto a uma impassível ponte de toras, onde quatro pares de árvores ladeam um impetuoso rio.					
+GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito silvano junto a uma impassível ponte de toras, onde quatro pares de árvores ladeiam um impetuoso rio.					
 GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito silvano entre dois odiosos arco-íris à beira do Precipício Perigoso.					
 GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito silvano cercado por cinco cachoeiras.					
 GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito silvano entre a mata no alto de um rochedo.					
@@ -380,7 +380,7 @@ GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Talvez você já t
 GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		Os espíritos silvanos são filhos da Mãe Terra ou são visitantes solitários do Remoinhado Infinito?					
 				Pra ser sincera, os espíritos silvanos me assustam demais. Tipo... O que eles são? De onde vêm?					
 GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Quando os espíritos silvanos forem enviados ao céu e chegar a época dos milagres, você deve procurar a titânica árvore oca.					
-				Eu sei que você sabe o que eu sei e quero que saiba que você está 100% certo.			109	066.jpg	F6D6H
+				Eu sei que você sabe o que eu sei e quero que saiba que você tem 100% de razão.			109	066.jpg	F6D6H
 				Au Au Au Snif Au Au Au.					
 GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Somente o fim da sua funesta missão trará a paz de volta às nossas vidas.					
 				Apenas a Tríade Trigônica permitirá que você compreenda os segredos da Clareira Trigônica.					
@@ -415,7 +415,7 @@ GIRL_HUGETREETHOUGHTS	Girl			Claro, nunca falo pra ninguém desses sonhos com de
 				Ao caminhar em sonhos, há um lugar especial para onde sempre vou, um Parlamento de Árvores no coração do mundo.					
 LOGFELLA_HUGETREETHOUGHTS	Logfella			Gosto de ver a mesma floresta com climas diferentes e só parar pra ouvir... pensar ou não pensar, dependendo do dia.					
 				Não sou muito de caminhar em sonhos, mas quando vou, costumo voltar aos meus lugares favoritos pra ver o que mudou.					
-MIRACLE1_MOUNTAINMEADOW	The Scythian			Em uma campina ensolarada, obramos um milagre dissipador de tempestades, com a técnica de dobra do grande mago 'Al Jaffee'.					
+MIRACLE1_MOUNTAINMEADOW	The Scythian			Em uma campina ensolarada, obramos um milagre dissipador de tempestades, com a técnica de dobra do louco mago 'Al Jaffee'.					
 MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			Em uma campina ensolarada, acordamos confusos e atordoados, com uma dor de cabeça terrível.					
 LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Atordoados e sem uma lembrança clara, acordamos de um profundo sono.					
 			triangle/Triangle	Lembramos do milagre da campina e nosso encontro com o Trígono Dourado...					
@@ -524,7 +524,7 @@ ARCHETYPE_DARKMOON	The Archetype			Tenha cuidado. A Lua Sombria reina.			94	076.
 LOGFELLA_CRESCENTWAX	The Scythian			O lenhador falou sobre caminhadas oníricas pela floresta pouco antes do amanhecer, sob a luz de uma lua crescente.					
 				Ele falou sobre uma criatura que encontrou, algo ou alguém estranho e nu. Era um urso? Um homem? Ou... O Patife Grisalho?			57	077.jpg	I7G7U
 GIRL_CRESCENTWAX	The Scythian			Samae estava animada. Hoje começava um novo mês lunar! Longos dias a esperavam sentada em rochas.					
-ARCHETYPE_CRESCENTWAX	The Archetype			Um brilho de lua crescente apareceu, marcando o início de um novo ciclo lunar de vinte e oito dias.			118	045.jpg	Y4E5Q
+ARCHETYPE_CRESCENTWAX	The Archetype			Um fino filete de lua crescente apareceu, marcando o início de um novo ciclo lunar de vinte e oito dias.			118	045.jpg	Y4E5Q
 LOGFELLA_HALFWAX	The Scythian			O lenhador admitiu que sim, de fato, tinha cortado uma boa quantidade de lenha em sua vida.					
 				Ele falou sobre frios invernos e profundas neves aqui, nas majestuosas montanhas do Cáucaso, que se erguiam sobre as estepes da Cítia.					
 				Esperava ter comida suficiente e lenha para sobreviver aos longos e frios meses que se aproximavam.					
@@ -532,10 +532,10 @@ GIRL_HALFWAX	The Scythian			Em meu sonho de ontem, eu estava caminhando pela flo
 ARCHETYPE_HALFWAX	The Archetype			Alguns folcloristas lunáticos afirmam que não há relação causal entre a loucura e o humor da lua.					
 LOGFELLA_ALMOSTWAX	The Scythian			O lenhador disse que raramente pensava na montanha deserta de Mingi Tau e na Massa Gogolítica.					
 				No entanto, ele mencionou que ultimamente sua presença espectral começou a atormentá-lo.					
-				De fato, o lenhador admitiu que sentia um frio na espinha quando a Lua Radiante paira... e quando a Lua Sombria reina.					
+				De fato, o lenhador admitiu que sentia um frio na espinha quando a Lua Radiante pairava... e quando a Lua Sombria reinava.					
 GIRL_ALMOSTWAX	The Scythian			Samae comentou sobre a lua crescente e se perguntou quanto tempo levaria até que a Lua Radiante pairasse no céu.					
 ARCHETYPE_ALMOSTWAX	The Archetype			A lua cresce um pouco a cada dia... em poucos dias, a Lua Radiante pairará... E daí?			165	046.jpg	P4B6A
-LOGFELLA_BRIGHTMOON	The Scythian			O lenhador admitiu que seu cachorro se comportava de maneira estranha toda vez que a Lua Radiante paira no céu.			135	061.jpg	M6F1I
+LOGFELLA_BRIGHTMOON	The Scythian			O lenhador admitiu que seu cachorro se comportava de maneira estranha toda vez que a Lua Radiante pairava no céu.			135	061.jpg	M6F1I
 GIRL_BRIGHTMOON	The Scythian			Samae falou sobre caminhadas oníricas pela floresta pouco antes do amanhecer, enquanto a Lua Radiante pairava no céu.					
 				Ela mencionou o ar fresco da manhã e uma ilha impossível no meio de um aprazível lago.					
 ARCHETYPE_BRIGHTMOON	The Archetype			Saia lá fora e olhe para cima. Maravilhe-se com a Lua Radiante que paira no céu!			95	079.jpg	07D95
@@ -547,7 +547,7 @@ LOGFELLA_ALMOSTWANE	The Scythian			O lenhador não aguentava muito folclore e ad
 GIRL_ALMOSTWANE	The Scythian			Samae se perguntou por que tantos cogumelos cresciam logo antes e depois da Lua Radiante... Qual seria o motivo?					
 ARCHETYPE_ALMOSTWANE	The Archetype			A lua está um pouco menos brilhante do que ontem, e o ciclo lunar está começando a diminuir.					
 LOGFELLA_HALFWANE	The Scythian			O lenhador não aguentava muito folclore e admitiu que costumava dormir, embora tivesse um bom conhecimento sobre o assunto.					
-				Explicou que em Cítia e Pérsia, Mingi Tau era conhecida como A Montanha Eterna.					
+				Explicou que na Cítia e na Pérsia, Mingi Tau era conhecida como A Montanha Eterna.					
 				Contou como, há séculos, uma raça esquecida havia talhado um templo na rocha viva sob Mingi Tau.					
 				Mencionou os corredores subterrâneos e os espaços cavernosos escavados na rocha viva.					
 				Segundo ele, tais cavernas foram criadas há séculos para proteger o Megatomo.					
@@ -596,7 +596,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Voz de O Arquétipo: o artista e cineasta Clive Holden em cliveholden.com					
 				Sons cósmicos da Gruta Lunar: Scientific American em scntfc.com					
 				* * * APOIO DA CAPY * * *					
-				Produtor executivo, herói do povo, liderança e estratégia: Nathan Vella, presidente da Capy.					
+				Produtor executivo, herói do povo, liderança e estrategueria: Nathan Vella, presidente da Capy.					
 				Produtor de PC, assistência técnica de áudio, integração FMOD e muitíssimos sons: Sean 'Uber' Lohrisch, cofundador da Capy.					
 				Nintendo Switch Produc-tron e assistência geral de negócios: Matt Repetski, cofundador da Capy.					
 				Controle de qualidade (QA) e mega-herói de playtesting: Christian 'Sea Dawg' Meyer na Capy.					
@@ -682,7 +682,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Criamos S:S&S EP tendo em mente um público amplo e culto.					
 				S:S&S EP ia se chamar 'Poopsock' originalmente. Isso é realmente verdade.					
 				* * * ACABOU * * *					
-				Agora somos amigos cósmicos para sempre, tá bom?			87	084.jpg	L8A48
+				Agora somos amigos cósmicos para sempre... tá?			87	084.jpg	L8A48
 ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
 	The Archetype			Senhoras e senhores, que tal tocarem nestes dois pequenos espíritos silvanos para calibrar o seu sistema de som estéreo?					
 	The Archetype			Desde nosso experimento anterior em 2011, constatamos que as redes sociais têm um impacto catastrófico na sociedade.					
