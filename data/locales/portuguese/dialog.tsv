@@ -17,7 +17,7 @@ INFO_CROSSMOUNTAINRIGHT	The Scythian			Na encosta rochosa de Mingi Tau, uma tumb
 INFO_RIDGESKULLPOLE	The Scythian			Na crista rochosa a caminho do topo de Mingi Tau, erguia-se um sinistro poste decorado com uma caveira galhada.					
 INFO_CROSSRIDGE	The Scythian			Na crista rochosa a caminho do topo de Mingi Tau, uma tumba solitária era um lúgubre lembrete de quantos tinham morrido ali.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos o Megatomo apertado entre duas ossudas mãos e sentimos nossa espada estremecer na bainha. #megatomo			33	006.jpg	30D6C
-DOOR_SIDEBMEADOW	The Scythian			Uma pequena porta sem maçaneta, feita de um material desconhecido. Uma placa diz: 'Apenas Pessoal Autorizado'.					
+DOOR_SIDEBMEADOW	The Scythian			Encontramos uma pequena porta sem maçaneta, feita de um material desconhecido. Uma placa dizia: 'Apenas Pessoal Autorizado'.					
 DOOR_UPSLOPEWOODS1	The Scythian			Uma porta no muro de pedra bloqueava o antigo caminho para Mingi Tau.					
 DOOR_UPSLOPEWOODS3	The Scythian			Uma porta fechada se escondia entre a mata abaixo do antigo caminho que leva a Mingi Tau. #grutalunar					
 LOGFELLA_AVATAR			AdventureUI/dudeLogfellaIdle1						
@@ -60,7 +60,7 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP não produz a experiência transce
 				A 'Preparação' é o estado mental e a personalidade que você traz para a experiência: pensamentos, estados de ânimo e expectativas.					
 				Falemos sobre a preparação e o ambiente para uma experiência positiva com esta obra altamente psicoativa Superbrothers: Sword & Sworcery EP.					
 				A consciência expandida, o potencial ilimitado e inexplorado da mente, é o que chamamos de 'sworcery' (ou espadância) em Superbrothers. #espadância					
-				A espadância é a técnica psiônica que permite perceber uma realidade dentro daquela que você já conhece.					
+				A espadância pode ser entendida como uma técnica psiônica que permite perceber uma realidade dentro daquela que você já conhece.					
 				Para parar a Canção da Espadância, toque duas vezes na aura que envolve A Citiana.					
 				Depois de entoada, pressione, segure & deslize sobre a aura de espadância para olhar ao redor.					
 				Para entoar a Canção da Espadância, pressione & segure sobre A Citiana até a aura aparecer.					
@@ -165,8 +165,8 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Em um matagal perto do antigo caminho, nos a
 				"""Acontece que um de nós era um trapaceiro inveterado, e o pegamos com a boca na botija."""					
 				"""Rolou uma briga e o trapaceiro fugiu pelo antigo caminho em direção ao Precipício Perigoso."""					
 				"""Aí ficamos lá, de bobeira, pensando no que fazer... quando, de repente, a Massa Gogolítica apareceu... Credo!"""			113	027.jpg	62B75
-GRAVE_CHASM	The Scythian			Ao fio do Precipício Perigoso, uma tumba solitária despertou nossa curiosidade.					
-GRAVE_CHASMGHOST	The Scythian			Ao fio do Precipício Perigoso, nos aproximamos da tumba solitária do trapaceiro inveterado e conhecemos um velho fantasma resplandecente.					
+GRAVE_CHASM	The Scythian			À beira do Precipício Perigoso, uma tumba solitária despertou nossa curiosidade.					
+GRAVE_CHASMGHOST	The Scythian			À beira do Precipício Perigoso, nos aproximamos da tumba solitária do trapaceiro inveterado e conhecemos um velho fantasma resplandecente.					
 			Archetype/trifecta	"""No ano passado, antes das festas de Yule, André, 'O Gigante', juntou a galera e partimos para remontar a Tríade Trigônica."""					
 				"""Os outros membros da galera foram enterrados em um matagal perto do antigo caminho, junto à ponte de toras."""					
 			triangle/Triangle	"""Localizamos e domamos o Trígono Dourado com bastante facilidade, mas depois disso ficamos completamente parados."""					
@@ -344,12 +344,12 @@ GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	E
 GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano nas tranquilas águas de um lago onde uma pata-mãe agitava-se em pânico.					
 GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano onde o reflexo do lago era imperceptivelmente incongruente.			127	059.jpg	65D98
 GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano em um aprazível lago sob um terceto de corujas.					
-GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Temos a estranha sensação de que, talvez, só talvez, seja a época dos milagres. #milagres					
+GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tivemos a estranha sensação de que, talvez, só talvez, fosse a época dos milagres. #milagres					
 GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito silvano cercado por três pequenas cachoeiras.					
 GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito silvano cercado por quatro pequenas e redondas árvores nas florestas mais escuras.					
 GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito silvano entre a mata do outro lado do lago.					
 GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano espreitando na raiz de uma titânica árvore.					
-GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Temos essa estranha sensação de que talvez estejamos na época dos milagres. Cadê nossos milagres? #milagres			77	060.jpg	86D06
+GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tivemos essa estranha sensação de que talvez fosse a época dos milagres. Cadê nossos milagres? #milagres			77	060.jpg	86D06
 GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Au Au Au Au Au Au. #latindo			135	061.jpg	M6F1I
 				Au Au Au. #solatindo					
 				Às vezes me canso de latir o tempo todo, mas um cachorro tem que fazer o que um cachorro tem que fazer o que um cachorro tem que fa-fazer.					
@@ -523,7 +523,7 @@ GIRL_DARKMOON	The Scythian			Samae falou sobre caminhadas oníricas pela florest
 ARCHETYPE_DARKMOON	The Archetype			Tenha cuidado. A Lua Sombria reina.			94	076.jpg	I7F69
 LOGFELLA_CRESCENTWAX	The Scythian			O lenhador falou sobre caminhadas oníricas pela floresta pouco antes do amanhecer, sob a luz de uma lua crescente.					
 				Ele falou sobre uma criatura que encontrou, algo ou alguém estranho e nu. Era um urso? Um homem? Ou... O Patife Grisalho?			57	077.jpg	I7G7U
-GIRL_CRESCENTWAX	The Scythian			Samae estava animada. Hoje começava um novo mês lunar! Longos dias a esperavam sentada em rochas.					
+GIRL_CRESCENTWAX	The Scythian			Samae estava animada. Hoje começava um novo mês lunar! Longos dias sentada em rochas a esperavam.					
 ARCHETYPE_CRESCENTWAX	The Archetype			Um fino filete de lua crescente apareceu, marcando o início de um novo ciclo lunar de vinte e oito dias.			118	045.jpg	Y4E5Q
 LOGFELLA_HALFWAX	The Scythian			O lenhador admitiu que sim, de fato, tinha cortado uma boa quantidade de lenha em sua vida.					
 				Ele falou sobre frios invernos e profundas neves aqui, nas majestuosas montanhas do Cáucaso, que se erguiam sobre as estepes da Cítia.					
@@ -547,7 +547,7 @@ LOGFELLA_ALMOSTWANE	The Scythian			O lenhador não aguentava muito folclore e ad
 GIRL_ALMOSTWANE	The Scythian			Samae se perguntou por que tantos cogumelos cresciam logo antes e depois da Lua Radiante... Qual seria o motivo?					
 ARCHETYPE_ALMOSTWANE	The Archetype			A lua está um pouco menos brilhante do que ontem, e o ciclo lunar está começando a diminuir.					
 LOGFELLA_HALFWANE	The Scythian			O lenhador não aguentava muito folclore e admitiu que costumava dormir, embora tivesse um bom conhecimento sobre o assunto.					
-				Explicou que na Cítia e na Pérsia, Mingi Tau era conhecida como A Montanha Eterna.					
+				Explicou que na Cítia e na Pérsia, Mingi Tau era conhecido como A Montanha Eterna.					
 				Contou como, há séculos, uma raça esquecida havia talhado um templo na rocha viva sob Mingi Tau.					
 				Mencionou os corredores subterrâneos e os espaços cavernosos escavados na rocha viva.					
 				Segundo ele, tais cavernas foram criadas há séculos para proteger o Megatomo.					
