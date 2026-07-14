@@ -49,10 +49,10 @@ ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
 	The Archetype			Damas y caballeros, ¿qué tal si tocan a estos dos pequeños espíritus silvanos para calibrar su sistema de sonido estéreo?					
 	The Archetype			Desde nuestro experimento anterior en 2011, las redes sociales han demostrado ser catastróficas para la sociedad.					
-				En esta ocasión, promovemos el aislamiento y la reflexión llena de arrepentimiento.					
+				En esta ocasión, promovemos el aislamiento y la reflexión con arrepentimiento.					
 				Agradecemos sinceramente que hayas decidido participar en este tratamiento experimental para la aflicción profunda del alma.					
 				Encontrarás que esta primera sesión de S:S&S EP es bastante sencilla y suele durar entre 15 y 30 minutos.					
-				¿Todo listo? ¡Pulsa 'jugar' y vamos allá!					
+				¿Todo listo? ¡Pulsa 'Jugar' y vamos allá!					
 ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP no produce la experiencia trascendental, solo pretende liberar el sistema nervioso de sus patrones habituales.					
 				El segundo aspecto del 'Entorno' es el cultural: las nociones sobre la realidad y la normalidad, pero dejaremos esta discusión para después.					
 				El 'Entorno' abarca la comodidad, la seguridad y la calidez del lugar donde ocurre la experiencia.					
@@ -190,12 +190,12 @@ GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un titánico árbol hue
 LOGFELLA_LOSTKEY	The Scythian			Tronquero, el desolado leñador, estaba hecho un manojo de nervios.					
 			AdventureUI/keyItem	Al parecer, había perdido la llave de la puerta en el muro de piedra que bloqueaba el antiguo camino hacia Mingi Tau.					
 				Y nosotros, tipo... ugh. ¿Otra misión de recadero? ¿En serio?					
-				Nos contó que estaba sentado justo aquí cuando cayó en un profundo sueño.					
+				Nos contó que estaba sentado justo allí cuando cayó en un profundo sueño.					
 			AdventureUI/keyItem	Tronquero nos dijo que creía haber perdido su llave en el reino crepuscular de los sueños.					
 				Ya habíamos oído hablar de los extraños sueños de los montañeses de cabello oscuro del Cáucaso, así que aquello tenía todo el sentido para nosotros.					
 				Tronquero nos invitó a calentar nuestras botas junto al fuego para soñar a su lado.			63	029.jpg	U2C92
 ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos en la vigilia y la psicocosmología mitopoética de los sueños como estados separados, pero interactúan de formas curiosas.					
-				El umbral de la liminalidad es un espacio entre la vigilia y los sueños donde el pensamiento dirigido es imposible.			56	030.jpg	13A0A
+				El umbral de la liminalidad es un espacio entre la vigilia y los sueños donde el pensamiento consciente es imposible.			56	030.jpg	13A0A
 				Busca un fuego cálido y permite que el sueño te envuelva para descubrir el umbral de la liminalidad.					
 ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	¿Qué tal si te sientas junto al fuego en la choza y cruzas el umbral de la liminalidad para encontrar la llave perdida de Tronquero?			55	031.jpg	23C1X
 GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Vaya, Tronquero está hecho un manojo de nervios... ¿Qué le pasa? Mejor salgo un rato y lo dejo tranquilo.					
@@ -209,7 +209,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Tronquero se mostró sincera
 				Le explicamos a Tronquero por qué vagábamos por esta montaña desierta y cómo nos guiaba el dedo de un Dios omnisciente.					
 			adventureUI/megatomeItem	Le revelamos lo que sospechábamos que significaban los enigmáticos símbolos del Megatomo.					
 			gourd/gourd	Presentíamos que todavía debíamos despertar más espíritus silvanos para disipar la tormenta.			104	033.jpg	W3D3G
-			triangle/Triangle	En un susurro revelamos nuestra intención de hallar y domar la geometría cósmica conocida como el Trigón Dorado.					
+			triangle/Triangle	En un susurro revelamos nuestra intención de hallar y domar una encarnación de la geometría cósmica conocida como el Trigón Dorado.					
 				Pero quedó 100% claro que Tronquero había dejado de prestarnos atención.					
 			AdventureUI/keyItem	Decidimos guardar la llave y continuar explorando el antiguo camino, más allá del muro de piedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Le preguntamos al leñador si podíamos quedarnos con su llave y le pareció genial.					
@@ -306,7 +306,7 @@ ARCHETYPE_GHOULINTRO	The Archetype
 				El funesto cometido de La Escita está casi cumplido.					
 				Por desgracia, el cuerpo y la psique de La Escita han sido gravemente mermados por la espadancia... ella está a las puertas de la muerte.			162	047.jpg	J4F7B
 			Archetype/trifecta	Todo lo que resta es desvelar los secretos del Claro Trigonal y subir el Megatomo al Arremolinado Infinito en la cima de Mingi Tau.					
-				Pulsa 'jugar' solo si tienes el valor de presenciar el atroz tormento del martirio.					
+				Pulsa 'Jugar' solo si tienes el valor de presenciar el atroz tormento del martirio.					
 END	The Scythian			En la cima de Mingi Tau detonamos el Megatomo y lo eyectamos al Arremolinado Infinito.					
 END_CHEAT	The Scythian			En la cima de Mingi Tau subimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #trampa					
 END_CHEAT_NOBOOR	The Scythian			En la cima de Mingi Tau subimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #trampa #sincanoso					
@@ -585,7 +585,7 @@ ARCHETYPE_CREDITS	The Archetype
 			Logos/capy	Ingeniería y milagros por el estudio independiente de videojuegos Capy en capybaragames.com					
 			Logos/eightfour	Localización japonesa, marketing, relaciones públicas y cariño por 8-4, Ltd. TODO EL EQUIPO en 8-4.jp					
 				* * * EL EQUIPO DE S:S&S EP * * *					
-				Concepto, arte, diseño, dirección y escritura por representantes en Superbrothers A/V Inc.					
+				Concepto, arte, diseño, dirección y escritura por representantes de Superbrothers A/V Inc.					
 				Diseño, liderazgo de proyecto, apoyo incansable y más: Kris Piotrowski, director creativo en Capy.					
 				Sistemas, arquitectura técnica, UI, motor y más: Jon Maur, programador técnico jefe de S:S&S EP en Capy.					
 				Scripting, combate y milagros: Frankie Leung, programador jefe de gameplay de S:S&S EP en Capy.					
@@ -686,6 +686,6 @@ ARCHETYPE_CREDITS	The Archetype
 ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
 	The Archetype			Damas y caballeros, ¿qué tal si tocan a estos dos pequeños espíritus silvanos para calibrar su sistema de sonido estéreo?					
 	The Archetype			Desde nuestro experimento anterior en 2011, las redes sociales han demostrado ser catastróficas para la sociedad.					
-				En esta ocasión, promovemos el aislamiento y la reflexión llena de arrepentimiento.					
+				En esta ocasión, promovemos el aislamiento y la reflexión con arrepentimiento.					
 				Encontrarás que esta primera sesión de S:S&S EP es bastante sencilla y suele durar entre 15 y 30 minutos.					
-				¿Todo listo? ¡Pulsa 'jugar' y vamos allá!					
+				¿Todo listo? ¡Pulsa 'Jugar' y vamos allá!					

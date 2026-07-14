@@ -49,10 +49,10 @@ ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
 	The Archetype			Senhoras e senhores, que tal tocarem nestes dois pequenos espíritos silvanos para calibrar o seu sistema de som estéreo?					
 	The Archetype			Desde nosso experimento anterior em 2011, constatamos que as redes sociais têm um impacto catastrófico na sociedade.					
-				Nesta ocasião, promovemos o isolamento e a reflexão cheia de arrependimento.					
+				Nesta ocasião, promovemos o isolamento e a reflexão com arrependimento.					
 				Agradecemos sinceramente por você ter decidido participar deste tratamento experimental para a aflição profunda da alma.					
 				Você verá que esta primeira sessão de S:S&S EP é bastante simples e geralmente dura entre 15 e 30 minutos.					
-				Tudo pronto? Pressione 'jogar' e vamos lá!					
+				Tudo pronto? Pressione 'Jogar' e vamos lá!					
 ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP não produz a experiência transcendental, mas simplesmente pretende liberar o sistema nervoso de seus padrões habituais.					
 				O segundo aspecto do 'Ambiente' é o cultural: as noções sobre realidade e normalidade, mas evitaremos essa discussão por enquanto.					
 				O 'Ambiente' abrange o conforto, a segurança e o calor do local onde a experiência ocorre.					
@@ -195,7 +195,7 @@ LOGFELLA_LOSTKEY	The Scythian			Troncadeiro, o lenhador desolado, surtava totalm
 				Já tínhamos ouvido falar dos estranhos sonhos dos montanheses de cabelo escuro do Cáucaso, então isso fez todo o sentido para nós.					
 				Troncadeiro nos convidou para aquecer nossas botas junto ao fogo para sonhar ao seu lado.			63	029.jpg	U2C92
 ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos na vigília e na psicocosmologia mitopoética dos sonhos como estados separados, mas eles interagem de forma curiosa.					
-				O limiar da liminaridade é um espaço entre a vigília e os sonhos onde o pensamento direcionado é impossível.			56	030.jpg	13A0A
+				O limiar da liminaridade é um espaço entre a vigília e os sonhos onde o pensamento consciente é impossível.			56	030.jpg	13A0A
 				Procure um fogo acolhedor e deixe o sono envolvê-lo para descobrir o limiar da liminaridade.					
 ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	Que tal sentar-se junto ao fogo na cabana e atravessar o limiar da liminaridade para encontrar a chave perdida de Troncadeiro?			55	031.jpg	23C1X
 GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Nossa, o Troncadeiro está surtando... O que será que ele tem? Melhor eu sair e deixá-lo em paz.					
@@ -209,7 +209,7 @@ LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Troncadeiro mostrou-se alivi
 				Explicamos a Troncadeiro por que vagávamos por aquela montanha deserta e como éramos guiados pelo dedo de um Deus onisciente.					
 			adventureUI/megatomeItem	Revelamos também o que suspeitávamos que os enigmáticos símbolos dentro do Megatomo poderiam significar.					
 			gourd/gourd	Intuíamos que ainda precisávamos despertar mais alguns espíritos silvanos para dissipar a tempestade.			104	033.jpg	W3D3G
-			triangle/Triangle	Em um sussurro, falamos de nossa intenção de encontrar e domar a geometria cósmica conhecida como o Trígono Dourado.					
+			triangle/Triangle	Em um sussurro, falamos de nossa intenção de encontrar e domar uma encarnação da geometria cósmica conhecida como o Trígono Dourado.					
 				Mas ficou 100% claro que o lenhador tinha parado de prestar atenção.					
 			AdventureUI/keyItem	Decidimos ficar com a chave e seguir pelo antigo caminho, além do muro de pedra.					
 LOGFELLA_FOUNDKEYWAKEUP	The Scythian		AdventureUI/keyItem	Perguntamos ao lenhador se podíamos ficar com a chave e ele achou legal.					
@@ -306,7 +306,7 @@ ARCHETYPE_GHOULINTRO	The Archetype
 				A funesta missão de A Citiana está quase cumprida.					
 				Infelizmente, o corpo e a psique de A Citiana foram gravemente exauridos pela espadância... ela está às portas da morte.			162	047.jpg	J4F7B
 			Archetype/trifecta	Tudo o que resta é revelar os segredos da Clareira Trigônica e subir o Megatomo para o Remoinhado Infinito no topo de Mingi Tau.					
-				Pressione 'jogar' apenas se tiver a coragem de testemunhar o atroz tormento do martírio.					
+				Pressione 'Jogar' apenas se tiver a coragem de testemunhar o atroz tormento do martírio.					
 END	The Scythian			No topo de Mingi Tau detonamos o Megatomo e o ejetamos no Remoinhado Infinito.					
 END_CHEAT	The Scythian			No topo de Mingi Tau subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaça					
 END_CHEAT_NOBOOR	The Scythian			No topo de Mingi Tau subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaça #sempatife					
@@ -686,6 +686,6 @@ ARCHETYPE_CREDITS	The Archetype
 ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
 	The Archetype			Senhoras e senhores, que tal tocarem nestes dois pequenos espíritos silvanos para calibrar o seu sistema de som estéreo?					
 	The Archetype			Desde nosso experimento anterior em 2011, constatamos que as redes sociais têm um impacto catastrófico na sociedade.					
-				Nesta ocasião, promovemos o isolamento e a reflexão cheia de arrependimento.					
+				Nesta ocasião, promovemos o isolamento e a reflexão com arrependimento.					
 				Você verá que esta primeira sessão de S:S&S EP é bastante simples e geralmente dura entre 15 e 30 minutos.					
-				Tudo pronto? Pressione 'jogar' e vamos lá!					
+				Tudo pronto? Pressione 'Jogar' e vamos lá!					
