@@ -32,7 +32,7 @@ LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Vencemos o abi
 			adventureUI/megatomeItem	Decidimos buscá-lo e depois escapar com vida.					
 LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	O lenhador confirmou 100% que ele tinha a única chave da porta no muro de pedra.					
 			AdventureUI/keyItem	Era uma chave bem bonita.					
-				Estávamos prontíssimos para manter pressionado no caminho e nos remexer, remexer, remexer!					
+				Estávamos prontíssimos para pressionar & segurar no caminho e nos remexer, remexer, remexer!					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Troncadeiro ia ficar aqui esperando até que voltássemos com o Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Troncadeiro escolheu relaxar em um abrigo de pedra perto do Precipício Perigoso.					
 				Parecia saber tudo sobre o odioso arco-íris e o glifo que representava uma espada apontada ao céu.					
@@ -419,7 +419,7 @@ MIRACLE1_MOUNTAINMEADOW	The Scythian			Em uma campina ensolarada, obramos um mil
 MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			Em uma campina ensolarada, acordamos confusos e atordoados, com uma dor de cabeça terrível.					
 LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Atordoados e sem uma lembrança clara, acordamos de um profundo sono.					
 			triangle/Triangle	Lembramos do milagre da campina e nosso encontro com o Trígono Dourado...					
-			triangle/Triangle	...quais novos poderes nos foram concedidos?					
+			triangle/Triangle	...que novos poderes nos terão concedido?					
 			triangle/Triangle	Troncadeiro ficou totalmente impressionado com o quão incrível e estranha a luta contra o Trígono Dourado soava.			81	071.jpg	R7C14
 			triangle/Triangle	Ele se perguntou se talvez o Trígono pudesse estar relacionado aos sinistros mistérios além do portão de ferro da campina...					
 				Mas Troncadeiro não era fã de sinistros mistérios, então preferiu ir para casa cortar lenha. #lenhando					
@@ -481,7 +481,7 @@ MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			Além disso... ficar carregando 
 GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Falamos com Samae sobre nosso encontro onírico com o Trígono da Lua Sombria e de nossas intenções de reconstruir a Tríade Trigônica.					
 				Contamos como neutralizamos o odioso ataque de arco-íris do Trígono da Lua Sombria e ela mandou um 'que incrível'.					
 				Não pareceu se importar em ouvir nossas histórias extravagantes.					
-LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			O lenhador podia ver que nossas caminhadas oníricas e o obrar de milagres haviam cobrado um alto preço da nossa saúde física.					
+LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			O lenhador podia ver que nossas caminhadas oníricas e o obrar de milagres haviam cobrado um alto preço em nossa saúde física.					
 			Archetype/trifecta	Troncadeiro nos perguntou se tínhamos visitado o Cachorreiro na Clareira Trigônica... Talvez pudéssemos ativar outro facho celestial?					
 ARCHETYPE_DARKMOONTRIGONCOLLECTED	The Archetype			Agora a pergunta é... o que vem a seguir?					
 				Apesar das poucas informações úteis que lhe fornecemos, você conseguiu dominá-lo.					
@@ -661,11 +661,11 @@ ARCHETYPE_CREDITS	The Archetype
 				A Superbrothers, um pequeno estúdio de arte e videogames em seu 20º ano, opera dos bosques do Quebec e da costa oeste do Canadá.					
 				Desde S:S&S EP, Superbrothers e Jim Guthrie contribuíram para Sound Shapes (2012) (Queasy Games) (PS + PC).					
 				A Superbrothers entregou JETT: The Far Shore + Given Time (2021/23) (PS + PC), uma saga de ficção científica com música do compositor scntfc.					
-				A partir de 2023, um novo projeto de pixels está sendo gestado na Superbrothers.					
+				Ao fim de 2023, um novo projeto de pixels está sendo gestado na Superbrothers.					
 				A Capy Games lançou o hiperativo rebobinador de tempo Super Time Force Ultra (2014) (PS + PC + Xbox).					
 				Em 2018, a Capy entregou Below, um roguelike de ação-aventura sobre um guerreiro explorando as profundezas de uma ilha remota (PS + PC + Xbox).					
 				A Capy lançou o maravilhoso Grindstone em 2019 e continua adicionando conteúdo para os jogadores (Apple Arcade + Switch + PC + PS + Xbox).					
-				Enquanto isso, a partir de 2023, a equipe está cozinhando um delicioso novo jogo em seu caldeirão de jogos.					
+				Enquanto isso, em 2023, a equipe está cozinhando um delicioso novo jogo em seu caldeirão de jogos.					
 				* * * O QUE É S:S&S EP? * * *					
 				S:S&S EP pretende ser um corajoso experimento em Input Output Cinema, seja lá o que isso signifique.					
 				S:S&S EP é uma abordagem fresca ao videogame de aventura old school com ênfase no estilo audiovisual.					

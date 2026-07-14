@@ -32,7 +32,7 @@ LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Salvamos el ab
 			adventureUI/megatomeItem	Decidimos ir por él y luego salir de allí con vida.					
 LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó 100% que tenía la única llave para la puerta en el muro de piedra.					
 			AdventureUI/keyItem	Era una llave muy bonita.					
-				Estábamos más que listos para mantener pulsado en el camino ¡y a mover, mover el bote!					
+				Estábamos más que listos para pulsar & mantener sobre el camino ¡y a mover, mover el bote!					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Tronquero iba a quedarse aquí esperando a que volviéramos con el Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Tronquero había elegido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
 				Parecía saberlo todo acerca del odioso arcoíris y el glifo cercano que representaba una espada alzada al cielo.					
@@ -419,7 +419,7 @@ MIRACLE1_MOUNTAINMEADOW	The Scythian			En un prado soleado, obramos un milagro d
 MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			En un prado soleado, despertamos confundidos y aturdidos, con un dolor de cabeza terrible.					
 LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Aturdidos y sin un recuerdo claro, despertamos de un profundo sueño.					
 			triangle/Triangle	Recordamos el milagro del prado y nuestro encuentro con el Trigón Dorado...					
-			triangle/Triangle	...¿qué nuevos poderes se nos han concedido?					
+			triangle/Triangle	...¿qué nuevos poderes se nos habrán concedido?					
 			triangle/Triangle	Tronquero quedó impresionado por lo increíble y extraño que sonaba el combate contra el Trigón Dorado.			81	071.jpg	R7C14
 			triangle/Triangle	Se preguntó por la conexión del Trigón con los siniestros misterios más allá del portón de hierro del prado.					
 				Pero a Tronquero no le iban los siniestros misterios, así que prefirió irse a casa y cortar leña. #leñando					
@@ -661,11 +661,11 @@ ARCHETYPE_CREDITS	The Archetype
 				Superbrothers, un pequeño estudio de arte y videojuegos en su 20º año, opera desde los bosques de Quebec y la costa oeste de Canadá.					
 				Desde S:S&S EP, Superbrothers y Jim Guthrie contribuyeron a Sound Shapes (2012) (Queasy Games) (PS + PC).					
 				Superbrothers entregó JETT: The Far Shore + Given Time (2021/23) (PS + PC), una saga de ciencia ficción con música del compositor scntfc.					
-				A partir de 2023, un nuevo proyecto de píxeles se gesta en Superbrothers.					
+				Al cierre de 2023, un nuevo proyecto de píxeles se gesta en Superbrothers.					
 				Capy Games lanzó el hiperactivo rebobinador de tiempo Super Time Force Ultra (2014) (PS + PC + Xbox).					
 				En 2018, Capy lanzó Below: un roguelike de acción y aventura donde un guerrero explora las entrañas de una isla remota (PS + PC + Xbox).					
 				Capy lanzó el maravilloso Grindstone en 2019 y continúa añadiendo contenido para los jugadores (Apple Arcade + Switch + PC + PS + Xbox).					
-				Mientras tanto, a partir de 2023, el equipo está cocinando un delicioso nuevo juego en su caldero de juegos.					
+				Mientras tanto, en 2023, el equipo está cocinando un delicioso nuevo juego en su caldero de juegos.					
 				* * * ¿QUÉ ES S:S&S EP? * * *					
 				S:S&S EP pretende ser un valiente experimento en Input Output Cinema, sea lo que sea eso.					
 				S:S&S EP es un enfoque fresco al videojuego de aventura old school con énfasis en el estilo audiovisual.					

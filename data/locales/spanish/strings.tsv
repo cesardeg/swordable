@@ -26,7 +26,7 @@ BELIEVE	CONFÍA
 BEWARE	CUIDADO	
 FOLLOW	¿SEGUIR?	
 ROTATE_UNSHEATHE	< < DESENVAINA	
-GO_HOME	¿IR A INICIO?	
+GO_HOME	¿INICIO?	
 START_ARROW_RIGHT	INICIO > > >	
 TRESPASS	IRRUMPE	
 AVOID	EVITA	
@@ -113,7 +113,7 @@ The Archetype	El Arquetipo
 EXIT	SALIR	
 RESOLUTION	RESOLUCIÓN	
 RESET	REINICIAR	
-PROMPT_CONFIRM_QUIT	¿SALIR AL MENÚ PRINCIPAL?	
+PROMPT_CONFIRM_QUIT	¿SALIR AL MENÚ?	
 APPLY	USAR	
 BACK	VOLVER	
 ERRMSG_UNABLE_TO_SAVE	No se puede guardar el archivo	
@@ -127,8 +127,8 @@ DIGIT_STRING	0123456789
 HOLD_SHIELD_TO_HEAL	MANTÉN PARA CURARTE	
 PRESS_START	PULSA <switch_button_l> + <switch_button_r>	
 VIBRATION	VIBRACIÓN	
-MOTION_CURSOR_SENSITIVITY	SENSIBILIDAD DEL CURSOR DE MOVIMIENTO	
-STICK_CURSOR_SENSITIVITY	SENSIBILIDAD DEL CURSOR ANALÓGICO	
+MOTION_CURSOR_SENSITIVITY	SENSIBILIDAD: MOVIMIENTO	
+STICK_CURSOR_SENSITIVITY	SENSIBILIDAD: CURSOR ANALÓGICO	
 CONTROLS	CONTROLES	
 SETTINGS	AJUSTES	
 OPTIONS	OPCIONES	
@@ -143,13 +143,13 @@ CNTRL_OPEN_INVENTORY	<switch_button_minus> ABRIR INVENTARIO
 CNTRL_MOVE_PLAYER	<switch_button_rightanalogstick> MOVER PERSONAJE	
 CNTRL_MOVE_CAMERA	<switch_button_dpad> MOVER CÁMARA	
 CNTRL_MOVE_CURSOR	<switch_button_leftanalogstick> MOVER CURSOR	
-CNTRL_TOGGLE_ZOOM	<switch_button_y> ACERCAR/ALEJAR	
+CNTRL_TOGGLE_ZOOM	<switch_button_y> ZOOM	
 CNTRL_ATTACK	<switch_button_a> / <switch_button_r> TOCAR/ESPADA	
 CNTRL_TOGGLESWORD	<switch_button_b> ALTERNAR ESPADA/DEFENSA	
 CNTRL_TOUCH	TOCAR	
 CNTRL_TAP	<switch_button_r> TOCAR	
 CNTRL_TIPTAP	<switch_button_zr> TAP TAP	
-CNTRL_PINCHZOOM	PELLIZCA PARA ACERCAR	
+CNTRL_PINCHZOOM	PELLIZCA: ZOOM	
 CNTRL_RECENTER_CURSOR	<switch_button_faceup> CENTRAR CURSOR	
 CNTRL_POINT_TO_MOVE_CURSOR	APUNTA PARA MOVER EL CURSOR	
 CNTRL_ATTACK_JOY	<switch_button_faceright> / <switch_button_l> / <switch_button_r> TOCAR/ESPADA	
@@ -158,7 +158,7 @@ CNTRL_TOGGLE_ZOOM_JOY	<switch_button_faceleft> ACERCAR/ALEJAR
 CALIB_FLATSURFACE	COLOCA EL JOY-CON EN UNA SUPERFICIE PLANA HASTA QUE ESTÉ INMÓVIL.	
 CALIB_PICKUP	LEVANTA EL JOY-CON.	
 CALIB_POINT	SUJETA EL JOY-CON COMO SE INDICA Y APUNTA A LA PANTALLA. PULSA <switch_button_faceup> PARA CENTRAR EL CURSOR.	
-CALIB_RECENTER	RECUERDA QUE PUEDES PULSAR <switch_button_faceup> PARA CENTRAR EL CURSOR CUANDO QUIERAS. PULSA UN BOTÓN PARA CONTINUAR.	
+CALIB_RECENTER	RECUERDA: PULSA <switch_button_faceup> PARA CENTRAR EL CURSOR CUANDO QUIERAS. PULSA UN BOTÓN PARA CONTINUAR.	
 SAVING_NINSWITCH	GUARDANDO	
 SHEATHE_NINSWITCH	¿ENVAINAR?	
 FRENCH_SPECIAL	Ç ç « » ‹ › € À Â Ä È É Ê Ë Î Ï Ô Œ Ù Û Ü Ÿ Ç ç « » €	
@@ -174,7 +174,7 @@ NORTHPAW_NINSWITCH	DIESTRO/A
 JOYCON_STRAP_MSG_NINSWITCH	Al usar los controles Joy-Con desacoplados, sigue las instrucciones, ponte las correas y sujétalos firmemente.	
 PHOTOSENSITIVIY_MSG_NINSWITCH	Existe la posibilidad de que un porcentaje pequeño de personas sufra ataques epilépticos ante la exposición a imágenes determinadas, entre las que se incluyen patrones lumínicos o luces parpadeantes. La exposición a patrones definidos o fondos en una pantalla de computadora o durante un videojuego puede provocar un ataque de epilepsia a dichas personas. Algunas condiciones pueden instigar síntomas epilépticos no detectados incluso en personas que no tienen antecedentes de convulsiones ni epilepsia.	
 PHOTOSENSITIVIY_MSG_NINSWITCH2	Si tú o alguien de tu familia sufren de epilepsia, consulta a un médico antes de jugar. Deja de usar el juego de inmediato y consulta a un médico antes de retomarlo si presentas alguno de los síntomas siguientes mientras juegas: mareos, problemas en la vista, contracciones oculares o musculares, pérdida de conocimiento, desorientación, cualquier movimiento involuntario o convulsiones.	
-POINTCLICK_CURSORSENS_NINSWITCH	SENSIBILIDAD DEL CURSOR DE APUNTAR & HACER CLIC	
+POINTCLICK_CURSORSENS_NINSWITCH	SENSIBILIDAD: APUNTAR & CLIC	
 FAM_CURSOR_NOT_USED	Sensibilidad del cursor de FAMICOM	
 POINTCLICK_PROMPT_NINSWITCH	El modo Apuntar & hacer clic permite jugar con un solo Joy-Con como puntero. Se disfruta más cuando juegas en un televisor. ¿Seguro que quieres activar el modo Apuntar & hacer clic?	
 POINTCLICK_PROMPT_ALT_NINSWITCH	El modo Apuntar & hacer clic permite jugar con un solo Joy-Con como puntero y se disfruta más cuando juegas en un televisor. ¿Seguro que quieres activar los controles de Apuntar & hacer clic?	
@@ -188,7 +188,7 @@ CNTRL_MOVE_CURSOR_ALT	<switch_button_rightanalogstick> MOVER CURSOR
 SITCK_SENSITIVITY_NINSWITCH	SENSIBILIDAD DEL ANALÓGICO	
 MOTION_SENSITIVITY_NINSWITCH	SENSIBILIDAD DE MOVIMIENTO	
 POINTER_SENSITIVITY_NINSWITCH	SENSIBILIDAD DEL PUNTERO	
-ENABLE_POINTCLICK_NINSWITCH	¿HABILITAR CONTROLES DE APUNTAR & HACER CLIC?	
+ENABLE_POINTCLICK_NINSWITCH	¿ACTIVAR APUNTAR & HACER CLIC?	
 ENABLE_GAMEPAD_NINSWITCH	¿HABILITAR MODO CONTROL?	
 ENABLE_FAMICOM_NINSWITCH	¿HABILITAR CONTROLES DE FAMICOM?	
 ENABLE_TOUCHTRONIC_NINSWITCH	¿HABILITAR CONTROLES TOUCHTRONIC?	
@@ -215,11 +215,11 @@ CONTROLLER_CONTROLS_NINSWITCH	CONTROL
 FAMICOM_CONTROLS_BLURB_ALT2_NINSWITCH	USA UN CURSOR CONTROLADO POR EL ANALÓGICO, CON UN CONTROL O EN MODO PORTÁTIL.	
 CONSOLE_NINSWITCH	CONSOLA	
 CLASSIC_CONTROLS_BLURB_ALT_NINSWITCH	CLÁSICO	
-LOOK_AROUND_NINSWITCH	¿MIRAR ALREDEDOR?	
+LOOK_AROUND_NINSWITCH	¿OBSERVAR?	
 NOTHING_NOPE	Soporte de QA para Nintendo Switch cortesía de Testronic Labs.	
 NOTHING_NOPE2	"Soporte adicional de localización japonesa proporcionado por Yutaka Ohbuchi, John Ricciardi y Masanobu Suto."	
 OMDC_CHANGE	Este proyecto fue posible gracias al apoyo financiero de Ontario Creates.	
-CNTRL_PINCH_Y_ZOOM	PELLIZCA / <switch_button_y> ACERCAR/ALEJAR	
+CNTRL_PINCH_Y_ZOOM	PELLIZCA / <switch_button_y> ZOOM	
 LBL_MOVEPLAYER	MOVER PERSONAJE <switch_button_rightanalogstick>	
 LBL_MOVECURSOR	MOVER CURSOR <switch_button_leftanalogstick>	
 LBL_MOVEPLAYER_ALT	MOVER PERSONAJE <switch_button_leftanalogstick>	
