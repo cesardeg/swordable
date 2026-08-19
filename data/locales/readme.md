@@ -155,7 +155,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | English | Spanish (ES) | Portuguese (PT-BR) | Notes |
 |---------|--------------|-------------------|-------|
 | touch & hold | mantén pulsado | manter pressionado | ✅ Primary interaction |
-| tap / tip tap | toca / haz tap tap | tocar / tap tap | ✅ Quick touch |
+| tap / tip tap | toca / haz tip tap | tocar / tip tap | ✅ Quick touch |
 | swipe | desliza / deslizar | deslizar / deslize | ✅ Gesture |
 | move it move it | mover el bote | remexer | ✅ Fast movement, colloquial |
 | shield button | botón del escudo | botão do escudo | ✅ With article |
