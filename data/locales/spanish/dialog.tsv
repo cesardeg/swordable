@@ -51,12 +51,12 @@ ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo
 	The Archetype			Desde nuestro experimento anterior en 2011, las redes sociales han demostrado ser catastróficas para la sociedad.					
 				En esta ocasión, promovemos el aislamiento y la reflexión con arrepentimiento.					
 				Agradecemos sinceramente que hayas decidido participar en este tratamiento experimental para la aflicción profunda del alma.					
-				Encontrarás que esta primera sesión de S:S&S EP es bastante sencilla y suele durar entre 15 y 30 minutos.					
+				Encontrarás que esta primera sesión de S:S&SEP es bastante sencilla y suele durar entre 15 y 30 minutos.					
 				¿Todo listo? ¡Pulsa 'Jugar' y vamos allá!					
-ARCHETYPE_FOUNDATION	The Archetype			S:S&S EP no produce la experiencia trascendental, solo pretende liberar el sistema nervioso de sus patrones habituales.					
+ARCHETYPE_FOUNDATION	The Archetype			S:S&SEP no produce la experiencia trascendental, solo pretende liberar el sistema nervioso de sus patrones habituales.					
 				El segundo aspecto del 'Entorno' es el cultural: las nociones sobre la realidad y la normalidad, pero dejaremos esta discusión para después.					
 				El 'Entorno' abarca la comodidad, la seguridad y la calidez del lugar donde ocurre la experiencia.					
-				Hemos descubierto que un individuo relajado y curioso es más propenso a tener una experiencia placentera con S:S&S EP.					
+				Hemos descubierto que un individuo relajado y curioso es más propenso a tener una experiencia placentera con S:S&SEP.					
 				La 'Disposición' alude al estado mental y a la personalidad que aportas: tus pensamientos, tu ánimo y tus expectativas.					
 				Hablemos de la disposición y el entorno para una experiencia positiva con esta obra altamente psicoactiva Superbrothers: Sword & Sworcery EP.					
 				La conciencia expandida, el potencial inexplorado e ilimitado de la mente, es lo que en Superbrothers llamamos 'sworcery' (o espadancia). #espadancia					
@@ -164,7 +164,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			En un matorral cercano al antiguo camino, no
 				"""Prefiero no entrar en detalles, si no te importa."""					
 				"""Resulta que uno de los nuestros era un tramposo redomado, y lo atrapamos con las manos en la masa."""					
 				"""Se armó una pelea y el tramposo huyó por el antiguo camino hacia el Precipicio Peligroso."""					
-				"""Así que nos quedamos ahí pasando el rato, viendo qué hacer... cuando de pronto apareció la Masa Gogolítica... ¡Caray!"""			113	027.jpg	62B75
+				"""Así que nos quedamos ahí pasando el rato, viendo qué hacer... cuando de pronto apareció la Masa Gogolítica... ¡Cielos!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			Al filo del Precipicio Peligroso, una tumba solitaria despertó nuestra curiosidad.					
 GRAVE_CHASMGHOST	The Scythian			Al filo del Precipicio Peligroso, nos acercamos a la tumba solitaria del tramposo redomado y conocimos a un viejo fantasma resplandeciente.					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, André 'El Gigante' juntó a su gente y nos lanzamos a reconstruir la Tríada Trigonal."""					
@@ -173,7 +173,7 @@ GRAVE_CHASMGHOST	The Scythian			Al filo del Precipicio Peligroso, nos acercamos 
 				"""Íbamos tras el Trigón de la Luna Radiante, así que decidimos sentarnos y observar el cielo, esperando que el humor de la luna cambiara."""					
 				"""¡Era aburridísimo! No iba a quedarme esperando días y días hasta que la Luna Radiante imperara."""					
 				"""Dejé a esos pobres diablos dando vueltas sin rumbo mientras yo investigaba más a fondo este truco de la lógica lunar."""					
-				El viejo fantasma resplandeciente contó que hizo trampa al salir de S:S&S EP y alterar la fecha y hora de su dispositivo.					
+				El viejo fantasma resplandeciente contó que hizo trampa al salir de S:S&SEP y alterar la fecha y hora de su dispositivo.					
 				Describió lo incómodo que fue el proceso, ¡pero nos dijo que eso le permitió alterar el humor de la luna!					
 				"""El caso es que he tenido los pelos de punta desde que hice trampa... y por eso me morí de vergüenza."""					
 GRAVE_HOLLOW	The Scythian			Dentro de un titánico árbol hueco, una tumba solitaria despertó nuestra curiosidad.					
@@ -252,7 +252,7 @@ ARCHETYPE_MEADOWHINT	The Archetype			Una vez que el sol esté alineado, recibir�
 ARCHETYPE_MEADOWHINTTWO	The Archetype			Busca en los cielos una visión reveladora sobre el milagro del prado y admira el Trigón Dorado.					
 ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... resulta interesante la forma en que manejaste ese encuentro con el individuo caníbal con cabeza de oso.			120	039.jpg	O3G9D
 				No, no, está bien, simplemente es curioso. Nunca había visto a nadie actuar de ese modo. Es algo excepcional, pero no hay motivo de alarma.					
-				Bien, prosigamos. Queda muchísimo más de la experiencia S:S&S EP por disfrutar, particularmente en la Cara B.					
+				Bien, prosigamos. Queda muchísimo más de la experiencia S:S&SEP por disfrutar, particularmente en la Cara B.					
 ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			Para domar el Trigón Dorado debes sobrevivir a los tres movimientos de su extraña canción usando una mezcla de ataque y defensa.					
 				Es crucial que mantengas pulsado el botón del escudo siempre que puedas para recobrar tu fuerza perdida.					
 				Veo que has invocado e intentado domar el Trigón Dorado. Tengo algunas cosas que comentarte que creo te serán útiles.					
@@ -266,13 +266,13 @@ ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Quizá notaste que el Trigón de l
 ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			El patrón final del Trigón de la Luna Radiante requerirá que golpees los proyectiles con tu espada y esquives sus ataques de rayo cargados.					
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Quizá ya te hayas enfrentado al odioso ataque de arcoíris del Trigón de la Luna Sombría. Rebana ese arcoíris tan fuerte y rápido como puedas.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			El patrón final del Trigón de la Luna Sombría implica proyectiles triangulares, sutiles y furtivos. Destrúyelos y sobrevivirás.					
-ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que despertaste al espectro inmortal que dormitaba en la oscuridad bajo Mingi Tau... ¡Caray!					
+ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que despertaste al espectro inmortal que dormitaba en la oscuridad bajo Mingi Tau... ¡Caramba!					
 				Como consecuencia, una siniestra tormenta se cierne amenazante y la gente adorable de la choza de piedra está desolada.					
 			adventureUI/megatomeItem	La buena noticia es que tienes un pesado libro conocido como el Megatomo. En nuestra próxima sesión hablaremos de su extraño propósito.					
-				Nuestra investigación muestra que la exposición prolongada a la psicocosmología mitopoética de S:S&S EP puede causar efectos adversos.					
+				Nuestra investigación muestra que la exposición prolongada a la psicocosmología mitopoética de S:S&SEP puede causar efectos adversos.					
 				Así que ahora que completaste la Sesión I, ¿qué tal si descansamos un poco? Estaré justo aquí cuando quieras empezar la Sesión II.					
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
-				Me alegra verte de nuevo. ¿Empezamos la Sesión II de S:S&S EP?					
+				Me alegra verte de nuevo. ¿Empezamos la Sesión II de S:S&SEP?					
 			adventureUI/megatomeItem	Bien, ¿en qué estábamos? Ah, ya recuerdo. Conseguiste un pesado libro conocido como el Megatomo.					
 				Despertaste al espectro inmortal que aún acecha en la oscuridad bajo Mingi Tau. Qué tipo más siniestro, ¿a poco no?			204	042.jpg	24B2J
 				Son tiempos de angustia: una siniestra tormenta ha nublado el cielo y la gente adorable de la choza de piedra está desolada.					
@@ -284,7 +284,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	¡Bravo! Has localizado y domado la geometría cósmica del Trigón Dorado.			86	044.jpg	24E4H
 				Milagrosamente, la siniestra tormenta se ha disipado y el glorioso sol ha regresado al reino, ¡eso es realmente increíble!					
 				Tus heroicas hazañas reflejan bien tu percepción, intuición y perseverancia. ¡Lo has hecho muy bien hasta ahora!					
-				Nota: Si decides continuar con el experimento S:S&S EP, esas mismas cualidades serán desafiadas y evaluadas.					
+				Nota: Si decides continuar con el experimento S:S&SEP, esas mismas cualidades serán desafiadas y evaluadas.					
 				En fin, tomemos otro descanso, ¿sí? Como siempre, estaré aquí cuando quieras empezar la Sesión III.					
 ARCHETYPE_TRIFECTAINTRO	The Archetype								
 				Empecemos la Sesión III. Nota: Esta sesión generalmente requiere un mes lunar para completarse.					
@@ -302,7 +302,7 @@ ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	Entonces, ¿domaste lo
 				Solo te queda arrastrar por la fuerza a La Escita hasta la cima y contemplar el Arremolinado Infinito.					
 				Ten valor, ¡el final está cerca!					
 ARCHETYPE_GHOULINTRO	The Archetype								
-				Bueno, aquí estamos. Esta breve sesión marcará el fin del tratamiento de S:S&S EP.					
+				Bueno, aquí estamos. Esta breve sesión marcará el fin del tratamiento de S:S&SEP.					
 				El funesto cometido de La Escita está casi cumplido.					
 				Por desgracia, el cuerpo y la psique de La Escita han sido gravemente mermados por la espadancia... ella está a las puertas de la muerte.			162	047.jpg	J4F7B
 			Archetype/trifecta	Todo lo que resta es desvelar los secretos del Claro Trigonal y subir el Megatomo al Arremolinado Infinito en la cima de Mingi Tau.					
@@ -472,7 +472,7 @@ GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Sam
 LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			El leñador veía que nuestros paseos oníricos y el obrar de milagros habían pasado factura a nuestra salud física.					
 				Parecía sospechar que nuestro funesto cometido no acabaría bien.					
 				Nos recordó que podíamos sentarnos junto al fuego de la choza y descansar de vez en cuando para recobrar fuerzas.					
-ARCHETYPE_BRIGHTMOONTRIGONCOLLECTED	The Archetype			Nuestra investigación muestra una alta correlación entre el progreso de un participante en S:S&S EP y su aptitud para lo extraordinario.			45	074.jpg	87A43
+ARCHETYPE_BRIGHTMOONTRIGONCOLLECTED	The Archetype			Nuestra investigación muestra una alta correlación entre el progreso de un participante en S:S&SEP y su aptitud para lo extraordinario.			45	074.jpg	87A43
 				Veo que has logrado localizar y recuperar el Trigón de la Luna Radiante. Es una noticia realmente extraordinaria.					
 MIRACLE3_HUGETREE	The Scythian			Mientras la Luna Sombría reina, obramos un milagro de relámpago fragmentador en medio de un Parlamento de Árboles.					
 MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			Además... andar cargando el Megatomo a todas partes es un fastidio, es un libro realmente pesado en más de un sentido.					
@@ -494,11 +494,11 @@ ARCHETYPE_GROTTOPARADOX	The Archetype
 				Una vez que el humor de la luna ha sido alterado en la Gruta Lunar, la...					
 ARCHETYPE_KILLBOOR	The Archetype			Ahora, me imagino que te preguntarás para qué sirve esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S
 				No es que esté sugiriendo que en realidad seas un sociópata violento... je, je... Estoy seguro de que tenías tus razones, ¿o me equivoco? #elcanosotosco					
-				Incluimos al Canoso Tosco en S:S&S EP para tentar a los participantes a identificarse como sociópatas violentos.					
+				Incluimos al Canoso Tosco en S:S&SEP para tentar a los participantes a identificarse como sociópatas violentos.					
 				Me han informado de que han asesinado al Canoso Tosco... ¿Sabes algo al respecto? #masacre					
 ARCHETYPE_SPAREBOOR	The Archetype			Ahora, me imagino que te preguntarás para qué sirve esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S
 				Sí, eso es increíble y te queremos muchísimo por ello.					
-				Incluimos al Canoso Tosco en S:S&S EP para permitir que los participantes se identificaran a sí mismos como personas compasivas y razonables.					
+				Incluimos al Canoso Tosco en S:S&SEP para permitir que los participantes se identificaran a sí mismos como personas compasivas y razonables.					
 				Me han informado de que has dejado escapar al Canoso Tosco ileso. Es una noticia alentadora.					
 LOGFELLA_FOUNDATION	Logfella	AdventureUI/tweetIconBabelBook		...					
 				...					
@@ -579,16 +579,16 @@ RABBITS_53MURDERS	The Scythian			Asesinamos inexplicablemente a 53 conejos indef
 RABBITS_91MURDERS	The Scythian			Asesinamos inexplicablemente a 91 conejos indefensos.					
 RABBITS_107MURDERS	The Scythian			Asesinamos inexplicablemente a 107 conejos indefensos. ¿Acaso nuestra compulsión asesina disminuirá si dejamos de contar?					
 ARCHETYPE_CREDITS	The Archetype								
-				S:S&S EP es un proyecto colaborativo de videojuego creado en Toronto de 2009 a 2011, en internet en swordandsworcery.com					
+				S:S&SEP es un proyecto colaborativo de videojuego creado en Toronto de 2009 a 2011, en internet en swordandsworcery.com					
 			Logos/superbrothers	Concepto original de la organización de arte y diseño Superbrothers A/V Inc. en superbrothersHQ.com					
 				Canciones y algunos sonidos por el amado compositor y rockero Jim Guthrie en jimguthrie.org					
 			Logos/capy	Ingeniería y milagros por el estudio independiente de videojuegos Capy en capybaragames.com					
 			Logos/eightfour	Localización japonesa, marketing, relaciones públicas y cariño por 8-4, Ltd. TODO EL EQUIPO en 8-4.jp					
-				* * * EL EQUIPO DE S:S&S EP * * *					
+				* * * EL EQUIPO DE S:S&SEP * * *					
 				Concepto, arte, diseño, dirección y escritura por representantes de Superbrothers A/V Inc.					
 				Diseño, liderazgo de proyecto, apoyo incansable y más: Kris Piotrowski, director creativo en Capy.					
-				Sistemas, arquitectura técnica, UI, motor y más: Jon Maur, programador técnico jefe de S:S&S EP en Capy.					
-				Scripting, combate y milagros: Frankie Leung, programador jefe de gameplay de S:S&S EP en Capy.					
+				Sistemas, arquitectura técnica, UI, motor y más: Jon Maur, programador técnico jefe de S:S&SEP en Capy.					
+				Scripting, combate y milagros: Frankie Leung, programador jefe de gameplay de S:S&SEP en Capy.					
 				Inspiración, canciones, sonidos, alma y mucho más: Jim Guthrie, compositor, héroe del folk y rockero.					
 				* * * ADEMÁS * * *					
 				Voz de Tronquero: Robert Ashley, creador del programa de radio A Life Well Wasted en alifewellwasted.com					
@@ -636,56 +636,56 @@ ARCHETYPE_CREDITS	The Archetype
 				DTS® y DTS Digital Surround® son marcas comerciales registradas de DTS, Inc.					
 				Código programado en C++ y scripts en Lua con tolua++. Mapas y elementos del mundo con herramientas propias de Capy.					
 				Cálculo de fases lunares y algoritmos astronómicos: voidware.com/moon_phase.htm					
-				APIs utilizadas en la creación de S:S&S EP incluyen tinyxml, libpng/zlib, SDL, cmake y minizip.					
+				APIs utilizadas en la creación de S:S&SEP incluyen tinyxml, libpng/zlib, SDL, cmake y minizip.					
 				Una versión absurdamente temprana se envió al Independent Games Festival el 1 de noviembre de 2009.					
-				S:S&S EP se anunció el 1 de diciembre de 2009.					
+				S:S&SEP se anunció el 1 de diciembre de 2009.					
 				A principios de 2010 se anunció que el proyecto había ganado el premio 'Achievement in Art' del IGF Mobile.					
-				La primera demostración pública en vivo de S:S&S EP ocurrió en un evento social de Hand Eye Society en Toronto el 14 de febrero de 2010.					
-				La primera versión jugable de S:S&S EP se presentó a asistentes y amigos en la GDC 2010 en San Francisco del 9 al 13 de marzo de 2010.					
+				La primera demostración pública en vivo de S:S&SEP ocurrió en un evento social de Hand Eye Society en Toronto el 14 de febrero de 2010.					
+				La primera versión jugable de S:S&SEP se presentó a asistentes y amigos en la GDC 2010 en San Francisco del 9 al 13 de marzo de 2010.					
 				Las primeras imágenes de jugabilidad sin editar de la versión GDC 2010 aparecieron simultáneamente en línea.					
 				'Less Talk, More Rock: The Native Language of Videogames' se publicó en línea en Boing Boing en marzo de 2010. Puedes buscarlo en Google.					
 				'The Intoxication of Mythology' fue presentada por Superbrothers el 22 de septiembre de 2010 en el Fantastic Arcade de Austin.					
 				'Aiming for Audiovisual Alchemy' fue presentada por Jim Guthrie, Kris Piotrowski y un representante de Superbrothers en el Gamercamp de Toronto.					
 				Un nuevo clip, 'Audience Calibration Procedure', se publicó el 24 de febrero de 2011 para iniciar el lanzamiento.					
-				S:S&S EP se lanzó para iPad, iPhone y iPod Touch cerca del equinoccio de primavera de 2011.					
+				S:S&SEP se lanzó para iPad, iPhone y iPod Touch cerca del equinoccio de primavera de 2011.					
 				Organizamos el MIDSUMMER ROCKSHOWCASE en el TIFF Lightbox de Toronto, con material de S&S en vivo por Jim Guthrie. ¡Fue increíble!					
 				* * * SIETE AÑOS DESPUÉS * * *					
 				Desde entonces, Jim Guthrie ha proporcionado música para varios videojuegos y películas, además de lanzar algunos discos.					
 				Capy continúa su búsqueda constante en la creación de videojuegos extraños y maravillosos.					
 				El personal de Superbrothers A/V Inc se toma su tiempo para soñar nuevos sueños.					
-				S:S&S EP fue uno de los 'Top 10 Videojuegos de 2011' de la revista Time.					
+				S:S&SEP fue uno de los 'Top 10 Videojuegos de 2011' de la revista Time.					
 				La banda sonora de Jim Guthrie fue reconocida como 'La Mejor Música de Videojuegos de 2011' por Kirk Hamilton en Kotaku.					
-				S:S&S EP ganó un Game Developer's Choice Award en GDC 2012.					
+				S:S&SEP ganó un Game Developer's Choice Award en GDC 2012.					
 				* * * DOCE AÑOS DESPUÉS * * *					
-				S:S&S EP fue desempolvado y actualizado para asegurar que el juego siguiera funcionando en los últimos sistemas operativos.					
+				S:S&SEP fue desempolvado y actualizado para asegurar que el juego siguiera funcionando en los últimos sistemas operativos.					
 				Superbrothers, un pequeño estudio de arte y videojuegos en su 20º año, opera desde los bosques de Quebec y la costa oeste de Canadá.					
-				Desde S:S&S EP, Superbrothers y Jim Guthrie contribuyeron a Sound Shapes (2012) (Queasy Games) (PS + PC).					
+				Desde S:S&SEP, Superbrothers y Jim Guthrie contribuyeron a Sound Shapes (2012) (Queasy Games) (PS + PC).					
 				Superbrothers entregó JETT: The Far Shore + Given Time (2021/23) (PS + PC), una saga de ciencia ficción con música del compositor scntfc.					
 				Al cierre de 2023, un nuevo proyecto de píxeles se gesta en Superbrothers.					
 				Capy Games lanzó el hiperactivo rebobinador de tiempo Super Time Force Ultra (2014) (PS + PC + Xbox).					
 				En 2018, Capy lanzó Below: un roguelike de acción y aventura donde un guerrero explora las entrañas de una isla remota (PS + PC + Xbox).					
 				Capy lanzó el maravilloso Grindstone en 2019 y continúa añadiendo contenido para los jugadores (Apple Arcade + Switch + PC + PS + Xbox).					
 				Mientras tanto, en 2023, el equipo está cocinando un delicioso nuevo juego en su caldero de juegos.					
-				* * * ¿QUÉ ES S:S&S EP? * * *					
-				S:S&S EP pretende ser un valiente experimento en Input Output Cinema, sea lo que sea eso.					
-				S:S&S EP es un enfoque fresco al videojuego de aventura old school con énfasis en el estilo audiovisual.					
-				S:S&S EP se inspira en el trabajo de creadores pioneros de videojuegos Shigeru Miyamoto, Jordan Mechner, Eric Chahi y Fumito Ueda.					
-				S:S&S EP es un sueño febril de Famicom.			38	082.jpg	28B24
-				S:S&S EP se inspira en la psicocosmología mitopoética de las historias de espada y hechicería de Robert E. Howard.					
-				S:S&S EP es un 'Link' al pasado.			167	083.jpg	18E3V
-				S:S&S EP es un primer esfuerzo y sí, es un poco experimental.					
-				El concepto estético de S:S&S EP es 'la aventura arquetípica de videojuego'.					
-				S:S&S EP referencia oblicuamente a Carl G. Jung y su fascinante 'Libro Rojo' en cada maldito rincón.					
-				S:S&S EP es una cosita ingeniosa que realmente no entiendo pero que creo que todos deberían jugar.					
-				S:S&S EP es un haiku crudo de videojuego sobre la vida, el amor y la muerte.					
-				S:S&S EP es un corte selecto de mitos y sueños.					
-				Creamos S:S&S EP pensando en un público amplio y culto.					
-				S:S&S EP iba a llamarse 'Poopsock' originalmente. Esto es realmente cierto.					
+				* * * ¿QUÉ ES S:S&SEP? * * *					
+				S:S&SEP pretende ser un valiente experimento en Input Output Cinema, sea lo que sea eso.					
+				S:S&SEP es un enfoque fresco al videojuego de aventura old school con énfasis en el estilo audiovisual.					
+				S:S&SEP se inspira en el trabajo de creadores pioneros de videojuegos Shigeru Miyamoto, Jordan Mechner, Eric Chahi y Fumito Ueda.					
+				S:S&SEP es un sueño febril de Famicom.			38	082.jpg	28B24
+				S:S&SEP se inspira en la psicocosmología mitopoética de las historias de espada y hechicería de Robert E. Howard.					
+				S:S&SEP es un 'Link' al pasado.			167	083.jpg	18E3V
+				S:S&SEP es un primer esfuerzo y sí, es un poco experimental.					
+				El concepto estético de S:S&SEP es 'la aventura arquetípica de videojuego'.					
+				S:S&SEP referencia oblicuamente a Carl G. Jung y su fascinante 'Libro Rojo' en cada maldito rincón.					
+				S:S&SEP es una cosita ingeniosa que realmente no entiendo pero que creo que todos deberían jugar.					
+				S:S&SEP es un haiku crudo de videojuego sobre la vida, el amor y la muerte.					
+				S:S&SEP es un corte selecto de mitos y sueños.					
+				Creamos S:S&SEP pensando en un público amplio y culto.					
+				S:S&SEP iba a llamarse 'Poopsock' originalmente. Esto es realmente cierto.					
 				* * * SE ACABÓ * * *					
 				Ahora somos amigos cósmicos para siempre... ¿sí?			87	084.jpg	L8A48
 ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
 	The Archetype			Damas y caballeros, ¿qué tal si tocan a estos dos pequeños espíritus silvanos para calibrar su sistema de sonido estéreo?					
 	The Archetype			Desde nuestro experimento anterior en 2011, las redes sociales han demostrado ser catastróficas para la sociedad.					
 				En esta ocasión, promovemos el aislamiento y la reflexión con arrepentimiento.					
-				Encontrarás que esta primera sesión de S:S&S EP es bastante sencilla y suele durar entre 15 y 30 minutos.					
+				Encontrarás que esta primera sesión de S:S&SEP es bastante sencilla y suele durar entre 15 y 30 minutos.					
 				¿Todo listo? ¡Pulsa 'Jugar' y vamos allá!					
