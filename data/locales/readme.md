@@ -146,7 +146,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | **Song of Sworcery** | Canción de Espadancia | Canção da Espadância | ✅ Main ability (Proper noun) |
 | **sworcery aura** | aura de espadancia | aura de espadância | ✅ Visual indicator |
 | **sylvan sprite** | espíritu silvano | espírito silvano | ✅ Collectible creatures. |
-| **sonorous spume** | sonoras espumas | sonoras espumas | ✅ Sprite indicators. |
+| **sonorous spume** | susurrantes espumas | sussurrantes espumas | ✅ Sprite indicators. |
 | **skyward beam** | haz celestial | facho celestial | ✅ Trigon activation. PT: "facho" not "raio" |
 | **miracle** | milagro | milagre | ✅ Special events |
 
@@ -493,7 +493,7 @@ This glossary uses **Brazilian Portuguese (PT-BR)** conventions:
 | 9 | Mingi Taw | Mingi Taw | Mingi Taw |
 | 10 | The Gogolithic Mass | La Masa Gogolítica | A Massa Gogolítica |
 | 11 | Trigon Trifecta | Tríada Trigónica | Tríade Trigônica |
-| 12 | sonorous spume | sonoras espumas | sonoras espumas |
+| 12 | sonorous spume | susurrantes espumas | sussurrantes espumas |
 | 13 | dream-walking | paseos oníricos / caminar en sueños | caminhadas oníricas / caminhar em sonhos |
 | 14 | the whirling infinite | Arremolinado Infinito | Remoinhado Infinito |
 | 15 | touch & hold | mantén pulsado | manter pressionado |
