@@ -78,11 +78,11 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 
 | English | Spanish (ES) | Portuguese (PT-BR) | Notes |
 |---------|--------------|-------------------|-------|
-| **Mingi Taw** | Mingi Tau | Mingi Tau | ✅ Main mountain |
+| **Mingi Taw** | Mingi Taw | Mingi Taw | ✅ Main mountain |
 | **The Caucasus** | El Cáucaso | O Cáucaso | ✅ Geographic region |
 | **Scythia** | Escitia | Cítia | ✅ Homeland region |
 | **The Perilous Precipice** | El Precipicio Peligroso | O Precipício Perigoso | ✅ Major location |
-| **Trigon Grove** | Claro Trigonal | Clareira Trigônica | ✅ ES: clearing, PT: grove clearing |
+| **Trigon Grove** | Claro Trigónico | Clareira Trigônica | ✅ ES: clearing, PT: grove clearing |
 | **The Moon Grotto** | La Gruta Lunar | A Gruta Lunar | ✅ Secret location |
 | **The Kingdom of the Cloud** | El Reino de la Nube | O Reino da Nuvem | ✅ Mingi Taw's title |
 | | | | |
@@ -119,7 +119,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | | | | |
 **Gold Trigon** | Trigón Dorado | Trígono Dourado | ✅ First trigon |
 **Bright Moon Trigon** | Trigón de la Luna Radiante | Trígono da Lua Radiante | ✅ Pink/bright trigon |
-| **The Trigon Trifecta** | La Tríada Trigonal | A Tríade Trigônica | ✅ All three trigons |
+| **The Trigon Trifecta** | La Tríada Trigónica | A Tríade Trigônica | ✅ All three trigons |
 | | | | |
 | hearth | hoguera / fuego | fogo / lareira | ⚠️ PT: `fogo` (fire), `lareira` (hearth) |
 | firewood | leña | lenha | ✅ |
@@ -441,6 +441,17 @@ This section defines the personality and speaking style for each character to en
   - Avoiding repetition in same paragraph
   - Character voice differences
 
+#### 6. **Gender-Neutral Player Treatment**
+- Avoid gender-marked adjectives directed at the player to ensure immersion for everyone.
+- ✅ **ES**: "Tienes una sesión activa", "Cuando hay lucidez", "tendencias sociópatas".
+- ❌ **ES**: "Estás logado", "Cuando estás lúcido", "seas un sociópata".
+- ✅ **PT-BR**: "Você tem uma sessão ativa", "Quando há lucidez", "tendências sociopatas".
+- ❌ **PT-BR**: "Você está logado", "Quando você está lúcido", "seja um sociopata".
+
+#### 7. **Cursor vs. Pointer (Hardware vs. Visual)**
+- **Cursor:** The visual reticle/element moving on screen (e.g., "Mover cursor", "Centralizar o cursor").
+- **Pointer/Apuntar (ES: Puntero / PT: Ponteiro):** The physical Joy-Con acting as a pointing device, or the action of aiming it (e.g., "Sensibilidad del puntero / Sensibilidade do ponteiro", "Apuntar & hacer clic"). Do NOT use "cursor" to refer to the hardware.
+
 ---
 
 ## Special Cases & Edge Cases
@@ -479,9 +490,9 @@ This glossary uses **Brazilian Portuguese (PT-BR)** conventions:
 | 6 | The Dark Moon reigns | La Luna Sombría reina | A Lua Sombria reina |
 | 7 | woeful errand | funesto cometido | funesta missão |
 | 8 | Logfella | Tronquero | Troncadeiro |
-| 9 | Mingi Taw | Mingi Tau | Mingi Tau |
+| 9 | Mingi Taw | Mingi Taw | Mingi Taw |
 | 10 | The Gogolithic Mass | La Masa Gogolítica | A Massa Gogolítica |
-| 11 | Trigon Trifecta | Tríada Trigonal | Tríade Trigônica |
+| 11 | Trigon Trifecta | Tríada Trigónica | Tríade Trigônica |
 | 12 | sonorous spume | sonoras espumas | sonoras espumas |
 | 13 | dream-walking | paseos oníricos / caminar en sueños | caminhadas oníricas / caminhar em sonhos |
 | 14 | the whirling infinite | Arremolinado Infinito | Remoinhado Infinito |
