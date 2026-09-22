@@ -16,7 +16,7 @@ INFO_CROSSMOUNTAINLEFT	The Scythian			En la pendiente rocosa de Mingi Taw, una t
 INFO_CROSSMOUNTAINRIGHT	The Scythian			En la pendiente rocosa de Mingi Taw, una tumba solitaria marcaba el final del sendero de grava.					
 INFO_RIDGESKULLPOLE	The Scythian			En la cresta rocosa rumbo a la cima de Mingi Taw, se erguía un siniestro poste decorado con una calavera astada.					
 INFO_CROSSRIDGE	The Scythian			En la cresta rocosa rumbo a la cima de Mingi Taw, una tumba solitaria era un lúgubre recordatorio de cuántos habían muerto allí.					
-INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos el Megatomo aferrado entre dos huesudas manos y sentimos nuestra espada estremecerse en su vaina. #megatomo			33	006.jpg	30D6C
+INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos el Megatomo aferrado entre dos huesudas manos y sentimos estremecerse nuestra espada en la vaina. #megatomo			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Encontramos una pequeña puerta sin pomo hecha de un material desconocido. El letrero decía: 'Solo personal autorizado'.					
 DOOR_UPSLOPEWOODS1	The Scythian			Una puerta en el muro de piedra bloqueaba el antiguo camino hacia Mingi Taw.					
 DOOR_UPSLOPEWOODS3	The Scythian			Una puerta cerrada se escondía entre la maleza, debajo del antiguo camino que lleva hacia Mingi Taw. #grutalunar					
@@ -92,8 +92,8 @@ INFO_CABINSHEEP	The Scythian			Otra oveja inútil, ¿por qué seguimos mirándol
 INFO_MEADOWSUN	The Scythian			Recordamos perfectamente lo increíble que lucía el sol en aquel día de principios de primavera.					
 INFO_MEADOWGATE	The Scythian			En el prado nos topamos con un impenetrable portón de hierro que bloqueaba una cueva cavernosa.					
 INFO_MEADOWGATEACTIVE	The Scythian			Observamos el portón de hierro del prado y tuvimos la sensación de que tal vez podríamos abrirlo.					
-INFO_MEADOWGATETRIGONACTIVE	The Scythian			Distinguimos sobre el portón de hierro un nosequé con forma de Trigón Dorado, ¿reaccionaría a nuestra Canción de Espadancia?					
-INFO_MEADOWGATETRIGON	The Scythian			Sobre el portón de hierro, notamos un nosequé.					
+INFO_MEADOWGATETRIGONACTIVE	The Scythian			Sobre el portón de hierro distinguimos un nosequé con forma de Trigón Dorado. ¿Reaccionaría a nuestra Canción de Espadancia?					
+INFO_MEADOWGATETRIGON	The Scythian			Sobre el portón de hierro distinguimos un nosequé.					
 INFO_LOCKEDDOORSTONEWALL	The Scythian			Una puerta en el muro de piedra bloqueaba el antiguo camino hacia Mingi Taw y, al parecer la llave se había perdido en los sueños.					
 INFO_LOOMINGBIRDSCULPTURES	The Scythian			Notamos una escultura de un pájaro enfadado que se cernía sobre el prado. #sutilreferencia					
 INFO_MEADOWSUNSTICK	The Scythian			Avistamos un bastón de forma extraña que vigilaba el prado.					
@@ -110,7 +110,7 @@ INFO_NESTBOXWEATHERED	The Scythian			Avistamos un nido desgastado con un inquiet
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre un puente de troncos del antiguo camino, se erguía un siniestro mástil decorado con calaveras.					
 INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la cueva cavernosa del prado, en un claro oculto, avistamos un extraño conjunto de estructuras de piedra.					
 			Archetype/trifecta	...¿Era este el Claro Trigónico? #clarotrigonico			93	016.jpg	B1D6J
-			triangle/Triangle	Junto a la primera estructura pensamos en el Trigón Dorado y sentimos nuestra espada estremecerse en su vaina.					
+			triangle/Triangle	Junto a la primera estructura pensamos en el Trigón Dorado y sentimos estremecerse nuestra espada en la vaina.					
 INFO_DARKTRIGONALTAR	The Scythian			En el Claro Trigónico, hallamos otra estructura de piedra, vieja y cubierta de musgo. #trigonlunasombria					
 				Nos preguntamos qué sucedería si la golpeáramos con la espada.					
 INFO_BRIGHTTRIGONALTAR	The Scythian			En el Claro Trigónico descubrimos otra estructura de piedra, con un pictograma circular que representaba la Luna Radiante. #trigonlunaradiante					
@@ -142,8 +142,8 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			En el Claro Trigónico, más allá de la c
 			adventureUI/megatomeItem	Al ver nuestra vestimenta escita y el Megatomo, preguntó si entendíamos los símbolos enigmáticos de su interior.					
 				En un susurro pronunció el nombre del espectro inmortal que habíamos despertado en la oscuridad bajo Mingi Taw: La Masa Gogolítica.			166	023.jpg	O2B39
 				Conocíamos ese nombre aterrador de las viejas historias y sentimos cómo se nos helaba la sangre.					
-				"""Hasta ahora, tenía la sensación de que la Masa Gogolítica te veía poco más que como turista."""					
-			triangle/Triangle	"""Ahora que dominas la Canción de Espadancia y has domado el Trigón Dorado, descubrirás que cada paso tuyo está embrujado."""					
+				"""Hasta ahora, tenía la sensación de que la Masa Gogolítica no te tomaba en serio."""					
+			triangle/Triangle	"""Ahora que dominas la Canción de Espadancia y has domado el Trigón Dorado, descubrirás que cada paso que das está embrujado."""					
 				No sabíamos si el fantasma intentaba animarnos, asustarnos o qué.					
 				Le contamos que pretendíamos detonar el Megatomo en la cima de Mingi Taw y liberar a la Masa Gogolítica de su inmortalidad.					
 			Archetype/trifecta	Le preguntamos por la Tríada Trigónica y por el paradero de los Trigones restantes, pero su respuesta fue irritantemente ambigua.					
@@ -236,7 +236,7 @@ ARCHETYPE_MUSHROOMHINT	The Archetype			Incluso se ha llegado a postular que los 
 				Fisiológicamente, es posible que experimentes sensaciones de bienestar y percepciones agudizadas, así como la disipación del estrés y pérdida del apetito.					
 				Los hongos del bosque podrían ofrecerte una visión reveladora sobre el paradero de un espíritu silvano y sus peculiares detonantes.			60	035.jpg	53A5Y
 ARCHETYPE_TRIGONGROVE	The Archetype			¿Lo sientes? ¿Empiezas a comprender? ¿Cobran ahora un nuevo significado los símbolos esotéricos del Megatomo?					
-				Este haz conecta el mundo de los vivos y los muertos, así que quizá conozcas a algún fantasma con quien hablar en tus viajes.					
+				Este haz conecta el mundo de los vivos y los muertos, así que puede que te topes con uno o dos fantasmas con los que hablar durante tus viajes.					
 				Acabo de enterarme de que activaste el primer haz celestial en el Claro Trigónico.					
 GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las ovejas inútiles que holgazaneaban por la choza y nos comentó que se habían asustado hace un rato.					
 			gourd/gourd	Le contamos que habíamos enviado cinco espíritus silvanos al cielo y nos dijo que quizá la temporada de milagros estaba por llegar.					
