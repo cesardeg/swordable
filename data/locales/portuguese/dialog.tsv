@@ -47,7 +47,7 @@ QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos o Megatomo & somos
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			Senhoras e senhores, que tal tocarem nestes dois pequenos espíritos silvanos para calibrar o seu sistema de som estéreo?					
+	The Archetype			Senhoras e senhores, que tal tocar nestes dois pequenos espíritos silvanos para calibrar o seu sistema de som estéreo?					
 	The Archetype			Desde nosso experimento anterior em 2011, constatamos que as redes sociais têm um impacto catastrófico na sociedade.					
 				Nesta ocasião, promovemos o isolamento e a reflexão com arrependimento.					
 				Agradecemos sinceramente por você ter decidido participar deste tratamento experimental para a aflição profunda da alma.					
@@ -90,7 +90,7 @@ INFO_BIRDEYESCULPTURE	The Scythian			Notamos uma escultura de um pássaro zangad
 INFO_MEADOWSHEEP	The Scythian			Observamos algumas ovelhas inúteis vadiando na campina. #ovelhasinuteis					
 INFO_CABINSHEEP	The Scythian			Outra ovelha inútil, por que continuamos olhando para elas? #ovelhasinuteis					
 INFO_MEADOWSUN	The Scythian			Lembramos perfeitamente de quão incrível o sol parecia naquele dia de início de primavera.					
-INFO_MEADOWGATE	The Scythian			Na campina, nos deparamos com um impenetrável portão de ferro que bloqueava uma colossal caverna.					
+INFO_MEADOWGATE	The Scythian			Na campina, nos deparamos com um impenetrável portão de ferro que bloqueava uma caverna cavernosa.					
 INFO_MEADOWGATEACTIVE	The Scythian			Observamos o portão de ferro da campina e tivemos a sensação de que talvez pudéssemos abri-lo de alguma forma.					
 INFO_MEADOWGATETRIGONACTIVE	The Scythian			Distinguimos sobre o portão de ferro uma geringonça com a forma do Trígono Dourado. Será que reagiria à nossa Canção da Espadância?					
 INFO_MEADOWGATETRIGON	The Scythian			Sobre o portão de ferro, notamos uma geringonça.					
@@ -108,7 +108,7 @@ INFO_SPUME	The Scythian			Localizamos as sutis e sussurrantes espumas de um esp�
 INFO_NESTBOX	The Scythian			Vimos um curioso ninho, agora lar de uma colmeia de escória e vilania.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Vimos um desgastado ninho com uma inquietante semelhança a um rosto.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre uma ponte de toras no antigo caminho, erguia-se um sinistro mastro decorado com caveiras.					
-INFO_GOLDTRIGONALTAR	The Scythian			Além da caverna colossal na campina, em uma clareira isolada, avistamos um estranho conjunto de estruturas de pedra.					
+INFO_GOLDTRIGONALTAR	The Scythian			Além da caverna cavernosa na campina, em uma clareira isolada, avistamos um estranho conjunto de estruturas de pedra.					
 			Archetype/trifecta	...Era esta a Clareira Trigônica? #clareiratrigonica			93	016.jpg	B1D6J
 			triangle/Triangle	Junto à primeira estrutura pensamos no Trígono Dourado e sentimos nossa espada estremecer na bainha.					
 INFO_DARKTRIGONALTAR	The Scythian			Na Clareira Trigônica, encontramos outra estrutura de pedra, velha e coberta de musgo. #trigonoluasombria					
@@ -136,8 +136,8 @@ INFO_ROCKSHOWBOOR	The Scythian			Avistamos o Patife Grisalho exibindo seu estilo
 INFO_ROCKSHOWCROWD	The Scythian			Havia uma multidão considerável de senhoras e senhores no show de rock.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			Distinguimos o personagem conhecido como o Arquétipo no show de rock e nos perguntamos o que ele estava tramando com tudo isso.					
 INFO_TRIGONGROVESKULLSTICK	The Scythian			Um sinistro poste decorado com uma caveira galhada conecta este lugar ao espectro imortal que espreita sob Mingi Taw.					
-GRAVE_TRIGONGROVE	The Scythian			Na Clareira Trigônica, além da caverna colossal na campina, uma tumba solitária despertou nossa curiosidade.					
-GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigônica, além da caverna colossal na campina, nos aproximamos de uma tumba solitária e conhecemos um fantasma resplandecente.					
+GRAVE_TRIGONGROVE	The Scythian			Na Clareira Trigônica, além da caverna cavernosa na campina, uma tumba solitária despertou nossa curiosidade.					
+GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigônica, além da caverna cavernosa na campina, nos aproximamos de uma tumba solitária e conhecemos um fantasma resplandecente.					
 				A bem da verdade, o fantasma resplandecente da Clareira Trigônica nos assustou bastante no início.			96	022.jpg	T2B2H
 			adventureUI/megatomeItem	Ao ver nossa vestimenta cítia e o Megatomo, perguntou se entendíamos seus enigmáticos símbolos.					
 				Num sussurro, ele pronunciou o nome do espectro imortal que havíamos despertado nas trevas sob Mingi Taw: a Massa Gogolítica.			166	023.jpg	O2B39
@@ -424,13 +424,13 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Atordoados e sem uma lembrança cl
 			triangle/Triangle	Ele se perguntou se talvez o Trígono pudesse estar relacionado aos sinistros mistérios além do portão de ferro da campina...					
 				Mas Troncadeiro não era fã de sinistros mistérios, então preferiu ir para casa cortar lenha. #lenhando					
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			Troncadeiro estava muito feliz por a tempestade ter se dissipado e estava animado para voltar a cortar lenha.					
-				Ele nos perguntou se tínhamos ideia sobre o portão de ferro que bloqueava a caverna colossal na campina... o que poderia haver por trás?					
+				Ele nos perguntou se tínhamos ideia sobre o portão de ferro que bloqueava a caverna cavernosa na campina... o que poderia haver por trás?					
 LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Que esquisito... Vejo um facho celestial dourado na floresta atrás da campina... alguém descobriu os segredos da Clareira Trigônica?			89	072.jpg	67F24
 LOGFELLA_URSULAMEADOW	Logfella			Estou realmente preocupado com a Citiana, ela parece estar um caco.					
 SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			O lenhador e sua filha nos observaram enquanto recuperávamos a consciência.					
 				Percebemos que a campina continuava a mesma, que todas as evidências do nosso encontro onírico haviam desaparecido.					
 GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae ouviu em silêncio nossa estranha história do encontro com o Trígono Dourado.					
-			triangle/Triangle	Ela se perguntou sobre os segredos da Clareira Trigônica além da caverna colossal na campina... poderia haver alguma conexão?					
+			triangle/Triangle	Ela se perguntou sobre os segredos da Clareira Trigônica além da caverna cavernosa na campina... poderia haver alguma conexão?					
 GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Estou muito preocupada com a Citiana... ela sumiu por dias depois que a tempestade se dissipou. Tomara que esteja bem.					
 GIRL_URSULAMEADOW_OFF	Girl			Nossa, então A Citiana estava desacordada na campina? Que loucura.					
 DOGFELLA_GETDARKTRIGON	The Scythian			Depois de ativar outro facho celestial na Clareira Trigônica, notamos algo estranho no cachorro chamado Cachorreiro.					
@@ -556,7 +556,7 @@ ARCHETYPE_HALFWANE	The Archetype			O ciclo lunar está chegando ao fim e falta m
 LOGFELLA_CRESCENTWANE	The Scythian			O lenhador não aguentava muito folclore e admitiu que costumava dormir, embora, apesar de tudo, soubesse bastante do assunto.					
 				Conhecia a lenda da Massa Gogolítica, o espectro imortal que espreitava nas trevas sob Mingi Taw.					
 				Nos falou sobre o Remoinhado Infinito, além de nossa compreensão, de onde o Megatomo veio na mal lembrada Idade da Pedra.					
-				Ele falou de seres imortais do espaço que despertaram na humanidade uma forma rudimentar de transmissão de pensamento.					
+				Ele falou de seres imortais do espaço que despertaram na humanidade uma forma rudimentar de transmissão de pensamento linguístico.					
 				"""Esses imortais deram à humanidade o dom da civilização e, com isso, a condenação de uma inevitável extinção."""					
 				"""Os cítios tentaram reprimir a insidiosa propagação da civilização e por isso isolaram o Megatomo com seu protetor imortal."""					
 				"""O imortal tem espreitado nas trevas desde então, degenerando-se no espectro conhecido como a Massa Gogolítica."""					
@@ -583,7 +583,7 @@ ARCHETYPE_CREDITS	The Archetype
 			Logos/superbrothers	Conceito original da organização de arte e design Superbrothers A/V Inc. em superbrothersHQ.com					
 				Músicas e alguns sons pelo amado compositor e roqueiro Jim Guthrie em jimguthrie.org					
 			Logos/capy	Engenharia e milagres pelo estúdio independente de videogames Capy em capybaragames.com					
-			Logos/eightfour	Localização japonesa, marketing, relações públicas e carinho por 8-4, Ltd. TODA A EQUIPE em 8-4.jp					
+			Logos/eightfour	Localização japonesa, marketing, relações públicas e carinho: TODA A EQUIPE da 8-4, Ltd em 8-4.jp					
 				* * * A EQUIPE DE S:S&SEP * * *					
 				Conceito, arte, design, direção e roteiro por representantes da Superbrothers A/V Inc.					
 				Design, liderança de projeto, apoio incansável e mais: Kris Piotrowski, diretor criativo na Capy.					
@@ -599,7 +599,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Produtor executivo, herói do povo, liderança e estrategueria: Nathan Vella, presidente da Capy.					
 				Produtor de PC, assistência técnica de áudio, integração FMOD e muitíssimos sons: Sean 'Uber' Lohrisch, cofundador da Capy.					
 				Nintendo Switch Produc-tron e assistência geral de negócios: Matt Repetski, cofundador da Capy.					
-				Controle de qualidade (QA) e mega-herói de playtesting: Christian 'Sea Dawg' Meyer na Capy.					
+				Controle de qualidade (QA) e mega-herói de testes de jogo: Christian 'Sea Dawg' Meyer na Capy.					
 				Programação principal para versão Nintendo Switch e computadores domésticos fornecida por nada menos que Hubert Wong na Capy.					
 				Conceitos de design, implementação e bruxaria de Nintendo Switch preparados por Sadie Lee na Capy.					
 				Diversas tarefas pesadas, incluindo suporte de programação para PC/Mac/Linux e suporte para Nintendo Switch por Drew Grainge na Capy.					
@@ -659,12 +659,12 @@ ARCHETYPE_CREDITS	The Archetype
 				* * * DOZE ANOS DEPOIS * * *					
 				S:S&SEP foi desempoeirado e atualizado para garantir que o jogo continuasse funcionando nos últimos sistemas operacionais.					
 				A Superbrothers, um pequeno estúdio de arte e videogames em seu 20º ano, opera dos bosques do Quebec e da costa oeste do Canadá.					
-				Desde S:S&SEP, Superbrothers e Jim Guthrie contribuíram para Sound Shapes (2012) (Queasy Games) (PS + PC).					
-				A Superbrothers entregou JETT: The Far Shore + Given Time (2021) (PS + PC), uma saga de ficção científica soviética com música do scntfc.					
+				Desde S:S&SEP, Superbrothers e Jim Guthrie contribuíram para Sound Shapes (2012) (Queasy Games) (PlayStation + PC).					
+				A Superbrothers entregou JETT: The Far Shore + Given Time (2021/2023) (PlayStation + PC), uma saga de ficção científica soviética com música de scntfc.					
 				Ao fim de 2023, um novo projeto de pixels está sendo gestado na Superbrothers.					
-				A Capy Games lançou o hiperativo rebobinador de tempo Super Time Force Ultra (2014) (PS + PC + Xbox).					
-				Em 2018, a Capy entregou Below, um roguelike de ação-aventura sobre um guerreiro explorando as profundezas de uma ilha remota (PS + PC + Xbox).					
-				A Capy lançou o maravilhoso Grindstone em 2019 e continua adicionando conteúdo para os jogadores (Apple Arcade + Switch + PC + PS + Xbox).					
+				A Capy Games lançou o hiperativo rebobinador de tempo Super Time Force Ultra (2014) (PlayStation + PC + Xbox).					
+				Em 2018, a Capy lançou Below: um roguelike onde um guerreiro explora as misteriosas profundezas de uma ilha remota (PlayStation + PC + Xbox).					
+				A Capy lançou o maravilhoso Grindstone em 2019 e continua adicionando conteúdo para os jogadores (Apple Arcade + Switch + PlayStation + PC + Xbox).					
 				Enquanto isso, em 2023, a equipe está cozinhando um delicioso novo jogo em seu caldeirão de jogos.					
 				* * * O QUE É S:S&SEP? * * *					
 				S:S&SEP pretende ser um corajoso experimento em Input Output Cinema, seja lá o que isso signifique.					
@@ -684,7 +684,7 @@ ARCHETYPE_CREDITS	The Archetype
 				* * * ACABOU * * *					
 				Agora somos amigos cósmicos para sempre... tá?			87	084.jpg	L8A48
 ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			Senhoras e senhores, que tal tocarem nestes dois pequenos espíritos silvanos para calibrar o seu sistema de som estéreo?					
+	The Archetype			Senhoras e senhores, que tal tocar nestes dois pequenos espíritos silvanos para calibrar o seu sistema de som estéreo?					
 	The Archetype			Desde nosso experimento anterior em 2011, constatamos que as redes sociais têm um impacto catastrófico na sociedade.					
 				Nesta ocasião, promovemos o isolamento e a reflexão com arrependimento.					
 				Você verá que esta primeira sessão de S:S&SEP é bastante simples e geralmente dura entre 15 e 30 minutos.					

@@ -101,7 +101,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | stone shelter | refugio de piedra | abrigo de pedra |
 | mountain temple | templo de la montaña | templo da montanha |
 | iron gate of the meadow | portón de hierro del prado | portão de ferro da campina |
-| cavernous cave of the meadow | colosal cueva del prado | colossal caverna da campina |
+| cavernous cave of the meadow | cueva cavernosa del prado | caverna cavernosa da campina |
 | miracle of the meadow | milagro del prado | milagre da campina |
 | titanic hollow tree | titánico árbol hueco | titânica árvore oca |
 | parliament of trees | Parlamento de Árboles | Parlamento de Árvores |

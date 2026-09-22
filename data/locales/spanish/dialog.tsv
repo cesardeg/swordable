@@ -47,7 +47,7 @@ QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	¡Conseguimos el Megatomo & so
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			Damas y caballeros, ¿qué tal si tocan a estos dos pequeños espíritus silvanos para calibrar su sistema de sonido estéreo?					
+	The Archetype			Damas y caballeros, ¿qué tal tocar a estos dos pequeños espíritus silvanos para calibrar su sistema de sonido estéreo?					
 	The Archetype			Desde nuestro experimento anterior en 2011, las redes sociales han demostrado ser catastróficas para la sociedad.					
 				En esta ocasión, promovemos el aislamiento y la reflexión con arrepentimiento.					
 				Agradecemos sinceramente que hayas decidido participar en este tratamiento experimental para la aflicción profunda del alma.					
@@ -90,7 +90,7 @@ INFO_BIRDEYESCULPTURE	The Scythian			Notamos una escultura de un pájaro enfadad
 INFO_MEADOWSHEEP	The Scythian			Observamos unas cuantas ovejas inútiles holgazaneando en el prado. #ovejasinutiles					
 INFO_CABINSHEEP	The Scythian			Otra oveja inútil, ¿por qué seguimos mirándolas? #ovejasinutiles					
 INFO_MEADOWSUN	The Scythian			Recordamos a la perfección lo increíble que lucía el sol aquel día de principios de primavera.					
-INFO_MEADOWGATE	The Scythian			En el prado, nos topamos con un impenetrable portón de hierro que bloqueaba una colosal cueva.					
+INFO_MEADOWGATE	The Scythian			En el prado, nos topamos con un impenetrable portón de hierro que bloqueaba una cueva cavernosa.					
 INFO_MEADOWGATEACTIVE	The Scythian			Observamos el portón de hierro del prado y tuvimos la sensación de que tal vez podríamos abrirlo.					
 INFO_MEADOWGATETRIGONACTIVE	The Scythian			Distinguimos sobre el portón de hierro un nosequé con forma de Trigón Dorado, ¿reaccionaría a nuestra Canción de Espadancia?					
 INFO_MEADOWGATETRIGON	The Scythian			Sobre el portón de hierro, notamos un nosequé.					
@@ -108,7 +108,7 @@ INFO_SPUME	The Scythian			Localizamos las sutiles y susurrantes espumas de un es
 INFO_NESTBOX	The Scythian			Avistamos un curioso nido, ahora hogar de una colmena de escoria y villanía.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Avistamos un desgastado nido con un inquietante parecido a un rostro.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre un puente de troncos en el antiguo camino, se erguía un siniestro mástil decorado con calaveras.					
-INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la colosal cueva del prado, en un claro oculto, avistamos un extraño conjunto de estructuras de piedra.					
+INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la cueva cavernosa del prado, en un claro oculto, avistamos un extraño conjunto de estructuras de piedra.					
 			Archetype/trifecta	...¿Era este el Claro Trigónico? #clarotrigonico			93	016.jpg	B1D6J
 			triangle/Triangle	Junto a la primera estructura pensamos en el Trigón Dorado y sentimos nuestra espada estremecerse en su vaina.					
 INFO_DARKTRIGONALTAR	The Scythian			En el Claro Trigónico, hallamos otra estructura de piedra, vieja y llena de musgo. #trigonlunasombria					
@@ -136,8 +136,8 @@ INFO_ROCKSHOWBOOR	The Scythian			Avistamos al Canoso Tosco luciendo su estilo nu
 INFO_ROCKSHOWCROWD	The Scythian			Había una multitud considerable de damas y caballeros en el concierto de rock.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			Distinguimos al personaje conocido como El Arquetipo en el concierto de rock y nos preguntamos qué tramaba con todo esto.					
 INFO_TRIGONGROVESKULLSTICK	The Scythian			Un siniestro poste decorado con una calavera astada conecta este lugar con el espectro inmortal que acecha bajo Mingi Taw.					
-GRAVE_TRIGONGROVE	The Scythian			En el Claro Trigónico, más allá de la colosal cueva del prado, una tumba solitaria despertó nuestra curiosidad.					
-GRAVE_TRIGONGROVEGHOST	The Scythian			En el Claro Trigónico, más allá de la colosal cueva del prado, nos acercamos a una tumba solitaria y conocimos a un fantasma resplandeciente.					
+GRAVE_TRIGONGROVE	The Scythian			En el Claro Trigónico, más allá de la cueva cavernosa del prado, una tumba solitaria despertó nuestra curiosidad.					
+GRAVE_TRIGONGROVEGHOST	The Scythian			En el Claro Trigónico, más allá de la cueva cavernosa del prado, nos acercamos a una tumba solitaria y conocimos a un fantasma resplandeciente.					
 				La verdad, el fantasma resplandeciente del Claro Trigónico nos asustó bastante al principio.			96	022.jpg	T2B2H
 			adventureUI/megatomeItem	Al ver nuestra vestimenta escita y el Megatomo, preguntó si entendíamos sus enigmáticos símbolos.					
 				En un susurro pronunció el nombre del espectro inmortal que habíamos despertado en la oscuridad bajo Mingi Taw: La Masa Gogolítica.			166	023.jpg	O2B39
@@ -424,13 +424,13 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Aturdidos y sin un recuerdo claro,
 			triangle/Triangle	Se preguntó por la conexión del Trigón con los siniestros misterios más allá del portón de hierro del prado.					
 				Pero a Tronquero no le iban los siniestros misterios, así que prefirió irse a casa y cortar leña. #leñando					
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			Tronquero estaba muy contento de que la tormenta se hubiera disipado y estaba muy entusiasmado por volver a cortar leña.					
-				Nos preguntó si teníamos idea sobre el portón de hierro que bloqueaba la colosal cueva del prado... ¿qué podría haber detrás?					
+				Nos preguntó si teníamos idea sobre el portón de hierro que bloqueaba la cueva cavernosa del prado... ¿qué podría haber detrás?					
 LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Qué raro... Veo un haz celestial dorado en el bosque tras el prado... ¿alguien ha descubierto los secretos del Claro Trigónico?			89	072.jpg	67F24
 LOGFELLA_URSULAMEADOW	Logfella			Estoy realmente preocupado por La Escita, parece estar hecha polvo.					
 SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			El leñador y su hija nos observaron mientras recuperábamos el conocimiento.					
 				El prado seguía igual, toda evidencia de nuestro encuentro onírico había desaparecido.					
 GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae escuchó en silencio nuestra extraña historia sobre el encuentro con el Trigón Dorado.					
-			triangle/Triangle	Se preguntó por los secretos del Claro Trigónico más allá de la colosal cueva del prado... ¿habría alguna conexión?					
+			triangle/Triangle	Se preguntó por los secretos del Claro Trigónico más allá de la cueva cavernosa del prado... ¿habría alguna conexión?					
 GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Me preocupa mucho La Escita... desapareció durante varios días después de que se disipara la tormenta. Ojalá esté bien.					
 GIRL_URSULAMEADOW_OFF	Girl			¡¿Cómo?! ¿Así que La Escita estaba desmayada en el prado? Qué locura.					
 DOGFELLA_GETDARKTRIGON	The Scythian			Después de activar otro haz celestial en el Claro Trigónico, notamos algo extraño en el perro llamado Perrero.					
@@ -556,7 +556,7 @@ ARCHETYPE_HALFWANE	The Archetype			El ciclo lunar está llegando a su fin y falt
 LOGFELLA_CRESCENTWANE	The Scythian			Al leñador no le iba mucho el folclore y admitió que solía quedarse dormido, aunque, pese a todo, sabía bastante del tema.					
 				Conocía a la Masa Gogolítica, el espectro inmortal que acechaba en la oscuridad bajo Mingi Taw.					
 				Nos habló del Arremolinado Infinito, más allá de nuestra comprensión, de donde provino el Megatomo en la apenas recordada Edad de Piedra.					
-				Habló de seres inmortales del espacio que despertaron en la humanidad una forma rudimentaria de transmisión de pensamiento.					
+				Habló de seres inmortales del espacio que despertaron en la humanidad una forma rudimentaria de transmisión lingüística del pensamiento.					
 				"""Estos inmortales dieron a la humanidad el don de la civilización, y con ello, la condena de una inevitable extinción."""					
 				"""Los escitas intentaron frenar el avance insidioso de la civilización, por eso aislaron el Megatomo con su guardián inmortal."""					
 				"""El inmortal permaneció en la oscuridad desde entonces, degenerándose en el espectro conocido como la Masa Gogolítica."""					
@@ -583,7 +583,7 @@ ARCHETYPE_CREDITS	The Archetype
 			Logos/superbrothers	Concepto original de la organización de arte y diseño Superbrothers A/V Inc. en superbrothersHQ.com					
 				Canciones y algunos sonidos por el amado compositor y rockero Jim Guthrie en jimguthrie.org					
 			Logos/capy	Ingeniería y milagros por el estudio independiente de videojuegos Capy en capybaragames.com					
-			Logos/eightfour	Localización japonesa, marketing, relaciones públicas y cariño por 8-4, Ltd. TODO EL EQUIPO en 8-4.jp					
+			Logos/eightfour	Localización japonesa, marketing, relaciones públicas y cariño: TODO EL EQUIPO de 8-4, Ltd en 8-4.jp					
 				* * * EL EQUIPO DE S:S&SEP * * *					
 				Concepto, arte, diseño, dirección y escritura por representantes de Superbrothers A/V Inc.					
 				Diseño, liderazgo de proyecto, apoyo incansable y más: Kris Piotrowski, director creativo en Capy.					
@@ -599,7 +599,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Productor ejecutivo, héroe del pueblo, liderazgo y estrategería: Nathan Vella, presidente de Capy.					
 				Productor de PC, asistencia técnica de audio, integración FMOD y muchísimos sonidos: Sean 'Uber' Lohrisch, cofundador de Capy.					
 				Nintendo Switch Produc-tron y asistencia general de negocios: Matt Repetski, cofundador de Capy.					
-				Control de calidad (QA) y mega-héroe de playtesting: Christian 'Sea Dawg' Meyer en Capy.					
+				Control de calidad (QA) y mega-héroe de pruebas de juego: Christian 'Sea Dawg' Meyer en Capy.					
 				Programación principal para versión Nintendo Switch y computadoras domésticas proporcionada por nada menos que Hubert Wong en Capy.					
 				Conceptos de diseño, implementación y brujería de Nintendo Switch preparados por Sadie Lee en Capy.					
 				Diversas tareas de peso, incluyendo apoyo de programación para PC/Mac/Linux y soporte para Nintendo Switch por Drew Grainge en Capy.					
@@ -659,12 +659,12 @@ ARCHETYPE_CREDITS	The Archetype
 				* * * DOCE AÑOS DESPUÉS * * *					
 				S:S&SEP fue desempolvado y actualizado para asegurar que el juego siguiera funcionando en los últimos sistemas operativos.					
 				Superbrothers, un pequeño estudio de arte y videojuegos en su 20º año, opera desde los bosques de Quebec y la costa oeste de Canadá.					
-				Desde S:S&SEP, Superbrothers y Jim Guthrie contribuyeron a Sound Shapes (2012) (Queasy Games) (PS + PC).					
-				Superbrothers entregó JETT: The Far Shore + Given Time (2021) (PS + PC), una saga de ciencia ficción soviética con música de scntfc.					
+				Desde S:S&SEP, Superbrothers y Jim Guthrie contribuyeron a Sound Shapes (2012) (Queasy Games) (PlayStation + PC).					
+				Superbrothers entregó JETT: The Far Shore + Given Time (2021/2023) (PlayStation + PC), una saga de ciencia ficción soviética con música de scntfc.					
 				Al cierre de 2023, un nuevo proyecto de píxeles se gesta en Superbrothers.					
-				Capy Games lanzó el hiperactivo rebobinador de tiempo Super Time Force Ultra (2014) (PS + PC + Xbox).					
-				En 2018, Capy lanzó Below: un roguelike de acción y aventura donde un guerrero explora las entrañas de una isla remota (PS + PC + Xbox).					
-				Capy lanzó el maravilloso Grindstone en 2019 y continúa añadiendo contenido para los jugadores (Apple Arcade + Switch + PC + PS + Xbox).					
+				Capy Games lanzó el hiperactivo rebobinador de tiempo Super Time Force Ultra (2014) (PlayStation + PC + Xbox).					
+				En 2018, Capy lanzó Below: un roguelike donde un guerrero explora las misteriosas entrañas de una isla remota (PlayStation + PC + Xbox).					
+				Capy lanzó el maravilloso Grindstone en 2019 y continúa añadiendo contenido para los jugadores (Apple Arcade + Switch + PlayStation + PC + Xbox).					
 				Mientras tanto, en 2023, el equipo está cocinando un delicioso nuevo juego en su caldero de juegos.					
 				* * * ¿QUÉ ES S:S&SEP? * * *					
 				S:S&SEP pretende ser un valiente experimento en Input Output Cinema, sea lo que sea eso.					
@@ -684,7 +684,7 @@ ARCHETYPE_CREDITS	The Archetype
 				* * * SE ACABÓ * * *					
 				Ahora somos amigos cósmicos para siempre... ¿va?			87	084.jpg	L8A48
 ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			Damas y caballeros, ¿qué tal si tocan a estos dos pequeños espíritus silvanos para calibrar su sistema de sonido estéreo?					
+	The Archetype			Damas y caballeros, ¿qué tal tocar a estos dos pequeños espíritus silvanos para calibrar su sistema de sonido estéreo?					
 	The Archetype			Desde nuestro experimento anterior en 2011, las redes sociales han demostrado ser catastróficas para la sociedad.					
 				En esta ocasión, promovemos el aislamiento y la reflexión con arrepentimiento.					
 				Encontrarás que esta primera sesión de S:S&SEP es bastante sencilla y suele durar entre 15 y 30 minutos.					
