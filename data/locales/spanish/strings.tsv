@@ -9,7 +9,7 @@ END_DEMO	Aquí termina la demo de
 SIDE_A	CARA A	
 SIDE_B	CARA B	
 ROTATE	¿DESENVAINAR?	
-INVENTORY_ROTATE	¿GIRAR?	
+INVENTORY_ROTATE	¿ROTAR?	
 LOOK	MIRA	
 LISTEN	ESCUCHA	
 TOUCH	TIP TAP	
@@ -20,7 +20,7 @@ GUIDE_ARROW_LEFT	< < GUÍA
 GUIDE_ARROW_RIGHT	GUÍA > >	
 OBSERVE	OBSERVA	
 INVESTIGATE	INVESTIGA	
-SHAKE	¿SACUDIR?	
+SHAKE	¿AGITAR?	
 REFLECT	REFLEXIONA	
 BELIEVE	CONFÍA	
 BEWARE	CUIDADO	
@@ -38,7 +38,7 @@ PROMPT_NO	NO
 PROMPT_OK	ACEPTAR	
 PROMPT_CANCEL	CANCELAR	
 PROMPT_SUBMIT	ENVIAR	
-PROMPT_DELETE_SAVE	¿BORRAR DATOS GUARDADOS? ¡PERDERÁS TODO TU PROGRESO!	
+PROMPT_DELETE_SAVE	¿BORRAR LOS DATOS GUARDADOS? ¡PERDERÁS TODO TU PROGRESO!	
 FULLSCREEN	PANTALLA COMPLETA	
 FULLSCREEN_YES	SÍ	
 FULLSCREEN_NO	NO	
@@ -46,9 +46,9 @@ VOLUME	VOLUMEN
 SETTINGS	AJUSTES	
 CLEAR_DATA	BORRAR DATOS	
 KEEP_CHANGES	¿GUARDAR CAMBIOS?	
-KEEP_CHANGES_AUTO	¿GUARDAR CAMBIOS? SE REVERTIRÁ EN	
-GAME_RESTART_REQUIRED	REINICIA EL JUEGO PARA QUE TENGAN EFECTO LOS CAMBIOS	
-TWITTER_BROADCAST	CONSIDERA TRANSMITIR POR TWITTER	
+KEEP_CHANGES_AUTO	¿GUARDAR LOS CAMBIOS? SE REVERTIRÁ EN	
+GAME_RESTART_REQUIRED	REINICIA EL JUEGO PARA QUE LOS CAMBIOS TENGAN EFECTO	
+TWITTER_BROADCAST	CONSIDERA COMPARTIRLO EN TWITTER	
 TWITTER_SETTINGS	TWITTER	
 TWITTER_TWEET	¿TUITEAR?	
 TWITTER_SIGN_IN	INICIAR SESIÓN EN TWITTER	
@@ -56,7 +56,7 @@ TWITTER_USERNAME	USUARIO O CORREO
 TWITTER_PASSWORD	CONTRASEÑA	
 TWITTER_NEVERMIND	ATRÁS	
 TWITTER_TWEETING	TUITEANDO...	
-TWITTER_SIGNING_IN	ACCEDIENDO...	
+TWITTER_SIGNING_IN	INICIANDO SESIÓN...	
 TWITTER_SUCCESS	¡LISTO!	
 TWITTER_FAILED	ERROR	
 TWITTER_WRONG_LOGIN	USUARIO O CONTRASEÑA INCORRECTOS	
@@ -66,7 +66,7 @@ TWITTER_SIGN_OUT_ONLY	CERRAR SESIÓN
 TWITTER_SIGNED_IN	TIENES UNA SESIÓN ACTIVA EN TWITTER	
 TWITTER_SIGNED_OUT	NO TIENES UNA SESIÓN ACTIVA EN TWITTER	
 TWITTER_FILL_OUT	COMPLETA TODOS LOS CAMPOS	
-EPITAPH	NO QUEDA NINGÚN SECRETO EN LOS MARJALES DE LOS MEOTAS.	
+EPITAPH	NO QUEDA NINGÚN SECRETO EN LOS MARJALÉS DE LOS MEOTAS.	
 FIGHT	¿LUCHAR?	
 DARKMOON_COUNT_9	LUNA SOMBRÍA EN 9 DÍAS	
 DARKMOON	LUNA SOMBRÍA	
@@ -79,15 +79,15 @@ BRIGHTMOON_AFTER_1	DÍA
 BRIGHTMOON_AFTER_MORE	DÍAS	
 TIME_PARADOX	* PARADOJA TEMPORAL *	
 ERRAND_END	TU FUNESTO COMETIDO HA CONCLUIDO.	
-BEWARE_BOOR	CUIDADO CON EL CANOSO TOSCO	
-MOVE_CONTROLS	PULSA & MANTÉN PARA MOVER	
+BEWARE_BOOR	TEN CUIDADO CON EL CANOSO TOSCO	
+MOVE_CONTROLS	PULSA & MANTÉN PARA MOVERSE	
 STOP_CONTROLS	¿TIP TAP PARA PARAR?	
 STOP_CONTROLS_ARROW	< < ¿TIP TAP PARA PARAR?	
 SLAY	¿ANIQUILAR?	
-ZOOM_CONTROLS	< < <  ¿ACERCAR? > > >	
-LOOK_CONTROLS	PULSA, MANTÉN & DESLIZA EL AURA DE ESPADANCIA	
+ZOOM_CONTROLS	< < < ¿ACERCAR? > > >	
+LOOK_CONTROLS	PULSA & DESLIZA EL AURA DE ESPADANCIA	
 LOOK_CONTROLS_2	PULSA & DESLIZA PARA MIRAR ALREDEDOR	
-TONGUE_TEXT	"Inclina, desenvaina y alza tu espada escita hacia el arcoíris por unos segundos y ten fe."	
+TONGUE_TEXT	"Inclina, desenvaina y levanta tu espada escita hacia el arcoíris unos segundos y ten fe."	
 TOUCH_HOLD	PULSA & MANTÉN	
 TOUCH_HOLD_ARROW_LEFT	< < PULSA & MANTÉN	
 TOUCH_HOLD_ARROW_RIGHT	PULSA & MANTÉN > >	
@@ -116,8 +116,8 @@ RESET	REINICIAR
 PROMPT_CONFIRM_QUIT	¿SALIR AL MENÚ PRINCIPAL?	
 APPLY	APLICAR	
 BACK	VOLVER	
-ERRMSG_UNABLE_TO_SAVE	No se puede guardar el archivo	
-ERRMSG_UNABLE_TO_DELETE	No se puede borrar el archivo	
+ERRMSG_UNABLE_TO_SAVE	No se pudo guardar el archivo	
+ERRMSG_UNABLE_TO_DELETE	No se pudo borrar el archivo	
 ERRMSG_UNABLE_TO_DELETE_STEAM	Un error impidió borrar el archivo de guardado de Steam.	
 ERRMSG_UNABLE_TO_SAVE_STEAM	Un error impidió crear un archivo de guardado de Steam.	
 ERRMSG_CORRUPT_SAVE_PROGRESS	Los datos guardados están corruptos y no se pueden leer. Se borrará todo el progreso al pulsar Aceptar.	
@@ -127,8 +127,8 @@ DIGIT_STRING	0123456789
 HOLD_SHIELD_TO_HEAL	MANTÉN PARA CURARTE	
 PRESS_START	PULSA <switch_button_l> + <switch_button_r>	
 VIBRATION	VIBRACIÓN	
-MOTION_CURSOR_SENSITIVITY	SENSIBILIDAD DE MOVIMIENTO	
-STICK_CURSOR_SENSITIVITY	SENSIBILIDAD DE ANALÓGICO	
+MOTION_CURSOR_SENSITIVITY	SENSIBILIDAD DEL CURSOR DE MOVIMIENTO	
+STICK_CURSOR_SENSITIVITY	SENSIBILIDAD DEL ANALÓGICO	
 CONTROLS	CONTROLES	
 SETTINGS	AJUSTES	
 OPTIONS	OPCIONES	
@@ -149,7 +149,7 @@ CNTRL_TOGGLESWORD	<switch_button_b> ALTERNAR ESPADA/DEFENSA
 CNTRL_TOUCH	TOCAR	
 CNTRL_TAP	<switch_button_r> TOCAR	
 CNTRL_TIPTAP	<switch_button_zr> TIP TAP	
-CNTRL_PINCHZOOM	PELLIZCA: ZOOM	
+CNTRL_PINCHZOOM	PELLIZCA PARA HACER ZOOM	
 CNTRL_RECENTER_CURSOR	<switch_button_faceup> CENTRAR CURSOR	
 CNTRL_POINT_TO_MOVE_CURSOR	APUNTA PARA MOVER EL CURSOR	
 CNTRL_ATTACK_JOY	<switch_button_faceright> / <switch_button_l> / <switch_button_r> TOCAR/ESPADA	
@@ -166,18 +166,18 @@ ITALIAN_SPECIAL	À È É Ì Ò Ó Ù º ª « » ‹ › € ª
 GERMAN_SPECIAL	Ä ä Ö ö Ü ü ẞ ß	
 SPANISH_SPECIAL	Á É Í Ó Ú Ñ Ü ¿ ¡ º ª « » ‹ › €	
 TOUCHTRONIC_NINSWITCH	TOUCHTRONIC	
-POINTCLICK_NINSWITCH	APUNTAR & HACER CLIC	
+POINTCLICK_NINSWITCH	APUNTAR Y HACER CLIC	
 FAMICOM_NINSWITCH	FAMICOM	
 	Sensibilidad de analógico	
 SOUTHPAW_NINSWITCH	MANO IZQUIERDA	
 NORTHPAW_NINSWITCH	MANO DERECHA	
 JOYCON_STRAP_MSG_NINSWITCH	Al usar los controles Joy-Con desacoplados, sigue las instrucciones, ponte las correas y sujétalos firmemente.	
-PHOTOSENSITIVIY_MSG_NINSWITCH	Existe la posibilidad de que un porcentaje pequeño de personas sufra ataques epilépticos ante la exposición a imágenes determinadas, entre las que se incluyen patrones lumínicos o luces parpadeantes. La exposición a patrones definidos o fondos en una pantalla de computadora o durante un videojuego puede provocar un ataque de epilepsia a dichas personas. Algunas condiciones pueden instigar síntomas epilépticos no detectados incluso en personas que no tienen antecedentes de convulsiones ni epilepsia.	
-PHOTOSENSITIVIY_MSG_NINSWITCH2	Si tú o alguien de tu familia sufren de epilepsia, consulta a un médico antes de jugar. Deja de usar el juego de inmediato y consulta a un médico antes de retomarlo si presentas alguno de los síntomas siguientes mientras juegas: mareos, problemas en la vista, contracciones oculares o musculares, pérdida de conocimiento, desorientación, cualquier movimiento involuntario o convulsiones.	
+PHOTOSENSITIVIY_MSG_NINSWITCH	Existe la posibilidad de que un pequeño porcentaje de personas sufra ataques epilépticos ante la exposición a imágenes determinadas, incluidas las que presentan patrones luminosos o destellos. La exposición a ciertos patrones o fondos en una pantalla, o mientras se juega, puede desencadenar convulsiones epilépticas. Algunas condiciones pueden provocar síntomas epilépticos no detectados previamente en personas que nunca han tenido convulsiones ni epilepsia.	
+PHOTOSENSITIVIY_MSG_NINSWITCH2	Si tú o alguien de tu familia sufre epilepsia, consulta a un médico antes de jugar. Deja de usar el juego de inmediato y consulta a un médico antes de retomarlo si aparece alguno de los síntomas siguientes: mareos, problemas de visión, contracciones oculares o musculares, pérdida de conciencia, desorientación, movimientos involuntarios o convulsiones.	
 POINTCLICK_CURSORSENS_NINSWITCH	SENSIBILIDAD DEL PUNTERO	
 FAM_CURSOR_NOT_USED	Sensibilidad del puntero FAMICOM	
-POINTCLICK_PROMPT_NINSWITCH	El modo Apuntar & hacer clic permite jugar con un solo Joy-Con como puntero. Se disfruta más cuando juegas en un televisor. ¿Seguro que quieres activar el modo Apuntar & hacer clic?	
-POINTCLICK_PROMPT_ALT_NINSWITCH	El modo Apuntar & hacer clic permite jugar con un solo Joy-Con como puntero y se disfruta más cuando juegas en un televisor. ¿Seguro que quieres activar los controles de Apuntar & hacer clic?	
+POINTCLICK_PROMPT_NINSWITCH	El modo Apuntar y hacer clic permite jugar con un solo Joy-Con como puntero. Se disfruta mejor cuando juegas en un televisor. ¿Seguro que quieres activar el modo Apuntar y hacer clic?		
+POINTCLICK_PROMPT_ALT_NINSWITCH	El modo Apuntar y hacer clic permite jugar con un solo Joy-Con como puntero y se disfruta mejor cuando juegas en un televisor. ¿Seguro que quieres activar los controles de Apuntar y hacer clic?	
 SWAP_STICKS_NINSWITCH	INVERTIR ANALÓGICOS	
 PLAY_MENU_NINSWITCH	JUGAR	
 CREDITS_MENU_NINSWITCH	CRÉDITOS	
@@ -188,7 +188,7 @@ CNTRL_MOVE_CURSOR_ALT	<switch_button_rightanalogstick> MOVER CURSOR
 SITCK_SENSITIVITY_NINSWITCH	SENSIBILIDAD DEL ANALÓGICO	
 MOTION_SENSITIVITY_NINSWITCH	SENSIBILIDAD DE MOVIMIENTO	
 POINTER_SENSITIVITY_NINSWITCH	SENSIBILIDAD DEL PUNTERO	
-ENABLE_POINTCLICK_NINSWITCH	¿ACTIVAR APUNTAR & HACER CLIC?	
+ENABLE_POINTCLICK_NINSWITCH	¿ACTIVAR APUNTAR Y HACER CLIC?	
 ENABLE_GAMEPAD_NINSWITCH	¿ACTIVAR MODO CONTROL?	
 ENABLE_FAMICOM_NINSWITCH	¿ACTIVAR CONTROLES DE FAMICOM?	
 ENABLE_TOUCHTRONIC_NINSWITCH	¿ACTIVAR CONTROLES TOUCHTRONIC?	
@@ -199,10 +199,10 @@ PRESS_A_NINSWITCH	PULSA <switch_button_a> CUANDO QUIERAS COMENZAR
 SELECT_NINSWITCH	SELECCIONAR	
 CHOOSE_NINSWITCH	ELEGIR	
 FAMICOM_CONTROLS_BLURB_NINSWITCH	SE RECOMIENDA JUGAR CON UN CONTROL O EN MODO PORTÁTIL.	
-AUTOSAVE_MSG	ESTE JUEGO USA GUARDADO AUTOMÁTICO. CUANDO ESTE ÍCONO < SAVING_RECORD> APAREZCA EN PANTALLA, NO APAGUES LA CONSOLA.	
+AUTOSAVE_MSG	ESTE JUEGO USA GUARDADO AUTOMÁTICO. CUANDO ESTE ICONO < SAVING_RECORD> APAREZCA EN PANTALLA, NO APAGUES LA CONSOLA.	
 PRESS_LR_JOYCON_NINSWITCH	PULSA <switch_button_sl> + <switch_button_sr> EN EL JOY-CON	
 REMOVE_PRESS_LR_JOYCON_NINSWITCH	DESACOPLA EL JOY-CON Y PULSA L + R	
-THUMBSTICK_SENS_NINSWITCH	SENSIBILIDAD DE ANALÓGICO	
+THUMBSTICK_SENS_NINSWITCH	SENSIBILIDAD DEL ANALÓGICO	
 UNSHEATHE_DEFEND_NINSWITCH	DESENVAINAR/DEFENDER	
 UNSHEATHE_USE_SHIELD_NINSWITCH	DESENVAINAR/USAR ESCUDO	
 CNTRLINFO_CANCEL_NINSWITCH	<switch_button_b> CANCELAR	
@@ -219,7 +219,7 @@ LOOK_AROUND_NINSWITCH	¿OBSERVAR?
 NOTHING_NOPE	Soporte de QA para Nintendo Switch cortesía de Testronic Labs.	
 NOTHING_NOPE2	"Soporte adicional de localización japonesa proporcionado por Yutaka Ohbuchi, John Ricciardi y Masanobu Suto."	
 OMDC_CHANGE	Este proyecto fue posible gracias al apoyo financiero de Ontario Creates.	
-CNTRL_PINCH_Y_ZOOM	PELLIZCA / <switch_button_y> ZOOM	
+CNTRL_PINCH_Y_ZOOM	PELLIZCA / <switch_button_y> HACER ZOOM	
 LBL_MOVEPLAYER	MOVER PERSONAJE <switch_button_rightanalogstick>	
 LBL_MOVECURSOR	MOVER CURSOR <switch_button_leftanalogstick>	
 LBL_MOVEPLAYER_ALT	MOVER PERSONAJE <switch_button_leftanalogstick>	

@@ -131,13 +131,13 @@ INFO_GOGOLITHICMASS	The Scythian			Notamos uma caveira galhada a flutuar nas tre
 INFO_MEGATOMBTRIFECTA	The Scythian			Nas trevas sob Mingi Taw, distinguimos uma representação da Tríade Trigônica.					
 INFO_ROCKSHOWGIRL	The Scythian			No show de rock, encontramos Samae e nos pareceu que ela sussurrou algo como 'Fogo, caminha comigo'.					
 INFO_ROCKSHOWSKOLOTOI	The Scythian			Notamos um daqueles esqueletos vibrando ao sinistro ritmo do show de rock.					
-INFO_ROCKSHOWJIM	The Scythian			Encabeçando o show de rock, vimos o misterioso músico conhecido como Jim Guthrie.			160	020.jpg	T2G03
+INFO_ROCKSHOWJIM	The Scythian			O misterioso músico Jim Guthrie encabeçava o show de rock.			160	020.jpg	T2G03
 INFO_ROCKSHOWBOOR	The Scythian			Avistamos o Patife Grisalho exibindo seu estilo nudista no show.			121	021.jpg	E2G15
 INFO_ROCKSHOWCROWD	The Scythian			Havia uma multidão considerável de senhoras e senhores no show de rock.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			Distinguimos o personagem conhecido como o Arquétipo no show de rock e nos perguntamos o que ele estava tramando com tudo isso.					
 INFO_TRIGONGROVESKULLSTICK	The Scythian			Um sinistro poste decorado com uma caveira galhada conecta este lugar ao espectro imortal que espreita sob Mingi Taw.					
 GRAVE_TRIGONGROVE	The Scythian			Na Clareira Trigônica, além da caverna cavernosa na campina, uma tumba solitária despertou nossa curiosidade.					
-GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigônica, além da caverna cavernosa na campina, nos aproximamos de uma tumba solitária e conhecemos um fantasma resplandecente.					
+GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigônica, além da caverna cavernosa na campina, nos aproximamos de uma tumba solitária e nos deparamos com um fantasma resplandecente.					
 				A bem da verdade, o fantasma resplandecente da Clareira Trigônica nos assustou bastante no início.			96	022.jpg	T2B2H
 			adventureUI/megatomeItem	Ao ver nossa vestimenta cítia e o Megatomo, perguntou se entendíamos seus enigmáticos símbolos.					
 				Num sussurro, ele pronunciou o nome do espectro imortal que havíamos despertado nas trevas sob Mingi Taw: a Massa Gogolítica.			166	023.jpg	O2B39
@@ -151,7 +151,7 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigônica, além da caverna c
 				"""Localizar os Trígonos restantes não é uma questão de onde, mas de quando e como."""					
 				Sem dúvida, o fantasma resplandecente falou um monte de baboseiras inúteis.					
 GRAVE_LOGBRIDGE	The Scythian			Em um matagal perto do antigo caminho, umas tumbas despertaram nossa curiosidade.					
-GRAVE_LOGBRIDGEGHOST	The Scythian			Em um matagal perto do antigo caminho, nos aproximamos de umas tumbas e conhecemos alguns fantasmas que pareciam amigáveis.			116	025.jpg	62B55
+GRAVE_LOGBRIDGEGHOST	The Scythian			Em um matagal perto do antigo caminho, nos aproximamos de umas tumbas e encontramos alguns fantasmas que pareciam amigáveis.			116	025.jpg	62B55
 				O fantasma resplandecente que falou era um gigante que conhecíamos das velhas histórias, cujo famoso retrato exigia obediência. #andre					
 			Archetype/trifecta	"""No ano passado, antes das festas de Yule, juntei a galera e partimos para remontar a Tríade Trigônica."""					
 				"""Tínhamos ouvido falar da entrada para o Remoinhado Infinito no topo de Mingi Taw e achamos que seria algo legal de se ver."""					
@@ -166,7 +166,7 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Em um matagal perto do antigo caminho, nos a
 				"""Rolou uma briga e o trapaceiro fugiu pelo antigo caminho em direção ao Precipício Perigoso."""					
 				"""Aí ficamos lá, de bobeira, pensando no que fazer... quando, de repente, a Massa Gogolítica apareceu... Credo!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			À beira do Precipício Perigoso, uma tumba solitária despertou nossa curiosidade.					
-GRAVE_CHASMGHOST	The Scythian			À beira do Precipício Perigoso, nos aproximamos da tumba solitária do trapaceiro inveterado e conhecemos um velho fantasma resplandecente.					
+GRAVE_CHASMGHOST	The Scythian			À beira do Precipício Perigoso, nos aproximamos da tumba solitária do trapaceiro inveterado e encontramos um velho fantasma resplandecente.					
 			Archetype/trifecta	"""No ano passado, antes das festas de Yule, André, 'O Gigante', juntou a galera e partimos para remontar a Tríade Trigônica."""					
 				"""Os outros membros da galera foram enterrados em um matagal perto do antigo caminho, junto à ponte de toras."""					
 			triangle/Triangle	"""Localizamos e domamos o Trígono Dourado com bastante facilidade, mas depois disso ficamos completamente parados."""					
@@ -256,14 +256,14 @@ ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... é interessante
 ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			Para domar o Trígono Dourado, você deve sobreviver aos três movimentos de sua bizarra canção, usando uma mistura de ataque e defesa.					
 				É absolutamente fundamental que você segure o botão do escudo sempre que puder para recuperar sua força perdida.					
 				Vejo que você já invocou e tentou domar o Trígono Dourado. Tenho algumas coisas para te contar que acredito que serão úteis.					
-ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Rebata os projéteis psiônicos do Trígono com sua espada e espere a oportunidade para esquivar de seus ataques de raio.			83	040.jpg	34E01
+ARCHETYPE_GOLDTRIGONHINTTWO	The Archetype			Rebata os projéteis psiônicos do Trígono com a espada e espere a oportunidade para esquivar de seus ataques de raio.			83	040.jpg	34E01
 				A inescrutável lógica do Trígono Dourado ceifou as almas de todos que vieram antes... todos eles não tinham tenacidade e coragem.					
 ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			O Trígono Dourado deve ser domado. Não há outra saída.					
-				No terceiro padrão, rebata os pequenos projéteis triangulares com sua espada e esquive dos ataques de raio.					
+				No terceiro padrão, rebata os pequenos projéteis triangulares com a espada e esquive dos ataques de raio.					
 				No segundo padrão, espere pelo ataque de raio e pressione o botão do escudo no momento adequado para esquivar.					
-				No primeiro padrão, branda sua espada para devolver a bola de energia.					
+				No primeiro padrão, branda a espada para devolver a bola de energia.					
 ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Talvez tenha notado que o Trígono da Lua Radiante fulmina lá do alto... espere o momento certo e pressione o escudo para esquivar.			144	041.jpg	84E11
-ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Radiante exigirá que você rebata os projéteis com sua espada e esquive dos ataques de raio carregado.					
+ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Radiante exigirá que você rebata os projéteis com a espada e esquive dos ataques de raio carregado.					
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Você pode já ter encontrado o odioso ataque de arco-íris do Trígono da Lua Sombria. Fatie aquele arco-íris sem dó.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Sombria envolve projéteis triangulares, sutis e furtivos. Destrua-os e você sobreviverá.					
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então você despertou o espectro imortal que dormitava nas trevas sob Mingi Taw... Caramba!					
@@ -331,8 +331,8 @@ LOGFELLA_TRIFECTATIPS	The Scythian			Troncadeiro sentia uma aflição imensa pel
 				Olhou para a plataforma próxima e nos agradeceu antecipadamente por toda essa história de martírio.					
 URSULA_AVATAR			Ursula/idleSEhandsonhip						
 DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
-AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Esses dois malucos afirmavam ser parte dos criadores deste mundo estranho.			159	055.jpg	A5G55
-AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Esses dois excêntricos afirmavam ser parte dos criadores deste mundo estranho.			159	055.jpg	A5G55
+AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Esses dois malucos afirmavam ser dois dos criadores deste mundo estranho.			159	055.jpg	A5G55
+AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Esses dois excêntricos afirmavam ser dois dos criadores deste mundo estranho.			159	055.jpg	A5G55
 GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito silvano na fértil terra de uma campina onde pastavam quatro pares de ovelhas inúteis.			52	056.jpg	15B63
 GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Entoamos a Canção da Espadância e despertamos um espírito silvano das frescas águas de uma insondável lagoa, que estranho!			50	057.jpg	G5F78
 GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito silvano em um curioso ninho, cercado por três encharcados pássaros cantores.					
@@ -342,13 +342,13 @@ GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a 
 GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito silvano entre a mata no alto de um rochedo.					
 GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano em uma clareira isolada onde Jim Guthrie estava por acaso.			132	058.jpg	G5F8U
 GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano nas tranquilas águas de um lago onde uma mamãe pata agitava-se em pânico.					
-GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano onde o reflexo do lago era quase imperceptivelmente incongruente.			127	059.jpg	65D98
+GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano onde o reflexo do lago se mostrava quase imperceptivelmente incongruente.			127	059.jpg	65D98
 GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano em um aprazível lago sob um terceto de corujas.					
 GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tivemos a estranha sensação de que, talvez, só talvez, fosse a época dos milagres. #milagres					
 GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito silvano cercado por três pequenas cachoeiras.					
 GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito silvano cercado por quatro pequenas e redondas árvores nas florestas mais escuras.					
 GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito silvano entre a mata do outro lado do lago.					
-GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano espreitando na raiz de uma titânica árvore.					
+GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano que espreitava entre as raízes de uma titânica árvore.					
 GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tivemos essa estranha sensação de que talvez fosse a época dos milagres. Cadê nossos milagres? #milagres			77	060.jpg	86D06
 GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Au Au Au Au Au Au. #latindo			135	061.jpg	M6F1I
 				Au Au Au. #solatindo					
@@ -395,7 +395,7 @@ BLUETRIGON_COLLECTED	The Scythian			Conquistamos o Trígono da Lua Sombria. Cont
 GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece que todos os espíritos da Lua Sombria foram enviados ao céu, então é novamente a época dos milagres. Eu amo milagres!					
 JIM_HINT1_OFF	The Scythian			Em uma clareira isolada, encontramos um misterioso músico ao lado de uma fogueira crepitante.					
 JIM_PINKDAWN	The Scythian			Em uma clareira isolada, encontramos um misterioso músico ao lado de uma fogueira crepitante. #jimguthrie					
-JIM_BRIGHTMOON	The Scythian			Enquanto a Lua Radiante paira, junto a uma fogueira crepitante conhecemos um misterioso músico que se apresentou como Jim Guthrie.			128	070.jpg	07G00
+JIM_BRIGHTMOON	The Scythian			Enquanto a Lua Radiante paira, junto a uma fogueira crepitante encontramos um misterioso músico que se apresentou como Jim Guthrie.			128	070.jpg	07G00
 JIM_POSTSWORCERY	The Scythian			O misterioso músico conhecido como Jim Guthrie testemunhou nossa espadância e pareceu tranquilo com isso.					
 JIM_POSTGOURD	The Scythian			O misterioso músico conhecido como Jim Guthrie disse que estava pronto para tocar uma pequena canção se quiséssemos ouvi-la.					
 				Jim nos convidou para nos sentarmos ao lado do fogo.					
@@ -409,7 +409,7 @@ ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Atravessar o limiar da liminaridade em
 				Quando há lucidez em um sonho, você percebe quem imaginou ser... mas, se você se identificar com o sonho, cairá no feitiço.					
 				Mesmo em um sonho conhecido, há novos lugares para explorar e novas conexões para considerar... se você continuar acreditando.					
 GIRL_MOONGROTTOCOMMENT	Girl			Sinto como se o cosmos tivesse pulado uma batida e agora tudo estivesse um pouquinho... descompassado.					
-LOGFELLA_MOONGROTTOCOMMENT	Logfella			Do 0 ao 1 há um longo caminho, e se um alien dissesse 'olá', seria em código críptico no estéreo. Pera... o quê?					
+LOGFELLA_MOONGROTTOCOMMENT	Logfella			Do 0 ao 1 há um longo caminho, e se um alien nos dissesse 'olá', seria em código críptico no estéreo. Pera... o quê?					
 GIRL_HUGETREETHOUGHTS	Girl			Claro, nunca falo pra ninguém desses sonhos com deusas e árvores, porque com certeza me chamariam de hippie ou coisa assim.					
 				Em meu lugar especial, visito uma titânica árvore oca... ela é uma deusa, morta há muito tempo, anterior à humanidade por incontáveis eras.					
 				Ao caminhar em sonhos, há um lugar especial para onde sempre vou, um Parlamento de Árvores no coração do mundo.					
@@ -452,7 +452,7 @@ GIRL_AFTERYELLOWBEAM	The Scythian			Samae sentou-se em uma rocha perto do local 
 LOGFELLA_AFTERYELLOWBEAM	The Scythian			Troncadeiro havia voltado a cortar lenha, e era evidente que estava totalmente absorto na tarefa.					
 			triangle/Triangle	Ele vira o facho celestial que se erguia na floresta atrás da campina, então perguntamos sobre os segredos da Clareira Trigônica.					
 				Ele nos contou uma história que seu povo narrava às crianças para lhes provocar arrepio.					
-			Archetype/trifecta	Troncadeiro falou de uma comitiva de cítios que, há muitas luas, chegou a estas montanhas esquecidas em busca da Tríade Trigônica.					
+			Archetype/trifecta	Troncadeiro nos falou de um grupo de cítios que, há muitas luas, chegaram a estas montanhas esquecidas em busca da Tríade Trigônica.					
 			gourd/gourd	"""A comitiva aprendeu a buscar os espíritos silvanos e enviá-los ao céu... e depois procurou um lugar para obrar um milagre."""					
 			Archetype/trifecta	"""Esperavam ativar os três fachos celestiais na Clareira Trigônica, mas não sabiam onde nem quando encontrariam os Trígonos."""					
 				"""Vagaram sem rumo por muito tempo pelo antigo caminho para Mingi Taw... até que, exaustos, pararam."""					
@@ -465,7 +465,7 @@ MIRACLE2_PINKTRIGONCOLLECTED	The Scythian			Conseguimos o Trígono da Lua Radian
 MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			Sentimos a tentação de largar toda essa história de funesta missão, mas havia algo muito atraente no martírio.					
 				Bem, provavelmente não importará muito no fim. Afinal, entrar no Remoinhado Infinito não exige um exame físico.					
 				Era evidente que tantas caminhadas oníricas e tanta doma de Trígonos estava começando a cobrar seu preço.					
-				Ao amainar a luz e o som, nos encontramos na margem de um lago com uma dor de cabeça terrível e o nariz sangrando.					
+				Quando amainaram a luz e o som, aparecemos na margem de um lago com uma dor de cabeça terrível e o nariz sangrando.					
 GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Falamos com Samae sobre nosso encontro onírico com o Trígono da Lua Radiante e de nossas intenções de reconstruir a Tríade Trigônica.					
 				Disse que nosso encontro parecia incrível e que queria muito ter estado lá. #mentiras					
 				Nos questionou se tínhamos passado pela Clareira Trigônica... Talvez pudéssemos ativar outro facho celestial?					
@@ -475,9 +475,9 @@ LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			O lenhador podia ver que nossa
 ARCHETYPE_BRIGHTMOONTRIGONCOLLECTED	The Archetype			Nossa pesquisa mostra uma alta correlação entre o progresso de um participante em S:S&SEP e sua aptidão para o extraordinário.			45	074.jpg	87A43
 				Vejo que você conseguiu localizar e recuperar o Trígono da Lua Radiante. É uma notícia realmente extraordinária.					
 MIRACLE3_HUGETREE	The Scythian			Enquanto a Lua Sombria reina, obramos um milagre de relâmpago estilhaçante em meio a um Parlamento de Árvores.					
-MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			Além disso... ficar carregando o Megatomo pra cima e pra baixo é um saco, é um livro realmente pesado em mais de um sentido.					
+MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			Além disso... carregar o Megatomo pra cima e pra baixo é um saco, é um livro realmente pesado em mais de um sentido.					
 				Nos sentíamos meio detonados... provavelmente tinha algo a ver com todos aqueles raios laser cósmicos.					
-				Ao amainar a luz e o som, nos encontramos encharcados pela chuva fria no meio de um Parlamento de Árvores.					
+				Quando amainaram a luz e o som, aparecemos encharcados pela chuva fria no meio de um Parlamento de Árvores.					
 GIRL_DARKMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Falamos com Samae sobre nosso encontro onírico com o Trígono da Lua Sombria e de nossas intenções de reconstruir a Tríade Trigônica.					
 				Contamos como neutralizamos o odioso ataque de arco-íris do Trígono da Lua Sombria e ela mandou um 'que incrível'.					
 				Não pareceu se importar em ouvir nossas histórias extravagantes.					
@@ -522,7 +522,7 @@ GIRL_DARKMOON	The Scythian			Samae falou sobre caminhadas oníricas pela florest
 				Sabíamos exatamente a qual titânica árvore oca ela se referia.					
 ARCHETYPE_DARKMOON	The Archetype			Tenha cuidado. A Lua Sombria reina.			94	076.jpg	I7F69
 LOGFELLA_CRESCENTWAX	The Scythian			O lenhador falou sobre caminhadas oníricas pela floresta pouco antes do amanhecer, sob a luz de uma lua crescente.					
-				Ele falou sobre uma criatura que encontrou, algo ou alguém estranho e nu. Era um urso? Um homem? Ou... O Patife Grisalho?			57	077.jpg	I7G7U
+				Ele falou sobre uma criatura com a qual havia se deparado, algo ou alguém estranho e nu. Era um urso? Um homem? Ou... O Patife Grisalho?			57	077.jpg	I7G7U
 GIRL_CRESCENTWAX	The Scythian			Samae estava animada. Hoje começava um novo mês lunar! Longos dias sentada em rochas a esperavam.					
 ARCHETYPE_CRESCENTWAX	The Archetype			Um fino filete de lua crescente apareceu, marcando o início de um novo ciclo lunar de vinte e oito dias.			118	045.jpg	Y4E5Q
 LOGFELLA_HALFWAX	The Scythian			O lenhador admitiu que sim, de fato, tinha cortado uma boa quantidade de lenha em sua vida.					
@@ -569,15 +569,15 @@ DARKMOON_GIRLTHOUGHTS	Girl			Ao caminhar em sonhos, encontrei um Parlamento de �
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Ontem à noite, ouvi o som de uma música vibrante que se filtrava pelos bosques atrás de minha cabana. Que raios é isso?					
 DARKMOON_DOGFELLATHOUGHTS	Dogfella			Au Au Au. Em meu estado de sonho, só vislumbrei as sutis e sussurrantes espumas dos espíritos silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Reconstruímos a Tríade Trigônica & agora somos heróis.			164	081.jpg	48G1Q
-RABBITS_3MURDERS	The Scythian			Assassinamos inexplicavelmente 3 coelhos indefesos.					
-RABBITS_7MURDERS	The Scythian			Assassinamos inexplicavelmente 7 coelhos indefesos. Será isso evidência de uma mente transtornada?					
-RABBITS_13MURDERS	The Scythian			Assassinamos inexplicavelmente 13 coelhos indefesos.					
-RABBITS_17MURDERS	The Scythian			Assassinamos inexplicavelmente 17 coelhos indefesos. Somos imparáveis.					
-RABBITS_23MURDERS	The Scythian			Assassinamos inexplicavelmente 23 coelhos indefesos.					
-RABBITS_37MURDERS	The Scythian			Assassinamos inexplicavelmente 37 coelhos indefesos. Temos curiosidade de ver o que acontecerá se continuarmos essa matança.					
-RABBITS_53MURDERS	The Scythian			Assassinamos inexplicavelmente 53 coelhos indefesos. Claramente padecemos de um transtorno obsessivo-compulsivo.					
-RABBITS_91MURDERS	The Scythian			Assassinamos inexplicavelmente 91 coelhos indefesos.					
-RABBITS_107MURDERS	The Scythian			Assassinamos inexplicavelmente 107 coelhos indefesos. Talvez nossa compulsão assassina diminua se pararmos de contar?					
+RABBITS_3MURDERS	The Scythian			Inexplicavelmente, assassinamos 3 coelhos indefesos.					
+RABBITS_7MURDERS	The Scythian			Inexplicavelmente, assassinamos 7 coelhos indefesos. Será isso evidência de uma mente transtornada?					
+RABBITS_13MURDERS	The Scythian			Inexplicavelmente, assassinamos 13 coelhos indefesos.					
+RABBITS_17MURDERS	The Scythian			Inexplicavelmente, assassinamos 17 coelhos indefesos. Somos imparáveis.					
+RABBITS_23MURDERS	The Scythian			Inexplicavelmente, assassinamos 23 coelhos indefesos.					
+RABBITS_37MURDERS	The Scythian			Inexplicavelmente, assassinamos 37 coelhos indefesos. Temos curiosidade de ver o que acontecerá se continuarmos essa matança.					
+RABBITS_53MURDERS	The Scythian			Inexplicavelmente, assassinamos 53 coelhos indefesos. Claramente padecemos de um transtorno obsessivo-compulsivo.					
+RABBITS_91MURDERS	The Scythian			Inexplicavelmente, assassinamos 91 coelhos indefesos.					
+RABBITS_107MURDERS	The Scythian			Inexplicavelmente, assassinamos 107 coelhos indefesos. Talvez nossa compulsão assassina diminua se pararmos de contar?					
 ARCHETYPE_CREDITS	The Archetype								
 				S:S&SEP é um projeto colaborativo de videogame criado em Toronto de 2009 a 2011, na internet em swordandsworcery.com					
 			Logos/superbrothers	Conceito original da organização de arte e design Superbrothers A/V Inc. em superbrothersHQ.com					
