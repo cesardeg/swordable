@@ -2,7 +2,7 @@ id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
 GIRL_TONGUES	Girl			Lejos de las estepas asoladas por la guerra de Escitia, hallamos a una chica de cabello oscuro en un prado iluminado por el sol. #holamundo			72	001.jpg	Z0E1Q
 				Los montañeses del Cáucaso la llamaban Samae y parecía simpática. #obvio					
 SIGN_TADPOL	The Scythian			"""Donde el fuego alumbra, el hogar se vislumbra."" #threegutrecordsx100pre"					
-SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria & Persia, todos son reinos de los hombres. Mingi Taw es el Reino de la Nube."""					
+SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia, todos son reinos de los hombres. Mingi Taw es el Reino de la Nube."""					
 SIGN_CHASM	The Scythian			Al borde del Precipicio Peligroso se erguía una piedra tallada con el glifo de una espada alzada al cielo, bajo los colores del arcoíris.					
 				Los escitas aborrecemos los arcoíris. #odiososarcoiris			21	002.jpg	40C27
 SIGN_BIRDTREE	The Scythian			Por un sendero lateral hallamos una piedra tallada con una serie de glifos indescifrables.					
@@ -38,7 +38,7 @@ LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Tronquero
 				Parecía saberlo todo acerca del odioso arcoíris y el glifo cercano que representaba una espada alzada al cielo.					
 				Y aun así, no nos dio ninguna pista sobre qué hacer a continuación, lo cual nos fastidió un poco, la verdad.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador había visto alguna criatura monstruosa y decidió dejar que nos encargáramos de ello.			26	010.jpg	Q1B00
-LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos el Megatomo y Tronquero estaba 100% listo para mover, mover el bote hasta su refugio.					
+LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos el Megatomo y Tronquero estaba 100% listo para mover el bote hasta su refugio.					
 				A pesar de la tormenta que se avecinaba, una pequeña canción brotó en nuestro corazón.					
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		A la luz de la inminente tormenta, Tronquero admitió que tenía los pelos de punta.					
 				¿Intentaba asustarnos a propósito? #si #no #quizas					
@@ -59,7 +59,7 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&SEP no produce la experiencia trascende
 				Hemos descubierto que un individuo relajado y curioso es más propenso a tener una experiencia agradable con S:S&SEP.					
 				La 'Disposición' alude al estado mental y a la personalidad que aportas: tus pensamientos, tu ánimo y tus expectativas.					
 				Hablemos de la disposición y el entorno para una experiencia positiva con esta obra altamente psicoactiva Superbrothers: Sword & Sworcery EP.					
-				La conciencia expandida, el potencial inexplorado e ilimitado de la mente, es lo que en Superbrothers llamamos 'sworcery' (espadancia). #espadancia					
+				La conciencia expandida, el potencial ilimitado de la mente, es lo que en Superbrothers llamamos 'sworcery' (o espadancia). #espadancia					
 				La espadancia puede entenderse como una técnica psiónica que permite percibir una realidad dentro de la que ya conoces.					
 				Para detener la Canción de Espadancia, toca dos veces el aura que rodea a La Escita.					
 				Una vez entonada, mantén pulsada el aura de espadancia y desliza para mirar a tu alrededor.					
@@ -67,7 +67,7 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&SEP no produce la experiencia trascende
 				Como ves, el Megatomo recopila transmisiones de pensamiento lingüístico. Desplázate para ver mis pensamientos previos.					
 ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien, has aprendido la Canción de Espadancia y ahora el inescrutable poder del Megatomo es tuyo."""			47	012.jpg	31E2F
 			adventureUI/megatomeItem	"""El Megatomo intercepta transmisiones de pensamiento lingüístico y contiene claves para tu funesto cometido."""					
-			adventureUI/megatomeItem	"""Ahora mismo pienso en algo... qué tal si abres el Megatomo y buscas en mi mente"""					
+			adventureUI/megatomeItem	"""Ahora mismo pienso en algo... ¿qué tal si abres el Megatomo y buscas en mi mente?"""					
 				"""Busca un triángulo blanco en la esquina superior derecha; presiónalo y equipa el Megatomo para revelar lo oculto."""					
 LOGFELLA_STORM	The Scythian			Tronquero había renunciado a cortar leña debido a la siniestra tormenta. #botasmojadas					
 			adventureUI/megatomeItem	Nos recordó cómo la tormenta había estallado justo después de que recuperamos el Megatomo bajo Mingi Taw.					
@@ -94,7 +94,7 @@ INFO_MEADOWGATE	The Scythian			En el prado nos topamos con un impenetrable port�
 INFO_MEADOWGATEACTIVE	The Scythian			Observamos el portón de hierro del prado y tuvimos la sensación de que tal vez podríamos abrirlo.					
 INFO_MEADOWGATETRIGONACTIVE	The Scythian			Sobre el portón de hierro distinguimos un nosequé con forma de Trigón Dorado. ¿Reaccionaría a nuestra Canción de Espadancia?					
 INFO_MEADOWGATETRIGON	The Scythian			Sobre el portón de hierro distinguimos un nosequé.					
-INFO_LOCKEDDOORSTONEWALL	The Scythian			Una puerta en el muro de piedra bloqueaba el antiguo camino hacia Mingi Taw y, al parecer la llave se había perdido en los sueños.					
+INFO_LOCKEDDOORSTONEWALL	The Scythian			Una puerta en el muro de piedra bloqueaba el antiguo camino hacia Mingi Taw y, al parecer, la llave se había perdido en los sueños.					
 INFO_LOOMINGBIRDSCULPTURES	The Scythian			Notamos una escultura de un pájaro enfadado que se cernía sobre el prado. #sutilreferencia					
 INFO_MEADOWSUNSTICK	The Scythian			Avistamos un bastón de forma extraña que vigilaba el prado.					
 INFO_CABINWELL	The Scythian			Avistamos un pozo bien construido con un amplio tejado de madera.					
@@ -133,7 +133,7 @@ INFO_ROCKSHOWGIRL	The Scythian			En el concierto de rock encontramos a Samae. No
 INFO_ROCKSHOWSKOLOTOI	The Scythian			Notamos a uno de esos esqueletos vibrando al siniestro ritmo del concierto de rock.					
 INFO_ROCKSHOWJIM	The Scythian			El misterioso músico Jim Guthrie encabezaba el concierto de rock.			160	020.jpg	T2G03
 INFO_ROCKSHOWBOOR	The Scythian			Vimos al Canoso Tosco exhibiendo su estilo nudista en el concierto.			121	021.jpg	E2G15
-INFO_ROCKSHOWCROWD	The Scythian			En el concierto de rock había una multitud considerable de damas y caballeros					
+INFO_ROCKSHOWCROWD	The Scythian			En el concierto de rock había una multitud considerable de damas y caballeros.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			Vimos en el concierto de rock al personaje conocido como El Arquetipo y nos preguntamos qué tramaba con todo aquello.					
 INFO_TRIGONGROVESKULLSTICK	The Scythian			Un siniestro poste, decorado con una calavera astada, conecta este lugar con el espectro inmortal que acecha bajo Mingi Taw.					
 GRAVE_TRIGONGROVE	The Scythian			En el Claro Trigónico, más allá de la cueva cavernosa del prado, una tumba solitaria despertó nuestra curiosidad.					
@@ -192,7 +192,7 @@ LOGFELLA_LOSTKEY	The Scythian			Tronquero, el desolado leñador, estaba hecho un
 				Y nosotros, tipo... ugh. ¿Otra misión de recadero? ¿En serio?					
 				Nos contó que estaba sentado justo allí cuando cayó en un profundo sueño.					
 			AdventureUI/keyItem	Tronquero nos dijo que creía haber perdido su llave en el reino crepuscular de los sueños.					
-				Ya habíamos oído hablar de los extraños sueños de los montañeses de cabello oscuro del Cáucaso, así que aquello tenía todo el sentido para nosotros.					
+				Ya habíamos oído hablar de los extraños sueños de los montañeses del Cáucaso, así que tenía todo el sentido para nosotros.					
 				Tronquero nos invitó a calentar nuestras botas junto al fuego para soñar a su lado.			63	029.jpg	U2C92
 ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos en la vigilia y la psicocosmología mitopoética de los sueños como estados separados, pero interactúan de formas curiosas.					
 				El umbral de la liminalidad es un espacio entre la vigilia y los sueños donde el pensamiento consciente es imposible.			56	030.jpg	13A0A
@@ -232,8 +232,8 @@ ARCHETYPE_TREEHINT_NINSWITCH	The Archetype			Recuerda que ingerir hongos del bos
 				Busca las susurrantes espumas de los espíritus silvanos e investiga su entorno.					
 				Una vez que hayas entonado la Canción de Espadancia, quizá te convenga mirar a tu alrededor y observar bien el entorno.					
 ARCHETYPE_MUSHROOMHINT	The Archetype			Incluso se ha llegado a postular que los hongos adivinatorios pudieron desempeñar un papel significativo en el desarrollo de la psique humana.					
-				La evidencia arqueológica indica que el uso chamánico de los hongos para la comunión religiosa, la adivinación y la curación es bastante antiguo.					
-				Fisiológicamente, es posible que experimentes sensaciones de bienestar y percepciones agudizadas, así como la disipación del estrés y pérdida del apetito.					
+				La evidencia arqueológica indica que el uso chamánico de hongos para comunión, adivinación y curación es muy antiguo.					
+				Fisiológicamente, puedes notar sensación de bienestar, percepción agudizada, menos estrés y pérdida de apetito.					
 				Los hongos del bosque podrían ofrecerte una visión reveladora sobre el paradero de un espíritu silvano y sus peculiares detonantes.			60	035.jpg	53A5Y
 ARCHETYPE_TRIGONGROVE	The Archetype			¿Lo sientes? ¿Empiezas a comprender? ¿Cobran ahora un nuevo significado los símbolos esotéricos del Megatomo?					
 				Este haz conecta el mundo de los vivos y los muertos, tal vez te topes con algún fantasma para hablar en tu viaje.					
@@ -334,14 +334,14 @@ DOG_AVATAR			AdventureUI/dudeDogfellaIdle1
 AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Estos dos chiflados afirmaban ser dos de los creadores de este mundo tan raro.			159	055.jpg	A5G55
 AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Estos dos excéntricos afirmaban ser dos de los creadores de este mundo tan raro.			159	055.jpg	A5G55
 GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano en la fértil tierra de un prado donde pastaban cuatro pares de ovejas inútiles.			52	056.jpg	15B63
-GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Entonamos la Canción de Espadancia y despertamos a un espíritu silvano de las frescas aguas de un insondable estanque, ¡Qué raro!			50	057.jpg	G5F78
+GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Entonamos la Canción de Espadancia y despertamos a un espíritu silvano de las frescas aguas de un insondable estanque. ¡Qué raro!			50	057.jpg	G5F78
 GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano en un curioso nido, rodeado de tres empapados pájaros cantores.					
 GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano junto a un impasible puente de troncos, donde cuatro pares de árboles flanquean un impetuoso río.					
 GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano entre dos odiosos arcoíris al borde del Precipicio Peligroso.					
 GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Sombría reina, despertamos a un espíritu silvano rodeado por cinco cascadas.					
 GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Sombría reina, despertamos a un espíritu silvano entre la maleza en lo alto de un peñasco rocoso.					
 GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano en un claro oculto donde casualmente se encontraba Jim Guthrie.			132	058.jpg	G5F8U
-GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano en las tranquilas aguas de un lago donde una mamá pata se agitaba frenética.					
+GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano en un lago tranquilo donde una mamá pata se agitaba frenética.					
 GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano donde el reflejo del lago resultaba casi imperceptiblemente incongruente.			127	059.jpg	65D98
 GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano en un apacible lago bajo un terceto de búhos.					
 GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tuvimos la extraña sensación de que, quizá, solo quizá, había llegado la temporada de milagros. #milagros					
@@ -352,7 +352,7 @@ GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la L
 GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tuvimos esa extraña sensación de que, tal vez, había llegado la temporada de milagros. ¿Dónde quedaron nuestros milagros? #milagros			77	060.jpg	86D06
 GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau Guau Guau Guau. #ladrando			135	061.jpg	M6F1I
 				Guau Guau Guau. #sololadrando					
-				A veces me canso de ladrar tanto, pero un perro tiene que hacer lo que un perro tiene que hacer lo que un perro tiene que ha-hacer.					
+				A veces me canso de ladrar tanto, pero un perro tiene que hacer lo que un perro tiene que hacer lo que un perro tiene que ha-ha-hacer.					
 				Guau Snif Guau. #paravariar					
 				Guau Guau Guau Guau Guau Guau.					
 GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Aun así, hay algo raro en el comportamiento de La Escita; parecía como si la controlara una fuerza invisible.					
@@ -493,7 +493,7 @@ GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae vio la llave que encon
 ARCHETYPE_GROTTOPARADOX	The Archetype								
 				Una vez que el humor de la luna ha sido alterado en la Gruta Lunar, la...					
 ARCHETYPE_KILLBOOR	The Archetype			Ahora, me imagino que te preguntarás para qué sirve esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S
-				No es que esté sugiriendo que en realidad tengas tendencias sociópatas... je, je... Estoy seguro de que tenías tus razones, ¿o me equivoco? #elcanosotosco					
+				Tampoco sugiero que tengas tendencias sociópatas... je, je... Seguro que tenías tus razones, ¿o me equivoco? #elcanosotosco					
 				Incluimos al Canoso Tosco en S:S&SEP para tentar a los participantes a identificarse como sociópatas violentos.					
 				Me han informado de que han asesinado al Canoso Tosco... ¿Sabes algo al respecto? #masacre					
 ARCHETYPE_SPAREBOOR	The Archetype			Ahora, me imagino que te preguntarás para qué sirve esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S
