@@ -59,7 +59,7 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&SEP no produce la experiencia trascende
 				Hemos descubierto que un individuo relajado y curioso es más propenso a tener una experiencia agradable con S:S&SEP.					
 				La 'Disposición' alude al estado mental y a la personalidad que aportas: tus pensamientos, tu ánimo y tus expectativas.					
 				Hablemos de la disposición y el entorno para una experiencia positiva con esta obra altamente psicoactiva Superbrothers: Sword & Sworcery EP.					
-				La conciencia expandida, el potencial ilimitado de la mente, es lo que en Superbrothers llamamos 'sworcery' (o espadancia). #espadancia					
+				La conciencia expandida, el potencial ilimitado de la mente, es lo que en Superbrothers llamamos 'sworcery' (o espadancia).					
 				La espadancia puede entenderse como una técnica psiónica que permite percibir una realidad dentro de la que ya conoces.					
 				Para detener la Canción de Espadancia, toca dos veces el aura que rodea a La Escita.					
 				Una vez entonada, mantén pulsada el aura de espadancia y desliza para mirar a tu alrededor.					
@@ -247,7 +247,7 @@ GIRL_CABINSHEEPTHOUGHTS	Girl			¡No me lo puedo creer...! ¡Dejó de llover! ¿S
 LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Se me están poniendo los pelos de punta... Sin duda algo está pasando... ¿Está comenzando a disiparse la tormenta?					
 				Cada vez que necesito recobrar fuerzas, me siento junto al fuego para calentarme las botas.					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau Guau Guau Guau Guau Guau Guau Guau. #sigoladrando #milagros			84	037.jpg	V3C7I
-ARCHETYPE_MEADOWHINT	The Archetype			Una vez que el sol esté alineado, recibirás el don de plegar la realidad del gran mago 'Al Jaffee'.					
+ARCHETYPE_MEADOWHINT	The Archetype			Una vez que el sol esté alineado, recibirás el don de plegar la realidad del gran mago Al Jaffee.					
 				¿Sientes esa extraña vibra? ¡Llegó la temporada de milagros! Entona la Canción de Espadancia y mira hacia los imponentes pájaros enfadados.			76	038.jpg	A3G84
 ARCHETYPE_MEADOWHINTTWO	The Archetype			Busca en los cielos una visión reveladora sobre el milagro del prado y admira el Trigón Dorado.					
 ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... resulta interesante la forma en que manejaste ese encuentro con el individuo caníbal con cabeza de oso.			120	039.jpg	O3G9D
@@ -305,18 +305,18 @@ ARCHETYPE_GHOULINTRO	The Archetype
 				Bueno, aquí estamos. Esta breve sesión marcará el fin del tratamiento de S:S&SEP.					
 				El funesto cometido de La Escita está casi cumplido.					
 				Por desgracia, el cuerpo y la psique de La Escita han sido gravemente mermados por la espadancia... ella está a las puertas de la muerte.			162	047.jpg	J4F7B
-			Archetype/trifecta	Todo lo que resta es desvelar los secretos del Claro Trigónico y subir el Megatomo al Arremolinado Infinito en la cima de Mingi Taw.					
+			Archetype/trifecta	Todo lo que resta es desvelar los secretos del Claro Trigónico y cargar el Megatomo al Arremolinado Infinito en la cima de Mingi Taw.					
 				Pulsa 'Jugar' solo si tienes el valor de presenciar el atroz tormento del martirio.					
 END	The Scythian			En la cima de Mingi Taw detonamos el Megatomo y lo eyectamos al Arremolinado Infinito.					
-END_CHEAT	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #trampa					
-END_CHEAT_NOBOOR	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #trampa #sincanoso					
-END_CHEAT_PSYCHO	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #trampa #psicopata					
-END_CHEAT_LOVE	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #trampa #amor			202	048.jpg	D4A81
-END_MOONGROTTO_PSYCHO	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #grutalunar #psicopata			180	049.jpg	74D9P
-END_MOONGROTTO_LOVE	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #grutalunar #amor			176	050.jpg	Y5F0P
-END_HONEST_PSYCHO	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #honesto #psicopata			179	051.jpg	M5C1H
-END_HONEST_LOVE	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #honesto #amor			177	052.jpg	55E2B
-END_HONEST_NOBOOR	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #honesto #sincanoso			178	053.jpg	75G3V
+END_CHEAT	The Scythian			En la cima de Mingi Taw cargamos el Megatomo a la eterna seguridad del Arremolinado Infinito. #trampa					
+END_CHEAT_NOBOOR	The Scythian			En la cima de Mingi Taw cargamos el Megatomo a la eterna seguridad del Arremolinado Infinito. #trampa #sincanoso					
+END_CHEAT_PSYCHO	The Scythian			En la cima de Mingi Taw cargamos el Megatomo a la eterna seguridad del Arremolinado Infinito. #trampa #psicopata					
+END_CHEAT_LOVE	The Scythian			En la cima de Mingi Taw cargamos el Megatomo a la eterna seguridad del Arremolinado Infinito. #trampa #amor			202	048.jpg	D4A81
+END_MOONGROTTO_PSYCHO	The Scythian			En la cima de Mingi Taw cargamos el Megatomo a la eterna seguridad del Arremolinado Infinito. #grutalunar #psicopata			180	049.jpg	74D9P
+END_MOONGROTTO_LOVE	The Scythian			En la cima de Mingi Taw cargamos el Megatomo a la eterna seguridad del Arremolinado Infinito. #grutalunar #amor			176	050.jpg	Y5F0P
+END_HONEST_PSYCHO	The Scythian			En la cima de Mingi Taw cargamos el Megatomo a la eterna seguridad del Arremolinado Infinito. #honesto #psicopata			179	051.jpg	M5C1H
+END_HONEST_LOVE	The Scythian			En la cima de Mingi Taw cargamos el Megatomo a la eterna seguridad del Arremolinado Infinito. #honesto #amor			177	052.jpg	55E2B
+END_HONEST_NOBOOR	The Scythian			En la cima de Mingi Taw cargamos el Megatomo a la eterna seguridad del Arremolinado Infinito. #honesto #sincanoso			178	053.jpg	75G3V
 GIRL_GHOULTHOUGHTS	Girl			¿Sabrá que es posible detener a la Masa Gogolítica tocando su calavera con espadancia? Probablemente no.					
 				Espero que La Escita sepa que debe mantener pulsado el camino para mover el bote a toda velocidad... si no, estará frita.					
 				¿Dónde estoy? ¿Qué ha pasado? Lo último que recuerdo es que estaba caminando en sueños por el bosque cuando vi una inquietante luz rosada.					
@@ -385,7 +385,7 @@ GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Cuando los esp
 GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solo el fin de tu funesto cometido traerá la paz de vuelta a nuestras vidas.					
 				Solo la Tríada Trigónica te permitirá comprender los secretos del Claro Trigónico.					
 				El Arremolinado Infinito en la cima de Mingi Taw te espera.					
-				Guau Guau Guau. #ladrando					
+				Guau Guau Guau.					
 GCLUE_WATERFALLS	Girl			¿Te has fijado en que a veces las palabras suenan como simple ruido, pero otras veces el ruido produce el sonido más bello?			132	058.jpg	G5F8U
 GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Hay un montón de dichos extraños aquí entre los montañeses del Cáucaso.					
 				Hay un dicho aquí en el Cáucaso que dice que un bosque necesita un fuego tanto como el fuego necesita al árbol.					
@@ -415,7 +415,7 @@ GIRL_HUGETREETHOUGHTS	Girl			Por supuesto, nunca le hablo a nadie de estos sueñ
 				Al caminar en sueños, hay un lugar especial al que siempre voy, un Parlamento de Árboles en el corazón del mundo.					
 LOGFELLA_HUGETREETHOUGHTS	Logfella			Me gusta ver el mismo bosque con distintos climas y solo pararme a escuchar... y pensar o no pensar, según se dé.					
 				No soy mucho de caminar en sueños, pero cuando lo hago, suelo volver a mis lugares favoritos para ver qué ha cambiado.					
-MIRACLE1_MOUNTAINMEADOW	The Scythian			En un prado soleado, obramos un milagro disipador de tormentas, con la técnica de plegado del loco mago 'Al Jaffee'.					
+MIRACLE1_MOUNTAINMEADOW	The Scythian			En un prado soleado, obramos un milagro disipador de tormentas, con la técnica de plegado del loco mago Al Jaffee.					
 MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			En un prado soleado, despertamos confundidos y aturdidos, con un dolor de cabeza terrible.					
 LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Aturdidos y sin un recuerdo claro, despertamos de un profundo sueño.					
 			triangle/Triangle	Recordamos el milagro del prado y nuestro encuentro con el Trigón Dorado...					
@@ -441,7 +441,7 @@ DOGFELLA_THREETRIGONS	The Scythian			Después de activar otro haz celestial en e
 			Archetype/trifecta	De repente, pareció que lo entendíamos: nos instó a activar el tercer haz celestial y abrir la entrada al Arremolinado Infinito.					
 DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.					
 				Guau Guau Snif Guau.					
-				El cosmos del Arremolinado Infinito en la cima de Mingi Taw espera a quien lleva el Megatomo.					
+				El cosmos del Arremolinado Infinito en la cima de Mingi Taw espera a quien carga el Megatomo.					
 				Guau Guau Guau Guau Guau.					
 				Guau Guau Guau.					
 GIRL_AFTERYELLOWBEAM	The Scythian			Samae se sentó en una roca cerca del lugar donde el leñador cortaba leña.					
@@ -493,7 +493,7 @@ GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae vio la llave que encon
 ARCHETYPE_GROTTOPARADOX	The Archetype								
 				Una vez que el humor de la luna ha sido alterado en la Gruta Lunar, la...					
 ARCHETYPE_KILLBOOR	The Archetype			Ahora, me imagino que te preguntarás para qué sirve esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S
-				Tampoco sugiero que tengas tendencias sociópatas... je, je... Seguro que tenías tus razones, ¿o me equivoco? #elcanosotosco					
+				Tampoco sugiero que tengas tendencias sociópatas... je, je... Seguro que tenías tus razones, ¿o me equivoco? #elpatancanoso					
 				Incluimos al Patán Canoso en S:S&SEP para tentar a los participantes a identificarse como sociópatas violentos.					
 				Me han informado de que han asesinado al Patán Canoso... ¿Sabes algo al respecto? #masacre					
 ARCHETYPE_SPAREBOOR	The Archetype			Ahora, me imagino que te preguntarás para qué sirve esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S
