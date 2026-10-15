@@ -1,8 +1,8 @@
 id	English	Japanese
 GAME_NAME	Superbrothers: Sword & Sworcery EP	
-GAME_MOTTO	UM CORAJOSO EXPERIMENTO EM I/O CINEMA	
+GAME_MOTTO	UM CORAJOSO EXPERIMENTO EM CINEMA E/S	
 GAME_NAME_SHORT	S:S&SEP	
-WITH_SONGS	COM MÚSICAS & SONS DE	
+WITH_SONGS	COM MÚSICAS E SONS DE	
 JIM_GUTHRIE	JIM GUTHRIE	
 FOR_DEMO	APENAS PARA DEMONSTRAÇÃO	
 END_DEMO	Assim termina a demonstração de	
@@ -35,7 +35,7 @@ PERSEVERE	PERSEVERE
 START_OVER	RECOMEÇAR?	
 PROMPT_YES	SIM	
 PROMPT_NO	NÃO	
-PROMPT_OK	ACEITAR	
+PROMPT_OK	CONFIRMAR	
 PROMPT_CANCEL	CANCELAR	
 PROMPT_SUBMIT	ENVIAR	
 PROMPT_DELETE_SAVE	APAGAR DADOS SALVOS? VOCÊ PERDERÁ TODO O PROGRESSO!	
@@ -63,7 +63,7 @@ TWITTER_WRONG_LOGIN	NOME DE USUÁRIO OU SENHA INCORRETOS
 TWITTER_CONNECT_FAIL	FALHA DE CONEXÃO	
 TWITTER_SIGN_IN_ONLY	FAZER LOGIN	
 TWITTER_SIGN_OUT_ONLY	DESCONECTAR	
-TWITTER_SIGNED_IN	VOCÊ TEM UMA SESSÃO ATIVA NO TWITTER
+TWITTER_SIGNED_IN	VOCÊ TEM UMA SESSÃO ATIVA NO TWITTER	
 TWITTER_SIGNED_OUT	VOCÊ NÃO TEM UMA SESSÃO ATIVA NO TWITTER	
 TWITTER_FILL_OUT	POR FAVOR, PREENCHA TODOS OS CAMPOS	
 EPITAPH	NÃO HÁ MAIS SEGREDOS NOS BREJAIS DOS MEOTAS	
@@ -80,17 +80,17 @@ BRIGHTMOON_AFTER_MORE	DIAS
 TIME_PARADOX	* PARADOXO TEMPORAL *	
 ERRAND_END	SUA FUNESTA MISSÃO CHEGOU AO FIM.	
 BEWARE_BOOR	CUIDADO COM O PATIFE GRISALHO	
-MOVE_CONTROLS	PRESSIONE & SEGURE PARA SE MOVER	
+MOVE_CONTROLS	PRESSIONE E SEGURE PARA SE MOVER	
 STOP_CONTROLS	TIP TAP PARA PARAR?	
 STOP_CONTROLS_ARROW	< < TIP TAP PARA PARAR?	
 SLAY	ANIQUILAR?	
 ZOOM_CONTROLS	< < <  AMPLIAR? > > >	
-LOOK_CONTROLS	PRESSIONE, SEGURE & DESLIZE NA AURA DE ESPADÂNCIA	
-LOOK_CONTROLS_2	PRESSIONE & DESLIZE PARA OLHAR AO REDOR	
+LOOK_CONTROLS	SEGURE E DESLIZE NA AURA DE ESPADÂNCIA	
+LOOK_CONTROLS_2	SEGURE E DESLIZE PARA OLHAR AO REDOR	
 TONGUE_TEXT	"Incline, desembainhe e erga sua espada cítia em direção ao arco-íris por alguns segundos e tenha fé."	
-TOUCH_HOLD	PRESSIONE & SEGURE	
-TOUCH_HOLD_ARROW_LEFT	< < PRESSIONE & SEGURE	
-TOUCH_HOLD_ARROW_RIGHT	PRESSIONE & SEGURE > >	
+TOUCH_HOLD	PRESSIONE E SEGURE	
+TOUCH_HOLD_ARROW_LEFT	< < PRESSIONE E SEGURE	
+TOUCH_HOLD_ARROW_RIGHT	PRESSIONE E SEGURE > >	
 TIP_TAP_QUESTION	TIP TAP?	
 TIP_TAP_ARROW_LEFT	< < TIP TAP	
 TIP_TAP_ARROW_LEFT_Q	< < TIP TAP?	
@@ -149,7 +149,7 @@ CNTRL_TOGGLESWORD	<switch_button_b> ALTERNAR ESPADA/DEFESA
 CNTRL_TOUCH	TOCAR	
 CNTRL_TAP	<switch_button_r> TOCAR	
 CNTRL_TIPTAP	<switch_button_zr> TIP TAP	
-CNTRL_PINCHZOOM	PINCE: ZOOM	
+CNTRL_PINCHZOOM	PINÇAR PARA AMPLIAR	
 CNTRL_RECENTER_CURSOR	<switch_button_faceup> CENTRALIZAR CURSOR	
 CNTRL_POINT_TO_MOVE_CURSOR	APONTE PARA MOVER O CURSOR	
 CNTRL_ATTACK_JOY	<switch_button_faceright> / <switch_button_l> / <switch_button_r> TOCAR/ESPADA	
@@ -166,18 +166,18 @@ ITALIAN_SPECIAL	À È É Ì Ò Ó Ù º ª « » ‹ › € ª
 GERMAN_SPECIAL	Ä ä Ö ö Ü ü ẞ ß	
 SPANISH_SPECIAL	Á É Í Ó Ú Ñ Ü ¿ ¡ º ª « » ‹ › €	
 TOUCHTRONIC_NINSWITCH	TOUCHTRONIC	
-POINTCLICK_NINSWITCH	APONTAR & CLICAR	
+POINTCLICK_NINSWITCH	APONTAR E CLICAR	
 FAMICOM_NINSWITCH	FAMICOM	
 	Sensibilidade do analógico	
-SOUTHPAW_NINSWITCH	MÃO ESQUERDA	
-NORTHPAW_NINSWITCH	MÃO DIREITA	
+SOUTHPAW_NINSWITCH	MODO CANHOTO	
+NORTHPAW_NINSWITCH	MODO DESTRO	
 JOYCON_STRAP_MSG_NINSWITCH	Ao usar os controles Joy-Con desacoplados, siga as instruções, coloque as alças e segure-os firmemente.	
 PHOTOSENSITIVIY_MSG_NINSWITCH	Uma pequena porcentagem de indivíduos pode sofrer ataques epiléticos quando expostos a certas imagens visuais, incluindo padrões de luz ou luzes piscantes. A exposição a certos padrões ou fundos em uma tela de computador, ou durante um videogame, pode induzir um ataque epilético nesses indivíduos. Certas condições podem induzir sintomas epiléticos não detectados anteriormente, mesmo em pessoas sem histórico de convulsões ou epilepsia.	
 PHOTOSENSITIVIY_MSG_NINSWITCH2	Se você ou alguém da sua família tem uma condição epilética, consulte seu médico antes de jogar. Se você sentir algum dos seguintes sintomas enquanto joga um videogame: tontura, visão alterada, espasmos oculares ou musculares, perda de consciência, desorientação, qualquer movimento involuntário ou convulsões - interrompa o uso imediatamente e consulte seu médico antes de retomar o jogo.	
 POINTCLICK_CURSORSENS_NINSWITCH	SENSIBILIDADE DO PONTEIRO	
 FAM_CURSOR_NOT_USED	Sensibilidade do ponteiro FAMICOM	
-POINTCLICK_PROMPT_NINSWITCH	O modo Apontar & Clicar permite que você jogue com um único Joy-Con como ponteiro. Este modo é melhor aproveitado quando jogado em uma televisão. Tem certeza de que deseja ativar o modo Apontar & Clicar?	
-POINTCLICK_PROMPT_ALT_NINSWITCH	O modo Apontar & Clicar permite que você jogue com um único Joy-Con como ponteiro e é melhor aproveitado quando jogado em uma televisão. Tem certeza de que deseja ativar os controles de Apontar & Clicar?	
+POINTCLICK_PROMPT_NINSWITCH	O modo Apontar e Clicar permite que você jogue com um único Joy-Con como ponteiro. Este modo é melhor aproveitado quando jogado em uma televisão. Tem certeza de que deseja ativar o modo Apontar e Clicar?	
+POINTCLICK_PROMPT_ALT_NINSWITCH	O modo Apontar e Clicar permite que você jogue com um único Joy-Con como ponteiro e é melhor aproveitado quando jogado em uma televisão. Tem certeza de que deseja ativar os controles de Apontar e Clicar?	
 SWAP_STICKS_NINSWITCH	INVERTER ANALÓGICOS	
 PLAY_MENU_NINSWITCH	JOGAR	
 CREDITS_MENU_NINSWITCH	CRÉDITOS	
@@ -188,7 +188,7 @@ CNTRL_MOVE_CURSOR_ALT	<switch_button_rightanalogstick> MOVER CURSOR
 SITCK_SENSITIVITY_NINSWITCH	SENSIBILIDADE DO ANALÓGICO	
 MOTION_SENSITIVITY_NINSWITCH	SENSIBILIDADE DE MOVIMENTO	
 POINTER_SENSITIVITY_NINSWITCH	SENSIBILIDADE DO PONTEIRO	
-ENABLE_POINTCLICK_NINSWITCH	ATIVAR CONTROLES DE APONTAR & CLICAR?	
+ENABLE_POINTCLICK_NINSWITCH	ATIVAR CONTROLES DE APONTAR E CLICAR?	
 ENABLE_GAMEPAD_NINSWITCH	ATIVAR MODO CONTROLE?	
 ENABLE_FAMICOM_NINSWITCH	ATIVAR CONTROLES DE FAMICOM?	
 ENABLE_TOUCHTRONIC_NINSWITCH	ATIVAR CONTROLES TOUCHTRONIC?	
@@ -201,7 +201,7 @@ CHOOSE_NINSWITCH	ESCOLHER
 FAMICOM_CONTROLS_BLURB_NINSWITCH	MELHOR JOGADO COM UM CONTROLE OU EM MODO PORTÁTIL.	
 AUTOSAVE_MSG	ESTE JOGO UTILIZA SALVAMENTO AUTOMÁTICO. QUANDO ESTE ÍCONE < SAVING_RECORD> ESTIVER NA TELA, NÃO DESLIGUE O CONSOLE.	
 PRESS_LR_JOYCON_NINSWITCH	PRESSIONE <switch_button_sl> + <switch_button_sr> NO JOY-CON	
-REMOVE_PRESS_LR_JOYCON_NINSWITCH	DESACOPLE O JOY-CON E PRESSIONE L + R	
+REMOVE_PRESS_LR_JOYCON_NINSWITCH	DESACOPLE OS JOY-CON E PRESSIONE L + R	
 THUMBSTICK_SENS_NINSWITCH	SENSIBILIDADE DO ANALÓGICO	
 UNSHEATHE_DEFEND_NINSWITCH	DESEMBAINHAR/DEFENDER	
 UNSHEATHE_USE_SHIELD_NINSWITCH	DESEMBAINHAR/USAR ESCUDO	
@@ -219,7 +219,7 @@ NOTHING_NOPE	Suporte de QA para Nintendo Switch cortesia de Testronic Labs.
 NOTHING_NOPE2	"Suporte adicional de localização japonesa fornecido por Yutaka Ohbuchi, John Ricciardi e Masanobu Suto."	
 LOOK_AROUND_NINSWITCH	OLHAR AO REDOR?	
 OMDC_CHANGE	Este projeto foi possível graças ao apoio financeiro da Ontario Creates.	
-CNTRL_PINCH_Y_ZOOM	PINCE / <switch_button_y> ALTERNAR ZOOM	
+CNTRL_PINCH_Y_ZOOM	PINÇAR / <switch_button_y> ALTERNAR ZOOM	
 LBL_MOVEPLAYER	MOVER PERSONAGEM <switch_button_rightanalogstick>	
 LBL_MOVECURSOR	MOVER CURSOR <switch_button_leftanalogstick>	
 LBL_MOVEPLAYER_ALT	MOVER PERSONAGEM <switch_button_leftanalogstick>	

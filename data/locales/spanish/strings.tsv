@@ -1,8 +1,8 @@
 id	English	Japanese
 GAME_NAME	Superbrothers: Sword & Sworcery EP	
-GAME_MOTTO	UN VALIENTE EXPERIMENTO EN I/O CINEMA	
+GAME_MOTTO	UN VALIENTE EXPERIMENTO EN CINE E/S	
 GAME_NAME_SHORT	S:S&SEP	
-WITH_SONGS	CON CANCIONES & SONIDOS DE	
+WITH_SONGS	CON CANCIONES Y SONIDOS DE	
 JIM_GUTHRIE	JIM GUTHRIE	
 FOR_DEMO	SOLO PARA FINES DEMOSTRATIVOS	
 END_DEMO	Aquí termina la demo de	
@@ -79,18 +79,18 @@ BRIGHTMOON_AFTER_1	DÍA
 BRIGHTMOON_AFTER_MORE	DÍAS	
 TIME_PARADOX	* PARADOJA TEMPORAL *	
 ERRAND_END	TU FUNESTO COMETIDO HA CONCLUIDO.	
-BEWARE_BOOR	TEN CUIDADO CON EL CANOSO TOSCO	
-MOVE_CONTROLS	PULSA & MANTÉN PARA MOVERTE	
+BEWARE_BOOR	TEN CUIDADO CON EL PATÁN CANOSO	
+MOVE_CONTROLS	PULSA Y MANTÉN PARA MOVERTE	
 STOP_CONTROLS	¿TIP TAP PARA PARAR?	
 STOP_CONTROLS_ARROW	< < ¿TIP TAP PARA PARAR?	
 SLAY	¿ANIQUILAR?	
 ZOOM_CONTROLS	< < < ¿ACERCAR? > > >	
-LOOK_CONTROLS	PULSA & DESLIZA EL AURA DE ESPADANCIA	
-LOOK_CONTROLS_2	PULSA & DESLIZA PARA MIRAR ALREDEDOR	
+LOOK_CONTROLS	MANTÉN Y DESLIZA EL AURA DE ESPADANCIA	
+LOOK_CONTROLS_2	MANTÉN Y DESLIZA PARA MIRAR ALREDEDOR	
 TONGUE_TEXT	"Inclina, desenvaina y levanta tu espada escita hacia el arcoíris unos segundos y ten fe."	
-TOUCH_HOLD	PULSA & MANTÉN	
-TOUCH_HOLD_ARROW_LEFT	< < PULSA & MANTÉN	
-TOUCH_HOLD_ARROW_RIGHT	PULSA & MANTÉN > >	
+TOUCH_HOLD	PULSA Y MANTÉN	
+TOUCH_HOLD_ARROW_LEFT	< < PULSA Y MANTÉN	
+TOUCH_HOLD_ARROW_RIGHT	PULSA Y MANTÉN > >	
 TIP_TAP_QUESTION	¿TIP TAP?	
 TIP_TAP_ARROW_LEFT	< < TIP TAP	
 TIP_TAP_ARROW_LEFT_Q	< < ¿TIP TAP?	
@@ -149,9 +149,9 @@ CNTRL_TOGGLESWORD	<switch_button_b> ALTERNAR ESPADA/DEFENSA
 CNTRL_TOUCH	TOCAR	
 CNTRL_TAP	<switch_button_r> TOCAR	
 CNTRL_TIPTAP	<switch_button_zr> TIP TAP	
-CNTRL_PINCHZOOM	PELLIZCA PARA HACER ZOOM	
+CNTRL_PINCHZOOM	PELLIZCAR PARA HACER ZOOM	
 CNTRL_RECENTER_CURSOR	<switch_button_faceup> CENTRAR CURSOR	
-CNTRL_POINT_TO_MOVE_CURSOR	APUNTA PARA MOVER EL CURSOR	
+CNTRL_POINT_TO_MOVE_CURSOR	APUNTAR PARA MOVER EL CURSOR	
 CNTRL_ATTACK_JOY	<switch_button_faceright> / <switch_button_l> / <switch_button_r> TOCAR/ESPADA	
 CNTRL_TOGGLESWORD_JOY	<switch_button_facedown> ALTERNAR ESPADA/DEFENSA	
 CNTRL_TOGGLE_ZOOM_JOY	<switch_button_faceleft> ACERCAR/ALEJAR	
@@ -169,14 +169,14 @@ TOUCHTRONIC_NINSWITCH	TOUCHTRONIC
 POINTCLICK_NINSWITCH	APUNTAR Y HACER CLIC	
 FAMICOM_NINSWITCH	FAMICOM	
 	Sensibilidad de analógico	
-SOUTHPAW_NINSWITCH	MANO IZQUIERDA	
-NORTHPAW_NINSWITCH	MANO DERECHA	
+SOUTHPAW_NINSWITCH	MODO ZURDO 	
+NORTHPAW_NINSWITCH	MODO DIESTRO	
 JOYCON_STRAP_MSG_NINSWITCH	Al usar los controles Joy-Con desacoplados, sigue las instrucciones, ponte las correas y sujétalos firmemente.	
 PHOTOSENSITIVIY_MSG_NINSWITCH	Existe la posibilidad de que un pequeño porcentaje de personas sufra ataques epilépticos ante la exposición a imágenes determinadas, incluidas las que presentan patrones luminosos o destellos. La exposición a ciertos patrones o fondos en una pantalla, o mientras se juega, puede desencadenar convulsiones epilépticas. Algunas condiciones pueden provocar síntomas epilépticos no detectados previamente en personas que nunca han tenido convulsiones ni epilepsia.	
 PHOTOSENSITIVIY_MSG_NINSWITCH2	Si tú o alguien de tu familia sufre epilepsia, consulta a un médico antes de jugar. Deja de usar el juego de inmediato y consulta a un médico antes de retomarlo si aparece alguno de los síntomas siguientes: mareos, problemas de visión, contracciones oculares o musculares, pérdida de conciencia, desorientación, movimientos involuntarios o convulsiones.	
 POINTCLICK_CURSORSENS_NINSWITCH	SENSIBILIDAD DEL PUNTERO	
 FAM_CURSOR_NOT_USED	Sensibilidad del puntero FAMICOM	
-POINTCLICK_PROMPT_NINSWITCH	El modo Apuntar y hacer clic permite jugar con un solo Joy-Con como puntero. Se disfruta mejor cuando juegas en un televisor. ¿Seguro que quieres activar el modo Apuntar y hacer clic?		
+POINTCLICK_PROMPT_NINSWITCH	El modo Apuntar y hacer clic permite jugar con un solo Joy-Con como puntero. Se disfruta mejor cuando juegas en un televisor. ¿Seguro que quieres activar el modo Apuntar y hacer clic?	
 POINTCLICK_PROMPT_ALT_NINSWITCH	El modo Apuntar y hacer clic permite jugar con un solo Joy-Con como puntero y se disfruta mejor cuando juegas en un televisor. ¿Seguro que quieres activar los controles de Apuntar y hacer clic?	
 SWAP_STICKS_NINSWITCH	INVERTIR ANALÓGICOS	
 PLAY_MENU_NINSWITCH	JUGAR	
@@ -201,7 +201,7 @@ CHOOSE_NINSWITCH	ELEGIR
 FAMICOM_CONTROLS_BLURB_NINSWITCH	SE RECOMIENDA JUGAR CON UN CONTROL O EN MODO PORTÁTIL.	
 AUTOSAVE_MSG	ESTE JUEGO USA GUARDADO AUTOMÁTICO. CUANDO ESTE ICONO < SAVING_RECORD> APAREZCA EN PANTALLA, NO APAGUES LA CONSOLA.	
 PRESS_LR_JOYCON_NINSWITCH	PULSA <switch_button_sl> + <switch_button_sr> EN EL JOY-CON	
-REMOVE_PRESS_LR_JOYCON_NINSWITCH	DESACOPLA EL JOY-CON Y PULSA L + R	
+REMOVE_PRESS_LR_JOYCON_NINSWITCH	DESACOPLA LOS JOY-CON Y PULSA L + R	
 THUMBSTICK_SENS_NINSWITCH	SENSIBILIDAD DEL ANALÓGICO	
 UNSHEATHE_DEFEND_NINSWITCH	DESENVAINAR/DEFENDER	
 UNSHEATHE_USE_SHIELD_NINSWITCH	DESENVAINAR/USAR ESCUDO	
@@ -219,7 +219,7 @@ NOTHING_NOPE	Soporte de QA para Nintendo Switch cortesía de Testronic Labs.
 NOTHING_NOPE2	"Soporte adicional de localización japonesa proporcionado por Yutaka Ohbuchi, John Ricciardi y Masanobu Suto."	
 LOOK_AROUND_NINSWITCH	¿OBSERVAR?	
 OMDC_CHANGE	Este proyecto fue posible gracias al apoyo financiero de Ontario Creates.	
-CNTRL_PINCH_Y_ZOOM	PELLIZCA / <switch_button_y> HACER ZOOM	
+CNTRL_PINCH_Y_ZOOM	PELLIZCAR / <switch_button_y> HACER ZOOM	
 LBL_MOVEPLAYER	MOVER PERSONAJE <switch_button_rightanalogstick>	
 LBL_MOVECURSOR	MOVER CURSOR <switch_button_leftanalogstick>	
 LBL_MOVEPLAYER_ALT	MOVER PERSONAJE <switch_button_leftanalogstick>	

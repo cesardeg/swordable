@@ -66,8 +66,8 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&SEP no produce la experiencia trascende
 				Para entonar la Canción de Espadancia, mantén pulsada a La Escita durante un momento y observa cómo se reúne el aura de espadancia.					
 				Como ves, el Megatomo recopila transmisiones de pensamiento lingüístico. Desplázate para ver mis pensamientos previos.					
 ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien, has aprendido la Canción de Espadancia y ahora el inescrutable poder del Megatomo es tuyo."""			47	012.jpg	31E2F
-			adventureUI/megatomeItem	"""El Megatomo intercepta transmisiones de pensamiento lingüístico y contiene claves para tu funesto cometido."""					
-			adventureUI/megatomeItem	"""Ahora mismo pienso en algo... ¿qué tal si abres el Megatomo y buscas en mi mente?"""					
+			adventureUI/megatomeItem	"""El Megatomo intercepta transmisiones de pensamiento lingüístico y contiene todo lo necesario para tu funesto cometido."""					
+			adventureUI/megatomeItem	"""Ahora mismo pienso en algo... ¿qué tal si abres el Megatomo y me buscas para leer mi mente?"""					
 				"""Busca un triángulo blanco en la esquina superior derecha; presiónalo y equipa el Megatomo para revelar lo oculto."""					
 LOGFELLA_STORM	The Scythian			Tronquero había renunciado a cortar leña debido a la siniestra tormenta. #botasmojadas					
 			adventureUI/megatomeItem	Nos recordó cómo la tormenta había estallado justo después de que recuperamos el Megatomo bajo Mingi Taw.					
@@ -132,7 +132,7 @@ INFO_MEGATOMBTRIFECTA	The Scythian			En la oscuridad bajo Mingi Taw distinguimos
 INFO_ROCKSHOWGIRL	The Scythian			En el concierto de rock encontramos a Samae. Nos pareció que susurró algo parecido a 'Fuego, camina conmigo'.					
 INFO_ROCKSHOWSKOLOTOI	The Scythian			Notamos a uno de esos esqueletos vibrando al siniestro ritmo del concierto de rock.					
 INFO_ROCKSHOWJIM	The Scythian			El misterioso músico Jim Guthrie encabezaba el concierto de rock.			160	020.jpg	T2G03
-INFO_ROCKSHOWBOOR	The Scythian			Vimos al Canoso Tosco exhibiendo su estilo nudista en el concierto.			121	021.jpg	E2G15
+INFO_ROCKSHOWBOOR	The Scythian			Vimos al Patán Canoso exhibiendo su estilo nudista en el concierto.			121	021.jpg	E2G15
 INFO_ROCKSHOWCROWD	The Scythian			En el concierto de rock había una multitud considerable de damas y caballeros.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			Vimos en el concierto de rock al personaje conocido como El Arquetipo y nos preguntamos qué tramaba con todo aquello.					
 INFO_TRIGONGROVESKULLSTICK	The Scythian			Un siniestro poste, decorado con una calavera astada, conecta este lugar con el espectro inmortal que acecha bajo Mingi Taw.					
@@ -142,10 +142,10 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			En el Claro Trigónico, más allá de la c
 			adventureUI/megatomeItem	Al ver nuestra vestimenta escita y el Megatomo, preguntó si entendíamos los símbolos enigmáticos de su interior.					
 				En un susurro pronunció el nombre del espectro inmortal que habíamos despertado en la oscuridad bajo Mingi Taw: La Masa Gogolítica.			166	023.jpg	O2B39
 				Conocíamos ese nombre aterrador de las viejas historias y sentimos cómo se nos helaba la sangre.					
-				"""Hasta ahora, tenía la sensación de que la Masa Gogolítica no te tomaba en serio."""					
+				"""Hasta ahora, tenía la sensación de que La Masa Gogolítica no te tomaba en serio."""					
 			triangle/Triangle	"""Ahora que dominas la Canción de Espadancia y has domado el Trigón Dorado, descubrirás que cada paso que das está embrujado."""					
 				No sabíamos si el fantasma intentaba animarnos, asustarnos o qué.					
-				Le contamos que pretendíamos detonar el Megatomo en la cima de Mingi Taw y liberar a la Masa Gogolítica de su inmortalidad.					
+				Le contamos que pretendíamos detonar el Megatomo en la cima de Mingi Taw y liberar a La Masa Gogolítica de su inmortalidad.					
 			Archetype/trifecta	Le preguntamos por la Tríada Trigónica y por el paradero de los Trigones restantes, pero su respuesta fue irritantemente ambigua.					
 				"""Los Trigones restantes solo existen en los sueños de los montañeses del Cáucaso."""			43	024.jpg	82E45
 				"""Encontrar los Trigones restantes no es una cuestión de dónde, sino de cuándo y cómo."""					
@@ -494,12 +494,12 @@ ARCHETYPE_GROTTOPARADOX	The Archetype
 				Una vez que el humor de la luna ha sido alterado en la Gruta Lunar, la...					
 ARCHETYPE_KILLBOOR	The Archetype			Ahora, me imagino que te preguntarás para qué sirve esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S
 				Tampoco sugiero que tengas tendencias sociópatas... je, je... Seguro que tenías tus razones, ¿o me equivoco? #elcanosotosco					
-				Incluimos al Canoso Tosco en S:S&SEP para tentar a los participantes a identificarse como sociópatas violentos.					
-				Me han informado de que han asesinado al Canoso Tosco... ¿Sabes algo al respecto? #masacre					
+				Incluimos al Patán Canoso en S:S&SEP para tentar a los participantes a identificarse como sociópatas violentos.					
+				Me han informado de que han asesinado al Patán Canoso... ¿Sabes algo al respecto? #masacre					
 ARCHETYPE_SPAREBOOR	The Archetype			Ahora, me imagino que te preguntarás para qué sirve esa llave. Para ser honesto, no tengo ni idea.			119	075.jpg	87C5S
 				Sí, eso es increíble y te queremos muchísimo por ello.					
-				Incluimos al Canoso Tosco en S:S&SEP para permitir que los participantes se identificaran a sí mismos como personas compasivas y razonables.					
-				Me han informado de que al Canoso Tosco le han permitido escapar ileso. Es una noticia alentadora.					
+				Incluimos al Patán Canoso en S:S&SEP para permitir que los participantes se identificaran a sí mismos como personas compasivas y razonables.					
+				Me han informado de que al Patán Canoso le han permitido escapar ileso. Es una noticia alentadora.					
 LOGFELLA_FOUNDATION	Logfella	AdventureUI/tweetIconBabelBook		...					
 				...					
 				...					
@@ -522,7 +522,7 @@ GIRL_DARKMOON	The Scythian			Samae habló sobre paseos oníricos por el bosque p
 				Sabíamos exactamente a qué titánico árbol hueco se refería.					
 ARCHETYPE_DARKMOON	The Archetype			Ten cuidado. La Luna Sombría reina.			94	076.jpg	I7F69
 LOGFELLA_CRESCENTWAX	The Scythian			El leñador habló sobre paseos oníricos por el bosque poco antes del amanecer, bajo la luz de una luna creciente.					
-				Habló acerca de una criatura que había encontrado, algo o alguien extraño y desnudo. ¿Era un oso? ¿Un hombre? O... ¿El Canoso Tosco?			57	077.jpg	I7G7U
+				Habló acerca de una criatura que había encontrado, algo o alguien extraño y desnudo. ¿Era un oso? ¿Un hombre? O... ¿El Patán Canoso?			57	077.jpg	I7G7U
 GIRL_CRESCENTWAX	The Scythian			Samae estaba emocionada. ¡Hoy comenzaba un nuevo mes lunar! Le esperaban largos días sentada sobre rocas.					
 ARCHETYPE_CRESCENTWAX	The Archetype			Un fino gajo de luna creciente ha aparecido, marcando el inicio de un nuevo ciclo lunar de veintiocho días.			118	045.jpg	Y4E5Q
 LOGFELLA_HALFWAX	The Scythian			El leñador admitió que sí, de hecho, había cortado una buena cantidad de leña en su vida.					
@@ -606,7 +606,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Algunos recursos de arte redimensionados y sonrisas proporcionadas por Vic 'Meow' Nguyen en Capy.					
 				Control de calidad (QA) adicional: el único e inigualable Aaron Eves.					
 				Soporte de QA para Nintendo Switch cortesía de Testronic Labs.					
-				Soporte de QA por Roopesh Pawar. A, Prashanth. DR, Veeresh Kuruva, Raghunath. BG y Roshan R Shekar de Sun technology Integrators Pvt. Ltd.					
+				Soporte de QA por Roopesh Pawar. A, Prashanth. DR, Veeresh Kuruva, Raghunath. BG y Roshan R Shekar de Sun Technology Integrators Pvt. Ltd.					
 				Gracias a Xavier Xaden Xen, Joseppe Theodore Blocco y Hank Hudson.					
 				Galletas y otras delicias proporcionadas por Thea Gaerlan.					
 				* * * APOYO DE SUPERBROTHERS * * *					
@@ -667,7 +667,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Capy lanzó el maravilloso Grindstone en 2019 y continúa añadiendo contenido para los jugadores (Apple Arcade + Switch + PlayStation + PC + Xbox).					
 				Mientras tanto, en 2023, el equipo está cocinando un delicioso nuevo juego en su caldero de juegos.					
 				* * * ¿QUÉ ES S:S&SEP? * * *					
-				S:S&SEP pretende ser un valiente experimento en Input Output Cinema, sea lo que sea eso.					
+				S:S&SEP pretende ser un valiente experimento en Cine de Entrada y Salida, sea lo que sea eso.					
 				S:S&SEP es un enfoque fresco al videojuego de aventuras de la vieja escuela con énfasis en el estilo audiovisual.					
 				S:S&SEP se inspira en el trabajo de creadores pioneros de videojuegos Shigeru Miyamoto, Jordan Mechner, Eric Chahi y Fumito Ueda.					
 				S:S&SEP es un sueño febril de Famicom.			38	082.jpg	28B24

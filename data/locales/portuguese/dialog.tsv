@@ -61,13 +61,13 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&SEP não produz a experiência transcen
 				Falemos sobre a preparação e o ambiente para uma experiência positiva com esta obra altamente psicoativa Superbrothers: Sword & Sworcery EP.					
 				A consciência expandida, o potencial ilimitado da mente, é o que chamamos de 'sworcery' (ou espadância) em Superbrothers. #espadancia					
 				A espadância pode ser entendida como uma técnica psiônica que permite perceber uma realidade dentro daquela que você já conhece.					
-				Para parar a Canção da Espadância, toque duas vezes na aura que envolve A Citiana.					
+				Para parar a Canção da Espadância, toque duas vezes na aura que envolve a Citiana.					
 				Depois de entoada, mantenha a aura de espadância pressionada e deslize para olhar ao redor.					
-				Para entoar a Canção da Espadância, mantenha A Citiana pressionada por um momento e observe a aura de espadância se reunir.					
+				Para entoar a Canção da Espadância, mantenha a Citiana pressionada por um momento e observe a aura de espadância se reunir.					
 				Como vê, o Megatomo coleta transmissões de pensamento linguístico. Role para ver meus pensamentos prévios.					
 ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muito bem, você aprendeu a Canção da Espadância e agora o inescrutável poder do Megatomo é seu."""			47	012.jpg	31E2F
-			adventureUI/megatomeItem	"""O Megatomo intercepta transmissões de pensamento linguístico e contém pistas para sua funesta missão."""					
-			adventureUI/megatomeItem	"""Algo me passa pela mente agora... que tal abrir o Megatomo e buscar em minha mente?"""					
+			adventureUI/megatomeItem	"""O Megatomo intercepta transmissões de pensamento linguístico e contém tudo o que precisa para sua funesta missão."""					
+			adventureUI/megatomeItem	"""Estou pensando em algo agora mesmo... que tal abrir o Megatomo e me procurar para ler minha mente?"""					
 				"""Procure um triângulo branco no canto superior direito; toque nele e equipe o Megatomo para revelar o oculto."""					
 LOGFELLA_STORM	The Scythian			Troncadeiro parou de cortar lenha devido à sinistra tempestade. #botasmolhadas					
 			adventureUI/megatomeItem	Nos lembrou de como a tempestade havia estourado logo depois que recuperamos o Megatomo sob Mingi Taw.					
@@ -82,7 +82,7 @@ ARCHETYPE_SWORCERY	The Archetype			"""Chegou a hora de aprender a Canção da Es
 			gourd/gourd	"""Mantenha a calma e siga minhas instruções para despertar o espírito silvano que dorme nas frescas águas da insondável lagoa."""					
 ARCHETYPE_TADPOLES	The Archetype			Estava 100% claro que o homem de roupas estranhas esperava que fizéssemos algo, mas não tínhamos a menor ideia do quê.					
 			gourd/gourd	"""Você vê as sussurrantes espumas na insondável lagoa? Um espírito silvano dorme ali e você deve despertá-lo."""					
-			gourd/gourd	"""Mantenha A Citiana pressionada para entoar a Canção da Espadância e acessar uma realidade dentro daquela que você já conhece."""					
+			gourd/gourd	"""Mantenha a Citiana pressionada para entoar a Canção da Espadância e acessar uma realidade dentro daquela que você já conhece."""					
 			gourd/gourd	"""Guie as duas pequenas criaturas nadando em direção ao local onde o espírito dorme e envie-o ao céu com três toques de espadância."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Samae se abrigava da chuva sob o amplo telhado de madeira do poço.					
 				Ela abandonou o conforto do fogo na cabana porque, aparentemente, Troncadeiro estava surtando.					
@@ -199,8 +199,8 @@ ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos na vigília e na psicocosmolo
 				Procure um fogo acolhedor e deixe o sono envolvê-lo para descobrir o limiar da liminaridade.					
 ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	Que tal sentar-se junto ao fogo na cabana e atravessar o limiar da liminaridade para encontrar a chave perdida de Troncadeiro?			55	031.jpg	23C1X
 GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Nossa, o Troncadeiro está surtando... O que será que ele tem? Melhor eu sair e deixá-lo em paz.					
-				Vi A Citiana entoar a Canção da Espadância e enviar três espíritos silvanos ao céu. Será que eles ajudarão a dissipar a tempestade?					
-LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que A Citiana possa encontrar minha chave... eu a perdi na margem arenosa de um aprazível lago.			62	032.jpg	U3A20
+				Vi a Citiana entoar a Canção da Espadância e enviar três espíritos silvanos ao céu. Será que eles ajudarão a dissipar a tempestade?					
+LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que a Citiana possa encontrar minha chave... eu a perdi na margem arenosa de um aprazível lago.			62	032.jpg	U3A20
 LOGFELLA_LOSTKEYTHOUGHTS	Logfella			Que saco! Queria que não estivesse chovendo... Queria não estar com as botas tão molhadas... Queria poder voltar a cortar lenha.					
 				Era só o que me faltava! Onde foi parar minha chave? Estou com uma raiva e uma vergonha que nem eu me aguento!					
 LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Troncadeiro mostrou-se aliviado de verdade por termos recuperado sua chave perdida do reino crepuscular dos sonhos.					
@@ -297,31 +297,31 @@ ARCHETYPE_TRIFECTAINTRO	The Archetype
 				Advertimos que, daqui em diante, estaremos monitorando suas ações em relativo silêncio.					
 ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	Então você conseguiu domar os dois Trígonos restantes e reconstruiu a Tríade Trigônica?			165	046.jpg	P4B6A
 			Archetype/trifecta	Você é especial e por isso mesmo eu te adoro tanto.					
-				Foi um ato de grande bravura e generosidade oferecer A Citiana como mártir no topo de Mingi Taw.					
+				Foi um ato de grande bravura e generosidade oferecer a Citiana como mártir no topo de Mingi Taw.					
 				Sério, estamos em dívida com você.					
-				Só resta arrastar à força A Citiana até o topo e contemplar o Remoinhado Infinito.					
+				Só resta arrastar à força a Citiana até o topo e contemplar o Remoinhado Infinito.					
 				Tenha coragem, o fim está próximo!					
 ARCHETYPE_GHOULINTRO	The Archetype								
 				Bem, aqui estamos. Esta breve sessão marcará o fim do tratamento de S:S&SEP.					
 				A funesta missão da Citiana está quase cumprida.					
 				Infelizmente, o corpo e a psique da Citiana foram gravemente exauridos pela espadância... ela está às portas da morte.			162	047.jpg	J4F7B
-			Archetype/trifecta	Tudo o que resta é revelar os segredos da Clareira Trigônica e subir o Megatomo para o Remoinhado Infinito no topo de Mingi Taw.					
+			Archetype/trifecta	Tudo o que resta é revelar os segredos da Clareira Trigônica e carregar o Megatomo para o Remoinhado Infinito no topo de Mingi Taw.					
 				Pressione 'Jogar' apenas se tiver a coragem de testemunhar o atroz tormento do martírio.					
 END	The Scythian			No topo de Mingi Taw detonamos o Megatomo e o ejetamos no Remoinhado Infinito.					
-END_CHEAT	The Scythian			No topo de Mingi Taw subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaca					
-END_CHEAT_NOBOOR	The Scythian			No topo de Mingi Taw subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaca #sempatife					
-END_CHEAT_PSYCHO	The Scythian			No topo de Mingi Taw subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaca #psicopata					
-END_CHEAT_LOVE	The Scythian			No topo de Mingi Taw subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaca #amor			202	048.jpg	D4A81
-END_MOONGROTTO_PSYCHO	The Scythian			No topo de Mingi Taw subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #grutalunar #psicopata			180	049.jpg	74D9P
-END_MOONGROTTO_LOVE	The Scythian			No topo de Mingi Taw subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #grutalunar #amor			176	050.jpg	Y5F0P
-END_HONEST_PSYCHO	The Scythian			No topo de Mingi Taw subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #psicopata			179	051.jpg	M5C1H
-END_HONEST_LOVE	The Scythian			No topo de Mingi Taw subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #amor			177	052.jpg	55E2B
-END_HONEST_NOBOOR	The Scythian			No topo de Mingi Taw subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #sempatife			178	053.jpg	75G3V
-GIRL_GHOULTHOUGHTS	Girl			Será que A Citiana sabe que é possível deter a Massa Gogolítica tocando sua caveira com espadância? Provavelmente não.					
-				Espero que A Citiana saiba que deve manter o caminho pressionado para se remexer a toda velocidade... se não o fizer, estará frita.					
+END_CHEAT	The Scythian			No topo de Mingi Taw carregamos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaca					
+END_CHEAT_NOBOOR	The Scythian			No topo de Mingi Taw carregamos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaca #sempatife					
+END_CHEAT_PSYCHO	The Scythian			No topo de Mingi Taw carregamos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaca #psicopata					
+END_CHEAT_LOVE	The Scythian			No topo de Mingi Taw carregamos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaca #amor			202	048.jpg	D4A81
+END_MOONGROTTO_PSYCHO	The Scythian			No topo de Mingi Taw carregamos o Megatomo para a segurança eterna do Remoinhado Infinito. #grutalunar #psicopata			180	049.jpg	74D9P
+END_MOONGROTTO_LOVE	The Scythian			No topo de Mingi Taw carregamos o Megatomo para a segurança eterna do Remoinhado Infinito. #grutalunar #amor			176	050.jpg	Y5F0P
+END_HONEST_PSYCHO	The Scythian			No topo de Mingi Taw carregamos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #psicopata			179	051.jpg	M5C1H
+END_HONEST_LOVE	The Scythian			No topo de Mingi Taw carregamos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #amor			177	052.jpg	55E2B
+END_HONEST_NOBOOR	The Scythian			No topo de Mingi Taw carregamos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #sempatife			178	053.jpg	75G3V
+GIRL_GHOULTHOUGHTS	Girl			Será que a Citiana sabe que é possível deter a Massa Gogolítica tocando sua caveira com espadância? Provavelmente não.					
+				Espero que a Citiana saiba que deve manter o caminho pressionado para se remexer a toda velocidade... se não o fizer, estará frita.					
 				Onde estou? O que aconteceu? A última coisa que me lembro é de estar caminhando em sonhos pela floresta quando vi uma perturbadora luz rosa.					
 LOGFELLA_GHOULTHOUGHTS	Logfella			A Citiana continua falando sobre sua funesta missão de abrir uma entrada para o Remoinhado Infinito no topo de Mingi Taw.					
-				Tudo tem sido uma loucura lunática desde que A Citiana apareceu há muitas luas.					
+				Tudo tem sido uma loucura lunática desde que a Citiana apareceu há muitas luas.					
 LOGFELLA_GHOUL	The Scythian			Perto da Clareira Trigônica, acordamos atordoados de um profundo sono, com Troncadeiro ao nosso lado.			88	054.jpg	J5D44
 				Ele nos contou que Samae havia desaparecido na noite anterior.					
 				O lenhador sabia que nosso fim estava próximo e que precisávamos voltar a Mingi Taw para cumprir nossa funesta missão.					
@@ -356,10 +356,10 @@ GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Au Au Au Au Au Au. #la
 				Au Snif Au. #paravariar					
 				Au Au Au Au Au Au.					
 GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Ainda assim, há algo estranho no comportamento da Citiana; parecia como se uma força invisível a controlasse.					
-				Gostaria de saber mais sobre A Citiana e sua épica história, aposto que então tudo faria sentido.					
-GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que A Citiana esteja cuidando daquela história dos espíritos silvanos.					
+				Gostaria de saber mais sobre a Citiana e sua épica história, aposto que então tudo faria sentido.					
+GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que a Citiana esteja cuidando daquela história dos espíritos silvanos.					
 				Essa bendita tempestade tá me deixando pra baixo, queria que existisse videogame na... época em que supostamente estamos.					
-GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Tudo tem sido uma loucura lunática desde que A Citiana apareceu.			3	062.jpg	36E2Z
+GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Tudo tem sido uma loucura lunática desde que a Citiana apareceu.			3	062.jpg	36E2Z
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Essa tempestade toda estava me afetando muito. Estava tudo tããão lúgubre!					
 				Finalmente está parando de chover e o céu está abrindo... Será que a época dos milagres chegou? Tomara que sim, eu amo milagres.					
 				Eita... o quê? As ovelhas na campina estão assustadas... Eu me pergunto o que acontece, poderia ser... O Trígono Dourado?					
@@ -432,7 +432,7 @@ SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			O lenhador e sua filha nos obs
 GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae ouviu em silêncio nossa estranha história do encontro com o Trígono Dourado.					
 			triangle/Triangle	Ela se perguntou sobre os segredos da Clareira Trigônica além da caverna cavernosa na campina... poderia haver alguma conexão?					
 GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Estou muito preocupada com a Citiana... ela sumiu por dias depois que a tempestade se dissipou. Tomara que esteja bem.					
-GIRL_URSULAMEADOW_OFF	Girl			Nossa, então A Citiana estava desacordada na campina? Que loucura.					
+GIRL_URSULAMEADOW_OFF	Girl			Nossa, então a Citiana estava desacordada na campina? Que loucura.					
 DOGFELLA_GETDARKTRIGON	The Scythian			Depois de ativar outro facho celestial na Clareira Trigônica, notamos algo estranho no cachorro chamado Cachorreiro.					
 			Archetype/trifecta	De repente, parecia que o entendíamos: nos instigou a buscar o Trígono da Lua Sombria e completar a Tríade Trigônica.					
 DOGFELLA_GETBRIGHTTRIGON	The Scythian			Depois de ativar outro facho celestial na Clareira Trigônica, notamos algo estranho no cachorro chamado Cachorreiro.					
@@ -606,7 +606,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Alguns recursos de arte redimensionados e sorrisos fornecidos por Vic 'Meow' Nguyen na Capy.					
 				Controle de qualidade (QA) adicional: o único e inigualável Aaron Eves.					
 				Suporte de QA para Nintendo Switch cortesia de Testronic Labs.					
-				Suporte de QA por Roopesh Pawar. A, Prashanth. DR, Veeresh Kuruva, Raghunath. BG e Roshan R Shekar da Sun technology Integrators Pvt. Ltd.					
+				Suporte de QA por Roopesh Pawar. A, Prashanth. DR, Veeresh Kuruva, Raghunath. BG e Roshan R Shekar da Sun Technology Integrators Pvt. Ltd.					
 				Obrigado a Xavier Xaden Xen, Joseppe Theodore Blocco e Hank Hudson.					
 				Biscoitos e outras delícias fornecidas por Thea Gaerlan.					
 				* * * APOIO DA SUPERBROTHERS * * *					
@@ -667,7 +667,7 @@ ARCHETYPE_CREDITS	The Archetype
 				A Capy lançou o maravilhoso Grindstone em 2019 e continua adicionando conteúdo para os jogadores (Apple Arcade + Switch + PlayStation + PC + Xbox).					
 				Enquanto isso, em 2023, a equipe está cozinhando um delicioso novo jogo em seu caldeirão de jogos.					
 				* * * O QUE É S:S&SEP? * * *					
-				S:S&SEP pretende ser um corajoso experimento em Input Output Cinema, seja lá o que isso signifique.					
+				S:S&SEP pretende ser um corajoso experimento em Cinema de Entrada e Saída, seja lá o que isso signifique.					
 				S:S&SEP é uma abordagem fresca ao videogame de aventura da velha guarda com ênfase no estilo audiovisual.					
 				S:S&SEP se inspira no trabalho de criadores pioneiros de videogames Shigeru Miyamoto, Jordan Mechner, Eric Chahi e Fumito Ueda.					
 				S:S&SEP é um sonho febril de Famicom.			38	082.jpg	28B24
