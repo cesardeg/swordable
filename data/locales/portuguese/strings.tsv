@@ -155,8 +155,8 @@ CNTRL_POINT_TO_MOVE_CURSOR	APONTAR PARA MOVER O CURSOR
 CNTRL_ATTACK_JOY	<switch_button_faceright> / <switch_button_l> / <switch_button_r> TOCAR/ESPADA	
 CNTRL_TOGGLESWORD_JOY	<switch_button_facedown> ALTERNAR ESPADA/DEFESA	
 CNTRL_TOGGLE_ZOOM_JOY	<switch_button_faceleft> ALTERNAR ZOOM	
-CALIB_FLATSURFACE	COLOQUE O JOY-CON EM UMA SUPERFÍCIE PLANA ATÉ QUE ESTEJA IMÓVEL.	
-CALIB_PICKUP	PEGUE O JOY-CON.	
+CALIB_FLATSURFACE	COLOQUE O JOY-CON EM UMA SUPERFÍCIE PLANA ATÉ QUE ESTEJA IMÓVEL	
+CALIB_PICKUP	PEGUE O JOY-CON	
 CALIB_POINT	SEGURE O JOY-CON COMO MOSTRADO E APONTE PARA A TELA. PRESSIONE <switch_button_faceup> PARA CENTRALIZAR O CURSOR.	
 CALIB_RECENTER	LEMBRE-SE: PRESSIONE <switch_button_faceup> PARA CENTRALIZAR O CURSOR QUANDO QUISER. PRESSIONE QUALQUER BOTÃO PARA CONTINUAR.	
 SAVING_NINSWITCH	SALVANDO	
@@ -176,8 +176,8 @@ PHOTOSENSITIVIY_MSG_NINSWITCH	Uma pequena porcentagem de indivíduos pode sofrer
 PHOTOSENSITIVIY_MSG_NINSWITCH2	Se você ou alguém da sua família tem uma condição epilética, consulte seu médico antes de jogar. Se você sentir algum dos seguintes sintomas enquanto joga um videogame: tontura, visão alterada, espasmos oculares ou musculares, perda de consciência, desorientação, qualquer movimento involuntário ou convulsões - interrompa o uso imediatamente e consulte seu médico antes de retomar o jogo.	
 POINTCLICK_CURSORSENS_NINSWITCH	SENSIBILIDADE DO PONTEIRO	
 FAM_CURSOR_NOT_USED	Sensibilidade do ponteiro FAMICOM	
-POINTCLICK_PROMPT_NINSWITCH	O modo Apontar e Clicar permite que você jogue com um único Joy-Con como ponteiro. Este modo é melhor aproveitado quando jogado em uma televisão. Tem certeza de que deseja ativar o modo Apontar e Clicar?	
-POINTCLICK_PROMPT_ALT_NINSWITCH	O modo Apontar e Clicar permite que você jogue com um único Joy-Con como ponteiro e é melhor aproveitado quando jogado em uma televisão. Tem certeza de que deseja ativar os controles de Apontar e Clicar?	
+POINTCLICK_PROMPT_NINSWITCH	O modo Apontar e Clicar permite que você jogue com um único Joy-Con como ponteiro. Este modo é mais bem aproveitado quando jogado em uma televisão. Tem certeza de que deseja ativar o modo Apontar e Clicar?	
+POINTCLICK_PROMPT_ALT_NINSWITCH	O modo Apontar e Clicar permite que você jogue com um único Joy-Con como ponteiro e é mais bem aproveitado quando jogado em uma televisão. Tem certeza de que deseja ativar os controles de Apontar e Clicar?	
 SWAP_STICKS_NINSWITCH	INVERTER ANALÓGICOS	
 PLAY_MENU_NINSWITCH	JOGAR	
 CREDITS_MENU_NINSWITCH	CRÉDITOS	
@@ -208,7 +208,7 @@ UNSHEATHE_USE_SHIELD_NINSWITCH	DESEMBAINHAR/USAR ESCUDO
 CNTRLINFO_CANCEL_NINSWITCH	<switch_button_b> CANCELAR	
 CNTRLINFO_CANCEL_ALT_NINSWITCH	<switch_button_facedown> CANCELAR	
 CNTRLINFO_CONTINUE_ALT_NINSWITCH	<switch_button_faceright> CONTINUAR	
-TOUCH_NINSWITCH	TOQUE	
+TOUCH_NINSWITCH	TÁTIL	
 FAMICOM_CONTROLS_BLURB_ALT_NINSWITCH	JOGUE COM UM CONTROLE OU EM MODO PORTÁTIL.	
 TOUCHTRONIC_CONTROLS_BLURB_ALT_NINSWITCH	NO MODO PORTÁTIL VOCÊ TAMBÉM PODE USAR OS CONTROLES DE TOQUE.	
 CONTROLLER_CONTROLS_NINSWITCH	CONTROLE	
@@ -227,6 +227,7 @@ LBL_MOVECURSOR_ALT	MOVER CURSOR <switch_button_rightanalogstick>
 	MOVIMENTO	
 	JOGADOR	
 	CURSOR	
+PORTUGUESE_SPECIAL	Á á Â â Ã ã À à Ç ç É é Ê ê Í í Ó ó Ô ô Õ õ Ú ú º ª « » ‹ › €	
 TWITTER_SELECT_BUTTON	SELECIONAR	
 TWITTER_SELECT_MSG	"POR FAVOR, SELECIONE UMA CONTA DO TWITTER"	
 TWITTER_NO_ACCOUNTS	Configure o Twitter em seu dispositivo	
