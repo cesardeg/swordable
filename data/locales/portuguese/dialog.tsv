@@ -1,5 +1,5 @@
 id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
-GIRL_TONGUES	Girl			Longe das estepes assoladas pela guerra da Cítia, encontramos uma garota de cabelos escuros em uma campina iluminada pelo sol. #olamundo			72	001.jpg	Z0E1Q
+GIRL_TONGUES	Girl			Longe das estepes da Cítia, assoladas pela guerra, encontramos uma garota de cabelos escuros em uma campina iluminada pelo sol. #olamundo			72	001.jpg	Z0E1Q
 				Os montanheses do Cáucaso a chamavam de Samae e ela parecia simpática. #obvio					
 SIGN_TADPOL	The Scythian			"""Onde a lareira arde, o lar faz alarde."" #threegutrecordsprasempre"					
 SIGN_WALL	The Scythian			"""Cítia, Ciméria, Assíria e Pérsia, todos são reinos dos homens. Mingi Taw é o Reino da Nuvem."""					
@@ -11,7 +11,7 @@ SIGN_BIRDTREEDECIPHERED	The Scythian			Por uma trilha lateral, encontramos uma p
 				"Os pictogramas falavam de um lugar secreto perto daqui ""...onde se podia alterar o humor da lua""."					
 				Será que é a Gruta Lunar...? #grutalunar #queisso #eummisterio			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			À beira do antigo caminho, nos deparamos com uma pedra talhada com um par de glifos em forma de espada e escudo. #ficaadica			16	004.jpg	T0C4X
-SIGN_ANTECHAMBERLEFT	The Scythian			Num corredor subterrâneo, descobrimos uma estátua ominosa, mas não nos preocupamos muito com isso. #folclore			29	005.jpg	V0B53
+SIGN_ANTECHAMBERLEFT	The Scythian			Num corredor subterrâneo, descobrimos uma estátua ominosa, mas não nos preocupamos muito com isso. #historias			29	005.jpg	V0B53
 INFO_CROSSMOUNTAINLEFT	The Scythian			Na encosta rochosa de Mingi Taw, uma tumba solitária marcava o fim do caminho de cascalho.					
 INFO_CROSSMOUNTAINRIGHT	The Scythian			Na encosta rochosa de Mingi Taw, uma tumba solitária marcava o fim do caminho de cascalho.					
 INFO_RIDGESKULLPOLE	The Scythian			Na crista escarpada a caminho do topo de Mingi Taw, erguia-se um sinistro poste decorado com uma caveira galhada.					
@@ -40,7 +40,7 @@ LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Troncadei
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		O lenhador tinha visto algum tipo de monstro assustador e decidiu deixar que nós cuidássemos disso.			26	010.jpg	Q1B00
 LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Recuperamos o Megatomo e Troncadeiro estava 100 % pronto para se remexer até seu refúgio seguro.					
 				Apesar da tempestade que se formava, uma pequena canção começou a brotar em nosso coração.					
-LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		À luz da iminente tempestade, Troncadeiro admitiu que sentia um frio na espinha.					
+LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		Diante da iminente tempestade, Troncadeiro admitiu que sentia um frio na espinha.					
 				Estaria tentando nos assustar de propósito? #sim #nao #talvez					
 				De qualquer forma, o mais sensato era ficar no abrigo por um tempo.					
 QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos o Megatomo e somos os mais espertos! #tenhomegatomo			40	011.jpg	81C1E
@@ -61,14 +61,14 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&SEP não produz a experiência transcen
 				Falemos sobre a preparação e o ambiente para uma experiência positiva com esta obra altamente psicoativa, Superbrothers: Sword & Sworcery EP.					
 				A consciência expandida, o potencial ilimitado da mente, é o que chamamos de 'sworcery' (ou espadância) em Superbrothers.					
 				A espadância pode ser entendida como uma técnica psiônica que permite perceber uma realidade dentro daquela que você já conhece.					
-				Para parar a Canção da Espadância, toque duas vezes na aura que envolve a Citiana.					
+				Para parar a Canção da Espadância, pressione duas vezes a aura que envolve a Citiana.					
 				Depois de entoada, mantenha a aura de espadância pressionada e deslize para olhar ao redor.					
 				Para entoar a Canção da Espadância, mantenha a Citiana pressionada por um momento e observe a aura de espadância se reunir.					
 				Como vê, o Megatomo coleta transmissões de pensamento linguístico. Role para ver meus pensamentos prévios.					
 ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muito bem, você aprendeu a Canção da Espadância e agora o inescrutável poder do Megatomo é seu."""			47	012.jpg	31E2F
 			adventureUI/megatomeItem	"""O Megatomo intercepta transmissões de pensamento linguístico e contém tudo o que precisa para sua funesta missão."""					
 			adventureUI/megatomeItem	"""Estou pensando em algo agora mesmo... que tal abrir o Megatomo e me procurar para ler minha mente?"""					
-				"""Procure um triângulo branco no canto superior direito; toque nele e equipe o Megatomo para revelar o oculto."""					
+				"""Procure um triângulo branco no canto superior direito; pressione-o e equipe o Megatomo para revelar o oculto."""					
 LOGFELLA_STORM	The Scythian			Troncadeiro parou de cortar lenha devido à sinistra tempestade. #botasmolhadas					
 			adventureUI/megatomeItem	Nos lembrou de como a tempestade havia estourado logo depois que recuperamos o Megatomo sob Mingi Taw.					
 				Será que ele estava insinuando sem muita sutileza que devíamos tentar dissipar a tempestade? #sim #nao #talvez					
@@ -88,7 +88,7 @@ GIRL_LOSTKEY	The Scythian			Samae se abrigava da chuva sob o amplo telhado de ma
 				Ela abandonou o conforto do fogo na cabana porque, aparentemente, Troncadeiro estava surtando.					
 INFO_BIRDEYESCULPTURE	The Scythian			Notamos uma escultura de um pássaro zangado que se erguia sobre a campina. #sutilreferencia			6	014.jpg	F1D48
 INFO_MEADOWSHEEP	The Scythian			Observamos algumas ovelhas inúteis vadiando na campina. #ovelhasinuteis					
-INFO_CABINSHEEP	The Scythian			Outra ovelha inútil, por que continuamos olhando para elas? #ovelhasinuteis					
+INFO_CABINSHEEP	The Scythian			Outra ovelha inútil, por que continuamos olhando para ela? #ovelhasinuteis					
 INFO_MEADOWSUN	The Scythian			Lembramos perfeitamente de quão incrível o sol parecia naquele dia de início de primavera.					
 INFO_MEADOWGATE	The Scythian			Na campina, nos deparamos com um inamovível portão de ferro que bloqueava uma caverna colossal.					
 INFO_MEADOWGATEACTIVE	The Scythian			Observamos o portão de ferro da campina e tivemos a sensação de que talvez pudéssemos erguê-lo de alguma forma.					
@@ -219,7 +219,7 @@ GIRL_FOUNDKEY	The Scythian			Por uma trilha lateral, encontramos Samae, completa
 			gourd/gourd	Mencionou uns tênues arco-íris que surgiam à beira do Precipício Perigoso.					
 			adventureUI/megatomeItem	...e então, angustiada, sugeriu que consultássemos o Megatomo caso nos sentíssemos perdidos ou desorientados.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Tô super de boa com a Citiana ficar com a chave se isso significa que ela vai dissipar a tempestade.					
-				Devo ter dado uma cochilada em algum momento da história super épica da Citiana. Minha tolerância para folclore é zero.					
+				Devo ter dado uma cochilada em algum momento da história super épica da Citiana. Não sou muito de histórias.					
 				Perguntei na lata para a Citiana sobre sua funesta missão... e ela veio com um papo sobre estepes e o dedo de Deus.					
 GIRL_FOUNDKEYTHOUGHTS	Girl			Mais um ou dois espíritos silvanos enviados ao céu dissiparão a incessante tempestade... e então a época dos milagres começará! #milagres			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			Ao caminhar em sonhos, há uma calma emocionante quando a lua brilha mais... e quando está escura, as florestas se tornam selvagens.					
@@ -284,7 +284,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	Excelente! Você localizou e domou a geometria cósmica do Trígono Dourado.			86	044.jpg	24E4H
 				Milagrosamente, a sinistra tempestade se dissipou e o glorioso sol voltou ao reino, o que é realmente incrível!					
 				Suas façanhas refletem bem sua percepção, intuição e perseverança. Você se saiu muito bem até agora!					
-				Observação: Se você decidir continuar com o experimento S:S&SEP, essas mesmas qualidades serão desafiadas e avaliadas.					
+				Observação: Se você decidir continuar com o experimento S:S&SEP, essas mesmas qualidades serão postas à prova e avaliadas.					
 				De qualquer forma, vamos fazer outra pequena pausa, tudo bem? Como sempre, estarei aqui quando você quiser começar a Sessão III.					
 ARCHETYPE_TRIFECTAINTRO	The Archetype								
 				Vamos começar com a Sessão III. Observação: Esta sessão geralmente leva um mês lunar para ser concluída.					
@@ -492,11 +492,11 @@ GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae viu a chave que encont
 				Não tinha nenhuma outra ideia, mas nos lembramos de algo que vimos no antigo caminho para Mingi Taw.					
 ARCHETYPE_GROTTOPARADOX	The Archetype								
 				Uma vez que o humor da lua foi alterado na Gruta Lunar, o					
-ARCHETYPE_KILLBOOR	The Archetype			Agora, imagino que você esteja se perguntando para que serve essa chave. Para ser honesto, não faço ideia.			119	075.jpg	87C5S
+ARCHETYPE_KILLBOOR	The Archetype			Agora, imagino que você esteja se perguntando para que serve essa chave. Pra ser sincero, não faço a menor ideia.			119	075.jpg	87C5S
 				Não estou sugerindo que você tenha tendências sociopatas... hehe... Sei que você tinha suas razões, né? #opatifegrisalho					
 				Incluímos o Patife Grisalho no S:S&SEP para tentar os participantes a se identificarem como sociopatas violentos.					
 				Me informaram que o Patife Grisalho foi assassinado... Você sabe algo a respeito? #matanca					
-ARCHETYPE_SPAREBOOR	The Archetype			Agora, imagino que você esteja se perguntando para que serve essa chave. Para ser honesto, não faço ideia.			119	075.jpg	87C5S
+ARCHETYPE_SPAREBOOR	The Archetype			Agora, imagino que você esteja se perguntando para que serve essa chave. Pra ser sincero, não faço a menor ideia.			119	075.jpg	87C5S
 				Sim, isso mesmo, é incrível e te amamos demais por isso!					
 				Incluímos o Patife Grisalho no S:S&SEP para permitir que os participantes se identifiquem como pessoas compassivas e razoáveis.					
 				Me informaram que permitiram que o Patife Grisalho escapasse ileso. É uma notícia encorajadora.					
@@ -504,7 +504,7 @@ LOGFELLA_FOUNDATION	Logfella	AdventureUI/tweetIconBabelBook		...
 				...					
 				...					
 SCYTHIAN_FOUNDATION	The Scythian			Despertamos um espírito silvano em uma insondável lagoa com lírios diante da cabana de pedra. Não sabemos o que significa.					
-				Com uma incessante tempestade sobre nós, aprendemos a entoar a Canção da Espadância e a despertar um espírito silvano adormecido.					
+				Sob uma incessante tempestade, aprendemos a entoar a Canção da Espadância e a despertar um espírito silvano adormecido.					
 				Espere... por que estou falando no singular? Não era para a história ser no plural? #erratadeedicao					
 				Meus pensamentos estão mesmo em ordem? Será que pensei isso há poucos segundos...?					
 				Isso é o Megatomo? Ele absorve 'transmissões de pensamento linguístico'? Estou lendo meus pensamentos enquanto os penso? Hmm...					
@@ -539,21 +539,21 @@ LOGFELLA_BRIGHTMOON	The Scythian			O lenhador admitiu que seu cachorro se compor
 GIRL_BRIGHTMOON	The Scythian			Samae falou sobre caminhadas oníricas pela floresta pouco antes do amanhecer, enquanto a Lua Radiante pairava no céu.					
 				Ela mencionou o ar fresco da manhã e uma ilha impossível no meio de um aprazível lago.					
 ARCHETYPE_BRIGHTMOON	The Archetype			Saia lá fora e olhe para cima. Maravilhe-se com a Lua Radiante que paira no céu!			95	079.jpg	07D95
-LOGFELLA_ALMOSTWANE	The Scythian			O lenhador não aguentava muito folclore e admitiu que costumava dormir, embora, apesar de tudo, soubesse bastante do assunto.					
+LOGFELLA_ALMOSTWANE	The Scythian			O lenhador não era muito de histórias e admitiu que elas costumavam lhe dar sono, embora, apesar de tudo, soubesse bastante do assunto.					
 				Conhecia todos os detalhes sobre Mingi Taw e por que era conhecido como o Reino da Nuvem.					
 				Ele sabia que Mingi Taw era a montanha mais alta do mundo conhecido, ainda mais alta que o Monte Olimpo, onde habitavam os deuses aqueus.					
 				Além disso, ele sabia que o topo de Mingi Taw, sempre envolto em nuvens, era considerado a entrada para o Remoinhado Infinito.					
 				O lenhador nunca ousou colocar os pés nas encostas malditas de Mingi Taw, e nunca o faria.					
 GIRL_ALMOSTWANE	The Scythian			Samae se perguntou por que tantos cogumelos cresciam logo antes e depois da Lua Radiante... Qual seria o motivo?					
 ARCHETYPE_ALMOSTWANE	The Archetype			A lua está um pouco menos brilhante do que ontem, e o ciclo lunar começa a chegar ao fim.					
-LOGFELLA_HALFWANE	The Scythian			O lenhador não aguentava muito folclore e admitiu que costumava dormir, embora, apesar de tudo, soubesse bastante do assunto.					
+LOGFELLA_HALFWANE	The Scythian			O lenhador não era muito de histórias e admitiu que elas costumavam lhe dar sono, embora, apesar de tudo, soubesse bastante do assunto.					
 				Explicou que, na Cítia e na Pérsia, Mingi Taw era conhecido como A Montanha Eterna.					
 				Contou como, há séculos, uma raça esquecida havia talhado um templo na rocha viva sob Mingi Taw.					
 				Mencionou os corredores subterrâneos sob Mingi Taw e os espaços cavernosos escavados na rocha viva.					
 				Segundo ele, tais cavernas foram criadas há séculos para proteger o Megatomo.					
 GIRL_HALFWANE	The Scythian			Samae disse ter caminhado além do muro de pedra e sentido a terrível presença da Massa Gogolítica.			30	080.jpg	V8B04
 ARCHETYPE_HALFWANE	The Archetype			O ciclo lunar está chegando ao fim e falta menos de uma semana para a Lua Sombria.					
-LOGFELLA_CRESCENTWANE	The Scythian			O lenhador não aguentava muito folclore e admitiu que costumava dormir, embora, apesar de tudo, soubesse bastante do assunto.					
+LOGFELLA_CRESCENTWANE	The Scythian			O lenhador não era muito de histórias e admitiu que elas costumavam lhe dar sono, embora, apesar de tudo, soubesse bastante do assunto.					
 				Conhecia a lenda da Massa Gogolítica, o espectro imortal que espreitava nas trevas sob Mingi Taw.					
 				Nos falou sobre o Remoinhado Infinito, além de nossa compreensão, de onde o Megatomo veio na mal lembrada Idade da Pedra.					
 				Ele falou de seres imortais do espaço que despertaram na humanidade uma forma rudimentar de transmissão de pensamento linguístico.					
@@ -583,7 +583,7 @@ ARCHETYPE_CREDITS	The Archetype
 			Logos/superbrothers	Conceito original da organização de arte e design Superbrothers A/V Inc. em superbrothersHQ.com					
 				Músicas e alguns sons pelo amado compositor e roqueiro Jim Guthrie em jimguthrie.org					
 			Logos/capy	Engenharia e milagres pelo estúdio independente de videogames Capy em capybaragames.com					
-			Logos/eightfour	Localização japonesa, marketing, relações públicas e carinho: TODA A EQUIPE da 8-4, Ltd em 8-4.jp					
+			Logos/eightfour	Localização japonesa, marketing, relações públicas e carinho: TODA A EQUIPE da 8-4, Ltd. em 8-4.jp					
 				* * * A EQUIPE DE S:S&SEP * * *					
 				Conceito, arte, design, direção e roteiro por representantes da Superbrothers A/V Inc.					
 				Design, liderança de projeto, apoio incansável e mais: Kris Piotrowski, diretor criativo na Capy.					
@@ -600,7 +600,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Produtor de PC, assistência técnica de áudio, integração FMOD e muitíssimos sons: Sean 'Uber' Lohrisch, cofundador da Capy.					
 				Nintendo Switch Produc-tron e assistência geral de negócios: Matt Repetski, cofundador da Capy.					
 				Controle de qualidade (QA) e megaherói de testes de jogo: Christian 'Sea Dawg' Meyer na Capy.					
-				Programação principal para versão Nintendo Switch e computadores domésticos fornecida por nada menos que Hubert Wong na Capy.					
+				Programação principal para a versão de Nintendo Switch e computadores domésticos fornecida por nada menos que Hubert Wong na Capy.					
 				Conceitos de design, implementação e bruxaria de Nintendo Switch preparados por Sadie Lee na Capy.					
 				Diversas tarefas pesadas, incluindo suporte de programação para PC/Mac/Linux e suporte para Nintendo Switch por Drew Grainge na Capy.					
 				Alguns recursos de arte redimensionados e sorrisos fornecidos por Vic 'Meow' Nguyen na Capy.					
