@@ -96,7 +96,7 @@ INFO_MEADOWGATETRIGONACTIVE	The Scythian			Sobre el portón de hierro distinguim
 INFO_MEADOWGATETRIGON	The Scythian			Sobre el portón de hierro distinguimos un nosequé.					
 INFO_LOCKEDDOORSTONEWALL	The Scythian			En el muro de piedra, una puerta trancada bloqueaba el antiguo camino hacia Mingi Taw y, al parecer, la llave se había perdido en los sueños.					
 INFO_LOOMINGBIRDSCULPTURES	The Scythian			Notamos una escultura de un pájaro enojado que se cernía sobre el prado. #sutilreferencia					
-INFO_MEADOWSUNSTICK	The Scythian			Avistamos un bastón de forma extraña que vigilaba el prado.					
+INFO_MEADOWSUNSTICK	The Scythian			Avistamos un bastón de forma extraña vigilando el prado.					
 INFO_CABINWELL	The Scythian			Avistamos un pozo bien construido con un amplio tejado de madera.					
 INFO_UNWELLWELL	The Scythian			El pozo soltó un sollozo. #pozo #sollozo					
 INFO_WELLNESS	The Scythian			Bien está lo que bien acaba. #pozo #sollozo #bienestar					
@@ -221,13 +221,13 @@ GIRL_FOUNDKEY	The Scythian			Por un sendero lateral encontramos a Samae, empapad
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Por mí, genial que La Escita se quede con la llave si con eso disipa la tormenta.					
 				Debo haberme quedado dormido en algún momento de la historia súper épica de La Escita. No soy mucho de historias.					
 				Le pregunté sin rodeos a La Escita sobre su funesto cometido... y empezó a soltarme un rollo sobre las estepas y el dedo de Dios.					
-GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos espíritus silvanos más enviados al cielo disiparán la incesante tormenta... ¡y entonces será la temporada de milagros! #milagros			129	034.jpg	33A44
+GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos espíritus silvanos más enviados al cielo disiparán esta incesante tormenta... ¡y entonces será la temporada de milagros! #milagros			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			Al caminar en sueños, hay una calma emocionante cuando la luna brilla más... y cuando está oscura, los bosques se vuelven salvajes.					
 				En el sueño siempre son los mismos lugares y rincones... salvo cuando todo cambia por el humor de la luna.					
 				Todas las noches desde que se disipó la tormenta, he tenido el mismo sueño en el que paseo por el bosque poco antes del amanecer.					
 ARCHETYPE_TREEHINT	The Archetype			Recuerda que ingerir hongos del bosque puede brindarte una visión oblicua sobre fenómenos criptozoológicos y cosas por el estilo.					
 				Busca las susurrantes espumas de los espíritus silvanos e investiga su entorno.					
-				Al entonar la Canción de Espadancia, toca con suma suavidad el borde de la pantalla para mirar alrededor (o usa las flechas).					
+				Al entonar la Canción de Espadancia, pulsa con suma suavidad el borde de la pantalla para mirar alrededor (o usa las flechas).					
 ARCHETYPE_TREEHINT_NINSWITCH	The Archetype			Recuerda que ingerir hongos del bosque puede brindarte una visión oblicua sobre fenómenos criptozoológicos y cosas por el estilo.					
 				Busca las susurrantes espumas de los espíritus silvanos e investiga su entorno.					
 				Una vez que hayas entonado la Canción de Espadancia, quizá te convenga mirar a tu alrededor y observar bien el entorno.					
