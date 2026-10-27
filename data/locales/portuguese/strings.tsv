@@ -87,7 +87,7 @@ SLAY	ANIQUILAR?
 ZOOM_CONTROLS	< < <  ZOOM? > > >	
 LOOK_CONTROLS	SEGURE E DESLIZE NA AURA DE ESPADÂNCIA	
 LOOK_CONTROLS_2	SEGURE E DESLIZE PARA OLHAR AO REDOR	
-TONGUE_TEXT	"Incline, desembainhe e erga sua espada cítia em direção ao arco-íris por alguns segundos e tenha fé"	
+TONGUE_TEXT	"Incline, desembainhe e erga sua espada cita em direção ao arco-íris por alguns segundos e tenha fé"	
 TOUCH_HOLD	MANTENHA PRESSIONADO	
 TOUCH_HOLD_ARROW_LEFT	< < MANTENHA PRESSIONADO	
 TOUCH_HOLD_ARROW_RIGHT	MANTENHA PRESSIONADO > >	
@@ -143,18 +143,18 @@ CNTRL_OPEN_INVENTORY	<switch_button_minus> ABRIR INVENTÁRIO
 CNTRL_MOVE_PLAYER	<switch_button_rightanalogstick> MOVER PERSONAGEM	
 CNTRL_MOVE_CAMERA	<switch_button_dpad> MOVER CÂMERA	
 CNTRL_MOVE_CURSOR	<switch_button_leftanalogstick> MOVER CURSOR	
-CNTRL_TOGGLE_ZOOM	<switch_button_y> ALTERNAR ZOOM	
+CNTRL_TOGGLE_ZOOM	<switch_button_y> FAZER ZOOM	
 CNTRL_ATTACK	<switch_button_a> / <switch_button_r> PRESSIONAR/ESPADA	
 CNTRL_TOGGLESWORD	<switch_button_b> ALTERNAR ESPADA/DEFESA	
 CNTRL_TOUCH	PRESSIONAR	
 CNTRL_TAP	<switch_button_r> PRESSIONAR	
 CNTRL_TIPTAP	<switch_button_zr> TIP TAP	
-CNTRL_PINCHZOOM	PINÇAR PARA ALTERNAR ZOOM	
+CNTRL_PINCHZOOM	PINÇAR PARA FAZER ZOOM	
 CNTRL_RECENTER_CURSOR	<switch_button_faceup> CENTRALIZAR CURSOR	
 CNTRL_POINT_TO_MOVE_CURSOR	APONTAR PARA MOVER O CURSOR	
 CNTRL_ATTACK_JOY	<switch_button_faceright> / <switch_button_l> / <switch_button_r> PRESSIONAR/ESPADA	
 CNTRL_TOGGLESWORD_JOY	<switch_button_facedown> ALTERNAR ESPADA/DEFESA	
-CNTRL_TOGGLE_ZOOM_JOY	<switch_button_faceleft> ALTERNAR ZOOM	
+CNTRL_TOGGLE_ZOOM_JOY	<switch_button_faceleft> FAZER ZOOM	
 CALIB_FLATSURFACE	COLOQUE O JOY-CON EM UMA SUPERFÍCIE PLANA ATÉ QUE ESTEJA IMÓVEL	
 CALIB_PICKUP	PEGUE O JOY-CON	
 CALIB_POINT	SEGURE O JOY-CON COMO MOSTRADO E APONTE PARA A TELA. PRESSIONE <switch_button_faceup> PARA CENTRALIZAR O CURSOR.	
@@ -219,7 +219,7 @@ NOTHING_NOPE	Suporte de QA para Nintendo Switch cortesia de Testronic Labs.
 NOTHING_NOPE2	"Suporte adicional de localização japonesa fornecido por Yutaka Ohbuchi, John Ricciardi e Masanobu Suto."	
 LOOK_AROUND_NINSWITCH	OLHAR AO REDOR?	
 OMDC_CHANGE	Este projeto foi possível graças ao apoio financeiro da Ontario Creates.	
-CNTRL_PINCH_Y_ZOOM	PINÇAR / <switch_button_y> ALTERNAR ZOOM	
+CNTRL_PINCH_Y_ZOOM	PINÇAR / <switch_button_y> FAZER ZOOM	
 LBL_MOVEPLAYER	MOVER PERSONAGEM <switch_button_rightanalogstick>	
 LBL_MOVECURSOR	MOVER CURSOR <switch_button_leftanalogstick>	
 LBL_MOVEPLAYER_ALT	MOVER PERSONAGEM <switch_button_leftanalogstick>	

@@ -104,7 +104,7 @@ MOON_TIME_3	hace un rato
 MOON_TIME_4	en días de antaño	
 MOON_TIME_5	hace muchas lunas	
 MOON_TIME_6	hace muchas eras	
-COSMIC_FRIENDS	AHORA SOMOS AMIGOS CÓSMICOS PARA SIEMPRE... ¿VA?	
+COSMIC_FRIENDS	AHORA SOMOS AMIGOS CÓSMICOS PARA SIEMPRE... ¿SÍ?	
 The Scythian	La Escita	
 Girl	Samae	
 Logfella	Tronquero	
@@ -143,18 +143,18 @@ CNTRL_OPEN_INVENTORY	<switch_button_minus> ABRIR INVENTARIO
 CNTRL_MOVE_PLAYER	<switch_button_rightanalogstick> MOVER PERSONAJE	
 CNTRL_MOVE_CAMERA	<switch_button_dpad> MOVER CÁMARA	
 CNTRL_MOVE_CURSOR	<switch_button_leftanalogstick> MOVER CURSOR	
-CNTRL_TOGGLE_ZOOM	<switch_button_y> ALTERNAR ZOOM	
+CNTRL_TOGGLE_ZOOM	<switch_button_y> HACER ZOOM	
 CNTRL_ATTACK	<switch_button_a> / <switch_button_r> PULSAR/ESPADA	
 CNTRL_TOGGLESWORD	<switch_button_b> ALTERNAR ESPADA/DEFENSA	
 CNTRL_TOUCH	PULSAR	
 CNTRL_TAP	<switch_button_r> PULSAR	
 CNTRL_TIPTAP	<switch_button_zr> TIP TAP	
-CNTRL_PINCHZOOM	PELLIZCAR PARA ALTERNAR ZOOM	
+CNTRL_PINCHZOOM	PELLIZCAR PARA HACER ZOOM	
 CNTRL_RECENTER_CURSOR	<switch_button_faceup> CENTRAR CURSOR	
 CNTRL_POINT_TO_MOVE_CURSOR	APUNTAR PARA MOVER EL CURSOR	
 CNTRL_ATTACK_JOY	<switch_button_faceright> / <switch_button_l> / <switch_button_r> PULSAR/ESPADA	
 CNTRL_TOGGLESWORD_JOY	<switch_button_facedown> ALTERNAR ESPADA/DEFENSA	
-CNTRL_TOGGLE_ZOOM_JOY	<switch_button_faceleft> ALTERNAR ZOOM	
+CNTRL_TOGGLE_ZOOM_JOY	<switch_button_faceleft> HACER ZOOM	
 CALIB_FLATSURFACE	COLOCA EL JOY-CON EN UNA SUPERFICIE PLANA HASTA QUE ESTÉ INMÓVIL	
 CALIB_PICKUP	LEVANTA EL JOY-CON	
 CALIB_POINT	SUJETA EL JOY-CON COMO SE INDICA Y APUNTA A LA PANTALLA. PULSA <switch_button_faceup> PARA CENTRAR EL CURSOR.	
@@ -219,7 +219,7 @@ NOTHING_NOPE	Soporte de QA para Nintendo Switch cortesía de Testronic Labs.
 NOTHING_NOPE2	"Soporte adicional de localización japonesa proporcionado por Yutaka Ohbuchi, John Ricciardi y Masanobu Suto."	
 LOOK_AROUND_NINSWITCH	¿OBSERVAR?	
 OMDC_CHANGE	Este proyecto fue posible gracias al apoyo financiero de Ontario Creates.	
-CNTRL_PINCH_Y_ZOOM	PELLIZCAR / <switch_button_y> ALTERNAR ZOOM	
+CNTRL_PINCH_Y_ZOOM	PELLIZCAR / <switch_button_y> HACER ZOOM	
 LBL_MOVEPLAYER	MOVER PERSONAJE <switch_button_rightanalogstick>	
 LBL_MOVECURSOR	MOVER CURSOR <switch_button_leftanalogstick>	
 LBL_MOVEPLAYER_ALT	MOVER PERSONAJE <switch_button_leftanalogstick>	
