@@ -39,32 +39,15 @@ This glossary serves as the **authoritative translation reference** for Superbro
 
 ---
 
-## Grammar & Style Guidelines
-
-### Verb Strategy for "We spied..." (ES/PT)
-
-To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set of synonyms based on the context of the observation. This creates a more dynamic and narrative tone.
-
-| Observation Type | Spanish (ES) Verbs | Portuguese (PT) Verbs | Usage Context |
-|:---|:---|:---|:---|
-| **General Sighting (Default)** | `avistamos`, `vimos` | `avistamos`, `vimos` | The base verb for a neutral observation or the first in a series. |
-| **Discovery / Surprise** | `descubrimos`, `hallamos` | `descobrimos`, `encontramos` | For finding something new, hidden, or important (e.g., a secret statue). |
-| **Chance Encounter** | `dimos con`, `nos topamos con` | `deparamo-nos com` | For stumbling upon an object or character unexpectedly. |
-| **Focused Observation** | `observamos`, `notamos`, `nos percatamos de` | `observamos`, `notamos`, `reparamos em` | For looking at something more closely or noticing a subtle detail. |
-| **Distant / Difficult Sighting**| `divisamos`, `distinguimos` | `distinguimos` | For seeing something far away, in the dark, or in a crowd. |
-
-**Rule of Thumb:** In a sequence of observations in the same area (e.g., `INFO_CABIN*`), vary the verbs to reflect the process of discovery. Start with a general `avistamos` and move to more specific verbs like `notamos` or `descubrimos`.
-
----
-
 ## Characters & NPCs
 
 | English | Spanish (ES) | Portuguese (PT-BR) | Notes |
 |---------|--------------|-------------------|-------|
-| **The Scythian** | La Escita | A Citiana | ✅ Player character |
+| **The Scythian (heroine)** | La Escita | A Citiana | ✅ Player character. In PT, "A Citiana" is preserved to avoid homophonic clash with cita/citar. |
+| **Scythians (demonym / tribe)** | los escitas / escita | os citas / cita | ✅ Demonym for the Scythian people. PT regularized to "citas / cita". |
 | **Logfella** | Tronquero | Troncadeiro | ✅ The woodcutter. See Philosophy section. |
 | **Girl / Samae** | Samae | Samae | ✅ Always "Samae" after introduction |
-| | La chica de cabello oscuro | A garota de cabelo escuro | First appearance description |
+| | La chica de cabello oscuro | A garota de cabelos escuros | First appearance description |
 | **The Archetype** | El Arquetipo | O Arquétipo | ✅ The guide character |
 | **Dogfella** | Perrero | Cachorreiro | ✅ The dog. See Philosophy section. |
 | **Jim Guthrie** | Jim Guthrie | Jim Guthrie | ✅ Never translate proper name |
@@ -103,7 +86,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | iron gate of the meadow | portón de hierro del prado | portão de ferro da campina |
 | cavernous cave of the meadow | cueva cavernosa del prado | caverna colossal da campina |
 | miracle of the meadow | milagro del prado | milagre da campina |
-| titanic hollow tree | titánico árbol hueco | titânica árvore oca |
+| titanic hollow tree | árbol hueco titánico | árvore oca titânica | ✅ Postpositive adjective order (natural Romance syntax) |
 | parliament of trees | Parlamento de Árboles | Parlamento de Árvores |
 
 ---
@@ -117,8 +100,9 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | **shield** | escudo | escudo | ✅ |
 | **key** | llave | chave | ✅ Logfella's lost key |
 | | | | |
-**Gold Trigon** | Trigón Dorado | Trígono Dourado | ✅ First trigon |
-**Bright Moon Trigon** | Trigón de la Luna Radiante | Trígono da Lua Radiante | ✅ Pink/bright trigon |
+| **Gold Trigon** | Trigón Dorado | Trígono Dourado | ✅ First trigon |
+| **Bright Moon Trigon** | Trigón de la Luna Radiante | Trígono da Lua Radiante | ✅ Pink/bright trigon |
+| **Dark Moon Trigon** | Trigón de la Luna Sombría | Trígono da Lua Sombria | ✅ Blue/dark trigon |
 | **The Trigon Trifecta** | La Tríada Trigónica | A Tríade Trigônica | ✅ All three trigons |
 | | | | |
 | hearth | hoguera / fuego | fogo / lareira | ⚠️ PT: `fogo` (fire), `lareira` (hearth) |
@@ -149,6 +133,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | **sonorous spume** | susurrantes espumas | sussurrantes espumas | ✅ Sprite indicators. |
 | **skyward beam** | haz celestial | facho celestial | ✅ Trigon activation. PT: "facho" not "raio" |
 | **miracle** | milagro | milagre | ✅ Special events |
+| **to enact / work a miracle** | obrar un milagro | operar um milagre | ✅ PT: Always "operar" (or "farão um milagre" in rhyme); NEVER "obrar" due to scatological ambiguity |
 
 ### Combat & Actions
 
@@ -159,6 +144,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | swipe | desliza / deslizar | deslizar / deslize | ✅ Gesture |
 | move it move it | mover el bote | remexer | ✅ Fast movement, colloquial |
 | shield button | botón del escudo | botão do escudo | ✅ With article |
+| hold shield to heal | mantén para curarte | segure para se curar | ✅ UI combat text above shield; omitted "escudo" for space and visual redundancy |
 | swing sword | blandir espada | brandir espada | ✅ |
 | dodge/evade | esquivar | esquivar | ✅ |
 
@@ -183,6 +169,7 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | **deathless specter** | espectro inmortal | espectro imortal | ✅ The Gogolithic Mass |
 | **heebie jeebies** | escalofríos | frio na espinha | ✅ Physical sensation of fear |
 | **cosmic friends forever** | amigos cósmicos para siempre | amigos cósmicos para sempre | ✅ Ending phrase |
+| **for glory & for spite** | por la gloria y por puro orgullo | pela glória e por puro orgulho | ✅ Avoids romantic "despecho" and bitter "rencor" |
 | **Time of Woe** | Tiempos de Angustia | Tempos de Angústia | ✅ Session II Theme |
 | | | | |
 | linguistic thought transmission | transmisión de pensamiento lingüístico | transmissão de pensamento linguístico | ✅ |
@@ -340,6 +327,14 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 - ❌ **Standard Prose**: Do NOT use in regular descriptive prose or everyday dialogue to avoid visual clutter.
 - 💡 **Exception (Trigon Collections)**: While milestones generally use `&`, the specific Trigon collection achievements use a deadpan, two-sentence structure without an ampersand (e.g., `Domamos el Trigón Dorado. Somos lo máximo.`) to match the dry humor of the English source.
 
+#### 8. **Postpositive Adjective Order (`árbol hueco titánico`)**
+- ✅ ALWAYS place descriptive adjectives after the noun in natural Romance syntax: **"árbol hueco titánico"** / **"árbol titánico"**.
+- ❌ NEVER use the English anteposition calque: `"titánico árbol hueco"` / `"titánico árbol"`.
+
+#### 9. **Narrative Imperfect vs. Preterite**
+- ✅ Use the imperfect (*pretérito imperfecto*: `teníamos la sensación`, `esperaba`, `conectaba`, `sabíamos`, `supusimos`) when establishing continuous scene backdrops, mental states, and narrative impressions.
+- ❌ Avoid abrupt preterite calques (`tuvimos la sensación`, `esperó`, `conectó`) when describing continuous background states.
+
 ---
 
 ### Portuguese (PT-BR) Style Rules
@@ -371,6 +366,26 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 - ✅ **Ceremonials & Signs**: Use in high-impact ceremonial dialogue, ancient signs, and milestones to preserve the game's quirky aesthetic (e.g., `Cítia, Ciméria, Assíria & Pérsia`).
 - ❌ **Standard Prose**: Do NOT use in regular descriptive prose or everyday dialogue to avoid visual clutter.
 - 💡 **Exception (Trigon Collections)**: While milestones generally use `&`, the specific Trigon collection achievements use a deadpan, two-sentence structure without an ampersand (e.g., `Domamos o Trígono Dourado. Somos os maiores.`) to match the dry humor of the English source.
+
+#### 6. **Formatting & Capitalization**
+- Trigon names: **"Trígono Dourado"** (both words capitalized)
+- Location names: **"O Precipício Perigoso"** (proper noun)
+- Moon phases: **"Lua Radiante"** (both capitalized)
+
+#### 7. **Postpositive Adjective Order (`árvore oca titânica`)**
+- ✅ ALWAYS place descriptive adjectives after the noun in natural Romance syntax: **"árvore oca titânica"** / **"árvore titânica"**.
+- ❌ NEVER use the English anteposition calque: `"titânica árvore oca"` / `"titânica árvore"`.
+
+#### 8. **Eliminating Scatological Calques (`operar milagres`)**
+- ✅ ALWAYS use **"operar milagres"** (or `"farão um milagre"` in the rhyming couplet).
+- ❌ NEVER use `"obrar milagres"`: in modern spoken Portuguese (PT-BR and PT-PT), *obrar* strongly connotes defecation (*evacuar/fazer cocô*), turning holy miracles into unintended comedy.
+
+#### 9. **Demonym Disambiguation (`A Citiana` vs. `citas`)**
+- ✅ Protagonist: **"A Citiana"** (preserves distinct heroine identity and avoids homophonic collision with *cita* / *citar*).
+- ✅ People / Tribe: **"citas / os citas"** (normalized demonym for the Scythian people).
+
+#### 10. **UI Dialogue Line-Length Management**
+- When localizing dialogues into the 3-line retro tweet boxes, keep line length under ~42–46 characters. Avoid long words near line boundaries to prevent single-word orphan overflow into a 4th line (e.g., Line 97: `...e a chave parecia perdida nos sonhos` instead of wrapping `sonhos.` into a 4th row).
 
 ### Verb Strategy for "We spied..." (ES/PT)
 
@@ -407,18 +422,11 @@ This section defines the personality and speaking style for each character to en
 
 ---
 
-#### 5. **Formatting & Capitalization**
-- Trigon names: **"Trígono Dourado"** (both words capitalized)
-- Location names: **"O Precipício Perigoso"** (proper noun)
-- Moon phases: **"Lua Radiante"** (both capitalized)
-
----
-
 ### Universal Style Guidelines (Both Languages)
 
-#### 1. **Hashtags & English Terms**
-- Always keep original English hashtags (e.g., `#helloworld`).
-- Keep specific English terms when they are part of the game's quirky, fourth-wall-breaking style (e.g., `Side B`, `press play`).
+#### 1. **Hashtags & Social Media Aesthetic**
+- **Translate and culturally adapt hashtags**: All in-game hashtags are creatively localized into Spanish and Portuguese (e.g., `#holamundo` / `#olamundo`, `#obvio`, `#threegutrecordsx100pre`, `#odiososarcoiris`, `#trigondomado` / `#trigonodomado`) to preserve the game's witty, meta-textual 2011 Twitter aesthetic for native audiences. (The original European FIGS release left hashtags untranslated in English, which broke immersion).
+- Keep specific retro media terms when part of the game's quirky style (e.g., `Side B` → `Cara B` / `Lado B`, `press play` → `presiona 'jugar'` / `pressione 'jogar'`).
 
 #### 2. **Proper Nouns**
 - Never translate: Jim Guthrie, André, Samae
@@ -442,11 +450,14 @@ This section defines the personality and speaking style for each character to en
   - Character voice differences
 
 #### 6. **Gender-Neutral Player Treatment**
-- Avoid gender-marked adjectives directed at the player to ensure immersion for everyone.
-- ✅ **ES**: "Tienes una sesión activa", "Cuando hay lucidez", "tendencias sociópatas".
-- ❌ **ES**: "Estás logado", "Cuando estás lúcido", "seas un sociópata".
-- ✅ **PT-BR**: "Você tem uma sessão ativa", "Quando há lucidez", "tendências sociopatas".
-- ❌ **PT-BR**: "Você está logado", "Quando você está lúcido", "seja um sociopata".
+The game makes a strict distinction between:
+- **The Scythian (The Protagonist):** A female warrior, consistently referred to with feminine grammar within the narrative (`La Escita` / `A Citiana`).
+- **The Player (The Participant):** The real person addressed by The Archetype breaking the fourth wall. To maintain total immersion for all players, gender-marked adjectives or participles are strictly avoided through five core techniques:
+  1. **Nominalization over participles:** e.g., `¿Confusión?` (ES) / `Confusão?` (PT-BR) instead of `¿Confundido/a?` / `Confuso/a?`.
+  2. **Invariable adjectives:** e.g., `Eres especial` / `Você é especial` (invariable in gender).
+  3. **Verbal circumlocutions:** e.g., `si te pierdes o sientes confusión` / `se você se perder ou sentir confusão` instead of `si te encuentras perdido/a`.
+  4. **Epicene nouns:** e.g., `personas compasivas y razonables` / `pessoas compassivas e razoáveis` to avoid masculine/feminine splits.
+  5. **Impersonal UI & prompts:** e.g., `¿Todo listo?` / `Tudo pronto?` instead of `¿Listo/a?`; `¿Confirmas que quieres activar...?` (ES) / `Tem certeza de que deseja ativar...?` (PT-BR).
 
 #### 7. **Cursor vs. Pointer (Hardware vs. Visual)**
 - **Cursor:** The visual reticle/element moving on screen (e.g., "Mover cursor", "Centralizar o cursor").
@@ -501,7 +512,7 @@ This glossary uses **Brazilian Portuguese (PT-BR)** conventions:
 | 17 | old road | antiguo camino | antigo caminho |
 | 18 | stone hut | choza de piedra | cabana de pedra |
 | 19 | deepwater pond | insondable estanque | insondável lagoa |
-| 20 | heebie jeebies | escalofrío | frio na espinha |
+| 20 | heebie jeebies | escalofríos | frio na espinha |
 
 ---
 

@@ -176,8 +176,8 @@ PHOTOSENSITIVIY_MSG_NINSWITCH	Existe la posibilidad de que un pequeño porcentaj
 PHOTOSENSITIVIY_MSG_NINSWITCH2	Si tú o alguien de tu familia sufre epilepsia, consulta a un médico antes de jugar. Deja de usar el juego de inmediato y consulta a un médico antes de retomarlo si aparece alguno de los síntomas siguientes: mareos, problemas de visión, contracciones oculares o musculares, pérdida de conciencia, desorientación, movimientos involuntarios o convulsiones.	
 POINTCLICK_CURSORSENS_NINSWITCH	SENSIBILIDAD DEL PUNTERO	
 FAM_CURSOR_NOT_USED	Sensibilidad del puntero FAMICOM	
-POINTCLICK_PROMPT_NINSWITCH	El modo Apuntar y hacer clic permite jugar con un solo Joy-Con como puntero. Se disfruta mejor cuando juegas en un televisor. ¿Seguro que quieres activar el modo Apuntar y hacer clic?	
-POINTCLICK_PROMPT_ALT_NINSWITCH	El modo Apuntar y hacer clic permite jugar con un solo Joy-Con como puntero y se disfruta mejor cuando juegas en un televisor. ¿Seguro que quieres activar los controles de Apuntar y hacer clic?	
+POINTCLICK_PROMPT_NINSWITCH	El modo Apuntar y hacer clic permite jugar con un solo Joy-Con como puntero. Se disfruta mejor cuando juegas en un televisor. ¿Confirmas que quieres activar el modo Apuntar y hacer clic?	
+POINTCLICK_PROMPT_ALT_NINSWITCH	El modo Apuntar y hacer clic permite jugar con un solo Joy-Con como puntero y se disfruta mejor cuando juegas en un televisor. ¿Confirmas que quieres activar los controles de Apuntar y hacer clic?	
 SWAP_STICKS_NINSWITCH	INVERTIR ANALÓGICOS	
 PLAY_MENU_NINSWITCH	JUGAR	
 CREDITS_MENU_NINSWITCH	CRÉDITOS	
