@@ -167,13 +167,13 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | **woeful errand** | funesto cometido | funesta missão | ✅ The Scythian's quest |
 | **martyrdom** | martirio | martírio | ✅ The Scythian's fate |
 | **deathless specter** | espectro inmortal | espectro imortal | ✅ The Gogolithic Mass |
-| **heebie jeebies** | escalofríos | frio na espinha | ✅ Physical sensation of fear |
+| **heebie jeebies** | los pelos de punta | frio na espinha | ✅ Physical sensation of fear |
 | **cosmic friends forever** | amigos cósmicos para siempre | amigos cósmicos para sempre | ✅ Ending phrase |
 | **for glory & for spite** | por la gloria y por puro orgullo | pela glória e por puro orgulho | ✅ Avoids romantic "despecho" and bitter "rencor" |
 | **Time of Woe** | Tiempos de Angustia | Tempos de Angústia | ✅ Session II Theme |
 | | | | |
 | linguistic thought transmission | transmisión de pensamiento lingüístico | transmissão de pensamento linguístico | ✅ |
-| oblique insight | visión reveladora | visão reveladora | ✅ The Archetype's clues |
+| oblique insight | visión oblicua | visão oblíqua | ✅ The Archetype's clues |
  | mythopoetic psychocosmology | psicocosmología mitopoética | psicocosmologia mitopoética | ✅ |
  | set and setting | Disposición y Entorno | Preparação e Ambiente | ✅ Adapted concepts |
 
@@ -236,6 +236,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | scroll down | desplázate hacia abajo | role para baixo | ✅ |
 | rotate to reveal | rota para revelar | rotacione para revelar | ✅ |
 | BELIEVE | CONFÍA | ACREDITE | ✅ UI Action prompt |
+| QUIT? (`QUIT` / `EXIT`) | SALIR | SAIR? / SAIR | ✅ ES omits `¿...?` on `QUIT` (L99) so the 5-char string doesn't overlap the button icon inside the fixed-width UI tab |
 
 ### Menu/System
 
@@ -259,7 +260,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | #gotmegatome | #tengomegatomo | #tenhomegatomo |
 | #miracles | #milagros | #milagres |
 | #woodchopping | #leñando | #lenhando |
-| #yes #no #maybe | #si #no #talvez | #sim #nao #talvez |
+| #yes #no #maybe | #si #no #quizas | #sim #nao #talvez |
 | #woe | #angustia | #angustia |
 | #wetboots | #botasmojadas | #botasmolhadas |
 | #loathsomerainbows | #odiososarcoiris | #odiososarcoiris |
@@ -301,9 +302,9 @@ This glossary serves as the **authoritative translation reference** for Superbro
 - Creates intentional contrast between the two moons
 
 #### 3. **"Heebie Jeebies" / Fear Translation**
-- Standard: **"escalofríos"** (shivers) ✅
+- Standard: **"los pelos de punta"** (heebie jeebies) ✅
 - Alternate: **"manojo de nervios"** (freaking out)
-- Never mix within same document
+- Never mix within same context
 
 #### 4. **Old Road**
 - ✅ **"antiguo camino"** (always).
@@ -334,6 +335,10 @@ This glossary serves as the **authoritative translation reference** for Superbro
 #### 9. **Narrative Imperfect vs. Preterite**
 - ✅ Use the imperfect (*pretérito imperfecto*: `teníamos la sensación`, `esperaba`, `conectaba`, `sabíamos`, `supusimos`) when establishing continuous scene backdrops, mental states, and narrative impressions.
 - ❌ Avoid abrupt preterite calques (`tuvimos la sensación`, `esperó`, `conectó`) when describing continuous background states.
+
+#### 10. **UI Box & Fixed-Width Constraints (`QUIT` → `SALIR`)**
+- **`QUIT` / `EXIT` (`strings.tsv` Line 99)**: In Spanish, `QUIT` MUST remain **`SALIR`** without question marks. The left-edge exit tab has a strict fixed width (~5 characters, sized for `QUIT?` / `SAIR?`); using `¿SALIR?` (7 characters) overflows the text area and overlaps the controller button icon (`B`) inside the pill box.
+- **3-Line Tweet Boxes**: Keep dialogue lines under ~42–46 characters per row (~130–135 total characters) to prevent single words from wrapping onto a 4th line.
 
 ---
 
@@ -512,7 +517,7 @@ This glossary uses **Brazilian Portuguese (PT-BR)** conventions:
 | 17 | old road | antiguo camino | antigo caminho |
 | 18 | stone hut | choza de piedra | cabana de pedra |
 | 19 | deepwater pond | insondable estanque | insondável lagoa |
-| 20 | heebie jeebies | escalofríos | frio na espinha |
+| 20 | heebie jeebies | los pelos de punta | frio na espinha |
 
 ---
 

@@ -15,7 +15,7 @@ SIGN_ANTECHAMBERLEFT	The Scythian			En un pasadizo subterráneo descubrimos una 
 INFO_CROSSMOUNTAINLEFT	The Scythian			En la pendiente rocosa de Mingi Taw, una tumba solitaria marcaba el final del sendero de grava.					
 INFO_CROSSMOUNTAINRIGHT	The Scythian			En la pendiente rocosa de Mingi Taw, una tumba solitaria marcaba el final del sendero de grava.					
 INFO_RIDGESKULLPOLE	The Scythian			En la cresta escarpada rumbo a la cima de Mingi Taw, se erguía un siniestro poste decorado con una calavera astada.					
-INFO_CROSSRIDGE	The Scythian			En la cresta escarpada rumbo a la cima de Mingi Taw, una tumba solitaria era un lúgubre recordatorio de cuántas almas habían perecido allí arriba.					
+INFO_CROSSRIDGE	The Scythian			En la cresta escarpada hacia la cima de Mingi Taw, una tumba solitaria recordaba lúgubremente cuántas almas habían perecido allí.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos el Megatomo aferrado entre dos huesudas manos, y sentimos estremecerse nuestra espada en la vaina. #megatomo			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Una pequeña puerta sin manija, hecha de un material desconocido. Un letrero decía: 'Solo personal autorizado'.					
 DOOR_UPSLOPEWOODS1	The Scythian			El antiguo camino hacia Mingi Taw estaba bloqueado por una puerta trancada.					
@@ -47,7 +47,7 @@ QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	¡Conseguimos el Megatomo y so
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			Damas y caballeros, ¿qué tal tocar a estos dos pequeños espíritus silvanos para calibrar tu sistema de sonido estéreo?					
+	The Archetype			Damas y caballeros, ¿qué tal pulsar a estos dos pequeños espíritus silvanos para calibrar tu sistema de sonido estéreo?					
 	The Archetype			Desde nuestro experimento anterior en 2011, las redes sociales han demostrado ser catastróficas para la sociedad.					
 				Con cierto pesar, en esta ocasión promovemos el aislamiento y la reflexión.					
 				Agradecemos sinceramente que hayas decidido participar en este tratamiento experimental para la aflicción aguda del alma.					
@@ -58,7 +58,7 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&SEP no produce la experiencia trascende
 				El 'Entorno' abarca la comodidad, la seguridad y la calidez del lugar donde ocurre la experiencia.					
 				Hemos descubierto que un individuo relajado y curioso es más propenso a tener una experiencia agradable con S:S&SEP.					
 				La 'Disposición' alude al estado mental y a la personalidad que aportas: tus pensamientos, tu ánimo y tus expectativas.					
-				Hablemos de la disposición y el entorno para una experiencia positiva con esta obra altamente psicoactiva, Superbrothers: Sword & Sworcery EP.					
+				Hablemos de la disposición y el entorno para una experiencia positiva con el altamente psicoactivo Superbrothers: Sword & Sworcery EP.					
 				La conciencia expandida, el potencial ilimitado de la mente, es lo que en Superbrothers llamamos 'sworcery' (o espadancia).					
 				La espadancia puede entenderse como una técnica psiónica que permite percibir una realidad dentro de la que ya conoces.					
 				Para detener la Canción de Espadancia, pulsa dos veces el aura que rodea a La Escita.					
@@ -94,7 +94,7 @@ INFO_MEADOWGATE	The Scythian			En el prado nos topamos con un portón de hierro 
 INFO_MEADOWGATEACTIVE	The Scythian			Observamos el portón de hierro del prado y tuvimos la sensación de que tal vez podríamos levantarlo.					
 INFO_MEADOWGATETRIGONACTIVE	The Scythian			Sobre el portón de hierro distinguimos un nosequé con forma de Trigón Dorado. ¿Reaccionaría a nuestra Canción de Espadancia?					
 INFO_MEADOWGATETRIGON	The Scythian			Sobre el portón de hierro distinguimos un nosequé.					
-INFO_LOCKEDDOORSTONEWALL	The Scythian			En el muro de piedra, una puerta trancada bloqueaba el antiguo camino hacia Mingi Taw y, al parecer, la llave se había perdido en los sueños.					
+INFO_LOCKEDDOORSTONEWALL	The Scythian			En el muro de piedra, una puerta trancada bloqueaba el antiguo camino a Mingi Taw, y la llave parecía perdida en los sueños.					
 INFO_LOOMINGBIRDSCULPTURES	The Scythian			Notamos una escultura de un pájaro enojado que se cernía sobre el prado. #sutilreferencia					
 INFO_MEADOWSUNSTICK	The Scythian			Avistamos un bastón de forma extraña vigilando el prado.					
 INFO_CABINWELL	The Scythian			Avistamos un pozo bien construido con un amplio tejado de madera.					
@@ -200,7 +200,7 @@ ARCHETYPE_LOSTKEYTHOUGHTS	The Archetype			Pensamos en la vigilia y la psicocosmo
 ARCHETYPE_LOSTKEYCLUE	The Archetype		AdventureUI/keyItem	¿Qué tal si te sientas junto al fuego en la choza y cruzas el umbral de la liminalidad para encontrar la llave perdida de Tronquero?			55	031.jpg	23C1X
 GIRL_LOSTKEYTHOUGHTS	Girl	AdventureUI/tweetIconGourd		Vaya, Tronquero está hecho un manojo de nervios... ¿Qué le pasa? Mejor salgo un rato y lo dejo tranquilo.					
 				Vi a La Escita entonar la Canción de Espadancia y enviar tres espíritus silvanos al cielo. Me pregunto si ayudarán a disipar la tormenta.					
-LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que La Escita pueda encontrar mi llave... la perdí en la orilla arenosa de un apacible lago.			62	032.jpg	U3A20
+LOGFELLA_MORELOSTKEYTHOUGHTS	Logfella			Espero que, caminando en sueños, La Escita encuentre mi llave... la perdí en la orilla arenosa de un apacible lago.			62	032.jpg	U3A20
 LOGFELLA_LOSTKEYTHOUGHTS	Logfella			¡Qué fastidio! Ojalá no estuviera lloviendo... Ojalá no tuviera las botas tan mojadas... Ojalá pudiera volver a cortar leña.					
 				¡Lo que me faltaba! ¿Adónde se ha ido mi llave? ¡Me da una rabia y una vergüenza que ni yo me aguanto!					
 LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Tronquero se mostró enormemente aliviado de que hubiéramos recuperado su llave perdida del reino crepuscular de los sueños.					
@@ -221,7 +221,7 @@ GIRL_FOUNDKEY	The Scythian			Por un sendero lateral encontramos a Samae, empapad
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Por mí, genial que La Escita se quede con la llave si con eso disipa la tormenta.					
 				Debo haberme quedado dormido en algún momento de la historia súper épica de La Escita. No soy mucho de historias.					
 				Le pregunté sin rodeos a La Escita sobre su funesto cometido... y empezó a soltarme un rollo sobre las estepas y el dedo de Dios.					
-GIRL_FOUNDKEYTHOUGHTS	Girl			Uno o dos espíritus silvanos más enviados al cielo disiparán esta incesante tormenta... ¡y entonces será la temporada de milagros! #milagros			129	034.jpg	33A44
+GIRL_FOUNDKEYTHOUGHTS	Girl			Enviar uno o dos espíritus silvanos más al cielo disipará la incesante tormenta... ¡y entonces será la temporada de milagros! #milagros			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			Al caminar en sueños, hay una calma emocionante cuando la luna brilla más... y cuando está oscura, los bosques se vuelven salvajes.					
 				En el sueño siempre son los mismos lugares y rincones... salvo cuando todo cambia por el humor de la luna.					
 				Todas las noches desde que se disipó la tormenta, he tenido el mismo sueño en el que paseo por el bosque poco antes del amanecer.					
@@ -342,7 +342,7 @@ GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la
 GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Sombría reina, despertamos a un espíritu silvano entre la maleza en lo alto de un peñasco rocoso.					
 GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano en un claro oculto donde casualmente se encontraba Jim Guthrie.			132	058.jpg	G5F8U
 GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano en un lago tranquilo donde una mamá pata se agitaba frenética.					
-GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano donde el reflejo del lago resultaba casi imperceptiblemente incongruente.			127	059.jpg	65D98
+GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano donde el reflejo del lago era casi imperceptiblemente incongruente.			127	059.jpg	65D98
 GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano en un apacible lago bajo un terceto de búhos.					
 GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tuvimos la extraña sensación de que, quizá, solo quizá, había llegado la temporada de milagros. #milagros					
 GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Sombría reina, despertamos a un espíritu silvano rodeado por tres pequeñas cascadas.					
@@ -389,7 +389,7 @@ GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solo el fin de tu fune
 GCLUE_WATERFALLS	Girl			¿Te has fijado en que a veces las palabras suenan como simple ruido, pero otras veces el ruido produce el sonido más bello?			132	058.jpg	G5F8U
 GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Hay un montón de dichos extraños aquí entre los montañeses del Cáucaso.					
 				Cuentan aquí en el Cáucaso que un bosque necesita un fuego tanto como el fuego necesita al árbol.					
-YELLOWTRIGON_COLLECTED	The Scythian			Domamos el Trigón Dorado y somos lo máximo.			85	067.jpg	36G7U
+YELLOWTRIGON_COLLECTED	The Scythian			Domamos el Trigón Dorado. Somos lo máximo.			85	067.jpg	36G7U
 PINKTRIGON_COLLECTED	The Scythian			Conseguimos el Trigón de la Luna Radiante. Contra viento y marea.			155	068.jpg	56F8U
 BLUETRIGON_COLLECTED	The Scythian			Conquistamos el Trigón de la Luna Sombría. Contra todo y contra todos.			112	069.jpg	T6G94
 GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Todos los espíritus de la Luna Sombría fueron enviados al cielo, así que de nuevo ha llegado la temporada de milagros. ¡Adoro los milagros!					
@@ -498,7 +498,7 @@ ARCHETYPE_KILLBOOR	The Archetype			Ahora, me imagino que te preguntarás para qu
 				Me han informado de que han asesinado al Patán Canoso... ¿Sabes algo al respecto? #masacre					
 ARCHETYPE_SPAREBOOR	The Archetype			Ahora, me imagino que te preguntarás para qué sirve esa llave. Si te soy sincero, no tengo ni idea.			119	075.jpg	87C5S
 				Sí, eso es increíble y te queremos muchísimo por ello.					
-				Incluimos al Patán Canoso en S:S&SEP para permitir que los participantes se identificaran a sí mismos como personas compasivas y razonables.					
+				Incluimos al Patán Canoso en S:S&SEP para permitir que los participantes se identificaran como personas compasivas y razonables.					
 				Me han informado de que al Patán Canoso le han permitido escapar ileso. Es una noticia alentadora.					
 LOGFELLA_FOUNDATION	Logfella	AdventureUI/tweetIconBabelBook		...					
 				...					
@@ -556,7 +556,7 @@ ARCHETYPE_HALFWANE	The Archetype			El ciclo lunar está llegando a su fin y falt
 LOGFELLA_CRESCENTWANE	The Scythian			El leñador no era mucho de historias y admitió que solían darle sueño, aunque, pese a todo, sabía bastante del tema.					
 				Conocía a la Masa Gogolítica, el espectro inmortal que acechaba en la oscuridad bajo Mingi Taw.					
 				Nos habló del Arremolinado Infinito, más allá de nuestra comprensión, de donde provino el Megatomo en la apenas recordada Edad de Piedra.					
-				Habló de seres inmortales del espacio que despertaron en la humanidad una forma rudimentaria de transmisión lingüística del pensamiento.					
+				Habló de seres inmortales del espacio que despertaron en la humanidad una forma rudimentaria de transmisión de pensamiento lingüístico.					
 				"""Estos inmortales dieron a la humanidad el don de la civilización, y con ello, la condena de una inevitable extinción."""					
 				"""Los escitas intentaron frenar el avance insidioso de la civilización, por eso aislaron el Megatomo con su guardián inmortal."""					
 				"""El inmortal permaneció en la oscuridad desde entonces, hasta degenerar en el espectro conocido como la Masa Gogolítica."""					
@@ -684,7 +684,7 @@ ARCHETYPE_CREDITS	The Archetype
 				* * * SE ACABÓ * * *					
 				Ahora somos amigos cósmicos para siempre... ¿sí?			87	084.jpg	L8A48
 ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			Damas y caballeros, ¿qué tal tocar a estos dos pequeños espíritus silvanos para calibrar tu sistema de sonido estéreo?					
+	The Archetype			Damas y caballeros, ¿qué tal pulsar a estos dos pequeños espíritus silvanos para calibrar tu sistema de sonido estéreo?					
 	The Archetype			Desde nuestro experimento anterior en 2011, las redes sociales han demostrado ser catastróficas para la sociedad.					
 				Con cierto pesar, en esta ocasión promovemos el aislamiento y la reflexión.					
 				Encontrarás que esta primera sesión de S:S&SEP es bastante sencilla y suele durar entre 15 y 30 minutos.					
