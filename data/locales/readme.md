@@ -139,7 +139,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 
 | English | Spanish (ES) | Portuguese (PT-BR) | Notes |
 |---------|--------------|-------------------|-------|
-| touch & hold | mantén pulsado | manter pressionado | ✅ Primary interaction |
+| touch & hold | mantén presionado | manter pressionado | ✅ Primary interaction |
 | tap / tip tap | toca / haz tip tap | tocar / tip tap | ✅ Quick touch |
 | swipe | desliza / deslizar | deslizar / deslize | ✅ Gesture |
 | move it move it | mover el bote | remexer | ✅ Fast movement, colloquial |
@@ -230,7 +230,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | English | Spanish (ES) | Portuguese (PT-BR) | Notes |
 |---------|--------------|-------------------|-------|
 | Session I, II, III | Sesión I, II, III | Sessão I, II, III | ✅ |
-| Side B | Cara B | Lado B | ✅ |
+| Side B | Lado B | Lado B | ✅ |
 | press play | presiona 'jugar' | pressione 'jogar' | ✅ |
 | equipped | equipado | equipado | ✅ |
 | scroll down | desplázate hacia abajo | role para baixo | ✅ |
@@ -323,7 +323,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 - ❌ **Incorrect:** `...cómo nos volvimos tan listas.`
 
 #### 7. **Stylistic Ampersands (`&`)**
-- ✅ **UI Instructions**: Use for mechanical button prompts (e.g., `PULSA & MANTÉN`).
+- ✅ **UI Instructions**: Use for mechanical button prompts (e.g., `PRESIONA & MANTÉN`).
 - ✅ **Ceremonials & Signs**: Use in high-impact ceremonial dialogue, ancient signs, and milestones to preserve the game's quirky aesthetic (e.g., `Cimeria, Asiria & Persia`).
 - ❌ **Standard Prose**: Do NOT use in regular descriptive prose or everyday dialogue to avoid visual clutter.
 - 💡 **Exception (Trigon Collections)**: While milestones generally use `&`, the specific Trigon collection achievements use a deadpan, two-sentence structure without an ampersand (e.g., `Domamos el Trigón Dorado. Somos lo máximo.`) to match the dry humor of the English source.
@@ -431,7 +431,7 @@ This section defines the personality and speaking style for each character to en
 
 #### 1. **Hashtags & Social Media Aesthetic**
 - **Translate and culturally adapt hashtags**: All in-game hashtags are creatively localized into Spanish and Portuguese (e.g., `#holamundo` / `#olamundo`, `#obvio`, `#threegutrecordsx100pre`, `#odiososarcoiris`, `#trigondomado` / `#trigonodomado`) to preserve the game's witty, meta-textual 2011 Twitter aesthetic for native audiences. (The original European FIGS release left hashtags untranslated in English, which broke immersion).
-- Keep specific retro media terms when part of the game's quirky style (e.g., `Side B` → `Cara B` / `Lado B`, `press play` → `presiona 'jugar'` / `pressione 'jogar'`).
+- Keep specific retro media terms when part of the game's quirky style (e.g., `Side B` → `Lado B`, `press play` → `presiona 'jugar'` / `pressione 'jogar'`).
 
 #### 2. **Proper Nouns**
 - Never translate: Jim Guthrie, André, Samae
@@ -512,7 +512,7 @@ This glossary uses **Brazilian Portuguese (PT-BR)** conventions:
 | 12 | sonorous spume | susurrantes espumas | sussurrantes espumas |
 | 13 | dream-walking | paseos oníricos / caminar en sueños | caminhadas oníricas / caminhar em sonhos |
 | 14 | the whirling infinite | Arremolinado Infinito | Remoinhado Infinito |
-| 15 | touch & hold | mantén pulsado | manter pressionado |
+| 15 | touch & hold | mantén presionado | manter pressionado |
 | 16 | Perilous Precipice | Precipicio Peligroso | Precipício Perigoso |
 | 17 | old road | antiguo camino | antigo caminho |
 | 18 | stone hut | choza de piedra | cabana de pedra |
