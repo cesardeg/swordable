@@ -87,7 +87,7 @@ SLAY	ANIQUILAR?
 ZOOM_CONTROLS	< < < ZOOM? > > >	
 LOOK_CONTROLS	SEGURE E DESLIZE NA AURA DE ESPADÂNCIA	
 LOOK_CONTROLS_2	SEGURE E DESLIZE PARA OLHAR AO REDOR	
-TONGUE_TEXT	"Incline, desembainhe e erga sua espada cita em direção ao arco-íris por alguns segundos e tenha fé"	
+TONGUE_TEXT	"Incline, desembainhe e mantenha sua espada cita erguida no arco-íris por alguns segundos e tenha fé"	
 TOUCH_HOLD	MANTENHA PRESSIONADO	
 TOUCH_HOLD_ARROW_LEFT	< < MANTENHA PRESSIONADO	
 TOUCH_HOLD_ARROW_RIGHT	MANTENHA PRESSIONADO > >	
@@ -173,7 +173,7 @@ SOUTHPAW_NINSWITCH	MODO CANHOTO
 NORTHPAW_NINSWITCH	MODO DESTRO	
 JOYCON_STRAP_MSG_NINSWITCH	Ao usar os controles Joy-Con desacoplados, siga as instruções, coloque as alças e segure-os firmemente.	
 PHOTOSENSITIVIY_MSG_NINSWITCH	Uma pequena porcentagem de indivíduos pode sofrer ataques epiléticos quando expostos a certas imagens visuais, incluindo padrões de luz ou luzes piscantes. A exposição a certos padrões ou fundos em uma tela de computador, ou durante um videogame, pode induzir um ataque epilético nesses indivíduos. Certas condições podem induzir sintomas epiléticos não detectados anteriormente, mesmo em pessoas sem histórico de convulsões ou epilepsia.	
-PHOTOSENSITIVIY_MSG_NINSWITCH2	Se você ou alguém da sua família tem uma condição epilética, consulte seu médico antes de jogar. Se você sentir algum dos seguintes sintomas enquanto joga um videogame: tontura, visão alterada, espasmos oculares ou musculares, perda de consciência, desorientação, qualquer movimento involuntário ou convulsões - interrompa o uso imediatamente e consulte seu médico antes de retomar o jogo.	
+PHOTOSENSITIVIY_MSG_NINSWITCH2	Se você ou alguém da sua família tem uma condição epilética, consulte seu médico antes de jogar. Se você sentir algum dos seguintes sintomas enquanto joga um videogame: tontura, visão alterada, espasmos oculares ou musculares, perda de consciência, desorientação, qualquer movimento involuntário ou convulsões - interrompa o uso IMEDIATAMENTE e consulte seu médico antes de retomar o jogo.	
 POINTCLICK_CURSORSENS_NINSWITCH	SENSIBILIDADE DO PONTEIRO	
 FAM_CURSOR_NOT_USED	Sensibilidade do ponteiro FAMICOM	
 POINTCLICK_PROMPT_NINSWITCH	O modo Apontar e Clicar permite que você jogue com um único Joy-Con como ponteiro. Este modo é mais bem aproveitado quando jogado em uma televisão. Tem certeza de que deseja ativar o modo Apontar e Clicar?	
@@ -215,8 +215,8 @@ CONTROLLER_CONTROLS_NINSWITCH	CONTROLE
 FAMICOM_CONTROLS_BLURB_ALT2_NINSWITCH	USE O ANALÓGICO PARA MOVER O CURSOR COM UM CONTROLE OU NO MODO PORTÁTIL.	
 CONSOLE_NINSWITCH	CONSOLE	
 CLASSIC_CONTROLS_BLURB_ALT_NINSWITCH	CLÁSSICO	
-NOTHING_NOPE	Suporte de QA para Nintendo Switch cortesia de Testronic Labs.	
-NOTHING_NOPE2	"Suporte adicional de localização japonesa fornecido por Yutaka Ohbuchi, John Ricciardi e Masanobu Suto."	
+NOTHING_NOPE	Controle de qualidade (QA) para Nintendo Switch: Testronic Labs.	
+NOTHING_NOPE2	"Suporte adicional de localização japonesa: Yutaka Ohbuchi, John Ricciardi e Masanobu Suto."	
 LOOK_AROUND_NINSWITCH	OLHAR AO REDOR?	
 OMDC_CHANGE	Este projeto foi possível graças ao apoio financeiro da Ontario Creates.	
 CNTRL_PINCH_Y_ZOOM	PINÇAR / <switch_button_y> FAZER ZOOM	
@@ -225,9 +225,8 @@ LBL_MOVECURSOR	MOVER CURSOR <switch_button_leftanalogstick>
 LBL_MOVEPLAYER_ALT	MOVER PERSONAGEM <switch_button_leftanalogstick>	
 LBL_MOVECURSOR_ALT	MOVER CURSOR <switch_button_rightanalogstick>	
 	MOVIMENTO	
-	JOGADOR	
+	PERSONAGEM	
 	CURSOR	
-PORTUGUESE_SPECIAL	Á á Â â Ã ã À à Ç ç É é Ê ê Í í Ó ó Ô ô Õ õ Ú ú º ª « » ‹ › €	
 TWITTER_SELECT_BUTTON	SELECIONAR	
 TWITTER_SELECT_MSG	"POR FAVOR, SELECIONE UMA CONTA DO TWITTER"	
 TWITTER_NO_ACCOUNTS	Configure o Twitter em seu dispositivo	
@@ -235,3 +234,4 @@ TWITTER_REQUESTING	SOLICITANDO ACESSO...
 TAP_QUESTION	PRESSIONAR?	
 EXIT_TITLE	Sair de #espadancia?	
 EXIT_PROMPT	Você realmente deseja sair?	
+PORTUGUESE_SPECIAL	Á á Â â Ã ã À à Ç ç É é Ê ê Í í Ó ó Ô ô Õ õ Ú ú º ª « » ‹ › €	

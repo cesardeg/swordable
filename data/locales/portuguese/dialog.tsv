@@ -5,9 +5,9 @@ SIGN_TADPOL	The Scythian			"""Onde a lareira arde, o lar faz alarde."" #threegut
 SIGN_WALL	The Scythian			"""Cítia, Ciméria, Assíria e Pérsia, todos são reinos dos homens. Mingi Taw é o Reino da Nuvem."""					
 SIGN_CHASM	The Scythian			À beira do Precipício Perigoso erguia-se uma pedra talhada com o glifo de uma espada apontada ao céu, sob as cores do arco-íris.					
 				Nós, citas, abominamos os arco-íris. #odiososarcoiris			21	002.jpg	40C27
-SIGN_BIRDTREE	The Scythian			Por uma trilha lateral, encontramos uma pedra talhada com uma série de glifos indecifráveis.					
+SIGN_BIRDTREE	The Scythian			Por uma trilha lateral que se afastava do antigo caminho, encontramos uma pedra talhada com uma série de glifos indecifráveis.					
 				Em meio aos glifos indecifráveis, distinguimos alguns pictogramas lunares.					
-SIGN_BIRDTREEDECIPHERED	The Scythian			Por uma trilha lateral, encontramos uma pedra talhada com uma série de pictogramas lunares outrora indecifráveis.					
+SIGN_BIRDTREEDECIPHERED	The Scythian			Por uma trilha lateral que se afastava do antigo caminho, encontramos uma pedra talhada com vários pictogramas lunares outrora indecifráveis.					
 				"Os pictogramas falavam de um lugar secreto perto daqui ""...onde se podia alterar o humor da lua""."					
 				Será que é a Gruta Lunar...? #grutalunar #queisso #eummisterio			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			À beira do antigo caminho, nos deparamos com uma pedra talhada com um par de glifos em forma de espada e escudo. #ficaadica			16	004.jpg	T0C4X
@@ -107,7 +107,7 @@ INFO_CABINWOODPILE	The Scythian			Perto da cabana, encontramos uma pilha de lenh
 INFO_SPUME	The Scythian			Localizamos as sutis e sussurrantes espumas de um espírito silvano imerso em sonho. E agora... como vamos despertá-lo?					
 INFO_NESTBOX	The Scythian			Vimos um curioso ninho, agora lar de uma colmeia de escória e vilania.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Vimos um ninho desgastado com uma inquietante semelhança a um rosto.					
-INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre uma ponte de toras no antigo caminho, erguia-se um sinistro mastro decorado com caveiras.					
+INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre uma ponte de toras no antigo caminho, erguia-se um sinistro mastro decorado com caveiras toscas e angulosas.					
 INFO_GOLDTRIGONALTAR	The Scythian			Além da caverna colossal na campina, em uma clareira isolada, avistamos um estranho conjunto de estruturas de pedra.					
 			Archetype/trifecta	...Era esta a Clareira Trigônica? #clareiratrigonica			93	016.jpg	B1D6J
 			triangle/Triangle	Junto à primeira estrutura pensamos no Trígono Dourado e sentimos a espada estremecer na bainha.					
@@ -117,7 +117,7 @@ INFO_BRIGHTTRIGONALTAR	The Scythian			Na Clareira Trigônica, descobrimos outra 
 				Nos perguntamos o que aconteceria se a golpeássemos com a espada.					
 INFO_STONEHEAD	The Scythian			No Precipício Perigoso, notamos uma enorme cabeça de aparência familiar talhada na rocha com a boca escancarada.			24	017.jpg	61B76
 INFO_STONEHEADSHUT	The Scythian			No Precipício Perigoso, notamos uma enorme cabeça de aparência familiar talhada na rocha.					
-INFO_STONEHEADFLAGPOLE	The Scythian			Sobre a enorme escultura na rocha, erguia-se um sinistro mastro decorado com caveiras de aspecto tosco e anguloso, ou algo assim.					
+INFO_STONEHEADFLAGPOLE	The Scythian			Sobre a enorme escultura na rocha, erguia-se um sinistro mastro decorado com caveiras toscas e angulosas, ou algo assim.					
 INFO_CHASMSTONESHELTER	The Scythian			De um lado do Precipício Perigoso, erguia-se uma espécie de dólmen maravilhoso com dois confortáveis assentos de pedra.			25	018.jpg	O1C8M
 INFO_SKULLPOLE	The Scythian			Sobre uma ponte oscilante, erguia-se um sinistro poste decorado com uma caveira galhada.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre a entrada esculpida na rocha do templo da montanha, notamos uma representação da Tríade Trigônica.					
@@ -173,7 +173,7 @@ GRAVE_CHASMGHOST	The Scythian			À beira do Precipício Perigoso, junto à tumba
 				"""Estávamos atrás do Trígono da Lua Radiante, então decidimos sentar e observar o céu, esperando o humor da lua mudar."""					
 				"""Foi super chato! Eu não estava disposto a esperar dias e dias até que a Lua Radiante pairasse."""					
 				"""Deixei esses otários vagarem sem rumo enquanto eu mergulhava mais a fundo neste ardil lógico-lunar."""					
-				O velho fantasma resplandecente contou que trapaceou ao sair de S:S&SEP e alterar a data e hora de seu dispositivo.					
+				O velho fantasma resplandecente contou que trapaceou ao sair de S:S&SEP e ajustar a data e a hora de seu dispositivo.					
 				Descreveu o quão incômodo foi o processo, mas nos disse que isso lhe permitiu alterar as fases da lua!					
 				"""O caso é que fiquei com aquele frio na espinha desde que trapaceei... e foi por isso que morri de vergonha."""					
 GRAVE_HOLLOW	The Scythian			Dentro de uma árvore oca titânica, uma tumba solitária despertou nossa curiosidade.					
@@ -190,7 +190,7 @@ GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de uma árvore oca titâni
 LOGFELLA_LOSTKEY	The Scythian			Troncadeiro, o lenhador desolado, surtava totalmente.					
 			AdventureUI/keyItem	Parece que ele perdeu a chave da porta do muro de pedra que bloqueia o antigo caminho para Mingi Taw.					
 				E nós tipo... aff. Outra missão de busca? Fala sério, né?					
-				Ele nos contou que estava sentado bem ali quando caiu em um profundo sono.					
+				Ele nos contou que estava sentado bem ali, perto do fogo, quando caiu em um profundo sono.					
 			AdventureUI/keyItem	Troncadeiro nos explicou que achava ter perdido sua chave no reino crepuscular dos sonhos.					
 				Já tínhamos ouvido falar dos estranhos sonhos dos montanheses de cabelo escuro do Cáucaso, então isso fez todo o sentido para nós.					
 				Troncadeiro nos convidou para aquecer nossas botas junto ao fogo para sonhar ao seu lado.			63	029.jpg	U2C92
@@ -227,7 +227,7 @@ GIRL_SUPERMOTHERTREE	Girl			Ao caminhar em sonhos, há uma calma emocionante qua
 				Todas as noites desde que a tempestade se dissipou, tenho tido o mesmo sonho em que caminho pela floresta pouco antes do amanhecer.					
 ARCHETYPE_TREEHINT	The Archetype			Lembre-se de que o consumo de cogumelos florestais pode oferecer uma visão oblíqua dos fenômenos criptozoológicos e coisas do tipo.					
 				Busque as sussurrantes espumas dos espíritos silvanos e investigue seu entorno.					
-				Ao entoar a Canção da Espadância, pressione muito suavemente a borda da tela para olhar ao redor (ou use as setas).					
+				Ao entoar a Canção da Espadância, toque muito suavemente a borda da tela para olhar ao redor (ou use as setas).					
 ARCHETYPE_TREEHINT_NINSWITCH	The Archetype			Lembre-se de que o consumo de cogumelos florestais pode oferecer uma visão oblíqua dos fenômenos criptozoológicos e coisas do tipo.					
 				Busque as sussurrantes espumas dos espíritos silvanos e investigue seu entorno.					
 				Uma vez que tenha entoado a Canção da Espadância, talvez seja bom olhar ao redor e observar o ambiente.					
@@ -370,7 +370,7 @@ GCLUE_SECRET2_STONESHELTER	Logfella	AdventureUI/tweetIconGourd		Eu tenho essa ca
 GCLUE_MOUNTAINLAKESHORE	Dogfella	AdventureUI/tweetIconGourd		Eu sei que você está tentando evitar seu fatídico martírio, mas saiba disso: o tempo é uma força e certamente seguirá seu curso.					
 				Au Au Au. Snif.					
 GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		Existem também os substantivos desconhecidos, embora esses sejam facilmente aprendidos.					
-				Há dois tipos de incógnitas: as conhecidas e as desconhecidas.			32	063.jpg	L6E31
+				Há dois tipos de incógnitas: as incógnitas conhecidas e as incógnitas desconhecidas.			32	063.jpg	L6E31
 				Au Au Au.					
 GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Meus troncos guardam muitos segredos sobre espíritos silvanos e ilhas impossíveis. Infelizmente, não falo tronquês.					
 				Pela minha experiência, às vezes as corujas não são o que parecem, enquanto outras vezes são apenas corujas comuns.			126	064.jpg	86A47
@@ -485,7 +485,7 @@ LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			O lenhador notava que tantas cam
 			Archetype/trifecta	Troncadeiro nos perguntou se tínhamos visitado o Cachorreiro na Clareira Trigônica... Talvez pudéssemos ativar outro facho celestial?					
 ARCHETYPE_DARKMOONTRIGONCOLLECTED	The Archetype			Agora a pergunta é... o que vem a seguir?					
 				Apesar das poucas informações úteis que lhe fornecemos, você conseguiu dominar esta enigmática geometria.					
-				Me informaram que você recuperou o Trígono da Lua Sombria. É uma notícia realmente extraordinária.					
+				Me informaram que você recuperou o Trígono da Lua Sombria. É uma notícia realmente formidável.					
 LOGFELLA_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	O lenhador não reconheceu a chave que encontramos e não fazia ideia de para que servia.					
 			AdventureUI/keyItem	...?					
 GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae viu a chave que encontramos e nos incentivou a ficar de olho em uma porta trancada.					
@@ -523,7 +523,7 @@ GIRL_DARKMOON	The Scythian			Samae falou sobre caminhadas oníricas pela florest
 ARCHETYPE_DARKMOON	The Archetype			Tenha cuidado. A Lua Sombria reina.			94	076.jpg	I7F69
 LOGFELLA_CRESCENTWAX	The Scythian			O lenhador falou sobre caminhadas oníricas pela floresta pouco antes do amanhecer, sob a luz de uma lua crescente.					
 				Ele falou sobre uma criatura com a qual havia se deparado, algo ou alguém estranho e nu. Era um urso? Um homem? Ou... O Patife Grisalho?			57	077.jpg	I7G7U
-GIRL_CRESCENTWAX	The Scythian			Samae estava animada. Hoje começava um novo mês lunar! Longos dias sentada em rochas a esperavam.					
+GIRL_CRESCENTWAX	The Scythian			Samae estava animada. Hoje começava um novo mês lunar! Ela mal podia esperar para passar longos dias sentada sobre rochas.					
 ARCHETYPE_CRESCENTWAX	The Archetype			Um fino filete de lua crescente apareceu, marcando o início de um novo ciclo lunar de vinte e oito dias.			118	045.jpg	Y4E5Q
 LOGFELLA_HALFWAX	The Scythian			O lenhador admitiu que sim, de fato, tinha cortado uma boa quantidade de lenha em sua vida.					
 				Ele falou sobre invernos rigorosos e neves profundas aqui, nas majestuosas montanhas do Cáucaso, que se erguiam sobre as estepes da Cítia.					
@@ -579,13 +579,13 @@ RABBITS_53MURDERS	The Scythian			Inexplicavelmente, assassinamos 53 coelhos inde
 RABBITS_91MURDERS	The Scythian			Inexplicavelmente, assassinamos 91 coelhos indefesos.					
 RABBITS_107MURDERS	The Scythian			Inexplicavelmente, assassinamos 107 coelhos indefesos. Talvez nossa compulsão assassina diminua se pararmos de contar?					
 ARCHETYPE_CREDITS	The Archetype								
-				S:S&SEP é um projeto colaborativo de videogame criado em Toronto de 2009 a 2011, na internet em swordandsworcery.com					
-			Logos/superbrothers	Conceito original da organização de arte e design Superbrothers A/V Inc. em superbrothersHQ.com					
-				Músicas e alguns sons pelo amado compositor e roqueiro Jim Guthrie em jimguthrie.org					
-			Logos/capy	Engenharia e milagres pelo estúdio independente de videogames Capy em capybaragames.com					
+				S:S&SEP é um projeto colaborativo de videogame criado em Toronto entre 2009 e 2011, disponível em swordandsworcery.com					
+			Logos/superbrothers	Conceito original: a organização de arte e design Superbrothers A/V Inc. em superbrothersHQ.com					
+				Músicas e alguns sons: o amado compositor e roqueiro Jim Guthrie em jimguthrie.org					
+			Logos/capy	Engenharia e milagres: o estúdio independente de videogames Capy em capybaragames.com					
 			Logos/eightfour	Localização japonesa, marketing, relações públicas e carinho: TODA A EQUIPE da 8-4, Ltd. em 8-4.jp					
 				* * * A EQUIPE DE S:S&SEP * * *					
-				Conceito, arte, design, direção e roteiro por representantes da Superbrothers A/V Inc.					
+				Conceito, arte, design, direção e roteiro: representantes da Superbrothers A/V Inc.					
 				Design, liderança de projeto, apoio incansável e mais: Kris Piotrowski, diretor criativo na Capy.					
 				Sistemas, arquitetura técnica, UI, motor e mais: Jon Maur, programador técnico líder de S:S&SEP na Capy.					
 				Scripting, combate e milagres: Frankie Leung, programador líder de jogabilidade de S:S&SEP na Capy.					
@@ -600,26 +600,26 @@ ARCHETYPE_CREDITS	The Archetype
 				Produtor de PC, assistência técnica de áudio, integração FMOD e muitíssimos sons: Sean 'Uber' Lohrisch, cofundador da Capy.					
 				Nintendo Switch Produc-tron e assistência geral de negócios: Matt Repetski, cofundador da Capy.					
 				Controle de qualidade (QA) e megaherói de testes de jogo: Christian 'Sea Dawg' Meyer na Capy.					
-				Programação principal para a versão de Nintendo Switch e computadores domésticos fornecida por nada menos que Hubert Wong na Capy.					
-				Conceitos de design, implementação e bruxaria de Nintendo Switch preparados por Sadie Lee na Capy.					
-				Diversas tarefas pesadas, incluindo suporte de programação para PC/Mac/Linux e suporte para Nintendo Switch por Drew Grainge na Capy.					
-				Alguns recursos de arte redimensionados e sorrisos fornecidos por Vic 'Meow' Nguyen na Capy.					
+				Programação principal para a versão de Nintendo Switch e computadores domésticos: nada menos que Hubert Wong na Capy.					
+				Conceitos de design, implementação e bruxaria de Nintendo Switch: Sadie Lee na Capy.					
+				Diversas tarefas pesadas, incluindo suporte de programação para PC/Mac/Linux e suporte para Nintendo Switch: Drew Grainge na Capy.					
+				Alguns recursos de arte redimensionados e sorrisos: Vic 'Meow' Nguyen na Capy.					
 				Controle de qualidade (QA) adicional: o único e inigualável Aaron Eves.					
-				Suporte de QA para Nintendo Switch cortesia de Testronic Labs.					
-				Suporte de QA por Roopesh Pawar. A, Prashanth. DR, Veeresh Kuruva, Raghunath. BG e Roshan R Shekar da Sun Technology Integrators Pvt. Ltd.					
+				Controle de qualidade (QA) para Nintendo Switch: Testronic Labs.					
+				Controle de qualidade (QA): Roopesh Pawar. A, Prashanth. DR, Veeresh Kuruva, Raghunath. BG e Roshan R Shekar da Sun Technology Integrators Pvt. Ltd.					
 				Obrigado a Xavier Xaden Xen, Joseppe Theodore Blocco e Hank Hudson.					
-				Biscoitos e outras delícias fornecidas por Thea Gaerlan.					
+				Biscoitos e outras delícias: Thea Gaerlan.					
 				* * * APOIO DA SUPERBROTHERS * * *					
 				Amor cósmico eterno a Jori.					
 				Parabéns ao CEO da Superbrothers, Mack.					
 				Um enorme agradecimento a Jim Guthrie por embarcar nesta aventura lunática rumo ao desconhecido.					
-				Sons adicionais de um milhão de dólares cortesia de Timothy Muirhead.					
+				Sons adicionais de um milhão de dólares: Timothy Muirhead.					
 				* * * APOIO DA 8-4 * * *					
 				Tradução japonesa: o mestre das palavras RYUTA YAZAWA.					
 				Edição japonesa, conselhos cruciais e apoio infinito: MASAHIRO YUKI da Grasshopper Manufacture em grasshopper.co.jp					
-				Suporte adicional de localização japonesa fornecido por Yutaka Ohbuchi, John Ricciardi e Masanobu Suto.					
-				Design do incrível logo japonês cortesia de POLYGRAPH em polygraph.jp					
-				Magia web japonesa por Jonathan Lumb em jonnyram.com					
+				Suporte adicional de localização japonesa: Yutaka Ohbuchi, John Ricciardi e Masanobu Suto.					
+				Design do incrível logo japonês: POLYGRAPH em polygraph.jp					
+				Magia web japonesa: Jonathan Lumb em jonnyram.com					
 				No Japão, obrigado: Suda 51, Tomoaki Takahashi, Hideto Yamada. Remixers: Baiyon, Akira Yamaoka, Michiru Yamane, macotom3, Decasségui Hip.					
 				* * * O DOMÍNIO DO CANADÁ * * *					
 			Logos/omdc	Este projeto foi possível graças ao apoio financeiro da Ontario Creates.					
@@ -661,7 +661,7 @@ ARCHETYPE_CREDITS	The Archetype
 				A Superbrothers, um pequeno estúdio de arte e videogames em seu 20º ano, opera dos bosques do Quebec e da costa oeste do Canadá.					
 				Desde S:S&SEP, Superbrothers e Jim Guthrie contribuíram para Sound Shapes (2012) (Queasy Games) (PlayStation + PC).					
 				A Superbrothers entregou JETT: The Far Shore + Given Time (2021/2023) (PlayStation + PC), uma saga de ficção científica soviética com música de scntfc.					
-				Ao fim de 2023, um novo projeto de pixels está sendo gestado na Superbrothers.					
+				Em 2023, um novo projeto de pixels está sendo gestado na Superbrothers.					
 				A Capy Games lançou o hiperativo rebobinador de tempo Super Time Force Ultra (2014) (PlayStation + PC + Xbox).					
 				Em 2018, a Capy lançou Below: um roguelike onde um guerreiro explora as misteriosas profundezas de uma ilha remota (PlayStation + PC + Xbox).					
 				A Capy lançou o maravilhoso Grindstone em 2019 e continua adicionando conteúdo para os jogadores (Apple Arcade + Switch + PlayStation + PC + Xbox).					

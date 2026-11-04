@@ -1,11 +1,11 @@
 # Translation Glossary: Sword & Sworcery EP
-## English → Spanish (ES) / Portuguese (PT-BR)
+## English → Spanish (ES-419) / Portuguese (PT-BR)
 
 ---
 
 ## Purpose of This Document
 
-This glossary serves as the **authoritative translation reference** for Superbrothers: Sword & Sworcery EP across Spanish (ES) and Portuguese (PT-BR) localizations. It documents:
+This glossary serves as the **authoritative translation reference** for Superbrothers: Sword & Sworcery EP across Neutral Latin American Spanish (`es-419`) and Brazilian Portuguese (`pt-BR`) localizations. It documents:
 
 - **Standardized terminology** for consistent translation across all game text
 - **Character names, locations, and key concepts** with their canonical translations
@@ -84,7 +84,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | stone shelter | refugio de piedra | abrigo de pedra |
 | mountain temple | templo de la montaña | templo da montanha |
 | iron gate of the meadow | portón de hierro del prado | portão de ferro da campina |
-| cavernous cave of the meadow | cueva cavernosa del prado | caverna colossal da campina |
+| cavernous cave of the meadow | cueva cavernosa del prado | caverna colossal na campina |
 | miracle of the meadow | milagro del prado | milagre da campina |
 | titanic hollow tree | árbol hueco titánico | árvore oca titânica | ✅ Postpositive adjective order (natural Romance syntax) |
 | parliament of trees | Parlamento de Árboles | Parlamento de Árvores |
@@ -105,18 +105,12 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | **Dark Moon Trigon** | Trigón de la Luna Sombría | Trígono da Lua Sombria | ✅ Blue/dark trigon |
 | **The Trigon Trifecta** | La Tríada Trigónica | A Tríade Trigônica | ✅ All three trigons |
 | | | | |
-| hearth | hoguera / fuego | fogo / lareira | ⚠️ PT: `fogo` (fire), `lareira` (hearth) |
+| hearth | fuego / hogar | fogo / lareira / lar | ⚠️ `hogar` / `lareira / lar` used in poetic/proverbial contexts |
 | firewood | leña | lenha | ✅ |
 | well | pozo | poço | ✅ |
-| nestbox | nido | ninho | ✅ Also "nido curioso" / "ninho curioso" |
-
-### Special Items
-
-| English | Spanish (ES) | Portuguese (PT-BR) |
-|---------|--------------|-------------------|
-| gourd | calabaza | cabaça |
-| mushroom | hongo | cogumelo |
-| record | disco | disco |
+| nestbox | curioso nido / nido | curioso ninho / ninho | ✅ |
+| mushroom | hongo | cogumelo | ✅ |
+| record | disco | disco | ✅ |
 
 ---
 
@@ -139,13 +133,13 @@ This glossary serves as the **authoritative translation reference** for Superbro
 
 | English | Spanish (ES) | Portuguese (PT-BR) | Notes |
 |---------|--------------|-------------------|-------|
-| touch & hold | mantén presionado | manter pressionado | ✅ Primary interaction |
-| tap / tip tap | toca / haz tip tap | tocar / tip tap | ✅ Quick touch |
-| swipe | desliza / deslizar | deslizar / deslize | ✅ Gesture |
+| press & hold / touch & hold | mantén presionado | mantenha pressionado / segure | ✅ Primary interaction |
+| tap / tip tap | presiona / tip tap | pressione / tip tap | ✅ Quick touch (`toca` / `toque` in narrative prose) |
+| swipe | desliza | deslize | ✅ Gesture |
 | move it move it | mover el bote | remexer | ✅ Fast movement, colloquial |
 | shield button | botón del escudo | botão do escudo | ✅ With article |
 | hold shield to heal | mantén para curarte | segure para se curar | ✅ UI combat text above shield; omitted "escudo" for space and visual redundancy |
-| swing sword | blandir espada | brandir espada | ✅ |
+| swing sword | blande la espada / golpea con la espada | branda a espada / rebata com a espada | ✅ |
 | dodge/evade | esquivar | esquivar | ✅ |
 
 ### Game States
@@ -183,7 +177,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 |---------|--------------|-------------------|
 | loathsome rainbow | odioso arcoíris | odioso arco-íris |
 | sinister storm | siniestra tormenta | sinistra tempestade |
-| gathering thunderstorm | inminente tormenta | tempestade iminente |
+| gathering storm | inminente tormenta | iminente tempestade |
 | haunted darkness | oscuridad embrujada | trevas assombradas |
 
 ---
@@ -204,7 +198,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 
 **Spanish:**
 - ✅ "Mientras **la** Luna Radiante impera"
-- ✅ "Cuando **la** Luna Sombría reina"
+- ✅ "Mientras **la** Luna Sombría reina"
 - ❌ Never: "Mientras Luna Radiante impera" (missing article)
 
 **Portuguese:**
@@ -216,12 +210,8 @@ This glossary serves as the **authoritative translation reference** for Superbro
 
 | Phase | Spanish Verb | Portuguese Verb |
 |-------|--------------|-----------------|
-| Bright Moon | impera (present) | paira (present) |
-| Dark Moon | reina (present) | reina (present) |
-
-**Portuguese Important**: Always use **"paira"** (present tense), never:
-- ❌ "pairava" (imperfect)
-- ❌ "pairasse" (subjunctive)
+| Bright Moon | impera (present) / imperaba, imperara (past narrative) | paira (present) / pairava, pairasse (past narrative) |
+| Dark Moon | reina (present) / reinaba, reinaría (past narrative) | reina (present) / reinava, reinaria (past narrative) |
 
 ---
 
@@ -230,11 +220,11 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | English | Spanish (ES) | Portuguese (PT-BR) | Notes |
 |---------|--------------|-------------------|-------|
 | Session I, II, III | Sesión I, II, III | Sessão I, II, III | ✅ |
-| Side B | Lado B | Lado B | ✅ |
-| press play | presiona 'jugar' | pressione 'jogar' | ✅ |
-| equipped | equipado | equipado | ✅ |
-| scroll down | desplázate hacia abajo | role para baixo | ✅ |
-| rotate to reveal | rota para revelar | rotacione para revelar | ✅ |
+| Side A / Side B | Lado A / Lado B | Lado A / Lado B | ✅ |
+| press play | presiona 'Jugar' | pressione 'Jogar' | ✅ |
+| equip | equipa | equipe | ✅ |
+| scroll down | desplázate | role | ✅ Concise imperative for Megatome tutorial |
+| unsheathe / rotate | ¿DESENVAINAR? / ¿ROTAR? | DESEMBAINHAR? / GIRAR? | ✅ |
 | BELIEVE | CONFÍA | ACREDITE | ✅ UI Action prompt |
 | QUIT? (`QUIT` / `EXIT`) | SALIR | SAIR? / SAIR | ✅ ES omits `¿...?` on `QUIT` (L99) so the 5-char string doesn't overlap the button icon inside the fixed-width UI tab |
 
@@ -242,9 +232,9 @@ This glossary serves as the **authoritative translation reference** for Superbro
 
 | English | Spanish (ES) | Portuguese (PT-BR) |
 |---------|--------------|-------------------|
-| Settings | Configuración | Configurações |
-| Date/Time | Fecha/Hora | Data/Hora |
-| Home button | botón Home | botão Home |
+| Settings | AJUSTES | AJUSTES |
+| date & time | fecha y hora | data e hora |
+| Go Home? | ¿INICIO? | INÍCIO? |
 | Authorized Personnel Only | Solo personal autorizado | Apenas Pessoal Autorizado |
 
 ---
@@ -264,16 +254,15 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | #woe | #angustia | #angustia |
 | #wetboots | #botasmojadas | #botasmolhadas |
 | #loathsomerainbows | #odiososarcoiris | #odiososarcoiris |
-| #slaughter | #masacre | #matança |
+| #slaughter | #masacre | #matanca |
 
 ### Colloquialisms
 
 | English | Spanish (ES) | Portuguese (PT-BR) | Notes |
 |---------|--------------|-------------------|-------|
-| amirite? | ¿no? / ¿verdad? | Fala sério, né? | ✅ Casual agreement / Exasperation |
-| Y'know | Sabes / Ya sabes | Sabe / Você sabe | ✅ |
-| Whoa | Vaya / Guau | Nossa / Ué / Eita | ✅ Context dependent (Ué/Eita for confusion) |
-| Yikes! | ¡Madre mía! / ¡Caray! | Credo! / Caramba! | ✅ Context dependent (Ghost vs Archetype) |
+| amirite? | ¿En serio? / ¿no crees? | Fala sério, né? / não acha? | ✅ Context: Exasperation vs Rhetorical agreement |
+| Whoa | Vaya / Espera... ¿qué? / ¡¿Cómo?! | Nossa / Eita | ✅ Context dependent |
+| Yikes! | ¡Caramba! | Credo! / Caramba! | ✅ Ghost vs Archetype |
 | Hmm... | Hmm... | Hmm... | ✅ Keep as is |
 | cool | genial / buena gente | legal / incrível | ⚠️ Context: Person vs Situation |
 
@@ -322,11 +311,11 @@ This glossary serves as the **authoritative translation reference** for Superbro
 - ✅ **Correct:** `...cómo nos volvimos tan listos.`
 - ❌ **Incorrect:** `...cómo nos volvimos tan listas.`
 
-#### 7. **Stylistic Ampersands (`&`)**
-- ✅ **UI Instructions**: Use for mechanical button prompts (e.g., `PRESIONA & MANTÉN`).
-- ✅ **Ceremonials & Signs**: Use in high-impact ceremonial dialogue, ancient signs, and milestones to preserve the game's quirky aesthetic (e.g., `Cimeria, Asiria & Persia`).
-- ❌ **Standard Prose**: Do NOT use in regular descriptive prose or everyday dialogue to avoid visual clutter.
-- 💡 **Exception (Trigon Collections)**: While milestones generally use `&`, the specific Trigon collection achievements use a deadpan, two-sentence structure without an ampersand (e.g., `Domamos el Trigón Dorado. Somos lo máximo.`) to match the dry humor of the English source.
+#### 7. **Conjunctions vs. English Ampersands (`y` / `+` instead of `&`)**
+- ✅ **Natural Conjunctions**: Replace the English stylistic `&` with the standard Spanish conjunction **`y`** across all UI prompts (`MANTÉN Y DESLIZA`, `APUNTAR Y HACER CLIC`), ancient signs (`Escitia, Cimeria, Asiria y Persia`), and narrative prose.
+- ✅ **Button Combinations**: Use **`+`** for simultaneous controller button prompts (`PRESIONA L + R`).
+- ✅ **Brand Exception**: Retain `&` exclusively in the game's proper title and official abbreviations (`Superbrothers: Sword & Sworcery EP`, `S:S&SEP`, `S&S`).
+- 💡 **Trigon Collections**: Trigon collection achievements use a deadpan, two-sentence structure (`Domamos el Trigón Dorado. Somos lo máximo.`) to match the dry humor of the English source.
 
 #### 8. **Postpositive Adjective Order (`árbol hueco titánico`)**
 - ✅ ALWAYS place descriptive adjectives after the noun in natural Romance syntax: **"árbol hueco titánico"** / **"árbol titánico"**.
@@ -344,33 +333,30 @@ This glossary serves as the **authoritative translation reference** for Superbro
 
 ### Portuguese (PT-BR) Style Rules
 
-#### 1. **Article Usage with Moons - CRITICAL ERROR TO FIX**
+#### 1. **Article Usage with Moons**
 - ✅ ALWAYS use **"a"** before Lua Radiante/Sombria.
 - ✅ "Enquanto **a** Lua Radiante paira"
 - ✅ "Enquanto **a** Lua Sombria reina"
 - ❌ **NEVER**: "Enquanto Lua Sombria reina" (grammatically incorrect)
 
-#### 2. **Verb Tense Consistency - Lua Radiante**
-- ✅ ALWAYS use **"paira"** (present tense).
-- ❌ NEVER use "pairava" (imperfect)
-- ❌ NEVER use "pairasse" (subjunctive)
-- Exception: Narrative past tense contexts only
+#### 2. **Verb Choice for Moons (`paira` vs `reina`)**
+- ✅ Use **"paira"** for *Lua Radiante* and **"reina"** for *Lua Sombria* in present-tense milestone prompts (`Enquanto a Lua Radiante paira` / `Enquanto a Lua Sombria reina`), inflecting naturally (`pairava`, `pairasse`, `reinava`, `reinaria`) in narrative past and subordinate contexts.
 
 #### 3. **Lagoa vs Lago**
-- **"lagoa insondável"** = deepwater pond (small body of water)
+- **"insondável lagoa"** = deepwater pond (small body of water)
 - **"lago"** = lake (large body of water)
 - These are NOT interchangeable
 
 #### 4. **"Hearth" Translation Context**
-- **"fogo"** = fire (casual references)
-- **"lareira"** = hearth (formal/poetic contexts)
+- **"fogo"** = fire (standard narrative and dialogue references)
+- **"lareira / lar"** = hearth (formal/poetic contexts)
 - Special phrase: **"Onde a lareira arde, o lar faz alarde"** ✅ (Poetic wordplay using rhyme and meter).
 
-#### 5. **Stylistic Ampersands (`&`)**
-- ✅ **UI Instructions**: Use for mechanical button prompts (e.g., `PRESSIONE & SEGURE`).
-- ✅ **Ceremonials & Signs**: Use in high-impact ceremonial dialogue, ancient signs, and milestones to preserve the game's quirky aesthetic (e.g., `Cítia, Ciméria, Assíria & Pérsia`).
-- ❌ **Standard Prose**: Do NOT use in regular descriptive prose or everyday dialogue to avoid visual clutter.
-- 💡 **Exception (Trigon Collections)**: While milestones generally use `&`, the specific Trigon collection achievements use a deadpan, two-sentence structure without an ampersand (e.g., `Domamos o Trígono Dourado. Somos os maiores.`) to match the dry humor of the English source.
+#### 5. **Conjunctions vs. English Ampersands (`e` / `+` instead of `&`)**
+- ✅ **Natural Conjunctions**: Replace the English stylistic `&` with the standard Portuguese conjunction **`e`** across all UI prompts (`SEGURE E DESLIZE`, `APONTAR E CLICAR`), ancient signs (`Cítia, Ciméria, Assíria e Pérsia`), and narrative prose.
+- ✅ **Button Combinations**: Use **`+`** for simultaneous controller button prompts (`PRESSIONE L + R`).
+- ✅ **Brand Exception**: Retain `&` exclusively in the game's proper title and official abbreviations (`Superbrothers: Sword & Sworcery EP`, `S:S&SEP`, `S&S`).
+- 💡 **Trigon Collections**: Trigon collection achievements use a deadpan, two-sentence structure (`Domamos o Trígono Dourado. Somos os maiores.`) to match the dry humor of the English source.
 
 #### 6. **Formatting & Capitalization**
 - Trigon names: **"Trígono Dourado"** (both words capitalized)
@@ -390,7 +376,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 - ✅ People / Tribe: **"citas / os citas"** (normalized demonym for the Scythian people).
 
 #### 10. **UI Dialogue Line-Length Management**
-- When localizing dialogues into the 3-line retro tweet boxes, keep line length under ~42–46 characters. Avoid long words near line boundaries to prevent single-word orphan overflow into a 4th line (e.g., Line 97: `...e a chave parecia perdida nos sonhos` instead of wrapping `sonhos.` into a 4th row).
+- When localizing dialogues into the 3-line retro tweet boxes, keep line length under ~42–46 characters. Avoid long words near line boundaries to prevent single-word orphan overflow into a 4th line (e.g., Line 97: `...e a chave parecia perdida nos sonhos.` instead of wrapping `sonhos.` into a 4th row).
 
 ### Verb Strategy for "We spied..." (ES/PT)
 
@@ -399,10 +385,10 @@ To avoid repetition of the verb "avistar" (to spot/spy), we use a flexible set o
 | Observation Type | Spanish (ES) Verbs | Portuguese (PT) Verbs | Usage Context |
 |:---|:---|:---|:---|
 | **General Sighting (Default)** | `avistamos`, `vimos` | `avistamos`, `vimos` | The base verb for a neutral observation or the first in a series. |
-| **Discovery / Surprise** | `descubrimos`, `hallamos` | `descobrimos`, `encontramos` | For finding something new, hidden, or important (e.g., a secret statue). |
-| **Chance Encounter** | `dimos con`, `nos topamos con` | `deparamo-nos com` | For stumbling upon an object or character unexpectedly. |
-| **Focused Observation** | `observamos`, `notamos`, `nos percatamos de` | `observamos`, `notamos`, `reparamos em` | For looking at something more closely or noticing a subtle detail. |
-| **Distant / Difficult Sighting**| `divisamos`, `distinguimos` | `distinguimos` | For seeing something far away, in the dark, or in a crowd. |
+| **Discovery / Surprise** | `descubrimos`, `hallamos`, `encontramos` | `descobrimos`, `encontramos` | For finding something new, hidden, or important (e.g., a secret statue). |
+| **Chance Encounter** | `nos topamos con` | `nos deparamos com` | For stumbling upon an object or character unexpectedly. |
+| **Focused Observation** | `observamos`, `notamos` | `observamos`, `notamos`, `reparamos em` | For looking at something more closely or noticing a subtle detail. |
+| **Distant / Difficult Sighting**| `distinguimos` | `distinguimos` | For seeing something far away, in the dark, or in a crowd. |
 
 **Rule of Thumb:** In a sequence of observations in the same area (e.g., `INFO_CABIN*`), vary the verbs to reflect the process of discovery. Start with a general `avistamos` and move to more specific verbs like `notamos` or `descubrimos`.
 
@@ -417,21 +403,21 @@ This section defines the personality and speaking style for each character to en
 
 | Character | Voice & Tone | Spanish Nuances | Portuguese Nuances |
 |---|---|---|---|
-| **The Scythian** | **The Stoic Narrator.** Uses "we" (plural majestatis). Her tone is epic, descriptive, and poetic, but with flashes of dry, modern humor and inner thoughts. She is on a "woeful errand" but often sounds cynical or unimpressed. | **Narradora Épica y Cansada.** Usa el plural mayestático ("nosotros"). Suena como la protagonista de una saga antigua, pero con un monólogo interior moderno y sarcástico ("genial, otra misión de buscar objetos"). | **Narradora Épica e Cansada.** Usa o plural majestático ("nós"). Soa como a protagonista de uma saga antiga, mas com um monólogo interior moderno e sarcástico ("ótimo, mais uma missão de busca"). |
-| **The Archetype** | **The Erudite Guide.** Speaks formally, almost academically. Uses complex, philosophical, and sometimes fourth-wall-breaking language ("mythopoetic psychocosmology"). He is the director of the "experience." | **El Guía Erudito.** Su lenguaje es formal, casi académico. Usa palabras complejas y conceptos abstractos ("psicosmología mitopoética"). Rompe la cuarta pared, dirigiéndose al jugador como un participante en un experimento. | **O Guia Erudito.** Sua linguagem é formal, quase acadêmica. Usa palavras complexas e conceitos abstratos ("psicosmologia mitopoética"). Quebra a quarta parede, tratando o jogador como um participante de um experimento. |
-| **Logfella** | **The Practical Woodsman.** Simple, direct, and down-to-earth. He is friendly but gruff. He has a "low tolerance for lore" and is more concerned with practical matters like chopping wood and staying warm. His speech is colloquial. | **El Leñador Práctico.** Habla de forma sencilla y directa. Es amigable pero rudo. No le interesan las "historias" y prefiere lo práctico (cortar leña). Su apodo "Tronquero" refleja un carácter rústico y cercano. | **O Lenhador Prático.** Fala de forma simples e direta. É amigável, mas um pouco rude. Tem "baixa tolerância para folclore" e prefere o pragmatismo (cortar lenha). Seu apelido "Troncadeiro" reflete sua natureza rústica. |
+| **The Scythian** | **The Stoic Narrator.** Uses "we" (plural majestatis). Her tone is epic, descriptive, and poetic, but with flashes of dry, modern humor and inner thoughts. She is on a "woeful errand" but often sounds cynical or unimpressed. | **Narradora Épica y Cansada.** Usa el plural mayestático ("nosotros"). Suena como la protagonista de una saga antigua, pero con un monólogo interior moderno y sarcástico ("uf. ¿Otra misión de búsqueda? ¿En serio?"). | **Narradora Épica e Cansada.** Usa o plural majestático ("nós"). Soa como a protagonista de uma saga antiga, mas com um monólogo interior moderno e sarcástico ("aff. Outra missão de busca? Fala sério, né?"). |
+| **The Archetype** | **The Erudite Guide.** Speaks formally, almost academically. Uses complex, philosophical, and sometimes fourth-wall-breaking language ("mythopoetic psychocosmology"). He is the director of the "experience." | **El Guía Erudito.** Su lenguaje es formal, casi académico. Usa palabras complejas y conceptos abstractos ("psicocosmología mitopoética"). Rompe la cuarta pared, dirigiéndose al jugador como un participante en un experimento. | **O Guia Erudito.** Sua linguagem é formal, quase acadêmica. Usa palavras complexas e conceitos abstratos ("psicocosmologia mitopoética"). Quebra a quarta parede, tratando o jogador como um participante de um experimento. |
+| **Logfella** | **The Practical Woodsman.** Simple, direct, and down-to-earth. He is friendly but gruff. He has a "low tolerance for lore" and is more concerned with practical matters like chopping wood and staying warm. His speech is colloquial. | **El Leñador Práctico.** Habla de forma sencilla y directa. Es amigable pero rudo. No es "mucho de historias" y prefiere lo práctico (cortar leña). Su apodo "Tronquero" refleja un carácter rústico y cercano. | **O Lenhador Prático.** Fala de forma simples e direta. É amigável, mas um pouco rude. Não é "muito de histórias" e prefere o pragmatismo (cortar lenha). Seu apelido "Troncadeiro" reflete sua natureza rústica. |
 | **Girl (Samae)** | **The Gentle Observer.** Innocent, curious, and deeply connected to the mystical world (sprites, dreams, moon moods). Her tone is soft, sometimes melancholic ("feeling the woe"), and observant. | **La Observadora Gentil.** Su tono es inocente, curioso y melancólico. Está conectada con lo místico (espíritus, sueños). Habla con una sencillez poética, en contraste con la complejidad de El Arquetipo. | **A Observadora Gentil.** Seu tom é inocente, curioso e melancólico. Está conectada com o místico (espíritos, sonhos). Fala com uma simplicidade poética, em contraste com a complexidade do Arquétipo. |
 | **Dogfella** | **The Cryptic Canine.** Mostly barks, but his "barks" are translated into profound or humorous wisdom when The Scythian can understand him. His "voice" is surprisingly philosophical. | **El Can Críptico.** Ladra ("Guau"), pero sus pensamientos son sorprendentemente filosóficos o graciosos. El nombre "Perrero" lo vincula con el estilo de "Tronquero". | **O Cão Críptico.** Late ("Au"), mas seus pensamentos são surpreendentemente filosóficos ou humorísticos. O nome "Cachorreiro" o conecta ao estilo de "Troncadeiro". |
 | **The Grizzled Boor**| **The Silent Antagonist.** He has no dialogue. His presence is communicated through actions and The Scythian's descriptions. He is menacing and brutish. | **El Antagonista Silencioso.** No tiene diálogos. Su amenaza se percibe a través de las descripciones de La Escita. Su nombre "El Patán Canoso" debe sonar intimidante. | **O Antagonista Silencioso.** Não tem diálogos. Sua ameaça é percebida pelas descrições da Citiana. Seu nome "O Patife Grisalho" deve soar intimidador. |
-| **Ghosts** | **The Expositional Spirits.** Each ghost has a specific story to tell. Their tone is often sorrowful, regretful, or filled with unhelpful "nonsense." They serve to deliver lore about past events. | **Los Espíritus Expositivos.** Cada fantasma cuenta su tragedia. Su tono es de lamento, arrepentimiento o, a veces, hablan con "sinsentidos" irritantes. Son vehículos para la historia del mundo. | **Os Espíritos Expositivos.** Cada fantasma conta sua tragédia. Seu tom é de lamento, arrependimento ou, às vezes, falam "absurdos" irritantes. São veículos para a história do mundo. |
+| **Ghosts** | **The Expositional Spirits.** Each ghost has a specific story to tell. Their tone is often sorrowful, regretful, or filled with unhelpful "nonsense." They serve to deliver lore about past events. | **Los Espíritus Expositivos.** Cada fantasma cuenta su tragedia. Su tono es de lamento, arrepentimiento o, a veces, dicen "tonterías inútiles" irritantes. Son vehículos para la historia del mundo. | **Os Espíritos Expositivos.** Cada fantasma conta sua tragédia. Seu tom é de lamento, arrependimento ou, às vezes, falam "baboseiras inúteis" irritantes. São veículos para a história do mundo. |
 
 ---
 
 ### Universal Style Guidelines (Both Languages)
 
 #### 1. **Hashtags & Social Media Aesthetic**
-- **Translate and culturally adapt hashtags**: All in-game hashtags are creatively localized into Spanish and Portuguese (e.g., `#holamundo` / `#olamundo`, `#obvio`, `#threegutrecordsx100pre`, `#odiososarcoiris`, `#trigondomado` / `#trigonodomado`) to preserve the game's witty, meta-textual 2011 Twitter aesthetic for native audiences. (The original European FIGS release left hashtags untranslated in English, which broke immersion).
-- Keep specific retro media terms when part of the game's quirky style (e.g., `Side B` → `Lado B`, `press play` → `presiona 'jugar'` / `pressione 'jogar'`).
+- **Translate and culturally adapt hashtags**: All in-game hashtags are creatively localized into Spanish and Portuguese (e.g., `#holamundo` / `#olamundo`, `#obvio`, `#threegutrecordsx100pre` / `#threegutrecordsprasempre`, `#odiososarcoiris`, `#trigondomado` / `#trigonodomado`) to preserve the game's witty, meta-textual 2011 Twitter aesthetic for native audiences. (The original European FIGS release left hashtags untranslated in English, which broke immersion).
+- Keep specific retro media terms when part of the game's quirky style (e.g., `Side B` → `Lado B`, `press play` → `presiona 'Jugar'` / `pressione 'Jogar'`).
 
 #### 2. **Proper Nouns**
 - Never translate: Jim Guthrie, André, Samae
@@ -465,30 +451,35 @@ The game makes a strict distinction between:
   5. **Impersonal UI & prompts:** e.g., `¿Todo listo?` / `Tudo pronto?` instead of `¿Listo/a?`; `¿Confirmas que quieres activar...?` (ES) / `Tem certeza de que deseja ativar...?` (PT-BR).
 
 #### 7. **Cursor vs. Pointer (Hardware vs. Visual)**
-- **Cursor:** The visual reticle/element moving on screen (e.g., "Mover cursor", "Centralizar o cursor").
-- **Pointer/Apuntar (ES: Puntero / PT: Ponteiro):** The physical Joy-Con acting as a pointing device, or the action of aiming it (e.g., "Sensibilidad del puntero / Sensibilidade do ponteiro", "Apuntar & hacer clic"). Do NOT use "cursor" to refer to the hardware.
+- **Cursor:** The visual reticle/element moving on screen (e.g., `MOVER CURSOR`, `CENTRAR CURSOR` / `CENTRALIZAR CURSOR`).
+- **Pointer/Apuntar (ES: Puntero / PT: Ponteiro):** The physical Joy-Con acting as a pointing device, or the action of aiming it (e.g., `SENSIBILIDAD DEL PUNTERO` / `SENSIBILIDADE DO PONTEIRO`, `APUNTAR Y HACER CLIC` / `APONTAR E CLICAR`). Do NOT use "cursor" to refer to the hardware.
 
 ---
 
-## Special Cases & Edge Cases
+## Dialect & Regional Standards (`es-419` & `pt-BR`)
 
-### Ambiguous Terms
+#### 1. **Spanish: Neutral Latin American (`es-419`) with Pan-Hispanic Accessibility**
+The Spanish localization is anchored in **Neutral Latin American Spanish (`es-419`)**, designed to feel native across the Americas while remaining completely natural and intelligible to players in Spain (`es-ES`):
+- **Pronouns & Forms of Address:** Uses `tú` for singular address and `ustedes` / `los` for plural (`* * * LOS QUEREMOS MUCHÍSIMO * * *`), avoiding Peninsular `vosotros / os` as well as regional *voseo* (`vos`).
+- **Verb Tense & Syntax:**
+  - Uses the simple preterite (*pretérito perfecto simple*: `¿Qué pasó?`, `¿Adónde fue a parar mi llave?`, `recuperaste`) for immediate past actions rather than the Peninsular compound perfect (`¿Qué ha pasado?`, `¿Adónde se ha ido?`).
+  - Uses transitive `informar que` (`Me acaban de informar que...`) in accordance with educated Latin American usage rather than Peninsular `informar de que`.
+- **Console & UI Terminology (First-Party `es-419` Standards):**
+  - Action prompts use **`PRESIONA` / `PRESIONAR` / `MANTÉN PRESIONADO`** (aligned with Nintendo Switch, PlayStation, and Xbox LatAm standards) rather than Peninsular `PULSA` / `MANTÉN PULSADO`.
+  - Hardware and media terms follow `es-419` conventions: **`CONTROL`** (not `mando`), **`COMPUTADORAS`** (not `ordenadores`), and **`LADO A / LADO B`** for vinyl/cassette sides (not `Cara A / Cara B`).
+- **Lexical Neutrality:** Avoids country-specific idioms or Peninsularisms in dialogue (e.g., `misión de búsqueda` instead of Peninsular `misión de recadero`; `¡No lo puedo creer!` instead of Peninsular `¡No me lo puedo creer!`; `pájaro enojado` instead of `enfadado`).
 
-| English | Context | Spanish | Portuguese |
-|---------|---------|---------|------------|
-| **sprites** | Sylvan creatures | espíritus silvanos | espíritos silvanos |
-| | UI elements | sprites | sprites |
-| **beam** | Light beam | haz | facho |
-| | Wood beam | viga | viga |
-| **grave** | Burial site | tumba | tumba |
-| | Serious (adj) | grave | grave |
-
-### Regional Variations (PT-BR vs PT-PT)
-
-This glossary uses **Brazilian Portuguese (PT-BR)** conventions:
-- "você" (not "tu")
-- "legal" for "cool" (not "fixe")
-- "-ção" endings (not "-ção" with different pronunciation)
+#### 2. **Portuguese: Brazilian Portuguese (`pt-BR`) with Pan-Lusophone Care**
+The Portuguese localization is written in **Brazilian Portuguese (`pt-BR`)**, while actively avoiding anatomical slang, scatological false friends, or Spanish calques so that players in any Lusophone country (Brazil, Portugal, Angola, Mozambique, Cabo Verde) can enjoy the game without unintended double meanings:
+- **Pronouns, Syntax & Progressions:**
+  - Uses **`você`** (not `tu`) and natural Brazilian progressive gerunds (`estou pensando`, `caminhando em sonhos`, `por ter voltado a cortar lenha`).
+  - Uses natural Brazilian **proclisis** in character speech (`eu me sento`, `a tempestade se dissipou`, `onde uma mamãe pata se agitava`), while pairing first-person pronouns (`eu me sento`) or subordinate attractors so the syntax never reads awkwardly to other Lusophone readers.
+  - Uses analytic past forms (`havia ouvido`, `tinha visto`) in narrative prose instead of stiff synthetic pluperfects (`ouvira`, `vira`).
+- **Lexicon & Orthography:**
+  - Follows PT-BR orthography and circumflex/acute accentuation (`Trígono`, `psicocosmologia mitopoética`, `fenômenos`) and standard Brazilian gaming/everyday vocabulary (`videogame`, `show de rock`, `controle`, `tela`, `cachoeira`, `cogumelo`, `legal`, `galera`).
+- **Cross-Variant Semantic Safety (No *Portunholismos* or Unintended Innuendo):**
+  - **No scatological or anatomical double meanings:** Uses **`operar milagres`** (never `obrar milagres`, which connotes defecation in Portuguese); **`estrela do rock em tempo integral`** (never `pau pra toda obra`, avoiding vulgar connotations of *pau* across the Lusophony); and **`Que desânimo!`** / **`é um fardo`** (instead of scrotal slang `Que saco!` / `é um saco`).
+  - **No Spanish calques (*portunholismos*):** Uses idiomatic Portuguese expressions such as `estados de espírito` (not `estados de ânimo`), `sem parar` (not `uma e outra vez`), `Contra todas as probabilidades` (not `Contra ventos e marés`), `nos deixou meio irritados` (not `atravessados`), and `em breve ela desapareceria` (not `se iria`).
 
 ---
 
@@ -512,7 +503,7 @@ This glossary uses **Brazilian Portuguese (PT-BR)** conventions:
 | 12 | sonorous spume | susurrantes espumas | sussurrantes espumas |
 | 13 | dream-walking | paseos oníricos / caminar en sueños | caminhadas oníricas / caminhar em sonhos |
 | 14 | the whirling infinite | Arremolinado Infinito | Remoinhado Infinito |
-| 15 | touch & hold | mantén presionado | manter pressionado |
+| 15 | press & hold / touch & hold | mantén presionado | mantenha pressionado / segure |
 | 16 | Perilous Precipice | Precipicio Peligroso | Precipício Perigoso |
 | 17 | old road | antiguo camino | antigo caminho |
 | 18 | stone hut | choza de piedra | cabana de pedra |
@@ -551,6 +542,7 @@ These translations prioritize:
 - **v1.0** (2024) - Initial glossary creation
 - **v1.1** (2024) - Added post-correction standards
 - **v1.2** (2024) - Added grammar guidelines and critical error fixes
+- **v1.3** (2026) - Aligned glossary and style rules with final ES-419 and PT-BR localizations; removed obsolete rules
 
 ---
 

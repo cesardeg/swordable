@@ -45,7 +45,7 @@ FULLSCREEN_NO	NO
 VOLUME	VOLUMEN	
 SETTINGS	AJUSTES	
 CLEAR_DATA	BORRAR DATOS	
-KEEP_CHANGES	¿GUARDAR CAMBIOS?	
+KEEP_CHANGES	¿GUARDAR LOS CAMBIOS?	
 KEEP_CHANGES_AUTO	¿GUARDAR LOS CAMBIOS? SE REVERTIRÁN EN	
 GAME_RESTART_REQUIRED	REINICIA EL JUEGO PARA QUE LOS CAMBIOS TENGAN EFECTO	
 TWITTER_BROADCAST	CONSIDERA COMPARTIRLO EN TWITTER	
@@ -66,7 +66,7 @@ TWITTER_SIGN_OUT_ONLY	CERRAR SESIÓN
 TWITTER_SIGNED_IN	TIENES UNA SESIÓN ACTIVA EN TWITTER	
 TWITTER_SIGNED_OUT	NO TIENES UNA SESIÓN ACTIVA EN TWITTER	
 TWITTER_FILL_OUT	COMPLETA TODOS LOS CAMPOS	
-EPITAPH	NO QUEDA NINGÚN SECRETO EN LOS MARJALES DE LOS MEOTAS	
+EPITAPH	NO QUEDA NINGÚN SECRETO EN LAS MARISMAS DE LOS MEOTAS	
 FIGHT	¿LUCHAR?	
 DARKMOON_COUNT_9	LUNA SOMBRÍA EN 9 DÍAS	
 DARKMOON	LUNA SOMBRÍA	
@@ -87,7 +87,7 @@ SLAY	¿ANIQUILAR?
 ZOOM_CONTROLS	< < < ¿ZOOM? > > >	
 LOOK_CONTROLS	MANTÉN Y DESLIZA EL AURA DE ESPADANCIA	
 LOOK_CONTROLS_2	MANTÉN Y DESLIZA PARA MIRAR ALREDEDOR	
-TONGUE_TEXT	"Inclina, desenvaina y levanta tu espada escita hacia el arcoíris unos segundos y ten fe"	
+TONGUE_TEXT	"Inclina, desenvaina y mantén tu espada escita en alto, en el arcoíris, durante unos segundos y ten fe"	
 TOUCH_HOLD	MANTÉN PRESIONADO	
 TOUCH_HOLD_ARROW_LEFT	< < MANTÉN PRESIONADO	
 TOUCH_HOLD_ARROW_RIGHT	MANTÉN PRESIONADO > >	
@@ -127,12 +127,12 @@ DIGIT_STRING	0123456789
 HOLD_SHIELD_TO_HEAL	MANTÉN PARA CURARTE	
 PRESS_START	PRESIONA <switch_button_l> + <switch_button_r>	
 VIBRATION	VIBRACIÓN	
-MOTION_CURSOR_SENSITIVITY	SENSIBILIDAD DEL CURSOR DE MOVIMIENTO	
+MOTION_CURSOR_SENSITIVITY	SENSIBILIDAD DEL CURSOR POR MOVIMIENTO	
 STICK_CURSOR_SENSITIVITY	SENSIBILIDAD DEL ANALÓGICO	
 CONTROLS	CONTROLES	
 SETTINGS	AJUSTES	
 OPTIONS	OPCIONES	
-MOTION_CURSOR	CURSOR DE MOVIMIENTO	
+MOTION_CURSOR	CURSOR POR MOVIMIENTO	
 STICK_CURSOR	CURSOR ANALÓGICO	
 TOUCH_ORIENTED	CONTROLES TÁCTILES	
 RETURN_TO_TITLESCREEN	VOLVER AL MENÚ PRINCIPAL	
@@ -173,7 +173,7 @@ SOUTHPAW_NINSWITCH	MODO ZURDO
 NORTHPAW_NINSWITCH	MODO DIESTRO	
 JOYCON_STRAP_MSG_NINSWITCH	Al usar los controles Joy-Con desacoplados, sigue las instrucciones, coloca las correas y sujétalos firmemente.	
 PHOTOSENSITIVIY_MSG_NINSWITCH	Existe la posibilidad de que un pequeño porcentaje de personas sufra ataques epilépticos ante la exposición a imágenes determinadas, incluidas las que presentan patrones luminosos o destellos. La exposición a ciertos patrones o fondos en una pantalla, o mientras se juega, puede desencadenar convulsiones epilépticas. Algunas condiciones pueden provocar síntomas epilépticos no detectados previamente en personas que nunca han tenido convulsiones ni epilepsia.	
-PHOTOSENSITIVIY_MSG_NINSWITCH2	Si tú o alguien de tu familia sufre epilepsia, consulta a un médico antes de jugar. Deja de usar el juego de inmediato y consulta a un médico antes de retomarlo si aparece alguno de los síntomas siguientes: mareos, problemas de visión, contracciones oculares o musculares, pérdida de conciencia, desorientación, movimientos involuntarios o convulsiones.	
+PHOTOSENSITIVIY_MSG_NINSWITCH2	Si tú o alguien de tu familia tiene epilepsia, consulta a un médico antes de jugar. Deja de usar el juego INMEDIATAMENTE y consulta a un médico antes de retomarlo si aparece alguno de los síntomas siguientes: mareos, problemas de visión, contracciones oculares o musculares, pérdida de conciencia, desorientación, movimientos involuntarios o convulsiones.	
 POINTCLICK_CURSORSENS_NINSWITCH	SENSIBILIDAD DEL PUNTERO	
 FAM_CURSOR_NOT_USED	Sensibilidad del puntero FAMICOM	
 POINTCLICK_PROMPT_NINSWITCH	El modo Apuntar y hacer clic permite jugar con un solo Joy-Con como puntero. Se disfruta mejor cuando juegas en un televisor. ¿Confirmas que quieres activar el modo Apuntar y hacer clic?	
@@ -199,7 +199,7 @@ PRESS_A_NINSWITCH	PRESIONA <switch_button_a> CUANDO QUIERAS COMENZAR
 SELECT_NINSWITCH	SELECCIONAR	
 CHOOSE_NINSWITCH	ELEGIR	
 FAMICOM_CONTROLS_BLURB_NINSWITCH	SE RECOMIENDA JUGAR CON UN CONTROL O EN MODO PORTÁTIL.	
-AUTOSAVE_MSG	ESTE JUEGO USA GUARDADO AUTOMÁTICO. CUANDO ESTE ICONO < SAVING_RECORD> APAREZCA EN PANTALLA, NO APAGUES LA CONSOLA.	
+AUTOSAVE_MSG	ESTE JUEGO USA GUARDADO AUTOMÁTICO. CUANDO ESTE ÍCONO < SAVING_RECORD> APAREZCA EN PANTALLA, NO APAGUES LA CONSOLA.	
 PRESS_LR_JOYCON_NINSWITCH	PRESIONA <switch_button_sl> + <switch_button_sr> EN EL JOY-CON	
 REMOVE_PRESS_LR_JOYCON_NINSWITCH	DESACOPLA LOS JOY-CON Y PRESIONA L + R	
 THUMBSTICK_SENS_NINSWITCH	SENSIBILIDAD DEL ANALÓGICO	
@@ -215,8 +215,8 @@ CONTROLLER_CONTROLS_NINSWITCH	CONTROL
 FAMICOM_CONTROLS_BLURB_ALT2_NINSWITCH	USA EL CURSOR CON EL ANALÓGICO, YA SEA CON UN CONTROL O EN MODO PORTÁTIL.	
 CONSOLE_NINSWITCH	CONSOLA	
 CLASSIC_CONTROLS_BLURB_ALT_NINSWITCH	CLÁSICO	
-NOTHING_NOPE	Soporte de QA para Nintendo Switch cortesía de Testronic Labs.	
-NOTHING_NOPE2	"Soporte adicional de localización japonesa proporcionado por Yutaka Ohbuchi, John Ricciardi y Masanobu Suto."	
+NOTHING_NOPE	Control de calidad (QA) para Nintendo Switch: Testronic Labs.	
+NOTHING_NOPE2	"Soporte adicional de localización japonesa: Yutaka Ohbuchi, John Ricciardi y Masanobu Suto."	
 LOOK_AROUND_NINSWITCH	¿OBSERVAR?	
 OMDC_CHANGE	Este proyecto fue posible gracias al apoyo financiero de Ontario Creates.	
 CNTRL_PINCH_Y_ZOOM	PELLIZCAR / <switch_button_y> HACER ZOOM	
@@ -225,7 +225,7 @@ LBL_MOVECURSOR	MOVER CURSOR <switch_button_leftanalogstick>
 LBL_MOVEPLAYER_ALT	MOVER PERSONAJE <switch_button_leftanalogstick>	
 LBL_MOVECURSOR_ALT	MOVER CURSOR <switch_button_rightanalogstick>	
 	MOVIMIENTO	
-	JUGADOR	
+	PERSONAJE	
 	CURSOR	
 TWITTER_SELECT_BUTTON	SELECCIONAR	
 TWITTER_SELECT_MSG	"POR FAVOR, SELECCIONA UNA CUENTA DE TWITTER"	
