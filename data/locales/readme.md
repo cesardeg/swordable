@@ -326,8 +326,9 @@ This glossary serves as the **authoritative translation reference** for Superbro
 - ✅ Use the imperfect (*pretérito imperfecto*: `teníamos la sensación`, `esperaba`, `conectaba`, `sabíamos`, `supusimos`) when establishing continuous scene backdrops, mental states, and narrative impressions.
 - ❌ Avoid abrupt preterite calques (`tuvimos la sensación`, `esperó`, `conectó`) when describing continuous background states.
 
-#### 10. **UI Box & Fixed-Width HUD Constraints (`QUIT` → `SALIR`, `HOLD_SHIELD_TO_HEAL`)**
+#### 10. **UI Box & Fixed-Width HUD Constraints (`QUIT` → `SALIR`, `SETTINGS` → `AJUSTES`, `HOLD_SHIELD_TO_HEAL`)**
 - **`QUIT` (`strings.tsv` Line 99)**: In Spanish, `QUIT` MUST remain **`SALIR`** without question marks. The left-edge slide-out exit tab has a fixed ~5-character text width before its embedded circular button icon (`⊗`); using `¿SALIR?` (7 characters) causes the text to collide directly with the circular icon (`¿SALI⊗?`). In Portuguese, `SAIR?` is only 5 characters (no opening `¿`) and fits without collision.
+- **`SETTINGS` (`strings.tsv` Line 133)**: MUST remain **`AJUSTES`** (7 characters) in both Spanish and Portuguese, NEVER `CONFIGURACIÓN` / `CONFIGURAÇÕES` (13 characters). On the title screen, `SETTINGS` renders inside the left-edge slide-out pill tab with an embedded sliders icon (`[≡]`) on its right end (sized for 8-character `SETTINGS`). A 13-character word crashes straight through the sliders icon and overflows outside the grey pill onto the background (`CONFIGURA[≡]ÓN`).
 - **`HOLD_SHIELD_TO_HEAL` (`strings.tsv` Line 127)**: Must remain **`MANTÉN PARA CURARTE`** (ES) / **`SEGURE PARA SE CURAR`** (PT), deliberately omitting `"el escudo"` / `"o escudo"`. In the combat HUD, this prompt renders as a **single non-wrapping line** directly above the glowing shield icon and immediately to the left of the sword sprite; any longer text collides horizontally with the sword blade.
 - **3-Line Tweet Boxes**: Keep dialogue lines under ~42–46 characters per row (~130–135 total characters) to prevent single words from wrapping onto a 4th line.
 
@@ -498,14 +499,13 @@ This section documents deliberate engineering, UI layout, font, and script decis
   2. **Sprite collision with the sword**: The text is centered directly over the glowing shield icon (`[ ▣ ]`) and sits immediately to the left of the vertical sword sprite (`|`). Even at 19–20 characters (`MANTÉN PARA CURARTE` / `SEGURE PARA SE CURAR`), the right end of the string sits just pixels away from the sword blade. Adding `"EL ESCUDO"` (`MANTÉN EL ESCUDO PARA CURARTE`, 29 chars) or `"O ESCUDO"` (`SEGURE O ESCUDO PARA SE CURAR`, 29 chars) causes the text to crash directly through the sword sprite.
   3. **Visual redundancy**: Because the label is anchored directly above the pulsing shield icon, the visual referent (*shield*) is self-evident to the player.
 
-### 2. `QUIT` (`strings.tsv` Line 99) — Deliberate Omission of `¿...?` in Spanish
-- **Source (`en`)**: `QUIT?` (5 characters)
-- **Spanish (`es-419`)**: `SALIR` (5 characters)
-- **Portuguese (`pt-BR`)**: `SAIR?` (5 characters)
-- **Technical Evidence**:
-  1. **Fixed-width slide-out pill collision**: The in-game exit prompt is rendered inside a narrow grey slide-out tab on the far-left edge of the screen, which contains an embedded circular close/back button icon on its right tip.
-  2. **5-character safe budget**: The pill was sized for the 5-character English string `QUIT?`. When `¿SALIR?` (7 characters) is used in Spanish, the last characters (`R?`) collide with and overlap the circular icon inside the button (`¿SALI⊗?`).
-  3. **Language-specific resolution**: Omitting the question marks in Spanish (`SALIR`, 5 characters) eliminates the UI overlap while keeping the prompt clear. In Portuguese, which does not use an inverted opening question mark, `SAIR?` is exactly 5 characters and fits without collision.
+### 2. `QUIT` (`strings.tsv` Line 99) & `SETTINGS` (`strings.tsv` Line 133) — Fixed-Width Left Slide-Out Pill Collisions
+- **`QUIT` (`strings.tsv` Line 99)**:
+  - **Source (`en`)**: `QUIT?` (5 characters) | **Spanish (`es-419`)**: `SALIR` (5 characters) | **Portuguese (`pt-BR`)**: `SAIR?` (5 characters)
+  - **Technical Evidence**: The in-game exit prompt is rendered inside a narrow grey slide-out tab on the far-left edge of the screen with an embedded circular close/back button icon on its right tip (sized for 5-character `QUIT?`). When `¿SALIR?` (7 characters) is used in Spanish, the last characters (`R?`) collide with and overlap the circular icon inside the button (`¿SALI⊗?`). Omitting `¿...?` in Spanish (`SALIR`, 5 chars) eliminates the overlap, whereas Portuguese `SAIR?` (5 chars, no opening `¿`) fits cleanly.
+- **`SETTINGS` (`strings.tsv` Line 133)**:
+  - **Source (`en`)**: `SETTINGS` (8 characters) | **Spanish (`es-419`)**: `AJUSTES` (7 characters) | **Portuguese (`pt-BR`)**: `AJUSTES` (7 characters)
+  - **Technical Evidence**: Although `CONFIGURACIÓN` (ES) / `CONFIGURAÇÕES` (PT) is a common console OS term in Latin America and Brazil, on the title screen `SETTINGS` is rendered inside a fixed-width grey slide-out pill on the left edge of the screen containing an embedded sliders icon (`[≡]`) on its right end (sized for the 8-character English word `SETTINGS`). Using `CONFIGURACIÓN` or `CONFIGURAÇÕES` (13 characters) causes the text to crash directly through the sliders icon and spill outside the grey pill onto the background (`CONFIGURA[≡]ÓN` — a bug actually shipped in the official European `ES_FIGS` and `DE_FIGS` builds). `AJUSTES` (7 characters) is universally understood across `es-419`, `es-ES`, and `pt-BR`, and fits inside the pill with zero collision.
 
 ### 3. `DIGIT_STRING` (`strings.tsv` Line 126) — Mandatory Leading Zero (`0123456789`)
 - **Source (`strings.en.tsv`)**: `123456789`
