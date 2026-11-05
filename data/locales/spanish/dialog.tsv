@@ -142,7 +142,7 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			En el Claro Trigónico, más allá de la c
 			adventureUI/megatomeItem	Al ver nuestra vestimenta escita y el Megatomo, preguntó si entendíamos los símbolos enigmáticos de su interior.					
 				En un susurro pronunció el nombre del espectro inmortal que habíamos despertado en la oscuridad bajo Mingi Taw: la Masa Gogolítica.			166	023.jpg	O2B39
 				Conocíamos ese nombre aterrador de las viejas historias y sentimos cómo se nos helaba la sangre.					
-				"""Hasta ahora, tenía la sensación de que la Masa Gogolítica no te tomaba en serio."""					
+				"""Hasta ahora, tenía la sensación de que la Masa Gogolítica te veía como simple turista."""					
 			triangle/Triangle	"""Ahora que dominas la Canción de Espadancia y has domado el Trigón Dorado, descubrirás que algo te acecha a cada paso."""					
 				No sabíamos si el fantasma intentaba animarnos, asustarnos o qué.					
 				Le contamos que pretendíamos detonar el Megatomo en la cima de Mingi Taw y liberar a la Masa Gogolítica de su inmortalidad.					
@@ -206,7 +206,7 @@ LOGFELLA_LOSTKEYTHOUGHTS	Logfella			¡Qué fastidio! Ojalá no estuviera llovien
 LOGFELLA_FOUNDKEY	The Scythian		AdventureUI/keyItem	Tronquero se mostró enormemente aliviado de que hubiéramos recuperado su llave perdida del reino crepuscular de los sueños.					
 				El leñador quiso saber cómo nos habíamos vuelto tan listos y nos preguntó por nuestro funesto cometido.					
 				Le contamos cómo crecimos en las estepas junto a nuestras valientes hermanas y hermanos escitas.					
-				Le explicamos a Tronquero por qué vagábamos por esta montaña desierta y cómo nos guiaba el dedo de un Dios omnisciente.					
+				Le explicamos a Tronquero por qué vagábamos por esta montaña agreste y cómo nos guiaba el dedo de un Dios omnisciente.					
 			adventureUI/megatomeItem	Le revelamos el posible significado de los enigmáticos símbolos del Megatomo.					
 			gourd/gourd	Presentíamos que todavía debíamos despertar a más espíritus silvanos para disipar la tormenta.			104	033.jpg	W3D3G
 			triangle/Triangle	En un susurro revelamos nuestra intención de hallar y domar una encarnación de la geometría cósmica conocida como el Trigón Dorado.					
@@ -343,7 +343,7 @@ GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras l
 GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano en un claro oculto donde casualmente se encontraba Jim Guthrie.			132	058.jpg	G5F8U
 GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano en un lago tranquilo donde una mamá pata se agitaba frenética.					
 GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano donde el reflejo del lago era sutilmente incongruente.			127	059.jpg	65D98
-GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano en un apacible lago bajo un terceto de búhos.					
+GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano en un apacible lago bajo una tríada de búhos.					
 GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Tuvimos la extraña sensación de que, quizá, solo quizá, había llegado la temporada de milagros. #milagros					
 GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Sombría reina, despertamos a un espíritu silvano rodeado por tres pequeñas cascadas.					
 GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Sombría reina, despertamos a un espíritu silvano rodeado de cuatro pequeños y redondos árboles en los bosques más oscuros.					
@@ -367,7 +367,7 @@ GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau.
 				A veces, cuando la oscuridad no me deja ver, me como algún bocado y logro ver lo que ni siquiera está ahí.					
 				Guau Guau Guau Guau Guau.					
 GCLUE_SECRET2_STONESHELTER	Logfella	AdventureUI/tweetIconGourd		Tengo esta tonada en la cabeza... una cancioncita alegre y triste que me llena de un miedo extrañamente hermoso.					
-GCLUE_MOUNTAINLAKESHORE	Dogfella	AdventureUI/tweetIconGourd		Sé que buscas evitar tu fatídico martirio, pero debes saber esto: el tiempo es una fuerza y, sin duda, seguirá su curso.					
+GCLUE_MOUNTAINLAKESHORE	Dogfella	AdventureUI/tweetIconGourd		Sé que buscas evitar tu fatídico martirio, pero debes saber esto: el tiempo es una fuerza y no hay quien la tuerza.					
 				Guau Guau Guau. Snif.					
 GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		También existen los sustantivos desconocidos, aunque esos se aprenden fácilmente.					
 				Hay dos tipos de incógnitas: las incógnitas conocidas y las incógnitas desconocidas.			32	063.jpg	L6E31
@@ -375,7 +375,7 @@ GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		También e
 GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Mis troncos guardan muchos secretos sobre espíritus silvanos e islas imposibles. Lamentablemente, no hablo tronqués.					
 				En mi experiencia, a veces los búhos no son lo que parecen, mientras que otras veces son solo búhos comunes y corrientes.			126	064.jpg	86A47
 GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Tal vez oíste hablar de una isla imposible bajo la Luna Radiante... ¿Quizá lo leíste en internet?			134	065.jpg	H6A5I
-				Hemos estado monitoreando tus acciones en silencio y queremos señalar que, cuanto más tardes en decidir, más pequeña será la celebración.					
+				Hemos estado monitoreando tus acciones en silencio y queremos señalar que, a mayor vacilación, menor será la celebración.					
 				Parece que has progresado bastante en tu esfuerzo para localizar y domar el Trigón de la Luna Radiante, ¡muy bien hecho!					
 GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		¿Son los espíritus silvanos hijos de la Madre Tierra o son visitantes solitarios del Arremolinado Infinito?					
 				Si te soy sincera, los espíritus silvanos me asustan muchísimo. O sea... ¿Qué son? ¿De dónde vienen?					
@@ -530,7 +530,7 @@ LOGFELLA_HALFWAX	The Scythian			El leñador admitió que sí, de hecho, había c
 				Esperaba tener suficiente comida y leña para sobrevivir a los largos y fríos meses venideros.					
 GIRL_HALFWAX	The Scythian			"""Anoche soñé que caminaba por el bosque y moría de antojo de un pastelito, pero no había ni uno solo."""			108	078.jpg	07D87
 ARCHETYPE_HALFWAX	The Archetype			Algunos folcloristas lunáticos afirman que no existe una relación causal entre la locura y el humor de la luna.					
-LOGFELLA_ALMOSTWAX	The Scythian			El leñador dijo que casi nunca pensaba en la montaña desierta de Mingi Taw ni en la Masa Gogolítica.					
+LOGFELLA_ALMOSTWAX	The Scythian			El leñador dijo que casi nunca pensaba en la montaña agreste de Mingi Taw ni en la Masa Gogolítica.					
 				Sin embargo, mencionó que últimamente su presencia espectral había comenzado a acosarlo.					
 				De hecho, el leñador admitió que se le ponían los pelos de punta cuando la Luna Radiante imperaba... y cuando la Luna Sombría reinaba.					
 GIRL_ALMOSTWAX	The Scythian			Samae comentó algo sobre la luna creciente y se preguntó cuánto tiempo pasaría hasta que la Luna Radiante imperara en el cielo.					
@@ -599,14 +599,14 @@ ARCHETYPE_CREDITS	The Archetype
 				Productor ejecutivo, héroe del pueblo, liderazgo y estrategeria: Nathan Vella, presidente de Capy.					
 				Productor de PC, asistencia técnica de audio, integración FMOD y muchísimos sonidos: Sean 'Uber' Lohrisch, cofundador de Capy.					
 				Nintendo Switch Produc-tron y asistencia general de negocios: Matt Repetski, cofundador de Capy.					
-				Control de calidad (QA) y megahéroe de pruebas de juego: Christian 'Sea Dawg' Meyer en Capy.					
+				Control de calidad y megahéroe de pruebas de juego: Christian 'Sea Dawg' Meyer en Capy.					
 				Programación principal para la versión de Nintendo Switch y computadoras domésticas: nada menos que Hubert Wong en Capy.					
 				Conceptos de diseño, implementación y brujería de Nintendo Switch: Sadie Lee en Capy.					
 				Diversas tareas de peso, incluyendo apoyo de programación para PC/Mac/Linux y soporte para Nintendo Switch: Drew Grainge en Capy.					
 				Algunos recursos de arte redimensionados y sonrisas: Vic 'Meow' Nguyen en Capy.					
-				Control de calidad (QA) adicional: el único e inigualable Aaron Eves.					
-				Control de calidad (QA) para Nintendo Switch: Testronic Labs.					
-				Control de calidad (QA): Roopesh Pawar. A, Prashanth. DR, Veeresh Kuruva, Raghunath. BG y Roshan R Shekar de Sun Technology Integrators Pvt. Ltd.					
+				Control de calidad adicional: el único e inigualable Aaron Eves.					
+				Control de calidad para Nintendo Switch: Testronic Labs.					
+				Control de calidad: Roopesh Pawar. A, Prashanth. DR, Veeresh Kuruva, Raghunath. BG y Roshan R Shekar de Sun Technology Integrators Pvt. Ltd.					
 				Gracias a Xavier Xaden Xen, Joseppe Theodore Blocco y Hank Hudson.					
 				Galletas y otras delicias: Thea Gaerlan.					
 				* * * APOYO DE SUPERBROTHERS * * *					
@@ -618,7 +618,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Traducción japonesa: el maestro de las palabras RYUTA YAZAWA.					
 				Edición japonesa, consejos cruciales y apoyo infinito: MASAHIRO YUKI de Grasshopper Manufacture en grasshopper.co.jp					
 				Soporte adicional de localización japonesa: Yutaka Ohbuchi, John Ricciardi y Masanobu Suto.					
-				Diseño del increíble logo japonés: POLYGRAPH en polygraph.jp					
+				Diseño del imponente logo japonés: POLYGRAPH en polygraph.jp					
 				Magia web japonesa: Jonathan Lumb en jonnyram.com					
 				Gracias hasta Japón: Suda 51, Tomoaki Takahashi, Hideto Yamada. Remixers: Baiyon, Akira Yamaoka, Michiru Yamane, macotom3, Decasségui Hip.					
 				* * * EL DOMINIO DE CANADÁ * * *					

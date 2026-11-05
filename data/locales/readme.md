@@ -36,6 +36,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 7. [UI & System Terms](#ui--system-terms)
 8. [Expressions & Idioms](#expressions--idioms)
 9. [Grammar & Style Guidelines](#grammar--style-guidelines)
+10. [Technical, UI & Engine Constraints (LQA Reference)](#technical-ui--engine-constraints-lqa-reference)
 
 ---
 
@@ -138,7 +139,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | swipe | desliza | deslize | ✅ Gesture |
 | move it move it | mover el bote | remexer | ✅ Fast movement, colloquial |
 | shield button | botón del escudo | botão do escudo | ✅ With article |
-| hold shield to heal | mantén para curarte | segure para se curar | ✅ UI combat text above shield; omitted "escudo" for space and visual redundancy |
+| hold shield to heal (`HOLD_SHIELD_TO_HEAL`) | mantén para curarte | segure para se curar | ✅ Omitted "el escudo / o escudo" deliberately: single-line non-wrapping HUD text sits directly above the shield icon and collides with the sword sprite on the right if longer |
 | swing sword | blande la espada / golpea con la espada | branda a espada / rebata com a espada | ✅ |
 | dodge/evade | esquivar | esquivar | ✅ |
 
@@ -163,7 +164,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | **deathless specter** | espectro inmortal | espectro imortal | ✅ The Gogolithic Mass |
 | **heebie jeebies** | los pelos de punta | frio na espinha | ✅ Physical sensation of fear |
 | **cosmic friends forever** | amigos cósmicos para siempre | amigos cósmicos para sempre | ✅ Ending phrase |
-| **for glory & for spite** | por la gloria y por puro orgullo | pela glória e por puro orgulho | ✅ Avoids romantic "despecho" and bitter "rencor" |
+| **for glory & for spite** | por la gloria y por puro orgullo | pela glória e por puro orgulho | ✅ Deliberate adaptation: in English gaming idiom, doing something "out of spite / for spite" means stubborn defiance ("por puro orgullo / terquedad"), whereas Spanish *por despecho* carries an unintended romantic/heartbreak connotation (*mal de amores*) |
 | **Time of Woe** | Tiempos de Angustia | Tempos de Angústia | ✅ Session II Theme |
 | | | | |
 | linguistic thought transmission | transmisión de pensamiento lingüístico | transmissão de pensamento linguístico | ✅ |
@@ -226,7 +227,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | scroll down | desplázate | role | ✅ Concise imperative for Megatome tutorial |
 | unsheathe / rotate | ¿DESENVAINAR? / ¿ROTAR? | DESEMBAINHAR? / GIRAR? | ✅ |
 | BELIEVE | CONFÍA | ACREDITE | ✅ UI Action prompt |
-| QUIT? (`QUIT` / `EXIT`) | SALIR | SAIR? / SAIR | ✅ ES omits `¿...?` on `QUIT` (L99) so the 5-char string doesn't overlap the button icon inside the fixed-width UI tab |
+| QUIT? (`QUIT` / `EXIT`) | SALIR | SAIR? / SAIR | ✅ ES omits `¿...?` on `QUIT` (L99): `¿SALIR?` (7 chars) overflows the left slide-out pill and collides with its embedded circular icon (`¿SALI⊗?`), whereas `SALIR` and PT `SAIR?` (5 chars) fit cleanly |
 
 ### Menu/System
 
@@ -325,8 +326,9 @@ This glossary serves as the **authoritative translation reference** for Superbro
 - ✅ Use the imperfect (*pretérito imperfecto*: `teníamos la sensación`, `esperaba`, `conectaba`, `sabíamos`, `supusimos`) when establishing continuous scene backdrops, mental states, and narrative impressions.
 - ❌ Avoid abrupt preterite calques (`tuvimos la sensación`, `esperó`, `conectó`) when describing continuous background states.
 
-#### 10. **UI Box & Fixed-Width Constraints (`QUIT` → `SALIR`)**
-- **`QUIT` / `EXIT` (`strings.tsv` Line 99)**: In Spanish, `QUIT` MUST remain **`SALIR`** without question marks. The left-edge exit tab has a strict fixed width (~5 characters, sized for `QUIT?` / `SAIR?`); using `¿SALIR?` (7 characters) overflows the text area and overlaps the controller button icon (`B`) inside the pill box.
+#### 10. **UI Box & Fixed-Width HUD Constraints (`QUIT` → `SALIR`, `HOLD_SHIELD_TO_HEAL`)**
+- **`QUIT` (`strings.tsv` Line 99)**: In Spanish, `QUIT` MUST remain **`SALIR`** without question marks. The left-edge slide-out exit tab has a fixed ~5-character text width before its embedded circular button icon (`⊗`); using `¿SALIR?` (7 characters) causes the text to collide directly with the circular icon (`¿SALI⊗?`). In Portuguese, `SAIR?` is only 5 characters (no opening `¿`) and fits without collision.
+- **`HOLD_SHIELD_TO_HEAL` (`strings.tsv` Line 127)**: Must remain **`MANTÉN PARA CURARTE`** (ES) / **`SEGURE PARA SE CURAR`** (PT), deliberately omitting `"el escudo"` / `"o escudo"`. In the combat HUD, this prompt renders as a **single non-wrapping line** directly above the glowing shield icon and immediately to the left of the sword sprite; any longer text collides horizontally with the sword blade.
 - **3-Line Tweet Boxes**: Keep dialogue lines under ~42–46 characters per row (~130–135 total characters) to prevent single words from wrapping onto a 4th line.
 
 ---
@@ -483,6 +485,74 @@ The Portuguese localization is written in **Brazilian Portuguese (`pt-BR`)**, wh
 
 ---
 
+## Technical, UI & Engine Constraints (LQA Reference)
+
+This section documents deliberate engineering, UI layout, font, and script decisions backed by in-game testing and official developer notes from Capybara Games (`FIGS Notes` / `Craig's Notes` in the master localization sheets). External LQA reviewers inspecting the raw `.tsv` files without running the game engine often flag these items as "omissions" or "discrepancies"—**do NOT revert or "fix" them**:
+
+### 1. `HOLD_SHIELD_TO_HEAL` (`strings.tsv` Line 127) — Deliberate Omission of "Shield"
+- **Source (`en`)**: `HOLD SHIELD TO HEAL`
+- **Spanish (`es-419`)**: `MANTÉN PARA CURARTE`
+- **Portuguese (`pt-BR`)**: `SEGURE PARA SE CURAR`
+- **Technical Evidence**:
+  1. **Single-line non-wrapping HUD element**: In combat, the engine renders `HOLD_SHIELD_TO_HEAL` on a single horizontal line that **does not wrap** to a second row.
+  2. **Sprite collision with the sword**: The text is centered directly over the glowing shield icon (`[ ▣ ]`) and sits immediately to the left of the vertical sword sprite (`|`). Even at 19–20 characters (`MANTÉN PARA CURARTE` / `SEGURE PARA SE CURAR`), the right end of the string sits just pixels away from the sword blade. Adding `"EL ESCUDO"` (`MANTÉN EL ESCUDO PARA CURARTE`, 29 chars) or `"O ESCUDO"` (`SEGURE O ESCUDO PARA SE CURAR`, 29 chars) causes the text to crash directly through the sword sprite.
+  3. **Visual redundancy**: Because the label is anchored directly above the pulsing shield icon, the visual referent (*shield*) is self-evident to the player.
+
+### 2. `QUIT` (`strings.tsv` Line 99) — Deliberate Omission of `¿...?` in Spanish
+- **Source (`en`)**: `QUIT?` (5 characters)
+- **Spanish (`es-419`)**: `SALIR` (5 characters)
+- **Portuguese (`pt-BR`)**: `SAIR?` (5 characters)
+- **Technical Evidence**:
+  1. **Fixed-width slide-out pill collision**: The in-game exit prompt is rendered inside a narrow grey slide-out tab on the far-left edge of the screen, which contains an embedded circular close/back button icon on its right tip.
+  2. **5-character safe budget**: The pill was sized for the 5-character English string `QUIT?`. When `¿SALIR?` (7 characters) is used in Spanish, the last characters (`R?`) collide with and overlap the circular icon inside the button (`¿SALI⊗?`).
+  3. **Language-specific resolution**: Omitting the question marks in Spanish (`SALIR`, 5 characters) eliminates the UI overlap while keeping the prompt clear. In Portuguese, which does not use an inverted opening question mark, `SAIR?` is exactly 5 characters and fits without collision.
+
+### 3. `DIGIT_STRING` (`strings.tsv` Line 126) — Mandatory Leading Zero (`0123456789`)
+- **Source (`strings.en.tsv`)**: `123456789`
+- **Localized (`es-419` / `pt-BR`)**: `0123456789`
+- **Developer Evidence**:
+  - `strings.en.tsv` shows `123456789` only because spreadsheet auto-formatting stripped the leading `0` when the English column was exported from Excel.
+  - Capybara Games' official localization sheet (`FIGS Notes`, row 126) explicitly instructs localizers: *"This string used to automatically delete 0s at the beginning of the string because of formatting, so they must be re-added manually."*
+  - Removing `0` breaks character-set registration for the digit `0`. Always keep `0123456789`.
+
+### 4. Multi-Platform `strings.tsv` Superset (236 Lines vs. 229 Lines in Switch `strings.en.tsv`)
+- **Structure**: `strings.en.tsv` (from the Nintendo Switch release) contains **229 lines**, whereas `spanish/strings.tsv` and `portuguese/strings.tsv` contain **236 lines**.
+- **Technical Evidence**:
+  - Lines 1–229 match the Nintendo Switch `strings.en.tsv` 1-to-1 by key and row number.
+  - Lines 230–236 (`TWITTER_SELECT_BUTTON`, `TWITTER_SELECT_MSG`, `TWITTER_NO_ACCOUNTS`, `TWITTER_REQUESTING`, `TAP_QUESTION`, `EXIT_TITLE`, `EXIT_PROMPT`) are the **7 official iOS and PC/Steam keys** from the legacy 133-line `strings.tsv` build that were removed when Twitter integration and mobile/desktop exit dialogs were stripped on Switch.
+  - Keeping all 236 keys (`229` Switch + `7` iOS/PC) makes our localization files **universal cross-platform drop-ins** compatible with Nintendo Switch, PC (Steam), and iOS/mobile builds simultaneously.
+  - Note: Neither `SPANISH_SPECIAL` nor any `PORTUGUESE_SPECIAL` extra row is added; special characters (`áéíóúüñ¿¡«»‹›` and Portuguese `àâãçéêíóôõú`) are declared inside slot 125 (`SPANISH_SPECIAL`) so all key indices remain strictly aligned.
+
+### 5. `ARCHETYPE_GROTTOPARADOX` (`dialog.tsv` Line 494) — Unreferenced Dead Code
+- **Source (`en`)**: `Once the moods of the moon have been altered in The Moon Grotto the`
+- **Spanish (`es-419`)**: `Una vez que los humores de la luna han sido alterados en La Gruta Lunar, el`
+- **Portuguese (`pt-BR`)**: `Uma vez que os humores da lua foram alterados na Gruta Lunar, o`
+- **Developer Evidence**:
+  - This line is truncated mid-sentence in the original English script.
+  - In the official localization sheet (`FIGS Notes`, row 494), developer Matt Repetski (Capybara Games) confirmed: *"This is not actually being called, ignore it."*
+  - It is retained at Line 494 solely to preserve exact row parity across `dialog.tsv` and must not be invented or completed.
+
+### 6. `SCYTHIAN_FOUNDATION` (`dialog.tsv` Line 508) — Intentional Fix of English Narrative Slip (`singular / plural`)
+- **Source (`en`)**: `"Wait, hold on - 'I' felt? 'My' mind? I thought our story was told in second person?"`
+- **Spanish (`es-419`)**: `"Espera, un momento... ¿'Sentí'? ¿'Mi' mente? ¿Qué nuestra historia no se contaba en plural?"` (followed by L509 `en singular`)
+- **Portuguese (`pt-BR`)**: `"Espera, um momento... 'Eu' senti? 'Minha' mente? Mas a nossa história não era contada no plural?"` (followed by L509 `no singular`)
+- **Editorial Evidence**:
+  - In the English script, the writer accidentally confused **"first-person plural"** (*we / our*) with **"second person"** (*you*). Throughout the entire game, The Scythian narrates in the **first-person plural** (*we* / *nosotros* / *nós*), and in `SCYTHIAN_FOUNDATION` she momentarily slips into the **first-person singular** (*I / my*).
+  - Translating `"second person"` literally (`segunda persona`) renders the joke nonsensical in Spanish and Portuguese because `"nuestra historia"` (*our story*) is first-person plural, not second person.
+  - Using **`en plural` / `en singular`** (just as the official 8-4 Japanese localization corrected it to `一人称複数` — *first-person plural*) preserves the exact fourth-wall joke intended by the author.
+
+### 7. Quotation Marks, Bitmap Fonts & TSV Parser Rules (`'...'` vs. `«...»` / `“...”`)
+- **Rule**: Always use **single straight ASCII quotes (`'...'`)** for internal quotes, nicknames (`André 'El Gigante'`), UI prompts (`presiona 'Jugar'`), and cited words inside dialogue.
+- **Technical Evidence**:
+  1. **Bitmap font glyph limitations**: Although `SPANISH_SPECIAL` (Line 125) includes `« » ‹ ›` in the string table, the game's compiled bitmap fonts (`conduit_itc_2x.fnt`, `arial_narrow.fnt`) lack typographic curly quotes (`“ ” ‘ ’`) and single angle quotes (`‹ ›`).
+  2. **TSV parser & dialogue engine behavior**: Straight double quotes (`"..."`) wrap spoken lines in `dialog.tsv` and are parsed by the engine to distinguish spoken dialogue from narration (and require CSV-style `""...""` escaping when nested). Using `'...'` avoids parser collisions and renders cleanly across all bitmap fonts.
+
+### 8. Hashtag Diacritics & Title Abbreviations (`S:S&SEP` vs. `S:S&S EP`)
+- **Unaccented Hashtags**: Acute accents and tilde diacritics on vowels are intentionally omitted inside hashtags (`#si`, `#quizas`, `#trigondomado`, `#masfacildelopensado`, `#olamundo`, `#nao`, `#matanca`) to reflect authentic 2011 Twitter parsing behavior, while `ñ` is preserved in Spanish (`#leñando`, `#bañomutante`).
+- **`S:S&SEP` vs. `S:S&S EP`**: Both the compact form `S:S&SEP` (used in `TWEET_SHIELD`, `CREDITS_1`, etc., to save character count in tweet prompts) and the spaced form `S:S&S EP` mirror the exact spacing of `strings.en.tsv` and `dialog.en.tsv`.
+
+---
+
 ## Quick Reference: Most Common Terms
 
 ### Top 20 Critical Terms
@@ -543,6 +613,7 @@ These translations prioritize:
 - **v1.1** (2024) - Added post-correction standards
 - **v1.2** (2024) - Added grammar guidelines and critical error fixes
 - **v1.3** (2026) - Aligned glossary and style rules with final ES-419 and PT-BR localizations; removed obsolete rules
+- **v1.4** (2026) - Added Technical, UI & Engine Constraints (LQA Reference) documenting in-game HUD collisions (`HOLD_SHIELD_TO_HEAL`, `QUIT`), `DIGIT_STRING`, multi-platform key superset, `ARCHETYPE_GROTTOPARADOX`, `SCYTHIAN_FOUNDATION`, and bitmap font quote rules
 
 ---
 
