@@ -14,7 +14,7 @@ SIGN_WOLF	The Scythian			À beira do antigo caminho, nos deparamos com uma pedra
 SIGN_ANTECHAMBERLEFT	The Scythian			Num corredor subterrâneo, descobrimos uma estátua ominosa, mas não nos preocupamos muito com isso. #historias			29	005.jpg	V0B53
 INFO_CROSSMOUNTAINLEFT	The Scythian			Na encosta rochosa de Mingi Taw, uma tumba solitária marcava o fim do caminho de cascalho.					
 INFO_CROSSMOUNTAINRIGHT	The Scythian			Na encosta rochosa de Mingi Taw, uma tumba solitária marcava o fim do caminho de cascalho.					
-INFO_RIDGESKULLPOLE	The Scythian			Na crista escarpada a caminho do topo de Mingi Taw, erguia-se um sinistro poste decorado com uma caveira galhada.					
+INFO_RIDGESKULLPOLE	The Scythian			Na crista escarpada a caminho do topo de Mingi Taw, erguia-se um lúgubre poste decorado com uma caveira galhada.					
 INFO_CROSSRIDGE	The Scythian			Na crista escarpada rumo ao topo de Mingi Taw, uma tumba solitária lembrava lugubremente quantas almas haviam perecido ali.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos o Megatomo apertado entre duas mãos ossudas e sentimos a espada estremecer na bainha. #megatomo			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Uma pequena porta sem maçaneta, feita de um material desconhecido. Uma placa dizia: 'Apenas Pessoal Autorizado'.					
@@ -47,7 +47,7 @@ QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos o Megatomo e somos
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			Senhoras e senhores, que tal pressionar estes dois pequenos espíritos silvanos para calibrar o seu sistema de som estéreo?					
+	The Archetype			Senhoras e senhores, que tal pressionar estes dois pequenos espíritos silvanos para calibrar o sistema de som estéreo?					
 	The Archetype			Desde nosso experimento anterior em 2011, constatamos que as redes sociais têm um impacto catastrófico na sociedade.					
 				Com certo pesar, nesta ocasião promovemos o isolamento e a reflexão.					
 				Agradecemos sinceramente por você ter decidido participar deste tratamento experimental para a aflição aguda da alma.					
@@ -107,7 +107,7 @@ INFO_CABINWOODPILE	The Scythian			Perto da cabana, encontramos uma pilha de lenh
 INFO_SPUME	The Scythian			Localizamos as sutis e sussurrantes espumas de um espírito silvano imerso em sonho. E agora... como vamos despertá-lo?					
 INFO_NESTBOX	The Scythian			Vimos um curioso ninho, agora lar de uma colmeia de escória e vilania.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Vimos um ninho desgastado com uma inquietante semelhança a um rosto.					
-INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre uma ponte de toras no antigo caminho, erguia-se um sinistro mastro decorado com caveiras toscas e angulosas.					
+INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre uma ponte de toras no antigo caminho, erguia-se um lúgubre mastro decorado com caveiras toscas e angulosas.					
 INFO_GOLDTRIGONALTAR	The Scythian			Além da caverna colossal na campina, em uma clareira isolada, avistamos um estranho conjunto de estruturas de pedra.					
 			Archetype/trifecta	...Era esta a Clareira Trigônica? #clareiratrigonica			93	016.jpg	B1D6J
 			triangle/Triangle	Junto à primeira estrutura pensamos no Trígono Dourado e sentimos a espada estremecer na bainha.					
@@ -117,9 +117,9 @@ INFO_BRIGHTTRIGONALTAR	The Scythian			Na Clareira Trigônica, descobrimos outra 
 				Nos perguntamos o que aconteceria se a golpeássemos com a espada.					
 INFO_STONEHEAD	The Scythian			No Precipício Perigoso, notamos uma enorme cabeça de aparência familiar talhada na rocha com a boca escancarada.			24	017.jpg	61B76
 INFO_STONEHEADSHUT	The Scythian			No Precipício Perigoso, notamos uma enorme cabeça de aparência familiar talhada na rocha.					
-INFO_STONEHEADFLAGPOLE	The Scythian			Sobre a enorme escultura na rocha, erguia-se um sinistro mastro decorado com caveiras toscas e angulosas, ou algo assim.					
+INFO_STONEHEADFLAGPOLE	The Scythian			Sobre a enorme escultura na rocha, erguia-se um lúgubre mastro decorado com caveiras toscas e angulosas, ou algo assim.					
 INFO_CHASMSTONESHELTER	The Scythian			De um lado do Precipício Perigoso, erguia-se uma espécie de dólmen maravilhoso com dois confortáveis assentos de pedra.			25	018.jpg	O1C8M
-INFO_SKULLPOLE	The Scythian			Sobre uma ponte oscilante, erguia-se um sinistro poste decorado com uma caveira galhada.					
+INFO_SKULLPOLE	The Scythian			Sobre uma ponte oscilante, erguia-se um lúgubre poste decorado com uma caveira galhada.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre a entrada esculpida na rocha do templo da montanha, notamos uma representação da Tríade Trigônica.					
 INFO_MOUNTAINGATE	The Scythian			No interior do templo da montanha, avistamos um portão de ferro inamovível. Atrás dele, via-se a paisagem montanhosa e nublada de Mingi Taw.					
 INFO_MOUNTAINGATETRIGON	The Scythian			Sobre uma alta passagem no interior do templo da montanha, notamos três estranhas formas triangulares.					
@@ -130,12 +130,12 @@ INFO_CABINSEAT	The Scythian			Em ambos os lados do fogo da cabana, observamos do
 INFO_GOGOLITHICMASS	The Scythian			Notamos uma caveira galhada flutuando nas trevas sob Mingi Taw.					
 INFO_MEGATOMBTRIFECTA	The Scythian			Nas trevas sob Mingi Taw, distinguimos uma representação da Tríade Trigônica.					
 INFO_ROCKSHOWGIRL	The Scythian			No show de rock, encontramos Samae e nos pareceu que ela sussurrou algo como 'Fogo, caminha comigo'.					
-INFO_ROCKSHOWSKOLOTOI	The Scythian			Notamos um daqueles esqueletos despreocupados curtindo o ritmo sinistro do show de rock.					
+INFO_ROCKSHOWSKOLOTOI	The Scythian			Notamos um daqueles esqueletos despreocupados curtindo o ritmo ominoso do show de rock.					
 INFO_ROCKSHOWJIM	The Scythian			O misterioso músico Jim Guthrie encabeçava o show de rock.			160	020.jpg	T2G03
 INFO_ROCKSHOWBOOR	The Scythian			Avistamos o Patife Grisalho exibindo seu estilo nudista no show.			121	021.jpg	E2G15
 INFO_ROCKSHOWCROWD	The Scythian			Havia uma multidão considerável de senhoras e senhores no show de rock.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			Distinguimos o personagem conhecido como o Arquétipo no show de rock e nos perguntamos o que ele estava tramando com tudo isso.					
-INFO_TRIGONGROVESKULLSTICK	The Scythian			Um sinistro poste decorado com uma caveira galhada conectava este lugar ao espectro imortal que espreita sob Mingi Taw.					
+INFO_TRIGONGROVESKULLSTICK	The Scythian			Um lúgubre poste decorado com uma caveira galhada conectava este lugar ao espectro imortal que espreita sob Mingi Taw.					
 GRAVE_TRIGONGROVE	The Scythian			Na Clareira Trigônica, além da caverna colossal na campina, uma tumba solitária despertou nossa curiosidade.					
 GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigônica, além da caverna colossal na campina, junto a uma tumba solitária, nos deparamos com um fantasma resplandecente.					
 				A bem da verdade, o fantasma resplandecente da Clareira Trigônica nos assustou bastante no início.			96	022.jpg	T2B2H
@@ -421,8 +421,8 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Atordoados e sem uma lembrança cl
 			triangle/Triangle	Lembramos do milagre da campina e nosso encontro com o Trígono Dourado...					
 			triangle/Triangle	...que novos poderes nos terão concedido?					
 			triangle/Triangle	Troncadeiro ficou totalmente impressionado com o quão incrível e estranha a luta contra o Trígono Dourado soava.			81	071.jpg	R7C14
-			triangle/Triangle	Ele se perguntou se talvez o Trígono pudesse estar relacionado aos sinistros mistérios além do portão de ferro da campina...					
-				Mas Troncadeiro não era fã de sinistros mistérios, então preferiu ir para casa cortar lenha. #lenhando					
+			triangle/Triangle	Ele se perguntou se talvez o Trígono pudesse estar relacionado aos lúgubres mistérios além do portão de ferro da campina...					
+				Mas Troncadeiro não era fã de lúgubres mistérios, então preferiu ir para casa cortar lenha. #lenhando					
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			Troncadeiro estava muito feliz porque a tempestade havia se dissipado e animado por ter voltado a cortar lenha.					
 				Ele nos perguntou se tínhamos ideia sobre o portão de ferro que bloqueava a caverna colossal na campina... o que poderia haver por trás?					
 LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Que esquisito... Vejo um facho celestial dourado na floresta atrás da campina... alguém descobriu os segredos da Clareira Trigônica?			89	072.jpg	67F24
@@ -515,7 +515,7 @@ DOGFELLA_FOUNDATION	Dogfella	AdventureUI/tweetIconBabelBook		...
 				...					
 				...					
 LOGFELLA_DARKMOON	The Scythian			O lenhador falou sobre caminhadas oníricas pela floresta pouco antes do amanhecer, sob um céu escuro e tempestuoso.					
-				Ele mencionou uma perturbadora luz rosa e uma sinistra canção que surgiam da floresta sem nome atrás da campina.					
+				Ele mencionou uma perturbadora luz rosa e uma arrepiante canção que surgiam da floresta sem nome atrás da campina.					
 				Supusemos que Troncadeiro estava se referindo ao show de rock da Lua Sombria.					
 GIRL_DARKMOON	The Scythian			Samae falou sobre caminhadas oníricas pela floresta pouco antes do amanhecer, sob um céu escuro e tempestuoso.					
 				Ela comentou como se abrigou da tempestade em uma árvore oca de proporções titânicas.					
@@ -684,7 +684,7 @@ ARCHETYPE_CREDITS	The Archetype
 				* * * ACABOU * * *					
 				Agora somos amigos cósmicos para sempre... tá?			87	084.jpg	L8A48
 ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			Senhoras e senhores, que tal pressionar estes dois pequenos espíritos silvanos para calibrar o seu sistema de som estéreo?					
+	The Archetype			Senhoras e senhores, que tal pressionar estes dois pequenos espíritos silvanos para calibrar o sistema de som estéreo?					
 	The Archetype			Desde nosso experimento anterior em 2011, constatamos que as redes sociais têm um impacto catastrófico na sociedade.					
 				Com certo pesar, nesta ocasião promovemos o isolamento e a reflexão.					
 				Você verá que esta primeira sessão de S:S&SEP é bastante simples e geralmente dura entre 15 e 30 minutos.					

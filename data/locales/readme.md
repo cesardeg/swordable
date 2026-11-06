@@ -177,7 +177,10 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | English | Spanish (ES) | Portuguese (PT-BR) |
 |---------|--------------|-------------------|
 | loathsome rainbow | odioso arcoíris | odioso arco-íris |
-| sinister storm | siniestra tormenta | sinistra tempestade |
+| sinister storm / sworcery | siniestra tormenta / espadancia | sinistra tempestade / espadância |
+| grim pole / flagpole / mysteries | lúgubre poste / mástil / lúgubres misterios | lúgubre poste / mastro / lúgubres mistérios |
+| ominous statue / beat | estatua ominosa / ominoso ritmo | estátua ominosa / ritmo ominoso |
+| eerie song | espeluznante canción | arrepiante canção |
 | gathering storm | inminente tormenta | iminente tempestade |
 | haunted darkness | oscuridad embrujada | trevas assombradas |
 

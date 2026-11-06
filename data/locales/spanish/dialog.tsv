@@ -14,7 +14,7 @@ SIGN_WOLF	The Scythian			A la vera del antiguo camino, nos topamos con una piedr
 SIGN_ANTECHAMBERLEFT	The Scythian			En un pasadizo subterráneo descubrimos una estatua ominosa, pero no le dimos mayor importancia. #historias			29	005.jpg	V0B53
 INFO_CROSSMOUNTAINLEFT	The Scythian			En la pendiente rocosa de Mingi Taw, una tumba solitaria marcaba el final del sendero de grava.					
 INFO_CROSSMOUNTAINRIGHT	The Scythian			En la pendiente rocosa de Mingi Taw, una tumba solitaria marcaba el final del sendero de grava.					
-INFO_RIDGESKULLPOLE	The Scythian			En la cresta escarpada rumbo a la cima de Mingi Taw, se erguía un siniestro poste decorado con una calavera astada.					
+INFO_RIDGESKULLPOLE	The Scythian			En la cresta escarpada rumbo a la cima de Mingi Taw, se erguía un lúgubre poste decorado con una calavera astada.					
 INFO_CROSSRIDGE	The Scythian			En la cresta escarpada hacia la cima de Mingi Taw, una tumba solitaria recordaba lúgubremente cuántas almas habían perecido allí.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos el Megatomo aferrado entre dos manos huesudas, y sentimos nuestra espada estremecerse en la vaina. #megatomo			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Una pequeña puerta sin manija, hecha de un material desconocido. Un letrero decía: 'Solo personal autorizado'.					
@@ -47,7 +47,7 @@ QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	¡Conseguimos el Megatomo y so
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			Damas y caballeros, ¿qué tal presionar a estos dos pequeños espíritus silvanos para calibrar tu sistema de sonido estéreo?					
+	The Archetype			Damas y caballeros, ¿qué tal presionar a estos dos pequeños espíritus silvanos para calibrar el sistema de sonido estéreo?					
 	The Archetype			Desde nuestro experimento anterior en 2011, las redes sociales han demostrado ser catastróficas para la sociedad.					
 				Con cierto pesar, en esta ocasión promovemos el aislamiento y la reflexión.					
 				Agradecemos sinceramente que hayas decidido participar en este tratamiento experimental para la aflicción aguda del alma.					
@@ -107,7 +107,7 @@ INFO_CABINWOODPILE	The Scythian			Cerca de la choza, vimos una pila de leña, na
 INFO_SPUME	The Scythian			Localizamos las sutiles y susurrantes espumas de un espíritu silvano sumido en el sueño. Y ahora... ¿cómo lo despertamos?					
 INFO_NESTBOX	The Scythian			Avistamos un curioso nido que ahora era hogar de una colmena de escoria y villanía.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Avistamos un nido desgastado con un inquietante parecido a un rostro.					
-INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre un puente de troncos en el antiguo camino, se erguía un siniestro mástil decorado con calaveras toscas y angulosas.					
+INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre un puente de troncos en el antiguo camino, se erguía un lúgubre mástil decorado con calaveras toscas y angulosas.					
 INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la cueva cavernosa del prado, en un claro oculto, avistamos un extraño conjunto de estructuras de piedra.					
 			Archetype/trifecta	...¿Era este el Claro Trigónico? #clarotrigonico			93	016.jpg	B1D6J
 			triangle/Triangle	Junto a la primera estructura pensamos en el Trigón Dorado y sentimos nuestra espada estremecerse en la vaina.					
@@ -117,9 +117,9 @@ INFO_BRIGHTTRIGONALTAR	The Scythian			En el Claro Trigónico descubrimos otra es
 				Nos preguntamos qué sucedería si la golpeáramos con la espada.					
 INFO_STONEHEAD	The Scythian			En el Precipicio Peligroso notamos una enorme cabeza de aspecto familiar, tallada en la roca con la boca abierta de par en par.			24	017.jpg	61B76
 INFO_STONEHEADSHUT	The Scythian			En el Precipicio Peligroso notamos una enorme cabeza de aspecto familiar, tallada en la roca.					
-INFO_STONEHEADFLAGPOLE	The Scythian			Sobre la enorme escultura en la roca se erguía un siniestro mástil decorado con calaveras toscas y angulosas, o algo así.					
+INFO_STONEHEADFLAGPOLE	The Scythian			Sobre la enorme escultura en la roca se erguía un lúgubre mástil decorado con calaveras toscas y angulosas, o algo así.					
 INFO_CHASMSTONESHELTER	The Scythian			A un lado del Precipicio Peligroso se alzaba un maravilloso dolmen con dos cómodos asientos de piedra.			25	018.jpg	O1C8M
-INFO_SKULLPOLE	The Scythian			Sobre un puente tambaleante se erguía un siniestro poste decorado con una calavera astada.					
+INFO_SKULLPOLE	The Scythian			Sobre un puente tambaleante se erguía un lúgubre poste decorado con una calavera astada.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre la entrada excavada en la roca del templo de la montaña vimos una representación de la Tríada Trigónica.					
 INFO_MOUNTAINGATE	The Scythian			En lo profundo del templo de la montaña hallamos un portón de hierro inamovible. Tras él se veía el paisaje montañoso y nublado de Mingi Taw.					
 INFO_MOUNTAINGATETRIGON	The Scythian			Sobre un alto pasadizo, en lo profundo del templo de la montaña, vimos tres extrañas formas triangulares.					
@@ -130,12 +130,12 @@ INFO_CABINSEAT	The Scythian			A ambos lados del fuego de la choza había dos rú
 INFO_GOGOLITHICMASS	The Scythian			Notamos una calavera astada flotando en la oscuridad bajo Mingi Taw.					
 INFO_MEGATOMBTRIFECTA	The Scythian			En la oscuridad bajo Mingi Taw distinguimos una representación de la Tríada Trigónica.					
 INFO_ROCKSHOWGIRL	The Scythian			En el concierto de rock encontramos a Samae. Nos pareció que susurró algo parecido a 'Fuego, camina conmigo'.					
-INFO_ROCKSHOWSKOLOTOI	The Scythian			Notamos a uno de esos esqueletos despreocupados disfrutando del siniestro ritmo en el concierto de rock.					
+INFO_ROCKSHOWSKOLOTOI	The Scythian			Notamos a uno de esos esqueletos despreocupados disfrutando del ominoso ritmo en el concierto de rock.					
 INFO_ROCKSHOWJIM	The Scythian			El misterioso músico Jim Guthrie encabezaba el concierto de rock.			160	020.jpg	T2G03
 INFO_ROCKSHOWBOOR	The Scythian			Vimos al Patán Canoso luciendo su onda nudista con mucho estilo en el concierto de rock.			121	021.jpg	E2G15
 INFO_ROCKSHOWCROWD	The Scythian			En el concierto de rock había una multitud considerable de damas y caballeros.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			Vimos en el concierto de rock al personaje conocido como El Arquetipo y nos preguntamos qué tramaba con todo aquello.					
-INFO_TRIGONGROVESKULLSTICK	The Scythian			Un siniestro poste decorado con una calavera astada conectaba este lugar con el espectro inmortal que acecha bajo Mingi Taw.					
+INFO_TRIGONGROVESKULLSTICK	The Scythian			Un lúgubre poste decorado con una calavera astada conectaba este lugar con el espectro inmortal que acecha bajo Mingi Taw.					
 GRAVE_TRIGONGROVE	The Scythian			En el Claro Trigónico, más allá de la cueva cavernosa del prado, una tumba solitaria despertó nuestra curiosidad.					
 GRAVE_TRIGONGROVEGHOST	The Scythian			En el Claro Trigónico, más allá de la cueva cavernosa del prado, junto a una tumba solitaria, nos encontramos con un fantasma resplandeciente.					
 				La verdad, el fantasma resplandeciente del Claro Trigónico nos dio bastante miedo al principio.			96	022.jpg	T2B2H
@@ -270,9 +270,9 @@ ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Así que d
 				Como consecuencia, una siniestra tormenta se cierne amenazante y la gente adorable de la choza de piedra está desolada.					
 			adventureUI/megatomeItem	La buena noticia es que tienes un pesado libro conocido como el Megatomo. En nuestra próxima sesión hablaremos de su extraño propósito.					
 				Nuestra investigación muestra que la exposición prolongada a la psicocosmología mitopoética de S:S&SEP puede causar efectos adversos.					
-				Así que ahora que completaste la Sesión I, ¿qué tal si descansamos un poco? Estaré justo aquí cuando quieras empezar la Sesión II.					
+				Así que ahora que completaste la Sesión I, ¿qué tal si descansamos un poco? Estaré justo aquí cuando quieras comenzar la Sesión II.					
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
-				Me alegra verte de nuevo. ¿Empezamos la Sesión II de S:S&SEP?					
+				Me alegra verte de nuevo. ¿Comenzamos la Sesión II de S:S&SEP?					
 			adventureUI/megatomeItem	Bien, ¿en qué estábamos? Ah, ya recuerdo. Conseguiste un pesado libro conocido como el Megatomo.					
 				Despertaste al espectro inmortal que aún acecha en la oscuridad bajo Mingi Taw. Qué tipo más siniestro, ¿no crees?			204	042.jpg	24B2J
 				Son tiempos de angustia: una siniestra tormenta ha nublado el cielo y la gente adorable de la choza de piedra está desolada.					
@@ -285,7 +285,7 @@ ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	¡Bravo! Has localiza
 				Milagrosamente, la siniestra tormenta se ha disipado y el glorioso sol ha regresado al reino. ¡Eso es realmente increíble!					
 				Tus heroicas hazañas reflejan bien tu percepción, intuición y perseverancia. ¡Lo has hecho muy bien hasta ahora!					
 				Nota: Si decides continuar con el experimento S:S&SEP, esas mismas cualidades serán puestas a prueba y evaluadas.					
-				En fin, tomemos otro descanso, ¿sí? Como siempre, estaré aquí cuando quieras empezar la Sesión III.					
+				En fin, tomemos otro descanso, ¿sí? Como siempre, estaré aquí cuando quieras comenzar la Sesión III.					
 ARCHETYPE_TRIFECTAINTRO	The Archetype								
 				Empecemos la Sesión III. Nota: Esta sesión generalmente requiere un mes lunar para completarse.					
 			triangle/Triangle	¿Así que domaste el Trigón Dorado y la tormenta se disipó milagrosamente? ¡Bravo!					
@@ -421,8 +421,8 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Aturdidos y sin un recuerdo claro,
 			triangle/Triangle	Recordamos el milagro del prado y nuestro encuentro con el Trigón Dorado...					
 			triangle/Triangle	...¿qué nuevos poderes se nos habrían concedido?					
 			triangle/Triangle	Tronquero quedó impresionado por lo increíble y extraño que sonaba el combate contra el Trigón Dorado.			81	071.jpg	R7C14
-			triangle/Triangle	Se preguntó por la conexión del Trigón con los siniestros misterios más allá del portón de hierro del prado.					
-				Pero a Tronquero no le gustaban los siniestros misterios, así que prefirió irse a casa y cortar leña. #leñando					
+			triangle/Triangle	Se preguntó por la conexión del Trigón con los lúgubres misterios más allá del portón de hierro del prado.					
+				Pero a Tronquero no le gustaban los lúgubres misterios, así que prefirió irse a casa y cortar leña. #leñando					
 LOGFELLA_BEFOREYELLOWBEAM	The Scythian			Tronquero estaba muy contento de que la tormenta se hubiera disipado y entusiasmado de haber vuelto a cortar leña.					
 				Nos preguntó si teníamos idea sobre el portón de hierro que bloqueaba la cueva cavernosa del prado... ¿qué podría haber detrás?					
 LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Qué raro... Veo un haz celestial dorado en el bosque tras el prado... ¿alguien ha descubierto los secretos del Claro Trigónico?			89	072.jpg	67F24
@@ -515,7 +515,7 @@ DOGFELLA_FOUNDATION	Dogfella	AdventureUI/tweetIconBabelBook		...
 				...					
 				...					
 LOGFELLA_DARKMOON	The Scythian			El leñador habló sobre paseos oníricos por el bosque poco antes del amanecer, bajo un cielo oscuro y tormentoso.					
-				Mencionó una inquietante luz rosada y una siniestra canción que surgían del bosque sin nombre tras el prado.					
+				Mencionó una inquietante luz rosada y una espeluznante canción que surgían del bosque sin nombre tras el prado.					
 				Supusimos que Tronquero se refería al concierto de rock de la Luna Sombría.					
 GIRL_DARKMOON	The Scythian			Samae habló sobre paseos oníricos por el bosque poco antes del amanecer, bajo un cielo oscuro y tormentoso.					
 				Comentó cómo se había refugiado de la tormenta en un árbol hueco de proporciones titánicas.					
@@ -684,7 +684,7 @@ ARCHETYPE_CREDITS	The Archetype
 				* * * SE ACABÓ * * *					
 				Ahora somos amigos cósmicos para siempre... ¿sí?			87	084.jpg	L8A48
 ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
-	The Archetype			Damas y caballeros, ¿qué tal presionar a estos dos pequeños espíritus silvanos para calibrar tu sistema de sonido estéreo?					
+	The Archetype			Damas y caballeros, ¿qué tal presionar a estos dos pequeños espíritus silvanos para calibrar el sistema de sonido estéreo?					
 	The Archetype			Desde nuestro experimento anterior en 2011, las redes sociales han demostrado ser catastróficas para la sociedad.					
 				Con cierto pesar, en esta ocasión promovemos el aislamiento y la reflexión.					
 				Verás que esta primera sesión de S:S&SEP es bastante sencilla y suele durar entre 15 y 30 minutos.					
