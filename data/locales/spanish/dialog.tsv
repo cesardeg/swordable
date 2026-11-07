@@ -15,7 +15,7 @@ SIGN_ANTECHAMBERLEFT	The Scythian			En un pasadizo subterráneo descubrimos una 
 INFO_CROSSMOUNTAINLEFT	The Scythian			En la pendiente rocosa de Mingi Taw, una tumba solitaria marcaba el final del sendero de grava.					
 INFO_CROSSMOUNTAINRIGHT	The Scythian			En la pendiente rocosa de Mingi Taw, una tumba solitaria marcaba el final del sendero de grava.					
 INFO_RIDGESKULLPOLE	The Scythian			En la cresta escarpada rumbo a la cima de Mingi Taw, se erguía un lúgubre poste decorado con una calavera astada.					
-INFO_CROSSRIDGE	The Scythian			En la cresta escarpada hacia la cima de Mingi Taw, una tumba solitaria recordaba lúgubremente cuántas almas habían perecido allí.					
+INFO_CROSSRIDGE	The Scythian			En la cresta escarpada hacia la cima de Mingi Taw, una tumba solitaria recordaba lúgubremente cuánta gente había muerto aquí arriba.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos el Megatomo aferrado entre dos manos huesudas, y sentimos nuestra espada estremecerse en la vaina. #megatomo			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Una pequeña puerta sin manija, hecha de un material desconocido. Un letrero decía: 'Solo personal autorizado'.					
 DOOR_UPSLOPEWOODS1	The Scythian			El antiguo camino hacia Mingi Taw estaba bloqueado por una puerta trancada.					
@@ -34,7 +34,7 @@ LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	El leñador nos confirmó 
 			AdventureUI/keyItem	Era una llave muy bonita.					
 				Estábamos más que listos para mantener presionado el camino ¡y a mover, mover el bote!					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Tronquero se quedaría aquí, esperando a que volviéramos con el Megatomo.					
-LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Tronquero había decidido relajarse en un refugio de piedra cerca del Precipicio Peligroso.					
+LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Tronquero había decidido pasar el rato en un refugio de piedra cerca del Precipicio Peligroso.					
 				Parecía saberlo todo sobre el odioso arcoíris y el glifo cercano que representaba una espada alzada al cielo.					
 				Y aun así, no nos dio ninguna pista sobre qué hacer después, lo cual nos irritó bastante, la verdad.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador había visto alguna criatura monstruosa y decidió dejar que nos encargáramos de ello.			26	010.jpg	Q1B00
@@ -177,15 +177,15 @@ GRAVE_CHASMGHOST	The Scythian			Al filo del Precipicio Peligroso, junto a la tum
 				Describió lo engorroso que fue el proceso, ¡pero nos dijo que eso le permitió alterar las fases de la luna!					
 				"""El caso es que he tenido los pelos de punta desde que hice trampa... y por eso me morí de vergüenza."""					
 GRAVE_HOLLOW	The Scythian			Dentro de un árbol hueco titánico, una tumba solitaria despertó nuestra curiosidad.					
-GRAVE_HOLLOWGHOST	The Scythian			Dentro de un árbol hueco titánico, junto a una tumba solitaria, un fantasma imponente nos soltó una alocada rima.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOST	The Scythian			Dentro de un árbol hueco titánico, junto a una tumba solitaria, un fantasma audaz se echó una rima bien loca.			117	028.jpg	E2A80
 				"""Vigila el humor de la luna sin cesar, y sabrás cuándo, dónde y cómo actuar."""					
 				"""Y que conste que no pretendo asustarte por tener este aspecto tan impresionante."""					
-GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un árbol hueco titánico, junto a una tumba solitaria, un fantasma imponente nos soltó una alocada rima.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un árbol hueco titánico, junto a una tumba solitaria, un fantasma audaz se echó una rima bien loca.			117	028.jpg	E2A80
 				"""Tras de ti, en el sendero escondido, halla las susurrantes espumas con el oído y los sentidos."""					
 				"""Cinco espíritus silvanos envía al cielo, sin temor; obrarán un milagro revelador, y el Trigón que buscas acudirá con su fulgor."""					
-GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un árbol hueco titánico, junto a una tumba solitaria, un fantasma imponente nos dijo algunas cosas.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un árbol hueco titánico, junto a una tumba solitaria, un fantasma audaz nos contó algunas cosas.			117	028.jpg	E2A80
 				"""Busca una señal de los espíritus silvanos y entona allí la Canción de Espadancia para revelar un Trigón oculto."""					
-GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un árbol hueco titánico, junto a una tumba solitaria, un fantasma imponente nos dijo algunas cosas.			117	028.jpg	E2A80
+GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un árbol hueco titánico, junto a una tumba solitaria, un fantasma audaz nos contó algunas cosas.			117	028.jpg	E2A80
 				"""La Canción del Trigón ha terminado por ahora. Me pregunto cuándo volveré a escucharla."""					
 LOGFELLA_LOSTKEY	The Scythian			Tronquero, el afligido leñador, estaba hecho un manojo de nervios.					
 			AdventureUI/keyItem	Al parecer, había perdido la llave de la puerta del muro de piedra que bloqueaba el antiguo camino hacia Mingi Taw.					
@@ -472,7 +472,7 @@ GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Sam
 LOGFELLA_BRIGHTMOONTRIGONCOLLECTED	The Scythian			El leñador notaba que tantos paseos oníricos y milagros habían pasado factura a nuestra salud física.					
 				Parecía sospechar que nuestro funesto cometido no acabaría bien.					
 				Nos recordó que podíamos sentarnos junto al fuego de la choza y descansar de vez en cuando para recobrar fuerzas.					
-ARCHETYPE_BRIGHTMOONTRIGONCOLLECTED	The Archetype			Nuestra investigación muestra una alta correlación entre el progreso de un participante en S:S&SEP y su aptitud para lo extraordinario.			45	074.jpg	87A43
+ARCHETYPE_BRIGHTMOONTRIGONCOLLECTED	The Archetype			Nuestra investigación muestra una alta correlación entre el progreso de un participante en S:S&SEP y su aptitud para ser genial.			45	074.jpg	87A43
 				Veo que has logrado localizar y recuperar el Trigón de la Luna Radiante. Es una noticia realmente formidable.					
 MIRACLE3_HUGETREE	The Scythian			Mientras la Luna Sombría reina, obramos un milagro de relámpago fragmentador en medio de un Parlamento de Árboles.					
 MIRACLE3_DARKMOONTRIGONCOLLECTED	The Scythian			Además... cargar con el Megatomo a todas partes es un fastidio: es un libro realmente pesado en más de un sentido.					
@@ -535,7 +535,7 @@ LOGFELLA_ALMOSTWAX	The Scythian			El leñador dijo que casi nunca pensaba en la 
 				De hecho, el leñador admitió que se le ponían los pelos de punta cuando la Luna Radiante imperaba... y cuando la Luna Sombría reinaba.					
 GIRL_ALMOSTWAX	The Scythian			Samae comentó algo sobre la luna creciente y se preguntó cuánto tiempo pasaría hasta que la Luna Radiante imperara en el cielo.					
 ARCHETYPE_ALMOSTWAX	The Archetype			La luna crece un poco cada día... en unos pocos días, la Luna Radiante imperará... ¿Y eso qué?			165	046.jpg	P4B6A
-LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se comportaba de manera extraña cada vez que la Luna Radiante imperaba en el cielo.			135	061.jpg	M6F1I
+LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se volvía medio loco cada vez que la Luna Radiante imperaba en el cielo.			135	061.jpg	M6F1I
 GIRL_BRIGHTMOON	The Scythian			Samae habló sobre paseos oníricos por el bosque poco antes del amanecer, mientras la Luna Radiante imperaba en el cielo.					
 				Mencionó el aire fresco de la mañana y una isla imposible en medio de un apacible lago.					
 ARCHETYPE_BRIGHTMOON	The Archetype			Sal y mira hacia arriba. ¡Maravíllate con la Luna Radiante que impera en el cielo!			95	079.jpg	07D95
@@ -560,7 +560,7 @@ LOGFELLA_CRESCENTWANE	The Scythian			El leñador no era mucho de historias y adm
 				Estos inmortales dieron a la humanidad el don de la civilización, y con ello, la condena de una inevitable extinción.					
 				Los escitas intentaron frenar el avance insidioso de la civilización, por eso aislaron el Megatomo con su guardián inmortal.					
 				El inmortal permaneció en la oscuridad desde entonces, hasta degenerar en el espectro conocido como la Masa Gogolítica.					
-				Probablemente habría seguido con este relato interminable si no lo hubiéramos interrumpido respetuosamente.					
+				Probablemente habría seguido sin parar con estos disparates si no lo hubiéramos interrumpido respetuosamente.					
 GIRL_CRESCENTWANE	The Scythian			Samae observó la luna menguante. Dijo que pronto se iría y la Luna Sombría reinaría.					
 ARCHETYPE_CRESCENTWANE	The Archetype			El ciclo lunar está casi completo. La Luna Sombría está muy cerca.					
 DARKMOONLOOMS_ARCHETYPE	The Archetype			La Luna Sombría se avecina. El final del ciclo lunar está muy cerca.					
@@ -618,7 +618,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Traducción japonesa: el maestro de las palabras RYUTA YAZAWA.					
 				Edición japonesa, consejos cruciales y apoyo infinito: MASAHIRO YUKI de Grasshopper Manufacture en grasshopper.co.jp					
 				Soporte adicional de localización japonesa: Yutaka Ohbuchi, John Ricciardi y Masanobu Suto.					
-				Diseño del imponente logo japonés: POLYGRAPH en polygraph.jp					
+				Diseño del brutal logo japonés: POLYGRAPH en polygraph.jp					
 				Magia web japonesa: Jonathan Lumb en jonnyram.com					
 				Gracias hasta Japón: Suda 51, Tomoaki Takahashi, Hideto Yamada. Remixers: Baiyon, Akira Yamaoka, Michiru Yamane, macotom3, Decasségui Hip.					
 				* * * EL DOMINIO DE CANADÁ * * *					
