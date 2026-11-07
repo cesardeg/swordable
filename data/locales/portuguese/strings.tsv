@@ -26,7 +26,7 @@ BELIEVE	ACREDITE
 BEWARE	CUIDADO	
 FOLLOW	SEGUIR?	
 ROTATE_UNSHEATHE	< < DESEMBAINHE	
-GO_HOME	MENU PRINCIPAL?	
+GO_HOME	INÍCIO?	
 START_ARROW_RIGHT	JOGAR > > >	
 TRESPASS	TRANSGRIDA	
 AVOID	EVITE	
@@ -164,7 +164,7 @@ SHEATHE_NINSWITCH	EMBAINHAR?
 FRENCH_SPECIAL	Ç ç « » ‹ › € À Â Ä È É Ê Ë Î Ï Ô Œ Ù Û Ü Ÿ Ç ç « » €	
 ITALIAN_SPECIAL	À È É Ì Ò Ó Ù º ª « » ‹ › € ª	
 GERMAN_SPECIAL	Ä ä Ö ö Ü ü ẞ ß	
-SPANISH_SPECIAL	Á É Í Ó Ú Ñ Ü ¿ ¡ º ª « » ‹ › €	
+SPANISH_SPECIAL	Á á Â â Ã ã À à Ç ç É é Ê ê Í í Ó ó Ô ô Õ õ Ú ú Ñ ñ Ü ü ¿ ¡ º ª « » ‹ › €	
 TOUCHTRONIC_NINSWITCH	TOUCHTRONIC	
 POINTCLICK_NINSWITCH	APONTAR E CLICAR	
 FAMICOM_NINSWITCH	FAMICOM	
@@ -234,4 +234,3 @@ TWITTER_REQUESTING	SOLICITANDO ACESSO...
 TAP_QUESTION	PRESSIONAR?	
 EXIT_TITLE	Sair de #espadancia?	
 EXIT_PROMPT	Você realmente deseja sair?	
-PORTUGUESE_SPECIAL	Á á Â â Ã ã À à Ç ç É é Ê ê Í í Ó ó Ô ô Õ õ Ú ú º ª « » ‹ › €	

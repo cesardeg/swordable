@@ -49,12 +49,12 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | **Logfella** | Tronquero | Troncadeiro | ✅ The woodcutter. See Philosophy section. |
 | **Girl / Samae** | Samae | Samae | ✅ Always "Samae" after introduction |
 | | La chica de cabello oscuro | A garota de cabelos escuros | First appearance description |
-| **The Archetype** | El Arquetipo | O Arquétipo | ✅ The guide character |
+| **The Archetype** | El Arquetipo | O Arquétipo | ✅ The guide character (contracts as `del Arquetipo` / `do Arquétipo` after prepositions) |
 | **Dogfella** | Perrero | Cachorreiro | ✅ The dog. See Philosophy section. |
 | **Jim Guthrie** | Jim Guthrie | Jim Guthrie | ✅ Never translate proper name |
-| **The Grizzled Boor** | El Patán Canoso | O Patife Grisalho | ✅ Antagonist |
+| **The Grizzled Boor** | El Patán Canoso | O Patife Grisalho | ✅ Antagonist (contracts as `al Patán Canoso` / `o Patife Grisalho` in running prose) |
 | **Andre (The Giant)** | André 'El Gigante' | André, 'O Gigante' | ✅ Ghost character, maintain quotes |
-| **The Gogolithic Mass** | La Masa Gogolítica | A Massa Gogolítica | ✅ The deathless specter |
+| **The Gogolithic Mass** | la Masa Gogolítica | a Massa Gogolítica | ✅ The deathless specter (lowercase article in running prose per RAE/PT norms) |
 
 ---
 
@@ -63,12 +63,12 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | English | Spanish (ES) | Portuguese (PT-BR) | Notes |
 |---------|--------------|-------------------|-------|
 | **Mingi Taw** | Mingi Taw | Mingi Taw | ✅ Main mountain |
-| **The Caucasus** | El Cáucaso | O Cáucaso | ✅ Geographic region |
+| **The Caucasus** | el Cáucaso | o Cáucaso | ✅ Geographic region |
 | **Scythia** | Escitia | Cítia | ✅ Homeland region |
-| **The Perilous Precipice** | El Precipicio Peligroso | O Precipício Perigoso | ✅ Major location |
+| **The Perilous Precipice** | el Precipicio Peligroso | o Precipício Perigoso | ✅ Major location |
 | **Trigon Grove** | Claro Trigónico | Clareira Trigônica | ✅ ES: clearing, PT: grove clearing |
-| **The Moon Grotto** | La Gruta Lunar | A Gruta Lunar | ✅ Secret location |
-| **The Kingdom of the Cloud** | El Reino de la Nube | O Reino da Nuvem | ✅ Mingi Taw's title |
+| **The Moon Grotto** | la Gruta Lunar | a Gruta Lunar | ✅ Secret location |
+| **The Kingdom of the Cloud** | el Reino de la Nube | o Reino da Nuvem | ✅ Mingi Taw's title |
 | | | | |
 | **stone hut** | choza de piedra | cabana de pedra | ⚠️ Logfella's dwelling |
 | **stone wall** | muro de piedra | muro de pedra | ✅ Blocks the old road |
@@ -96,7 +96,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 
 | English | Spanish (ES) | Portuguese (PT-BR) | Notes |
 |---------|--------------|-------------------|-------|
-| **The Megatome** | El Megatomo | O Megatomo | ✅ The burdensome book |
+| **The Megatome** | el Megatomo | o Megatomo | ✅ The burdensome book (lowercase article in running prose) |
 | **sword** | espada | espada | ✅ |
 | **shield** | escudo | escudo | ✅ |
 | **key** | llave | chave | ✅ Logfella's lost key |
@@ -104,7 +104,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | **Gold Trigon** | Trigón Dorado | Trígono Dourado | ✅ First trigon |
 | **Bright Moon Trigon** | Trigón de la Luna Radiante | Trígono da Lua Radiante | ✅ Pink/bright trigon |
 | **Dark Moon Trigon** | Trigón de la Luna Sombría | Trígono da Lua Sombria | ✅ Blue/dark trigon |
-| **The Trigon Trifecta** | La Tríada Trigónica | A Tríade Trigônica | ✅ All three trigons |
+| **The Trigon Trifecta** | la Tríada Trigónica | a Tríade Trigônica | ✅ All three trigons (lowercase article in running prose) |
 | | | | |
 | hearth | fuego / hogar | fogo / lareira / lar | ⚠️ `hogar` / `lareira / lar` used in poetic/proverbial contexts |
 | firewood | leña | lenha | ✅ |
@@ -305,8 +305,9 @@ This glossary serves as the **authoritative translation reference** for Superbro
 
 #### 5. **Formatting & Capitalization**
 - Trigon names: **"Trigón Dorado"** (both words capitalized)
-- Location names: **"El Precipicio Peligroso"** (proper noun)
-- Moon phases: **"Luna Radiante"** (both capitalized)
+- Location & item names: **"el Precipicio Peligroso"**, **"la Gruta Lunar"**, **"el Megatomo"**, **"la Masa Gogolítica"**, **"la Tríada Trigónica"** (proper nouns capitalized; preceding definite article in lowercase in running prose per RAE orthography, contracting normally as `al` / `del`)
+- Protagonist & character titles: **"La Escita"** retains its capitalized article as a substantivized protagonist name (`a La Escita`, `de La Escita`), whereas descriptive epithets contract naturally in prose (`al Patán Canoso`, `del Arquetipo`).
+- Moon phases: **"Luna Radiante"** / **"Luna Sombría"** (both capitalized, preceded by lowercase article `la`)
 
 #### 6. **Majestic Plural & Gender Agreement (`Plural Mayestático`)**
 - **Context:** The Scythian uses the majestic plural "we" ("nosotros") throughout her narration.
@@ -325,15 +326,17 @@ This glossary serves as the **authoritative translation reference** for Superbro
 - ✅ ALWAYS place descriptive adjectives after the noun in natural Romance syntax: **"árbol hueco titánico"** / **"árbol titánico"**.
 - ❌ NEVER use the English anteposition calque: `"titánico árbol hueco"` / `"titánico árbol"`.
 
-#### 9. **Narrative Imperfect vs. Preterite**
-- ✅ Use the imperfect (*pretérito imperfecto*: `teníamos la sensación`, `esperaba`, `conectaba`, `sabíamos`, `supusimos`) when establishing continuous scene backdrops, mental states, and narrative impressions.
+#### 9. **Narrative Imperfect vs. Inchoative Expressions of Sensation**
+- ✅ Use the imperfect (*pretérito imperfecto*: `teníamos la sensación`, `esperaba`, `conectaba`, `sabíamos`, `supusimos`) when establishing continuous scene backdrops, mental states, and ongoing impressions (e.g., `D094`: `we had a feeling` → `teníamos la sensación` / `tínhamos a sensação`).
+- ✅ When the English source marks a sudden, punctual onset (`D347` / `D352`: `We got that/the peculiar feeling`), use expressive inchoative verbs (`Nos invadió la/esa extraña sensación` in ES; `Sentimos a/essa estranha sensação` in PT) rather than the flat calque `tuvimos la sensación`.
 - ❌ Avoid abrupt preterite calques (`tuvimos la sensación`, `esperó`, `conectó`) when describing continuous background states.
 
-#### 10. **UI Box & Fixed-Width HUD Constraints (`QUIT` → `SALIR`, `SETTINGS` → `AJUSTES`, `HOLD_SHIELD_TO_HEAL`)**
+#### 10. **UI Box & Fixed-Width HUD Constraints (`QUIT` → `SALIR`, `SETTINGS` → `AJUSTES`, `GO_HOME` → `¿INICIO?`, `HOLD_SHIELD_TO_HEAL`)**
+- **`GO_HOME` (`strings.tsv` Line 29)**: Must remain **`¿INICIO?`** (ES, 8 chars) / **`INÍCIO?`** (PT, 7 chars) in accordance with Capybara Games' 8-character limit (`all-vo/strings.tsv` Row 29), never `¿MENÚ PRINCIPAL?` (16 chars).
 - **`QUIT` (`strings.tsv` Line 99)**: In Spanish, `QUIT` MUST remain **`SALIR`** without question marks. The left-edge slide-out exit tab has a fixed ~5-character text width before its embedded circular button icon (`⊗`); using `¿SALIR?` (7 characters) causes the text to collide directly with the circular icon (`¿SALI⊗?`). In Portuguese, `SAIR?` is only 5 characters (no opening `¿`) and fits without collision.
 - **`SETTINGS` (`strings.tsv` Line 133)**: MUST remain **`AJUSTES`** (7 characters) in both Spanish and Portuguese, NEVER `CONFIGURACIÓN` / `CONFIGURAÇÕES` (13 characters). On the title screen, `SETTINGS` renders inside the left-edge slide-out pill tab with an embedded sliders icon (`[≡]`) on its right end (sized for 8-character `SETTINGS`). A 13-character word crashes straight through the sliders icon and overflows outside the grey pill onto the background (`CONFIGURA[≡]ÓN`).
 - **`HOLD_SHIELD_TO_HEAL` (`strings.tsv` Line 127)**: Must remain **`MANTÉN PARA CURARTE`** (ES) / **`SEGURE PARA SE CURAR`** (PT), deliberately omitting `"el escudo"` / `"o escudo"`. In the combat HUD, this prompt renders as a **single non-wrapping line** directly above the glowing shield icon and immediately to the left of the sword sprite; any longer text collides horizontally with the sword blade.
-- **3-Line Tweet Boxes**: Keep dialogue lines under ~42–46 characters per row (~130–135 total characters) to prevent single words from wrapping onto a 4th line.
+- **3-Line Tweet Boxes**: Try to keep all playable dialogue lines (`D001–D580`) at or under **140 characters** so they never wrap onto a 4th line.
 
 ---
 
@@ -524,35 +527,35 @@ This section documents deliberate engineering, UI layout, font, and script decis
   - Lines 1–229 match the Nintendo Switch `strings.en.tsv` 1-to-1 by key and row number.
   - Lines 230–236 (`TWITTER_SELECT_BUTTON`, `TWITTER_SELECT_MSG`, `TWITTER_NO_ACCOUNTS`, `TWITTER_REQUESTING`, `TAP_QUESTION`, `EXIT_TITLE`, `EXIT_PROMPT`) are the **7 official iOS and PC/Steam keys** from the legacy 133-line `strings.tsv` build that were removed when Twitter integration and mobile/desktop exit dialogs were stripped on Switch.
   - Keeping all 236 keys (`229` Switch + `7` iOS/PC) makes our localization files **universal cross-platform drop-ins** compatible with Nintendo Switch, PC (Steam), and iOS/mobile builds simultaneously.
-  - Note: Neither `SPANISH_SPECIAL` nor any `PORTUGUESE_SPECIAL` extra row is added; special characters (`áéíóúüñ¿¡«»‹›` and Portuguese `àâãçéêíóôõú`) are declared inside slot 125 (`SPANISH_SPECIAL`) so all key indices remain strictly aligned.
 
 ### 5. `ARCHETYPE_GROTTOPARADOX` (`dialog.tsv` Line 494) — Unreferenced Dead Code
 - **Source (`en`)**: `Once the moods of the moon have been altered in The Moon Grotto the`
-- **Spanish (`es-419`)**: `Una vez que los humores de la luna han sido alterados en La Gruta Lunar, el`
-- **Portuguese (`pt-BR`)**: `Uma vez que os humores da lua foram alterados na Gruta Lunar, o`
+- **Spanish (`es-419`)**: `Una vez que el humor de la luna ha sido alterado en la Gruta Lunar, la`
+- **Portuguese (`pt-BR`)**: `Uma vez que o humor da lua foi alterado na Gruta Lunar, o`
 - **Developer Evidence**:
   - This line is truncated mid-sentence in the original English script.
   - In the official localization sheet (`FIGS Notes`, row 494), developer Matt Repetski (Capybara Games) confirmed: *"This is not actually being called, ignore it."*
   - It is retained at Line 494 solely to preserve exact row parity across `dialog.tsv` and must not be invented or completed.
 
 ### 6. `SCYTHIAN_FOUNDATION` (`dialog.tsv` Line 508) — Intentional Fix of English Narrative Slip (`singular / plural`)
-- **Source (`en`)**: `"Wait, hold on - 'I' felt? 'My' mind? I thought our story was told in second person?"`
-- **Spanish (`es-419`)**: `"Espera, un momento... ¿'Sentí'? ¿'Mi' mente? ¿Qué nuestra historia no se contaba en plural?"` (followed by L509 `en singular`)
-- **Portuguese (`pt-BR`)**: `"Espera, um momento... 'Eu' senti? 'Minha' mente? Mas a nossa história não era contada no plural?"` (followed by L509 `no singular`)
+- **Source (`en`)**: `Wait... why am I referring to myself in first person? I thought our story was told in second person? #editingoversight`
+- **Spanish (`es-419`)**: `Espera... ¿por qué hablo en singular? ¿No se supone que la historia va en plural? #erratadeedicion`
+- **Portuguese (`pt-BR`)**: `Espere... por que estou falando no singular? Não era para a história ser no plural? #erratadeedicao`
 - **Editorial Evidence**:
-  - In the English script, the writer accidentally confused **"first-person plural"** (*we / our*) with **"second person"** (*you*). Throughout the entire game, The Scythian narrates in the **first-person plural** (*we* / *nosotros* / *nós*), and in `SCYTHIAN_FOUNDATION` she momentarily slips into the **first-person singular** (*I / my*).
-  - Translating `"second person"` literally (`segunda persona`) renders the joke nonsensical in Spanish and Portuguese because `"nuestra historia"` (*our story*) is first-person plural, not second person.
-  - Using **`en plural` / `en singular`** (just as the official 8-4 Japanese localization corrected it to `一人称複数` — *first-person plural*) preserves the exact fourth-wall joke intended by the author.
+  - In the English script, the writer accidentally confused **"first-person plural"** (*we / our*) with **"second person"** (*you*). Throughout the entire game, The Scythian narrates in the **first-person plural** (*we* / *nosotros* / *nós*), and in `SCYTHIAN_FOUNDATION` (`D508–D510`) she momentarily slips into the **first-person singular** (*I / my*).
+  - Translating `"first person / second person"` literally (`primera persona / segunda persona`) renders the joke nonsensical in Spanish and Portuguese because `"nuestra historia"` (*our story*) is first-person plural, not second person.
+  - Contrasting **`en singular` / `en plural`** (`no singular` / `no plural`)—just as the official 8-4 Japanese localization corrected it—preserves the exact fourth-wall joke intended by the author.
 
 ### 7. Quotation Marks, Bitmap Fonts & TSV Parser Rules (`'...'` vs. `«...»` / `“...”`)
 - **Rule**: Always use **single straight ASCII quotes (`'...'`)** for internal quotes, nicknames (`André 'El Gigante'`), UI prompts (`presiona 'Jugar'`), and cited words inside dialogue.
 - **Technical Evidence**:
-  1. **Bitmap font glyph limitations**: Although `SPANISH_SPECIAL` (Line 125) includes `« » ‹ ›` in the string table, the game's compiled bitmap fonts (`conduit_itc_2x.fnt`, `arial_narrow.fnt`) lack typographic curly quotes (`“ ” ‘ ’`) and single angle quotes (`‹ ›`).
+  1. **Bitmap font glyph limitations**: Although `SPANISH_SPECIAL` (Line 167) includes `« » ‹ ›` in the string table, the game's compiled bitmap fonts (`conduit_itc_2x.fnt`, `arial_narrow.fnt`) lack typographic curly quotes (`“ ” ‘ ’`) and single angle quotes (`‹ ›`).
   2. **TSV parser & dialogue engine behavior**: Straight double quotes (`"..."`) wrap spoken lines in `dialog.tsv` and are parsed by the engine to distinguish spoken dialogue from narration (and require CSV-style `""...""` escaping when nested). Using `'...'` avoids parser collisions and renders cleanly across all bitmap fonts.
 
-### 8. Hashtag Diacritics & Title Abbreviations (`S:S&SEP` vs. `S:S&S EP`)
+### 8. Hashtag Diacritics, Unified `S:S&SEP` Acronym & LIFO Dialogue Stack Order
 - **Unaccented Hashtags**: Acute accents and tilde diacritics on vowels are intentionally omitted inside hashtags (`#si`, `#quizas`, `#trigondomado`, `#masfacildelopensado`, `#olamundo`, `#nao`, `#matanca`) to reflect authentic 2011 Twitter parsing behavior, while `ñ` is preserved in Spanish (`#leñando`, `#bañomutante`).
-- **`S:S&SEP` vs. `S:S&S EP`**: Both the compact form `S:S&SEP` (used in `TWEET_SHIELD`, `CREDITS_1`, etc., to save character count in tweet prompts) and the spaced form `S:S&S EP` mirror the exact spacing of `strings.en.tsv` and `dialog.en.tsv`.
+- **Unified `S:S&SEP` Acronym**: While `dialog.en.tsv` inconsistently mixes `S:S&SEP` and `S:S&S EP`, the Spanish and Portuguese localizations intentionally standardize the compact form **`S:S&SEP`** across all occurrences in `strings.tsv` and `dialog.tsv` both for internal consistency and to save character space inside 3-line dialogue boxes.
+- **LIFO (Bottom-to-Top) Dialogue Stack in Certain Multi-Line Blocks**: Several multi-line blocks in `dialog.tsv` (such as `ARCHETYPE_FOUNDATION` `D056–D067`, `GCLUE_*`, and `ARCHETYPE_*TRIGONCOLLECTED` `D486–D488`) are pushed onto a stack by the engine and displayed to the player **from bottom to top** (e.g., `D066 → D065 → D064 → D063 → D062` and `D488 → D487 → D486`). Always verify pronoun antecedents and discourse flow in the actual in-game reading order rather than top-to-bottom TSV row order.
 
 ---
 
