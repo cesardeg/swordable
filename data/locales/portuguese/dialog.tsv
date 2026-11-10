@@ -221,7 +221,7 @@ GIRL_FOUNDKEY	The Scythian			Em uma trilha junto ao caminho, encontramos Samae, 
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Tô super de boa com a Citiana ficar com a chave se isso significa que ela vai dissipar a tempestade.					
 				Devo ter dado uma cochilada em algum momento da história super épica da Citiana. Não sou muito de histórias.					
 				Perguntei na lata para a Citiana sobre sua funesta missão... e ela veio com um papo sobre estepes e o dedo de Deus.					
-GIRL_FOUNDKEYTHOUGHTS	Girl			Enviar mais um ou dois espíritos silvanos ao céu dissipará a incessante tempestade... e então será a época dos milagres! #milagres			129	034.jpg	33A44
+GIRL_FOUNDKEYTHOUGHTS	Girl			Enviar mais um ou dois espíritos silvanos ao céu dissipará a incessante tempestade... e então será tempo de milagres! #milagres			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			Ao caminhar em sonhos, há uma calma emocionante quando a lua brilha mais... e quando está escura, as florestas se tornam selvagens.					
 				No sonho, são sempre os mesmos lugares e cantos... a não ser quando tudo muda por causa do humor da lua.					
 				Todas as noites desde que a tempestade se dissipou, tenho tido o mesmo sonho em que caminho pela floresta pouco antes do amanhecer.					
@@ -239,16 +239,16 @@ ARCHETYPE_TRIGONGROVE	The Archetype			Sente? Começa a entender? Os símbolos es
 				Este facho conecta o mundo dos vivos ao dos mortos, então talvez você encontre algum fantasma para conversar na jornada.					
 				Me informaram que você ativou o primeiro facho celestial na Clareira Trigônica.					
 GIRL_CABINSHEEP	The Scythian			Perguntamos a Samae sobre as ovelhas inúteis que estavam vadiando na cabana e ela comentou que elas se assustaram há um tempo.					
-			gourd/gourd	Contamos que havíamos enviado cinco espíritos silvanos ao céu e ela nos disse que talvez a época dos milagres estivesse próxima.					
+			gourd/gourd	Contamos que havíamos enviado cinco espíritos silvanos ao céu e ela nos disse que talvez um tempo de milagres estivesse próximo.					
 				Supusemos que talvez devêssemos investigar a campina onde as ovelhas costumavam vadiar.					
-LOGFELLA_CABINSHEEP	The Scythian			Troncadeiro sentia que a época dos milagres havia chegado e se perguntava se algo incrível estava prestes a acontecer.			79	036.jpg	V3G62
+LOGFELLA_CABINSHEEP	The Scythian			Troncadeiro sentia que era tempo de milagres e se perguntava se algo incrível estava prestes a acontecer.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			Gente do céu... A chuva parou! Será que a tempestade está começando a se dissipar? Tomara que sim.					
 				Essa tempestade toda estava me deixando tão pra baixo. Estava tudo tão lúgubre!					
 LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Estou com aquele frio na espinha... Com certeza algo está acontecendo... Será que a tempestade está se dissipando?					
 				Sabe, sempre que preciso recuperar as forças, eu me sento aqui junto ao fogo pra aquecer as botas.					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Au Au Au Au Au Au Au Au. #aindalatindo #milagres			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			Uma vez que o sol estiver alinhado, você receberá o dom de dobrar a realidade do grande mago Al Jaffee.					
-				Sente essa estranha vibração? A época dos milagres chegou! Entoe a Canção da Espadância e olhe para os imponentes pássaros zangados.			76	038.jpg	A3G84
+				Sente essa estranha vibração? É tempo de milagres! Entoe a Canção da Espadância e olhe para os imponentes pássaros zangados.			76	038.jpg	A3G84
 ARCHETYPE_MEADOWHINTTWO	The Archetype			Busque nos céus uma visão oblíqua sobre o milagre da campina e admire o Trígono Dourado.					
 ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... é interessante a maneira como você lidou com aquele encontro com o indivíduo canibal com cabeça de urso.			120	039.jpg	O3G9D
 				Não, não, está tudo bem, é apenas curioso. Nunca vi ninguém agir desse modo. É algo excepcional, mas não há motivo para alarme.					
@@ -275,7 +275,7 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 				É bom te ver novamente. Vamos começar a Sessão II de S:S&SEP?					
 			adventureUI/megatomeItem	Ótimo, onde estávamos? Ah, sim, já me lembro, você conseguiu um pesado livro conhecido como o Megatomo.					
 				Você despertou o espectro imortal que ainda espreita nas trevas sob Mingi Taw. Que sujeito mais sinistro, não acha?			204	042.jpg	24B2J
-				São tempos de angústia: uma sinistra tempestade cobriu o céu e as pessoas adoráveis que vivem na cabana estão desoladas.					
+				É tempo de angústia: uma sinistra tempestade cobriu o céu e as pessoas adoráveis que vivem na cabana estão desoladas.					
 				Desfazer a tempestade exigirá algum conhecimento em psiônica, criptozoologia e milagres...					
 			adventureUI/megatomeItem	1. O toque de um espadancista abrirá o Megatomo, revelando pensamentos ocultos de seres vivos e outros materiais esotéricos.					
 			gourd/gourd	2. Estranhos espíritos silvanos, fontes de espadância, dormem em lagoas, florestas e campinas. Busque suas sutis e sussurrantes espumas.					
@@ -344,12 +344,12 @@ GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	E
 GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano em um lago tranquilo onde uma mamãe pata se agitava frenética.					
 GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano onde o reflexo do lago era sutilmente incongruente.			127	059.jpg	65D98
 GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano em um aprazível lago sob uma tríade de corujas.					
-GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Sentimos a estranha sensação de que, talvez, só talvez, a época dos milagres houvesse chegado. #milagres					
+GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Sentimos a estranha sensação de que, talvez, só talvez, fosse tempo de milagres. #milagres					
 GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito silvano cercado por três pequenas cachoeiras.					
 GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito silvano entre quatro arvorezinhas redondas no mais escuro da floresta.					
 GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Sombria reina, despertamos um espírito silvano entre a mata do outro lado do lago.					
 GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Enquanto a Lua Radiante paira, despertamos um espírito silvano que espreitava entre as raízes de uma árvore titânica.					
-GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Sentimos essa estranha sensação de que talvez a época dos milagres houvesse chegado. Cadê nossos milagres? #milagres			77	060.jpg	86D06
+GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Sentimos essa estranha sensação de que talvez fosse tempo de milagres. Cadê nossos milagres? #milagres			77	060.jpg	86D06
 GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Au Au Au Au Au Au. #latindo			135	061.jpg	M6F1I
 				Au Au Au. #solatindo					
 				Às vezes canso de tanto latir, mas um cão tem que fazer o que um cão tem que fazer o que um cão tem que fa-fa-fazer.					
@@ -361,7 +361,7 @@ GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Espero que a Citiana 
 				A tempestade tá me deixando muito pra baixo, queria que existisse videogame na... época em que supostamente estamos.					
 GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Tudo tem sido uma loucura lunática desde que a Citiana apareceu.			3	062.jpg	36E2Z
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Essa tempestade toda estava me deixando tão pra baixo. Estava tudo tããão lúgubre!					
-				Finalmente está parando de chover e o céu está abrindo... Será que a época dos milagres chegou? Tomara que sim, eu amo milagres.					
+				Finalmente está parando de chover e o céu está abrindo... Será que é tempo de milagres? Tomara que sim, eu amo milagres.					
 				Eita... o quê? As ovelhas na campina se assustaram... O que será que está acontecendo lá? Será... o Trígono Dourado?					
 GCLUE_MOUNTAINTOP	Dogfella	AdventureUI/tweetIconGourd		Au Au Au.					
 				Às vezes, quando a escuridão não me deixa ver, eu como alguma coisinha e consigo ver o que nem sequer está lá.					
@@ -379,7 +379,7 @@ GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Talvez você já t
 				Parece que você progrediu bastante em seu esforço para localizar e domar o Trígono da Lua Radiante. Mandou muito bem!					
 GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		Os espíritos silvanos são filhos da Terra ou são visitantes solitários do Remoinhado Infinito?					
 				Pra ser sincera, os espíritos silvanos me assustam demais. Tipo... O que eles são? De onde vêm?					
-GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Quando os espíritos silvanos forem enviados ao céu e chegar a época dos milagres, você deve procurar a árvore titânica.					
+GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Quando os espíritos silvanos forem enviados ao céu e chegar o tempo dos milagres, você deve procurar a árvore titânica.					
 				Eu sei que você sabe o que eu sei e quero que saiba que você tem 100% de razão.			109	066.jpg	F6D6H
 				Au Au Au Snif Au Au Au.					
 GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Somente o fim da sua funesta missão trará a paz de volta às nossas vidas.					
@@ -392,7 +392,7 @@ GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Existem muitos ditados estra
 YELLOWTRIGON_COLLECTED	The Scythian			Domamos o Trígono Dourado. Somos os maiores.			85	067.jpg	36G7U
 PINKTRIGON_COLLECTED	The Scythian			Conseguimos o Trígono da Lua Radiante. Contra todas as probabilidades.			155	068.jpg	56F8U
 BLUETRIGON_COLLECTED	The Scythian			Conquistamos o Trígono da Lua Sombria. Contra tudo e contra todos.			112	069.jpg	T6G94
-GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece que todos os espíritos da Lua Sombria foram enviados ao céu, então a época dos milagres chegou novamente. Eu amo milagres!					
+GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Parece que todos os espíritos da Lua Sombria foram enviados ao céu, então voltou a ser tempo de milagres. Eu amo milagres!					
 JIM_HINT1_OFF	The Scythian			Em uma clareira isolada, encontramos um misterioso músico ao lado de uma fogueira crepitante.					
 JIM_PINKDAWN	The Scythian			Em uma clareira isolada, encontramos um misterioso músico ao lado de uma fogueira crepitante. #jimguthrie					
 JIM_BRIGHTMOON	The Scythian			Enquanto a Lua Radiante paira, junto a uma fogueira crepitante encontramos um misterioso músico que se apresentou como Jim Guthrie.			128	070.jpg	07G00

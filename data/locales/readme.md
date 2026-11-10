@@ -151,7 +151,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | dream-walking (Character) | caminar en sueños | caminhar em sonhos |
 | threshold of liminality | umbral de la liminalidad | limiar da liminaridade |
 | twilight realm | reino crepuscular | reino crepuscular |
-| time of miracles | época de milagros | época dos milagres |
+| time of miracles | tiempo de milagros | tempo de milagres |
 
 ---
 
@@ -165,7 +165,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | **heebie jeebies** | los pelos de punta | frio na espinha | ✅ Physical sensation of fear |
 | **cosmic friends forever** | amigos cósmicos para siempre | amigos cósmicos para sempre | ✅ Ending phrase |
 | **for glory & for spite** | por la gloria y por pura terquedad | pela glória e por pura teimosia | ✅ Deliberate adaptation: in English gaming idiom, doing something "out of spite / for spite" means stubborn defiance ("por pura terquedad / teimosia"), whereas Spanish *por despecho* carries an unintended romantic/heartbreak connotation (*mal de amores*) |
-| **Time of Woe** | Tiempos de Angustia | Tempos de Angústia | ✅ Session II Theme |
+| **time of woe** | tiempo de angustia | tempo de angústia | ✅ Session II Theme (mirrors *tiempo de milagros* / *tempo de milagres*) |
 | | | | |
 | linguistic thought transmission | transmisión de pensamiento lingüístico | transmissão de pensamento linguístico | ✅ |
 | esoteric markings | símbolos esotéricos | símbolos esotéricos | ✅ Unified across `D142`, `D210`, and `D238` (Megatome contents) |
