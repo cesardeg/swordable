@@ -182,7 +182,7 @@ GRAVE_HOLLOWGHOST	The Scythian			Dentro de un árbol hueco titánico, junto a un
 				"""Y que conste que no pretendo asustarte por tener este aspecto tan impresionante."""					
 GRAVE_HOLLOWGHOSTSPRITES	The Scythian			Dentro de un árbol hueco titánico, junto a una tumba solitaria, un fantasma genial se echó una rima bien loca.			117	028.jpg	E2A80
 				"""En el sendero que atrás has recorrido, busca las susurrantes espumas con vista y oído."""					
-				"""Cinco espíritus silvanos envía al cielo, sin temor; obrarán un milagro revelador, y el Trigón que buscas acudirá con su fulgor."""					
+				"""Los cinco espíritus silvanos envía al cielo, sin temor; obrarán un milagro revelador, y el Trigón que buscas acudirá con su fulgor."""					
 GRAVE_HOLLOWGHOSTTRIGON	The Scythian			Dentro de un árbol hueco titánico, junto a una tumba solitaria, un fantasma genial nos contó algunas cosas.			117	028.jpg	E2A80
 				"""Busca una señal de los espíritus silvanos y entona allí la Canción de Espadancia para revelar un Trigón oculto."""					
 GRAVE_HOLLOWGHOSTTRIGONCOMPLETE	The Scythian			Dentro de un árbol hueco titánico, junto a una tumba solitaria, apareció un fantasma genial y nos contó algunas cosas.			117	028.jpg	E2A80
@@ -506,7 +506,7 @@ LOGFELLA_FOUNDATION	Logfella			...
 SCYTHIAN_FOUNDATION	The Scythian			Despertamos a un espíritu silvano en un insondable estanque con lirios junto a una choza de piedra. No sabemos qué significa.					
 				Bajo una incesante tormenta, aprendimos a entonar la Canción de Espadancia y a despertar a un espíritu silvano dormido.					
 				Espera... ¿por qué hablo en singular? ¿No se supone que la historia va en plural? #erratadeedicion					
-				¿Mis pensamientos van en orden? ¿Esto es lo que pensaba hace unos segundos...?					
+				¿Mis pensamientos van en orden cronológico? ¿Esto es lo que pensaba hace unos segundos...?					
 				¿Esto es el Megatomo? ¿Absorbe 'transmisiones de pensamiento lingüístico'? ¿Estoy leyendo mis pensamientos mientras los pienso? Hmm...					
 GIRL_FOUNDATION	Girl			...					
 				...					
@@ -539,21 +539,21 @@ LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se volvía 
 GIRL_BRIGHTMOON	The Scythian			Samae habló sobre paseos oníricos por el bosque poco antes del amanecer, mientras la Luna Radiante imperaba en el cielo.					
 				Mencionó el aire fresco de la mañana y una isla imposible en medio de un apacible lago.					
 ARCHETYPE_BRIGHTMOON	The Archetype			Sal y mira hacia arriba. ¡Maravíllate con la Luna Radiante que impera en el cielo!			95	079.jpg	07D95
-LOGFELLA_ALMOSTWANE	The Scythian			El leñador no era mucho de historias y admitió que solían darle sueño, aunque, pese a todo, sabía bastante del tema.					
+LOGFELLA_ALMOSTWANE	The Scythian			El leñador no era mucho de historias y admitió que solían darle sueño, pero, pese a todo, sabía bastante del tema.					
 				Conocía todos los detalles sobre Mingi Taw y por qué era conocido como el Reino de la Nube.					
 				Sabía que Mingi Taw era la montaña más alta del mundo conocido, incluso más que el Monte Olimpo, donde habitaban los dioses aqueos.					
 				Asimismo, sabía que la cima de Mingi Taw, siempre envuelta en nubes, era considerada la entrada al Arremolinado Infinito.					
 				El leñador nunca se había atrevido a poner un pie en las laderas malditas de Mingi Taw, y nunca lo haría.					
 GIRL_ALMOSTWANE	The Scythian			Samae se preguntaba por qué tantos hongos crecían justo antes y después de la Luna Radiante... ¿A qué se debería?					
 ARCHETYPE_ALMOSTWANE	The Archetype			La luna está un poco menos brillante que ayer, y el ciclo lunar empieza a llegar a su fin.					
-LOGFELLA_HALFWANE	The Scythian			El leñador no era mucho de historias y admitió que solían darle sueño, aunque, pese a todo, sabía bastante del tema.					
+LOGFELLA_HALFWANE	The Scythian			El leñador no era mucho de historias y admitió que solían darle sueño, pero, pese a todo, sabía bastante del tema.					
 				Explicó que en Escitia y Persia, Mingi Taw era conocido como la Montaña Eterna.					
 				Relató cómo, hace siglos, una raza olvidada había excavado un templo en la roca viva bajo Mingi Taw.					
 				Mencionó los pasadizos subterráneos y las vastas cavernas esculpidas en las entrañas de la montaña.					
 				Según él, dichas cavernas se labraron hace siglos para proteger el Megatomo.					
 GIRL_HALFWANE	The Scythian			Samae dijo haber caminado más allá del muro de piedra y haber sentido la terrible presencia de la Masa Gogolítica.			30	080.jpg	V8B04
 ARCHETYPE_HALFWANE	The Archetype			El ciclo lunar está llegando a su fin y falta menos de una semana para la Luna Sombría.					
-LOGFELLA_CRESCENTWANE	The Scythian			El leñador no era mucho de historias y admitió que solían darle sueño, aunque, pese a todo, sabía bastante del tema.					
+LOGFELLA_CRESCENTWANE	The Scythian			El leñador no era mucho de historias y admitió que solían darle sueño, pero, pese a todo, sabía bastante del tema.					
 				Conocía a la Masa Gogolítica, el espectro inmortal que acechaba en la oscuridad bajo Mingi Taw.					
 				Nos habló del Arremolinado Infinito, más allá de nuestra comprensión, de donde provino el Megatomo en una remota Edad de Piedra.					
 				Habló de seres inmortales del espacio que despertaron en la humanidad una forma rudimentaria de transmisión de pensamiento lingüístico.					

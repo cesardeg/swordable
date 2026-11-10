@@ -126,7 +126,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | **sworcery aura** | aura de espadancia | aura de espadância | ✅ Visual indicator |
 | **sylvan sprite** | espíritu silvano | espírito silvano | ✅ Collectible creatures. |
 | **sonorous spume** | susurrantes espumas | sussurrantes espumas | ✅ Sprite indicators. |
-| **skyward beam** | haz celestial | facho celestial | ✅ Trigon activation. PT: "facho" not "raio" |
+| **skyward beam** | haz celestial | feixe celestial | ✅ Trigon activation. PT: "feixe" not "raio" |
 | **miracle** | milagro | milagre | ✅ Special events |
 | **to enact / work a miracle** | obrar un milagro | operar um milagre | ✅ PT: Always "operar" (or "farão um milagre" in rhyme); NEVER "obrar" due to scatological ambiguity |
 
