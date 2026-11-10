@@ -88,7 +88,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | cavernous cave of the meadow | cueva cavernosa del prado | caverna colossal na campina |
 | miracle of the meadow | milagro del prado | milagre da campina |
 | titanic hollow tree | árbol hueco titánico | árvore oca titânica | ✅ Postpositive adjective order (natural Romance syntax) |
-| parliament of trees | Parlamento de Árboles | Parlamento de Árvores |
+| parliament of trees | parlamento de árboles | parlamento de árvores | ✅ Lowercase metaphor (`a parliament of trees`), not a proper noun |
 
 ---
 
@@ -151,7 +151,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | dream-walking (Character) | caminar en sueños | caminhar em sonhos |
 | threshold of liminality | umbral de la liminalidad | limiar da liminaridade |
 | twilight realm | reino crepuscular | reino crepuscular |
-| time of miracles | temporada de milagros | época dos milagres |
+| time of miracles | época de milagros | época dos milagres |
 
 ---
 
@@ -164,10 +164,11 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | **deathless specter** | espectro inmortal | espectro imortal | ✅ The Gogolithic Mass |
 | **heebie jeebies** | los pelos de punta | frio na espinha | ✅ Physical sensation of fear |
 | **cosmic friends forever** | amigos cósmicos para siempre | amigos cósmicos para sempre | ✅ Ending phrase |
-| **for glory & for spite** | por la gloria y por puro orgullo | pela glória e por puro orgulho | ✅ Deliberate adaptation: in English gaming idiom, doing something "out of spite / for spite" means stubborn defiance ("por puro orgullo / terquedad"), whereas Spanish *por despecho* carries an unintended romantic/heartbreak connotation (*mal de amores*) |
+| **for glory & for spite** | por la gloria y por pura terquedad | pela glória e por pura teimosia | ✅ Deliberate adaptation: in English gaming idiom, doing something "out of spite / for spite" means stubborn defiance ("por pura terquedad / teimosia"), whereas Spanish *por despecho* carries an unintended romantic/heartbreak connotation (*mal de amores*) |
 | **Time of Woe** | Tiempos de Angustia | Tempos de Angústia | ✅ Session II Theme |
 | | | | |
 | linguistic thought transmission | transmisión de pensamiento lingüístico | transmissão de pensamento linguístico | ✅ |
+| esoteric markings | símbolos esotéricos | símbolos esotéricos | ✅ Unified across `D142`, `D210`, and `D238` (Megatome contents) |
 | oblique insight | visión oblicua | visão oblíqua | ✅ The Archetype's clues |
  | mythopoetic psychocosmology | psicocosmología mitopoética | psicocosmologia mitopoética | ✅ |
  | set and setting | Disposición y Entorno | Preparação e Ambiente | ✅ Adapted concepts |
@@ -527,6 +528,7 @@ This section documents deliberate engineering, UI layout, font, and script decis
   - Lines 1–229 match the Nintendo Switch `strings.en.tsv` 1-to-1 by key and row number.
   - Lines 230–236 (`TWITTER_SELECT_BUTTON`, `TWITTER_SELECT_MSG`, `TWITTER_NO_ACCOUNTS`, `TWITTER_REQUESTING`, `TAP_QUESTION`, `EXIT_TITLE`, `EXIT_PROMPT`) are the **7 official iOS and PC/Steam keys** from the legacy 133-line `strings.tsv` build that were removed when Twitter integration and mobile/desktop exit dialogs were stripped on Switch.
   - Keeping all 236 keys (`229` Switch + `7` iOS/PC) makes our localization files **universal cross-platform drop-ins** compatible with Nintendo Switch, PC (Steam), and iOS/mobile builds simultaneously.
+- Similarly, in `ARCHETYPE_TREEHINT` (`dialog.tsv` Line 230), the localized text bridges both **iOS/mobile** (sliding the sworcery aura) and **PC/Steam** (moving the cursor to the screen edge or using the arrow keys) so neither platform's players are misled (`Al entonar la Canción de Espadancia, desliza con suma suavidad el aura para mirar alrededor (o acerca el cursor al borde o usa las flechas).`).
 
 ### 5. `ARCHETYPE_GROTTOPARADOX` (`dialog.tsv` Line 494) — Unreferenced Dead Code
 - **Source (`en`)**: `Once the moods of the moon have been altered in The Moon Grotto the`
@@ -556,6 +558,12 @@ This section documents deliberate engineering, UI layout, font, and script decis
 - **Unaccented Hashtags**: Acute accents and tilde diacritics on vowels are intentionally omitted inside hashtags (`#si`, `#quizas`, `#trigondomado`, `#masfacildelopensado`, `#olamundo`, `#nao`, `#matanca`) to reflect authentic 2011 Twitter parsing behavior, while `ñ` is preserved in Spanish (`#leñando`, `#bañomutante`).
 - **Unified `S:S&SEP` Acronym**: While `dialog.en.tsv` inconsistently mixes `S:S&SEP` and `S:S&S EP`, the Spanish and Portuguese localizations intentionally standardize the compact form **`S:S&SEP`** across all occurrences in `strings.tsv` and `dialog.tsv` both for internal consistency and to save character space inside 3-line dialogue boxes.
 - **LIFO (Bottom-to-Top) Dialogue Stack in Certain Multi-Line Blocks**: Several multi-line blocks in `dialog.tsv` (such as `ARCHETYPE_FOUNDATION` `D056–D067`, `GCLUE_*`, and `ARCHETYPE_*TRIGONCOLLECTED` `D486–D488`) are pushed onto a stack by the engine and displayed to the player **from bottom to top** (e.g., `D066 → D065 → D064 → D063 → D062` and `D488 → D487 → D486`). Always verify pronoun antecedents and discourse flow in the actual in-game reading order rather than top-to-bottom TSV row order.
+
+### 9. `ARCHETYPE_GOLDMASTERINTRO` (`dialog.tsv` Line 283) — Creative Pop-Culture Adaptation
+- **Source (`en`)**: `Confused? Excellent. Keep calm & carry on.`
+- **Spanish (`es-419`)**: `¿Confusión? Calma, calma, ¡que no panda el cúnico!`
+- **Portuguese (`pt-BR`)**: `Confusão? Palma, palma, não priemos cânico!`
+- **Editorial Note**: Just as the English line parodies the famous British wartime poster (*"Keep calm and carry on"*), the Latin American Spanish and Brazilian Portuguese localizations intentionally adapt this cultural wink using the iconic pan-Latin American / Brazilian catchphrase from *El Chapulín Colorado* (*Chapolin Colorado*), preserving the tongue-in-cheek humor and fourth-wall levity of the moment.
 
 ---
 
