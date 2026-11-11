@@ -52,7 +52,7 @@ TWITTER_BROADCAST	CONSIDERE COMPARTILHAR NO TWITTER
 TWITTER_SETTINGS	TWITTER	
 TWITTER_TWEET	TWEETAR?	
 TWITTER_SIGN_IN	FAZER LOGIN NO TWITTER	
-TWITTER_USERNAME	USUÁRIO OU EMAIL	
+TWITTER_USERNAME	USUÁRIO OU E-MAIL	
 TWITTER_PASSWORD	SENHA	
 TWITTER_NEVERMIND	VOLTAR	
 TWITTER_TWEETING	TWEETANDO...	
@@ -62,7 +62,7 @@ TWITTER_FAILED	FALHA
 TWITTER_WRONG_LOGIN	NOME DE USUÁRIO OU SENHA INCORRETOS	
 TWITTER_CONNECT_FAIL	FALHA DE CONEXÃO	
 TWITTER_SIGN_IN_ONLY	FAZER LOGIN	
-TWITTER_SIGN_OUT_ONLY	DESCONECTAR	
+TWITTER_SIGN_OUT_ONLY	FAZER LOGOUT	
 TWITTER_SIGNED_IN	VOCÊ TEM UMA SESSÃO ATIVA NO TWITTER	
 TWITTER_SIGNED_OUT	VOCÊ NÃO TEM UMA SESSÃO ATIVA NO TWITTER	
 TWITTER_FILL_OUT	POR FAVOR, PREENCHA TODOS OS CAMPOS	
@@ -132,7 +132,7 @@ STICK_CURSOR_SENSITIVITY	SENSIBILIDADE DO ANALÓGICO
 CONTROLS	CONTROLES	
 SETTINGS	AJUSTES	
 OPTIONS	OPÇÕES	
-MOTION_CURSOR	CURSOR DE MOVIMENTO	
+MOTION_CURSOR	CURSOR POR MOVIMENTO	
 STICK_CURSOR	CURSOR DO ANALÓGICO	
 TOUCH_ORIENTED	CONTROLES DE TOQUE	
 RETURN_TO_TITLESCREEN	VOLTAR AO MENU PRINCIPAL	
@@ -173,7 +173,7 @@ SOUTHPAW_NINSWITCH	MODO CANHOTO
 NORTHPAW_NINSWITCH	MODO DESTRO	
 JOYCON_STRAP_MSG_NINSWITCH	Ao usar os controles Joy-Con desacoplados, siga as instruções, coloque as alças e segure-os firmemente.	
 PHOTOSENSITIVIY_MSG_NINSWITCH	Uma pequena porcentagem de indivíduos pode sofrer ataques epiléticos quando expostos a certas imagens visuais, incluindo padrões de luz ou luzes piscantes. A exposição a certos padrões ou fundos em uma tela de computador, ou durante um videogame, pode induzir um ataque epilético nesses indivíduos. Certas condições podem induzir sintomas epiléticos não detectados anteriormente, mesmo em pessoas sem histórico de convulsões ou epilepsia.	
-PHOTOSENSITIVIY_MSG_NINSWITCH2	Se você ou alguém da sua família tem uma condição epilética, consulte seu médico antes de jogar. Se você sentir algum dos seguintes sintomas enquanto joga um videogame: tontura, visão alterada, espasmos oculares ou musculares, perda de consciência, desorientação, qualquer movimento involuntário ou convulsões - interrompa o uso IMEDIATAMENTE e consulte seu médico antes de retomar o jogo.	
+PHOTOSENSITIVIY_MSG_NINSWITCH2	Se você ou alguém da sua família tem uma condição epilética, consulte seu médico antes de jogar. Se você sentir algum dos seguintes sintomas enquanto joga um videogame: tontura, visão alterada, espasmos oculares ou musculares, perda de consciência, desorientação, qualquer movimento involuntário ou convulsões, interrompa o uso IMEDIATAMENTE e consulte seu médico antes de retomar o jogo.	
 POINTCLICK_CURSORSENS_NINSWITCH	SENSIBILIDADE DO PONTEIRO	
 FAM_CURSOR_NOT_USED	Sensibilidade do ponteiro FAMICOM	
 POINTCLICK_PROMPT_NINSWITCH	O modo Apontar e Clicar permite que você jogue com um único Joy-Con como ponteiro. Este modo é mais bem aproveitado quando jogado em uma televisão. Tem certeza de que deseja ativar o modo Apontar e Clicar?	

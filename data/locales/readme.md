@@ -85,7 +85,7 @@ This glossary serves as the **authoritative translation reference** for Superbro
 | stone shelter | refugio de piedra | abrigo de pedra |
 | mountain temple | templo de la montaña | templo da montanha |
 | iron gate of the meadow | portón de hierro del prado | portão de ferro da campina |
-| cavernous cave of the meadow | cueva cavernosa del prado | caverna colossal na campina |
+| cavernous cave of the meadow | cueva cavernosa del prado | caverna cavernosa na campina |
 | miracle of the meadow | milagro del prado | milagre da campina |
 | titanic hollow tree | árbol hueco titánico | árvore oca titânica | ✅ Postpositive adjective order (natural Romance syntax) |
 | parliament of trees | parlamento de árboles | parlamento de árvores | ✅ Lowercase metaphor (`a parliament of trees`), not a proper noun |

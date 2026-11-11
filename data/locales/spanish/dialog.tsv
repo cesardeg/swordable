@@ -131,7 +131,7 @@ INFO_GOGOLITHICMASS	The Scythian			Notamos una calavera astada flotando en la os
 INFO_MEGATOMBTRIFECTA	The Scythian			En la oscuridad bajo Mingi Taw distinguimos una representación pictográfica de la Tríada Trigónica.					
 INFO_ROCKSHOWGIRL	The Scythian			En el concierto de rock encontramos a Samae. Nos pareció que susurró algo parecido a 'Fuego, camina conmigo'.					
 INFO_ROCKSHOWSKOLOTOI	The Scythian			Notamos a uno de esos esqueletos despreocupados disfrutando del ominoso ritmo en el concierto de rock.					
-INFO_ROCKSHOWJIM	The Scythian			Encabezando el concierto de rock estaba nada menos que el misterioso músico conocido como Jim Guthrie.			160	020.jpg	T2G03
+INFO_ROCKSHOWJIM	The Scythian			Quien encabezaba el concierto de rock era nada menos que el misterioso músico conocido como Jim Guthrie.			160	020.jpg	T2G03
 INFO_ROCKSHOWBOOR	The Scythian			Vimos al Patán Canoso luciendo su onda nudista con mucho estilo en el concierto de rock.			121	021.jpg	E2G15
 INFO_ROCKSHOWCROWD	The Scythian			En el concierto de rock había una multitud considerable de damas y caballeros.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			Vimos en el concierto de rock al personaje conocido como el Arquetipo y nos preguntamos qué tramaba con todo aquello.					
@@ -358,7 +358,7 @@ GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau Guau Gu
 GCLUE_UPSLOPEWOODSONE	Girl	AdventureUI/tweetIconGourd		Aun así, había algo raro en el comportamiento de La Escita, casi como si la controlara una fuerza invisible.					
 				Me gustaría saber más sobre la épica historia de La Escita. Apuesto a que entonces todo tendría sentido.					
 GCLUE_UPSLOPEWOODSTWO	Logfella	AdventureUI/tweetIconGourd		Ojalá La Escita esté ocupándose de lo de los espíritus silvanos.					
-				La tormenta me tiene muy desanimado, me hace desear que los videojuegos existieran en... el momento en que se supone que estamos.					
+				La tormenta me tiene muy desanimado; me hace desear que los videojuegos existieran en... el momento en que se supone que estamos.					
 GCLUE_UPSLOPEWOODSFOUR	Girl	AdventureUI/tweetIconGourd		Todo ha sido una locura lunática desde que La Escita apareció.			3	062.jpg	36E2Z
 GCLUE_YELLOWCOLLECTED	Girl	AdventureUI/tweetIconGourd		Esta tormenta me tiene desanimada. ¡Todo ha estado taaan lúgubre!					
 				Por fin está dejando de llover y el cielo se está despejando... ¿Será tiempo de milagros? Ojalá que sí, adoro los milagros.					
@@ -620,7 +620,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Apoyo adicional en la localización japonesa: Yutaka Ohbuchi, John Ricciardi y Masanobu Suto.					
 				Diseño del brutal logo japonés: POLYGRAPH en polygraph.jp					
 				Magia web japonesa: Jonathan Lumb en jonnyram.com					
-				Gracias hasta Japón: Suda 51, Tomoaki Takahashi, Hideto Yamada. Remixers: Baiyon, Akira Yamaoka, Michiru Yamane, macotom3, Decasségui Hip.					
+				Apoyo y amistad en Japón: Suda 51, Tomoaki Takahashi, Hideto Yamada. Remixers: Baiyon, Akira Yamaoka, Michiru Yamane, macotom3, Decasségui Hip.					
 				* * * EL DOMINIO DE CANADÁ * * *					
 			Logos/omdc	Este proyecto fue posible gracias al apoyo financiero de Ontario Creates.					
 				* * * LOS QUEREMOS MUCHÍSIMO * * *					
@@ -652,7 +652,7 @@ ARCHETYPE_CREDITS	The Archetype
 				* * * SIETE AÑOS DESPUÉS * * *					
 				Desde entonces, Jim Guthrie ha proporcionado música para varios videojuegos y películas, además de lanzar algunos discos.					
 				Capy continúa su búsqueda constante en la creación de videojuegos extraños y maravillosos.					
-				El personal de Superbrothers A/V Inc se toma su buen tiempo para soñar nuevos sueños.					
+				El personal de Superbrothers A/V Inc se toma todo el tiempo del mundo para soñar nuevos sueños.					
 				S:S&SEP fue uno de los 'Top 10 Videojuegos de 2011' de la revista Time.					
 				La banda sonora de Jim Guthrie fue reconocida como 'La Mejor Música de Videojuegos de 2011' por Kirk Hamilton en Kotaku.					
 				S:S&SEP ganó un Game Developer's Choice Award en GDC 2012.					
@@ -668,7 +668,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Mientras tanto, en 2023, el equipo está cocinando un delicioso nuevo juego en su caldero de juegos.					
 				* * * ¿QUÉ ES S:S&SEP? * * *					
 				S:S&SEP pretende ser un valiente experimento en Cine de Entrada y Salida, sea lo que sea eso.					
-				S:S&SEP es un enfoque fresco al videojuego de aventuras de la vieja escuela con énfasis en el estilo audiovisual.					
+				S:S&SEP es una nueva mirada al videojuego de aventuras de la vieja escuela con énfasis en el estilo audiovisual.					
 				S:S&SEP se inspira en el trabajo de los creadores pioneros de videojuegos Shigeru Miyamoto, Jordan Mechner, Eric Chahi y Fumito Ueda.					
 				S:S&SEP es un sueño febril de Famicom.			38	082.jpg	28B24
 				S:S&SEP se inspira en la psicocosmología mitopoética de las historias de espada y hechicería de Robert E. Howard.					
