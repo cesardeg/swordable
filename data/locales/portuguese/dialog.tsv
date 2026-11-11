@@ -32,7 +32,7 @@ LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Tínhamos venc
 			adventureUI/megatomeItem	Decidimos buscá-lo e depois escapar com vida.					
 LOGFELLA_BEFOREWALL	The Scythian		AdventureUI/keyItem	O lenhador confirmou 100% que ele tinha a única chave da porta do muro de pedra.					
 			AdventureUI/keyItem	Era uma chave bem bonita.					
-				Estávamos prontíssimos para manter o caminho pressionado e nos remexer, remexer, remexer!					
+				Estávamos prontíssimos para manter pressionado sobre o caminho e nos remexer, remexer, remexer!					
 LOGFELLA_POSTTONGUE	The Scythian		adventureUI/megatomeItem	Troncadeiro ficaria aqui, esperando até que voltássemos com o Megatomo.					
 LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Troncadeiro escolheu passar o tempo em um abrigo de pedra perto do Precipício Perigoso.					
 				Parecia saber tudo sobre o odioso arco-íris e o glifo que representava uma espada apontada ao céu.					
@@ -49,7 +49,7 @@ ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1
 ARCHETYPE_TUTORIAL	The Archetype	AdventureUI/tweetIconInfo							
 	The Archetype			Senhoras e senhores, que tal pressionar estes dois pequenos espíritos silvanos para calibrar o sistema de som estéreo?					
 	The Archetype			Desde nosso experimento anterior em 2011, constatamos que as redes sociais têm um impacto catastrófico na sociedade.					
-				Com certo pesar, nesta ocasião promovemos o isolamento e a reflexão.					
+				Nesta ocasião promovemos o isolamento e uma reflexão cheia de arrependimento.					
 				Agradecemos sinceramente por você ter decidido participar deste tratamento experimental para a aflição aguda da alma.					
 				Você verá que esta primeira sessão de S:S&SEP é bastante simples e geralmente dura entre 15 e 30 minutos.					
 				Tudo pronto? Pressione 'Jogar' e vamos lá!					
@@ -247,7 +247,7 @@ GIRL_CABINSHEEPTHOUGHTS	Girl			Gente do céu... A chuva parou! Será que a tempe
 LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Estou com aquele frio na espinha... Com certeza algo está acontecendo... Será que a tempestade está se dissipando?					
 				Sabe, sempre que preciso recuperar as forças, eu me sento aqui junto ao fogo pra aquecer as botas.					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Au Au Au Au Au Au Au Au. #aindalatindo #milagres			84	037.jpg	V3C7I
-ARCHETYPE_MEADOWHINT	The Archetype			Uma vez que o sol estiver alinhado, você receberá o dom de dobrar a realidade do grande mago Al Jaffee.					
+ARCHETYPE_MEADOWHINT	The Archetype			Uma vez que o sol estiver alinhado, você receberá os milagrosos poderes de dobra do grande mago Al Jaffee.					
 				Sente essa estranha vibração? É tempo de milagres! Entoe a Canção da Espadância e olhe para os imponentes pássaros zangados.			76	038.jpg	A3G84
 ARCHETYPE_MEADOWHINTTWO	The Archetype			Busque nos céus uma visão oblíqua sobre o milagre da campina e admire o Trígono Dourado.					
 ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... é interessante a maneira como você lidou com aquele encontro com o indivíduo canibal com cabeça de urso.			120	039.jpg	O3G9D
@@ -267,7 +267,7 @@ ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Você pode já ter encontrado o odioso ataque de arco-íris do Trígono da Lua Sombria. Fatie aquele arco-íris sem dó.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Sombria envolve projéteis triangulares, sutis e furtivos. Destrua-os e você sobreviverá.					
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então você despertou o espectro imortal que dormitava nas trevas sob Mingi Taw... Caramba!					
-				Como consequência, uma sinistra tempestade paira ameaçadora e as pessoas adoráveis que vivem na cabana de pedra estão desoladas.					
+				Como consequência, uma sinistra tempestade paira ameaçadora e as pessoas adoráveis da cabana de pedra estão um pouco desconsoladas.					
 			adventureUI/megatomeItem	A boa notícia é que você tem um pesado livro conhecido como o Megatomo. Na próxima sessão, falaremos sobre seu estranho propósito.					
 				Nossa pesquisa mostra que a exposição prolongada à psicocosmologia mitopoética de S:S&SEP pode causar efeitos adversos.					
 				Agora que você completou a Sessão I, que tal uma pausa? Estarei aqui quando você quiser começar a Sessão II.					
@@ -282,10 +282,10 @@ ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook
 			triangle/Triangle	3. O espadancista que puder localizar, invocar e domar a geometria cósmica do Trígono Dourado possuirá a habilidade de operar milagres.					
 				Confusão? Palma, palma, não priemos cânico!			210	043.jpg	A4C31
 ARCHETYPE_GOLDMASTEROUTRO	The Archetype		triangle/Triangle	Bravo! Você localizou e domou a geometria cósmica do Trígono Dourado.			86	044.jpg	24E4H
-				Milagrosamente, a sinistra tempestade se dissipou e o glorioso sol voltou ao reino, o que é realmente incrível!					
+				Milagrosamente, a sinistra tempestade se dissipou e o glorioso sol voltou ao reino, o que é realmente incrível.					
 				Suas façanhas refletem bem sua percepção, intuição e perseverança. Você se saiu muito bem até agora!					
 				Observação: Se você decidir continuar com o experimento S:S&SEP, essas mesmas qualidades serão postas à prova e avaliadas.					
-				De qualquer forma, vamos fazer outra pequena pausa, tudo bem? Como sempre, estarei aqui quando você quiser começar a Sessão III.					
+				De qualquer forma, vamos fazer outra pequena pausa, tá? Como sempre, estarei aqui quando você quiser começar a Sessão III.					
 ARCHETYPE_TRIFECTAINTRO	The Archetype								
 				Vamos começar com a Sessão III. Observação: Esta sessão geralmente leva um mês lunar para ser concluída.					
 			triangle/Triangle	Então, você domou o Trígono Dourado e a tempestade se dissipou milagrosamente? Bravo!					
@@ -305,20 +305,20 @@ ARCHETYPE_GHOULINTRO	The Archetype
 				Bem, aqui estamos. Esta breve sessão marcará o fim do tratamento de S:S&SEP.					
 				A funesta missão da Citiana está quase cumprida.					
 				Infelizmente, o corpo e a psique da Citiana foram gravemente exauridos pela espadância... ela está às portas da morte.			162	047.jpg	J4F7B
-			Archetype/trifecta	Tudo o que resta é revelar os segredos da Clareira Trigônica e levar o Megatomo para o Remoinhado Infinito no topo de Mingi Taw.					
+			Archetype/trifecta	Tudo o que resta é revelar os segredos da Clareira Trigônica e subir o Megatomo para o Remoinhado Infinito no topo de Mingi Taw.					
 				Pressione 'Jogar' apenas se tiver a coragem de testemunhar o atroz tormento do martírio.					
 END	The Scythian			No topo de Mingi Taw detonamos o Megatomo e o ejetamos no Remoinhado Infinito.					
-END_CHEAT	The Scythian			No topo de Mingi Taw carregamos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaca					
-END_CHEAT_NOBOOR	The Scythian			No topo de Mingi Taw carregamos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaca #sempatife					
-END_CHEAT_PSYCHO	The Scythian			No topo de Mingi Taw carregamos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaca #psicopata					
-END_CHEAT_LOVE	The Scythian			No topo de Mingi Taw carregamos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaca #amor			202	048.jpg	D4A81
-END_MOONGROTTO_PSYCHO	The Scythian			No topo de Mingi Taw carregamos o Megatomo para a segurança eterna do Remoinhado Infinito. #grutalunar #psicopata			180	049.jpg	74D9P
-END_MOONGROTTO_LOVE	The Scythian			No topo de Mingi Taw carregamos o Megatomo para a segurança eterna do Remoinhado Infinito. #grutalunar #amor			176	050.jpg	Y5F0P
-END_HONEST_PSYCHO	The Scythian			No topo de Mingi Taw carregamos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #psicopata			179	051.jpg	M5C1H
-END_HONEST_LOVE	The Scythian			No topo de Mingi Taw carregamos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #amor			177	052.jpg	55E2B
-END_HONEST_NOBOOR	The Scythian			No topo de Mingi Taw carregamos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #sempatife			178	053.jpg	75G3V
+END_CHEAT	The Scythian			No topo de Mingi Taw subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaca					
+END_CHEAT_NOBOOR	The Scythian			No topo de Mingi Taw subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaca #sempatife					
+END_CHEAT_PSYCHO	The Scythian			No topo de Mingi Taw subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaca #psicopata					
+END_CHEAT_LOVE	The Scythian			No topo de Mingi Taw subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #trapaca #amor			202	048.jpg	D4A81
+END_MOONGROTTO_PSYCHO	The Scythian			No topo de Mingi Taw subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #grutalunar #psicopata			180	049.jpg	74D9P
+END_MOONGROTTO_LOVE	The Scythian			No topo de Mingi Taw subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #grutalunar #amor			176	050.jpg	Y5F0P
+END_HONEST_PSYCHO	The Scythian			No topo de Mingi Taw subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #psicopata			179	051.jpg	M5C1H
+END_HONEST_LOVE	The Scythian			No topo de Mingi Taw subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #amor			177	052.jpg	55E2B
+END_HONEST_NOBOOR	The Scythian			No topo de Mingi Taw subimos o Megatomo para a segurança eterna do Remoinhado Infinito. #honesto #sempatife			178	053.jpg	75G3V
 GIRL_GHOULTHOUGHTS	Girl			Será que a Citiana sabe que é possível deter a Massa Gogolítica tocando sua caveira com espadância? Provavelmente não.					
-				Espero que a Citiana saiba que deve manter o caminho pressionado para se remexer a toda velocidade... se não o fizer, estará frita.					
+				Espero que a Citiana saiba que deve manter pressionado sobre o caminho para se remexer a toda velocidade... se não o fizer, estará frita.					
 				Onde estou? O que houve? A última coisa de que me lembro é de caminhar em sonhos pela floresta quando vi uma perturbadora luz rosa.					
 LOGFELLA_GHOULTHOUGHTS	Logfella			A Citiana continua falando sobre sua funesta missão de abrir uma entrada para o Remoinhado Infinito no topo de Mingi Taw.					
 				Tudo tem sido uma loucura lunática desde que a Citiana apareceu há muitas luas.					
@@ -405,7 +405,7 @@ JIM_LOGFELLATHOUGHTS	Logfella			A música soa tão familiar... Onde será que j�
 				De repente, me veio uma musiquinha super esquisita, mas genial, na cabeça. #andwegotolder					
 LOGFELLA_JIMTHOUGHTS	Logfella			Tenho essa cançãozinha na cabeça há anos... apenas algumas notas que se repetem sem parar. Me pergunto por que será.					
 ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Atravessar o limiar da liminaridade em segurança é simples: procure por lugares familiares e pelo calor do lar.					
-				Se você conseguir estabilizar sua lucidez, poderá cocriar com ela... em vez de lutar, resistir e amaldiçoá-la.					
+				Se você conseguir estabilizar sua lucidez, poderá cocriar com ela... em vez de combatê-la, resistir a ela e amaldiçoá-la.					
 				Quando há lucidez em um sonho, você percebe quem imaginou ser... mas, se você se identificar com o sonho, cairá no feitiço.					
 				Mesmo em um sonho conhecido, há novos lugares para explorar e novas conexões para considerar... se você continuar acreditando.					
 GIRL_MOONGROTTOCOMMENT	Girl			Sinto como se o cosmos tivesse pulado uma batida e agora tudo estivesse um pouquinho... descompassado.					
@@ -423,11 +423,11 @@ LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Atordoados e sem uma lembrança cl
 			triangle/Triangle	Troncadeiro ficou totalmente impressionado com o quão incrível e estranha a luta contra o Trígono Dourado soava.			81	071.jpg	R7C14
 			triangle/Triangle	Ele se perguntava se talvez o Trígono pudesse estar relacionado aos lúgubres mistérios além do portão de ferro da campina...					
 				Mas Troncadeiro não era fã de lúgubres mistérios, então preferiu ir para casa cortar lenha. #lenhando					
-LOGFELLA_BEFOREYELLOWBEAM	The Scythian			Troncadeiro estava muito feliz porque a tempestade havia se dissipado e animado por ter voltado a cortar lenha.					
+LOGFELLA_BEFOREYELLOWBEAM	The Scythian			Troncadeiro estava muito feliz porque a tempestade havia se dissipado e louco para voltar a cortar lenha.					
 				Nos perguntou se tínhamos ideia sobre o portão de ferro que bloqueava a caverna colossal na campina... o que poderia haver por trás?					
 LOGFELLA_YELLOWTRIGONTHOUGHTS	Logfella			Que esquisito... Vejo um feixe celestial dourado atrás da campina... será que descobriram os segredos da Clareira Trigônica?			89	072.jpg	67F24
 LOGFELLA_URSULAMEADOW	Logfella			Estou realmente preocupado com a Citiana, ela parece estar um caco.					
-SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			O lenhador e sua filha nos observaram enquanto recuperávamos a consciência.					
+SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			O lenhador e sua filha velaram por nós enquanto recuperávamos a consciência.					
 				Percebemos que a campina continuava a mesma: todo vestígio do nosso encontro místico havia desaparecido.					
 GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae ouviu em silêncio nossa estranha história do encontro com o Trígono Dourado.					
 			triangle/Triangle	Ela se perguntava sobre os segredos da Clareira Trigônica além da caverna colossal na campina... poderia haver alguma conexão?					
@@ -515,7 +515,7 @@ DOGFELLA_FOUNDATION	Dogfella			...
 				...					
 				...					
 LOGFELLA_DARKMOON	The Scythian			O lenhador falou sobre caminhadas oníricas pela floresta pouco antes do amanhecer, sob um céu escuro e tempestuoso.					
-				Ele mencionou uma perturbadora luz rosa e uma arrepiante canção que surgiam da floresta sem nome atrás da campina.					
+				Ele mencionou uma pulsante luz rosa e uma arrepiante canção que surgiam da floresta sem nome atrás da campina.					
 				Supusemos que Troncadeiro estava se referindo ao show de rock da Lua Sombria.					
 GIRL_DARKMOON	The Scythian			Samae falou sobre caminhadas oníricas pela floresta pouco antes do amanhecer, sob um céu escuro e tempestuoso.					
 				Ela comentou como se abrigou da tempestade em uma árvore oca de proporções titânicas.					
@@ -602,7 +602,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Controle de qualidade e megaherói de testes de jogo: Christian 'Sea Dawg' Meyer na Capy.					
 				Programação principal para a versão de Nintendo Switch e computadores domésticos: nada menos que Hubert Wong na Capy.					
 				Conceitos de design, implementação e bruxaria de Nintendo Switch: Sadie Lee na Capy.					
-				Diversas tarefas pesadas, incluindo suporte de programação para PC/Mac/Linux e suporte para Nintendo Switch: Drew Grainge na Capy.					
+				Diversas tarefas pesadas, incluindo apoio de programação para PC/Mac/Linux e para Nintendo Switch: Drew Grainge na Capy.					
 				Alguns recursos de arte redimensionados e sorrisos: Vic 'Meow' Nguyen na Capy.					
 				Controle de qualidade adicional: o único e inigualável Aaron Eves.					
 				Controle de qualidade para Nintendo Switch: Testronic Labs.					
@@ -617,7 +617,7 @@ ARCHETYPE_CREDITS	The Archetype
 				* * * APOIO DA 8-4 * * *					
 				Tradução japonesa: o mestre das palavras RYUTA YAZAWA.					
 				Edição japonesa, conselhos cruciais e apoio infinito: MASAHIRO YUKI da Grasshopper Manufacture em grasshopper.co.jp					
-				Suporte adicional de localização japonesa: Yutaka Ohbuchi, John Ricciardi e Masanobu Suto.					
+				Apoio adicional na localização japonesa: Yutaka Ohbuchi, John Ricciardi e Masanobu Suto.					
 				Design do brutal logo japonês: POLYGRAPH em polygraph.jp					
 				Magia web japonesa: Jonathan Lumb em jonnyram.com					
 				No Japão, obrigado: Suda 51, Tomoaki Takahashi, Hideto Yamada. Remixers: Baiyon, Akira Yamaoka, Michiru Yamane, macotom3, Decasségui Hip.					
@@ -632,11 +632,11 @@ ARCHETYPE_CREDITS	The Archetype
 				Sons e músicas criados com MTV Music Generator da Codemasters para PSOne e/ou Garageband e Logic Studio da Apple.					
 			Logos/FMOD	Sons e músicas integrados ao projeto usando FMOD da Firelight Technologies.					
 			Logos/DolbyDigital	Dolby e o símbolo de duplo D são marcas comerciais da Dolby Laboratories.					
-			Logos/DolbyDigital	É necessária solução de áudio para PC contendo Dolby® Digital Live para áudio Dolby Digital.					
+			Logos/DolbyDigital	É necessária uma solução de áudio para PC contendo Dolby® Digital Live para áudio Dolby Digital.					
 			Logos/DigitalSurround	DTS® e DTS Digital Surround® são marcas comerciais registradas da DTS, Inc.					
 				Código programado em C++ e scripts em Lua com tolua++. Mapas e elementos do mundo com ferramentas próprias da Capy.					
 				Cálculo de fases lunares e algoritmos astronômicos: voidware.com/moon_phase.htm					
-				APIs utilizadas na criação de S:S&SEP incluem tinyxml, libpng/zlib, SDL, cmake e minizip.					
+				Entre as APIs utilizadas na criação de S:S&SEP estão tinyxml, libpng/zlib, SDL, cmake e minizip.					
 				Uma versão absurdamente inicial foi enviada ao Independent Games Festival em 1 de novembro de 2009.					
 				S:S&SEP foi anunciado em 1 de dezembro de 2009.					
 				No início de 2010, foi anunciado que o projeto havia ganhado o prêmio 'Achievement in Art' do IGF Mobile.					
@@ -644,7 +644,7 @@ ARCHETYPE_CREDITS	The Archetype
 				A primeira versão jogável de S:S&SEP foi apresentada a participantes e amigos na GDC 2010 em San Francisco de 9 a 13 de março de 2010.					
 				As primeiras imagens de jogabilidade sem edição da versão GDC 2010 apareceram simultaneamente online.					
 				'Less Talk, More Rock: The Native Language of Videogames' foi publicado online no Boing Boing em março de 2010. Você pode procurar no Google.					
-				'The Intoxication of Mythology' foi apresentado pela Superbrothers em 22 de setembro de 2010 no Fantastic Arcade de Austin.					
+				'The Intoxication of Mythology' foi apresentado por um representante da Superbrothers em 22 de setembro de 2010 no Fantastic Arcade de Austin.					
 				'Aiming for Audiovisual Alchemy' foi apresentado por Jim Guthrie, Kris Piotrowski e um representante da Superbrothers no Gamercamp de Toronto.					
 				Um novo clipe, 'Audience Calibration Procedure', foi publicado em 24 de fevereiro de 2011 para iniciar o lançamento.					
 				S:S&SEP foi lançado para iPad, iPhone e iPod Touch perto do equinócio da primavera de 2011.					
@@ -660,7 +660,7 @@ ARCHETYPE_CREDITS	The Archetype
 				S:S&SEP foi desempoeirado e atualizado para garantir que o jogo continuasse funcionando nos sistemas operacionais mais recentes.					
 				A Superbrothers, um pequeno estúdio de arte e videogames em seu 20º ano, opera dos bosques do Quebec e da costa oeste do Canadá.					
 				Desde S:S&SEP, Superbrothers e Jim Guthrie contribuíram para Sound Shapes (2012) (Queasy Games) (PlayStation + PC).					
-				A Superbrothers entregou JETT: The Far Shore + Given Time (2021/2023) (PlayStation + PC), uma saga de ficção científica soviética com música de scntfc.					
+				A Superbrothers entregou JETT: The Far Shore + Given Time (2021/2023) (PlayStation + PC), uma saga sci-fi de estilo soviético com música de scntfc.					
 				Em 2023, um novo projeto de pixels está sendo gestado na Superbrothers.					
 				A Capy Games lançou o hiperativo rebobinador de tempo Super Time Force Ultra (2014) (PlayStation + PC + Xbox).					
 				Em 2018, a Capy lançou Below: um roguelike onde um guerreiro explora as misteriosas profundezas de uma ilha remota (PlayStation + PC + Xbox).					
@@ -669,7 +669,7 @@ ARCHETYPE_CREDITS	The Archetype
 				* * * O QUE É S:S&SEP? * * *					
 				S:S&SEP pretende ser um corajoso experimento em Cinema de Entrada e Saída, seja lá o que isso signifique.					
 				S:S&SEP é uma abordagem fresca ao videogame de aventura da velha guarda com ênfase no estilo audiovisual.					
-				S:S&SEP se inspira no trabalho de criadores pioneiros de videogames Shigeru Miyamoto, Jordan Mechner, Eric Chahi e Fumito Ueda.					
+				S:S&SEP se inspira no trabalho dos criadores pioneiros de videogames Shigeru Miyamoto, Jordan Mechner, Eric Chahi e Fumito Ueda.					
 				S:S&SEP é um sonho febril de Famicom.			38	082.jpg	28B24
 				S:S&SEP inspira-se na psicocosmologia mitopoética das histórias de espada e feitiçaria de Robert E. Howard.					
 				S:S&SEP é um 'Link' com o passado.			167	083.jpg	18E3V
@@ -680,12 +680,12 @@ ARCHETYPE_CREDITS	The Archetype
 				S:S&SEP é um haiku bruto de videogame sobre a vida, o amor e a morte.					
 				S:S&SEP é um corte seleto de mitos e sonhos.					
 				Criamos S:S&SEP tendo em mente um público amplo e culto.					
-				S:S&SEP ia se chamar 'Poopsock' originalmente. Isso é realmente verdade.					
+				S:S&SEP ia se chamar 'Poopsock' originalmente. Isso é totalmente verdade.					
 				* * * ACABOU * * *					
 				Agora somos amigos cósmicos para sempre... tá?			87	084.jpg	L8A48
 ARCHETYPE_TUTORIAL_NOTWITTER	The Archetype	AdventureUI/tweetIconInfo							
 	The Archetype			Senhoras e senhores, que tal pressionar estes dois pequenos espíritos silvanos para calibrar o sistema de som estéreo?					
 	The Archetype			Desde nosso experimento anterior em 2011, constatamos que as redes sociais têm um impacto catastrófico na sociedade.					
-				Com certo pesar, nesta ocasião promovemos o isolamento e a reflexão.					
+				Nesta ocasião promovemos o isolamento e uma reflexão cheia de arrependimento.					
 				Você verá que esta primeira sessão de S:S&SEP é bastante simples e geralmente dura entre 15 e 30 minutos.					
 				Tudo pronto? Pressione 'Jogar' e vamos lá!					
