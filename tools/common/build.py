@@ -18,6 +18,7 @@ sys.path.insert(0, common_dir)
 sys.path.insert(0, os.path.join(project_root, 'tools', 'ios'))
 
 from bootstrap import ensure_environment
+from tsv_filter import copy_with_rules
 
 # Ensure all potential dependencies are met
 ensure_environment(required_packages=['py7zr'])
@@ -65,7 +66,7 @@ def copy_files(destination_dir, locale, platform):
                 continue
 
             os.makedirs(os.path.dirname(dest_path), exist_ok=True)
-            shutil.copy(source_path, dest_path)
+            copy_with_rules(source_path, dest_path, platform, os.path.basename(file_rel_path))
     print("File copy complete.")
 
 def get_language_name(locale_code):

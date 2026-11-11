@@ -79,7 +79,7 @@ while IFS= read -r line; do
   destination_file_dir=$(dirname "${destination_path}")
   mkdir -p "${destination_file_dir}"
 
-  # Copy the file to the destination directory
-  cp -f "${source_path}" "${destination_path}"
+  # Drop rows whose rules match this platform and file. With no rule, this is a plain copy.
+  python3 "${script_dir}/tsv_filter.py" "$source_path" "$destination_path" "$platform" "$(basename "$file")"
 
 done < "$files_txt"

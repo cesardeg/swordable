@@ -2,6 +2,7 @@
 
 import sys
 import os
+import tempfile
 
 # --- Environment and Dependency Setup ---
 # Add the 'common' directory to the system path to find the bootstrap module
@@ -10,6 +11,7 @@ common_dir = os.path.join(script_dir, '..', 'common')
 sys.path.insert(0, common_dir)
 
 from bootstrap import ensure_environment
+from tsv_filter import copy_with_rules, rules_for
 
 # Ensure we are in the venv and 'paramiko' is installed
 ensure_environment(required_packages=['paramiko'])
@@ -122,8 +124,19 @@ try:
     for file in ["strings.tsv", "dialog.tsv"]:
         local_file_path = os.path.join(locales_dir, file)
         remote_file_path = locales_dest.format(uuid=app_folder_path) + file
-        sftp.put(local_file_path, remote_file_path)
-        print(f"Successful copy: {file}")
+        upload_path = local_file_path
+        temp_filtered = None
+        if rules_for("mobile", file):
+            temp_filtered = tempfile.NamedTemporaryFile(prefix="filtered-", suffix=".tsv", delete=False)
+            temp_filtered.close()
+            copy_with_rules(local_file_path, temp_filtered.name, "mobile", file)
+            upload_path = temp_filtered.name
+        try:
+            sftp.put(upload_path, remote_file_path)
+            print(f"Successful copy: {file}")
+        finally:
+            if temp_filtered is not None:
+                os.remove(temp_filtered.name)
 
     print("File copying completed.")
 
