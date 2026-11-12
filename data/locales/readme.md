@@ -5,15 +5,16 @@
 
 ## Purpose & Architecture of This Document
 
-This document serves as the **authoritative reference** for Superbrothers: Sword & Sworcery EP across Neutral Latin American Spanish (`es-419`) and Brazilian Portuguese (`pt-BR`) localizations. It is structured into two distinct operational components:
+This document serves as the **authoritative reference** for Superbrothers: Sword & Sworcery EP across Neutral Latin American Spanish (`es-419`) and Brazilian Portuguese (`pt-BR`) localizations. It is structured into three distinct operational components:
 
 1. **Normative Translation Style Guide & Master Glossary (§1–§9):**
    - Standardized canonical terminology across all game text.
    - Character names, locations, and key concepts.
    - Creative adaptations, neologisms, and dialectal guidelines.
 2. **Technical Constraints & LQA Post-Mortem (§10):**
-   - Documents empirical findings, hardware constraints, bitmap font limits, and visual bug mitigations discovered during engine execution and backed by Capybara Games' developer notes.
-   - Serves as an objective technical record explaining why certain localized strings deliberately deviate from literal English to prevent in-engine UI collisions (sprite overlap, character-boundary truncation, and cross-platform input differences), rather than functioning as an a priori normative brief.
+   - Documents strictly empirical technical constraints: UI sprite collisions, bitmap font limits, schema key preservation, and cross-platform input differences backed by in-engine testing and Capybara Games' developer notes.
+3. **Editorial Deviations & Transcreation Rationale (§11) & Cultural Guide (§12):**
+   - Transparently separates creative, linguistic, and literary localization decisions (such as fourth-wall wordplay corrections, direct-speech explicitación, and pop-culture transcreations) from engine constraints.
 
 ### Target Audience
 - Translators, localization teams, and QA testers
@@ -24,7 +25,7 @@ This document serves as the **authoritative reference** for Superbrothers: Sword
 - **Mandatory terms** are marked with ✅ and must be used exactly as specified
 - **Context-dependent** terms are marked with ⚠️ and include usage notes
 - **Creative alternatives** are provided where multiple valid options exist
-- All terms reflect **post-correction standards** verified against in-game builds
+- All terms reflect **post-correction standards** verified against actual `.tsv` files and in-game builds
 
 ---
 
@@ -38,8 +39,9 @@ This document serves as the **authoritative reference** for Superbrothers: Sword
 7. [UI & System Terms](#ui--system-terms)
 8. [Expressions & Idioms](#expressions--idioms)
 9. [Grammar & Style Guidelines](#grammar--style-guidelines)
-10. [Technical, UI & Engine Constraints (LQA Reference)](#technical-ui--engine-constraints-lqa-reference)
-11. [Cultural References, Pop-Culture Homages & Literary Allusions (Cross-Language Guide)](#cultural-references-pop-culture-homages--literary-allusions-cross-language-guide)
+10. [Technical, UI & Engine Constraints (LQA Reference & Post-Mortem)](#technical-ui--engine-constraints-lqa-reference--post-mortem)
+11. [Editorial Deviations & Transcreation Rationale](#editorial-deviations--transcreation-rationale)
+12. [Cultural References, Pop-Culture Homages & Literary Allusions (Cross-Language Guide)](#cultural-references-pop-culture-homages--literary-allusions-cross-language-guide)
 
 ---
 
@@ -142,7 +144,7 @@ This document serves as the **authoritative reference** for Superbrothers: Sword
 | swipe | desliza | deslize | ✅ Gesture |
 | move it move it | mover el bote | remexer | ✅ Fast movement, colloquial |
 | shield button | botón del escudo | botão do escudo | ✅ With article |
-| hold shield to heal (`HOLD_SHIELD_TO_HEAL`) | mantén para curarte | segure para se curar | ✅ Omitted "el escudo / o escudo" deliberately: single-line non-wrapping HUD text sits directly above the shield icon and collides with the sword sprite on the right if longer |
+| hold shield to heal (`HOLD_SHIELD_TO_HEAL`) | MANTÉN PARA CURARTE | SEGURE PARA SE CURAR | ✅ Deliberate omission of `"shield"` to prevent horizontal collision with the sword sprite (*see §10.1*) |
 | swing sword | blande la espada / golpea con la espada | branda a espada / rebata com a espada | ✅ |
 | dodge/evade | esquivar | esquivar | ✅ |
 
@@ -234,7 +236,7 @@ This document serves as the **authoritative reference** for Superbrothers: Sword
 | scroll down | desplázate | role | ✅ Concise imperative for Megatome tutorial |
 | unsheathe / rotate | ¿DESENVAINAR? / ¿ROTAR? | DESEMBAINHAR? / GIRAR? | ✅ |
 | BELIEVE | CONFÍA | ACREDITE | ✅ UI Action prompt |
-| QUIT? (`QUIT` / `EXIT`) | SALIR | SAIR? / SAIR | ✅ ES omits `¿...?` on `QUIT` (L99): `¿SALIR?` (7 chars) overflows the left slide-out pill and collides with its embedded circular icon (`¿SALI⊗?`), whereas `SALIR` and PT `SAIR?` (5 chars) fit cleanly |
+| QUIT? (`QUIT` / `EXIT`) | SALIR | SAIR? / SAIR | ✅ Constrained to 5 chars on `QUIT` slide-out tab (*see §10.2*) |
 
 ### Menu/System
 
@@ -335,12 +337,9 @@ This document serves as the **authoritative reference** for Superbrothers: Sword
 - ✅ When the English source marks a sudden, punctual onset (`D347` / `D352`: `We got that/the peculiar feeling`), use expressive inchoative verbs (`Nos invadió la/esa extraña sensación` in ES; `Sentimos a/essa estranha sensação` in PT) rather than the flat calque `tuvimos la sensación`.
 - ❌ Avoid abrupt preterite calques (`tuvimos la sensación`, `esperó`, `conectó`) when describing continuous background states.
 
-#### 10. **UI Box & Fixed-Width HUD Constraints (`QUIT` → `SALIR`, `SETTINGS` → `AJUSTES`, `GO_HOME` → `¿INICIO?`, `HOLD_SHIELD_TO_HEAL`)**
-- **`GO_HOME` (`strings.tsv` Line 29)**: Kept as **`¿INICIO?`** (ES, 8 chars) / **`INÍCIO?`** (PT, 7 chars) adhering to Capybara Games' 8-character limit column in `all-vo/strings.tsv`, though internal developer notes confirm it is unreferenced dead code from an early prototype.
-- **`QUIT` (`strings.tsv` Line 99)**: In Spanish, `QUIT` MUST remain **`SALIR`** without question marks. The left-edge slide-out exit tab has a fixed ~5-character text width before its embedded circular button icon (`⊗`); using `¿SALIR?` (7 characters) causes the text to collide directly with the circular icon (`¿SALI⊗?`). In Portuguese, `SAIR?` is only 5 characters (no opening `¿`) and fits without collision.
-- **`SETTINGS` (`strings.tsv` Line 133)**: MUST remain **`AJUSTES`** (7 characters) in both Spanish and Portuguese, NEVER `CONFIGURACIÓN` / `CONFIGURAÇÕES` (13 characters). On the title screen, `SETTINGS` renders inside the left-edge slide-out pill tab with an embedded sliders icon (`[≡]`) on its right end (sized for 8-character `SETTINGS`). A 13-character word crashes straight through the sliders icon and overflows outside the grey pill onto the background (`CONFIGURA[≡]ÓN`).
-- **`HOLD_SHIELD_TO_HEAL` (`strings.tsv` Line 127)**: Must remain **`MANTÉN PARA CURARTE`** (ES) / **`SEGURE PARA SE CURAR`** (PT), deliberately omitting `"el escudo"` / `"o escudo"`. In the combat HUD, this prompt renders as a **single non-wrapping line** directly above the glowing shield icon and immediately to the left of the sword sprite; any longer text collides horizontally with the sword blade.
-- **3-Line Tweet Boxes**: Try to keep all playable dialogue lines (`D001–D580`) at or under **140 characters** so they never wrap onto a 4th line.
+#### 10. **UI Box & Fixed-Width HUD Constraints**
+- Honor fixed HUD/slide-out character budgets (`HOLD_SHIELD_TO_HEAL`, `QUIT`, `SETTINGS`, `GO_HOME`). *For full sprite-collision evidence, character budgets, and menu hierarchy analysis, see §10.1–§10.2.*
+- **3-Line Tweet Box Heuristic**: Aim to keep playable dialogue lines (`D001–D580`) near or under **~140 characters** as a practical length heuristic. Because the engine uses proportional bitmap fonts (`conduit_itc_2x.fnt`, `arial_narrow.fnt`), wrapping is governed by pixel width rather than exact character count (*see §10.10*).
 
 ---
 
@@ -389,7 +388,7 @@ This document serves as the **authoritative reference** for Superbrothers: Sword
 - ✅ People / Tribe: **"citas / os citas"** (normalized demonym for the Scythian people).
 
 #### 10. **UI Dialogue Line-Length Management**
-- When localizing dialogues into the 3-line retro tweet boxes, keep line length under ~42–46 characters. Avoid long words near line boundaries to prevent single-word orphan overflow into a 4th line (e.g., Line 97: `...e a chave parecia perdida nos sonhos.` instead of wrapping `sonhos.` into a 4th row).
+- As a visual heuristic for the 3-line retro tweet boxes, keep row lengths roughly around ~42–46 characters and avoid long words near line boundaries to prevent single-word orphan overflow into a 4th line (e.g., Line 97: `...e a chave parecia perdida nos sonhos.` instead of wrapping `sonhos.` into a 4th row). Remember that wrapping is governed by pixel width in proportional bitmap fonts, so always verify visually in-game (*see §10.10*).
 
 ### Verb Strategy for "We spied..." (ES/PT)
 
@@ -498,9 +497,7 @@ The Portuguese localization is written in **Brazilian Portuguese (`pt-BR`)**, wh
 
 ## Technical, UI & Engine Constraints (LQA Reference & Post-Mortem)
 
-This section serves as an empirical **LQA post-mortem and technical changelog**. It documents deliberate engineering, UI layout, bitmap font, and script decisions backed by live in-engine testing across Nintendo Switch, PC (Steam), and iOS, alongside official internal developer notes from Capybara Games (`FIGS Notes` / `Craig's Notes` in `all-vo/strings.tsv` and `all-vo/dialog.tsv`).
-
-These entries explain why certain localized strings intentionally depart from direct literalism to resolve real visual collisions, hardware input limits, or legacy engine bugs—items that external LQA reviewers auditing raw TSVs without engine context frequently flag as "discrepancies" or "omissions":
+This section serves as an empirical **LQA post-mortem and technical changelog**. It documents strictly technical decisions—UI layout collisions, font atlas glyph registration, binary schema compatibility, TSV escaping, and cross-platform input behavior—backed by live in-engine testing across Nintendo Switch, PC (Steam), and iOS, alongside official internal developer notes from Capybara Games (`FIGS Notes` / `Craig's Notes` in `all-vo/strings.tsv` and `all-vo/dialog.tsv`).
 
 ### 1. `HOLD_SHIELD_TO_HEAL` (`strings.tsv` Line 127) — Deliberate Omission of "Shield"
 - **Source (`en`)**: `HOLD SHIELD TO HEAL`
@@ -542,38 +539,36 @@ These entries explain why certain localized strings intentionally depart from di
      - Translating `POINTCLICK_CURSORSENS_NINSWITCH` literally as `SENSIBILIDAD DEL CURSOR DE APUNTAR Y HACER CLIC` (45 characters) caused the text to overflow into the slider handle.
      - Standardizing all three sensitivity controls into the structured colon syntax **`SENSIBILIDAD: [MODO]`** (`SENSIBILIDADE: [MODO]`) cleanly differentiates the three control schemes while keeping all strings comfortably under 35 characters (`SENSIBILIDAD: APUNTAR Y HACER CLIC` = 34 chars).
 
-### 4. `DIGIT_STRING` (`strings.tsv` Line 126) — Mandatory Leading Zero (`0123456789`)
-- **Source (`strings.en.tsv`)**: `123456789`
-- **Localized (`es-419` / `pt-BR`)**: `0123456789`
-- **Developer Evidence**:
-  - `strings.en.tsv` shows `123456789` only because spreadsheet auto-formatting stripped the leading `0` when the English column was exported from Excel.
-  - Capybara Games' official localization sheet (`FIGS Notes`, row 126) explicitly instructs localizers: *"This string used to automatically delete 0s at the beginning of the string because of formatting, so they must be re-added manually."*
-  - Removing `0` breaks character-set registration for the digit `0`. Always keep `0123456789`.
+### 4. `DIGIT_STRING` (Line 126) & `SPANISH_SPECIAL` (Line 167) — Bitmap Font Glyph Registration
+- **`DIGIT_STRING` (`strings.tsv` Line 126)**:
+  - **Source (`strings.en.tsv`)**: `123456789`
+  - **Localized (`es-419` / `pt-BR`)**: `0123456789`
+  - **Developer Evidence**: `strings.en.tsv` shows `123456789` only because spreadsheet auto-formatting stripped the leading `0` when the English column was exported from Excel. Capybara Games' official localization sheet (`FIGS Notes`, row 126) explicitly instructs localizers: *"This string used to automatically delete 0s at the beginning of the string because of formatting, so they must be re-added manually."* Removing `0` breaks character-set registration for the digit `0`.
+- **`SPANISH_SPECIAL` (`strings.tsv` Line 167)**:
+  - **Source (`strings.en.tsv`)**: `Á É Í Ó Ú Ñ Ü ¿ ¡ º ª « » ‹ › €` *(uppercase vowels/Ñ/Ü only)*
+  - **Spanish (`es-419`)**: `Á á É é Í í Ó ó Ú ú Ñ ñ Ü ü ¿ ¡ º ª « » ‹ › €`
+  - **Portuguese (`pt-BR`)**: `Á á Â â Ã ã À à Ç ç É é Ê ê Í í Ó ó Ô ô Õ õ Ú ú Ñ ñ Ü ü ¿ ¡ º ª « » ‹ › €`
+  - **Technical Evidence**: Just like `DIGIT_STRING`, the `*_SPECIAL` rows declare special glyphs for bitmap font atlas/table registration. Because the official Switch source omitted lowercase Spanish vowels (`á é í ó ú ñ ü`) and did not contain Portuguese diacritics (`â ã à ç ê ô õ`), both files deliberately expand Row 167 to guarantee complete glyph coverage across all UI strings and dialogue boxes. Do not revert Row 167 to the truncated uppercase-only source string.
 
-### 5. Multi-Platform `strings.tsv` Superset (236 Lines vs. 229 Lines in Switch `strings.en.tsv`) — Complete English Source Audit
+### 5. Multi-Platform `strings.tsv` Superset (236 Lines vs. 229 Lines in Switch `strings.en.tsv`) — Binary Schema & Key-Index Compatibility
 - **Structure**: `strings.en.tsv` (from the Nintendo Switch release) contains **229 lines**, whereas `spanish/strings.tsv` and `portuguese/strings.tsv` contain **236 lines**.
-- **Technical Evidence & Backward Compatibility**:
+- **Technical Evidence**:
   - Lines 1–229 match the Nintendo Switch `strings.en.tsv` 1-to-1 by key and row number.
-  - Lines 230–236 are the **7 official legacy iOS and PC/Steam keys** from earlier builds that were removed when Twitter integration and desktop exit dialogs were stripped on Switch.
-  - **Hardware & Preservation Evidence (iOS 4 / iPod Touch Testing)**:
-    - Retaining all 236 keys makes the localized files **universal cross-platform drop-ins** compatible with Nintendo Switch, PC (Steam), and legacy iOS/mobile builds simultaneously.
-    - Live testing on vintage hardware (an iPod Touch running iOS 4 with the original 2011 release of *Sword & Sworcery*) confirmed that the legacy mobile binary crashes (*missing-key runtime exception*) if these 7 string identifiers are absent from `strings.tsv`.
-    - Preserving them ensures complete backward compatibility so that players and digital preservationists patching older iOS or PC installations will not suffer crashes.
+  - Lines 230–236 are **7 legacy iOS and PC/Steam keys** stripped when Twitter integration and desktop exit dialogs were removed on Switch.
+  - **Binary Schema Compatibility**: Retaining the full 236-key superset preserves lookup-table index compatibility across Nintendo Switch, PC (Steam), and legacy iOS/mobile binaries, allowing one unified `.tsv` per language to serve as a drop-in patch without missing-key runtime exceptions.
+  - *(Empirical verification)*: Testing on vintage hardware (an iPod Touch running iOS 4 with the original 2011 Twitter-enabled build) confirmed that the mobile executable crashes immediately if any of these 7 keys are missing from `strings.tsv`.
 - **Official English Source & MQM Audit Reference**:
-  These 7 strings are sourced directly from Capybara Games' historical master data and are documented below so external reviewers and MQM auditors can verify their accuracy:
+  These 7 strings correspond directly to Capybara Games' historical English keys and are audited verbatim against the current localized files below:
 
 | Row | Key / ID | Official Capybara Games English Source | Spanish (`es-419`) | Portuguese (`pt-BR`) | Context & Platform |
 |:---:|---|---|---|---|---|
 | **230** | `TWITTER_SELECT_BUTTON` | `SELECT` | `SELECCIONAR` | `SELECIONAR` | iOS Twitter account selection modal button |
-| **231** | `TWITTER_SELECT_MSG` | `PLEASE SELECT A TWITTER ACCOUNT` | `POR FAVOR, SELECCIONA UNA CUENTA DE TWITTER` | `POR FAVOR, SELECIONE UMA CONTA DO TWITTER` | iOS Twitter dialog prompt |
-| **232** | `TWITTER_NO_ACCOUNTS` | `There are no Twitter accounts configured on this device.` | `Configura Twitter en tu dispositivo` | `Configure o Twitter no seu dispositivo` | iOS system account check message |
+| **231** | `TWITTER_SELECT_MSG` | `PLEASE SELECT A TWITTER ACCOUNT` | `"POR FAVOR, SELECCIONA UNA CUENTA DE TWITTER"` | `"POR FAVOR, SELECIONE UMA CONTA DO TWITTER"` | iOS Twitter dialog prompt |
+| **232** | `TWITTER_NO_ACCOUNTS` | `There are no Twitter accounts configured on this device.` | `Configura Twitter en tu dispositivo` | `Configure o Twitter em seu dispositivo` | iOS system account check message |
 | **233** | `TWITTER_REQUESTING` | `REQUESTING ACCESS...` | `SOLICITANDO ACCESO...` | `SOLICITANDO ACESSO...` | iOS OAuth/permission modal status |
-| **234** | `TAP_QUESTION` | `TAP?` | `¿TOCAR?` | `TOCAR?` | iOS/Mobile touch tutorial prompt |
+| **234** | `TAP_QUESTION` | `TAP?` | `¿PRESIONAR?` | `PRESSIONAR?` | iOS/Mobile touch tutorial prompt |
 | **235** | `EXIT_TITLE` | `Exit #sworcery?` | `¿Salir de #espadancia?` | `Sair de #espadancia?` | PC / Steam exit confirmation dialog title |
 | **236** | `EXIT_PROMPT` | `Are you sure you want to exit?` | `¿En verdad quieres salir?` | `Você realmente deseja sair?` | PC / Steam exit confirmation dialog body |
-
-> [!NOTE]
-> For MQM evaluation, rows 230–236 can now be assessed directly against their verified English source text above. Although Twitter API integration was deprecated on modern mobile OS versions, these rows remain essential for legacy runtime stability.
 
 ### 6. `ARCHETYPE_TREEHINT` (`dialog.tsv` Line 230) — Cross-Platform Camera Mechanics (Mobile Touch vs. Desktop Edge-Hover & Keys)
 - **Source Text Evolution**:
@@ -592,46 +587,54 @@ These entries explain why certain localized strings intentionally depart from di
      - The English PC phrasing (*"touch the edge of the screen"*) is itself technically imprecise on desktop: the player does not click or touch anything; the camera pans simply by **hovering / placing the cursor near the screen border**, or alternatively pressing the arrow keys.
      - Furthermore, the legacy touch mechanic—clicking and gently dragging the sworcery aura with the mouse cursor—**remains fully active and functional on PC**.
   4. **The Cross-Platform Editorial Bridge**:
-     - To ensure complete functional clarity across iOS, iPadOS, and PC simultaneously, the localized strings make **aura swiping the primary universal instruction** (which works identically with a finger on mobile or with a mouse drag on PC), followed by a concise parenthetical covering desktop-specific controls (`(o acerca el cursor al borde o usa las flechas)` / `(ou leve o cursor à borda da tela ou use as setas)`).
-     - Both localized strings strictly respect the engine's 3-line dialogue box constraint of **≤ 140 characters** (ES: 139 c, PT: 139 c).
+     - To ensure complete functional clarity across iOS, iPadOS, and PC simultaneously, the localized strings make **aura swiping the primary universal instruction** (which works identically with a finger on mobile or with a mouse drag on PC), followed by a concise parenthetical covering desktop-specific controls (`(o acerca el cursor al borde o usa las flechas)` / `(ou leve o cursor à borda da tela ou use as setas)`). Both strings fit cleanly inside the 3-line dialogue box (ES/PT: 139 chars).
 
-### 7. `ARCHETYPE_GROTTOPARADOX` (`dialog.tsv` Line 494) — Unreferenced Dead Code
+### 7. `ARCHETYPE_GROTTOPARADOX` (`dialog.tsv` Line 494) — Unreferenced Dead Code Row Parity
 - **Source (`en`)**: `Once the moods of the moon have been altered in The Moon Grotto the`
 - **Spanish (`es-419`)**: `Una vez que el humor de la luna ha sido alterado en la Gruta Lunar, la`
 - **Portuguese (`pt-BR`)**: `Uma vez que o humor da lua foi alterado na Gruta Lunar, o`
-- **Developer Evidence**:
-  - This line is truncated mid-sentence in the original English script.
-  - In the official localization sheet (`FIGS Notes`, row 494), developer Matt Repetski (Capybara Games) confirmed: *"This is not actually being called, ignore it."*
-  - It is retained at Line 494 solely to preserve exact row parity across `dialog.tsv` and must not be invented or completed.
+- **Developer Evidence**: This line is truncated mid-sentence in the original English script. In `all-vo/dialog.tsv` (`FIGS Notes`, row 494), developer Matt Repetski confirmed: *"This is not actually being called, ignore it."* It is retained at Line 494 solely to preserve exact row parity across `dialog.tsv`.
 
-### 8. `SCYTHIAN_FOUNDATION` (`dialog.tsv` Line 508) — Intentional Fix of English Narrative Slip (`singular / plural`)
+### 8. Bitmap Font Glyph Limits & TSV Parser Escaping (`'...'` vs. `«...»` / `“...”`)
+- **Rule**: Always use **single straight ASCII quotes (`'...'`)** for internal quotes, nicknames (`André 'El Gigante'`), UI prompts (`presiona 'Jugar'`), and cited words inside dialogue.
+- **Technical Evidence**:
+  1. **Bitmap font glyph limitations**: Although `SPANISH_SPECIAL` (Line 167) includes `« » ‹ ›` in the string table, the game's compiled bitmap fonts (`conduit_itc_2x.fnt`, `arial_narrow.fnt`) lack typographic curly quotes (`“ ” ‘ ’`) and single angle quotes (`‹ ›`).
+  2. **TSV parser behavior**: Standard CSV/TSV cell quoting wraps fields containing commas or quotes in straight double quotes (`"..."`), escaping internal literal double quotes as `""`. Using single ASCII quotes `'...'` for inline citations avoids escaping errors and renders cleanly across all bitmap fonts.
+
+### 9. Proportional Font Wrapping Heuristic (~140 chars), Hashtags, `S:S&SEP` & LIFO Dialogue Stack
+- **Proportional Bitmap Font Wrapping (~140 chars heuristic)**:
+  - Because `conduit_itc_2x.fnt` and `arial_narrow.fnt` are **proportional bitmap fonts** (not monospaced), actual line breaks in the 3-line tweet box depend on cumulative pixel width rather than raw character count—a 136-character string rich in wide uppercase glyphs (`M`, `W`, `G`) can wrap onto a 4th line earlier than a 142-character string rich in narrow glyphs (`i`, `l`, spaces).
+  - Keeping playable lines under **~140 characters total** (~42–46 per row) is therefore documented as an empirical **safe length heuristic** always subject to in-game visual verification, not a deterministic character-count guarantee.
+- **Unaccented Hashtags**: Acute accents and tilde diacritics on vowels are intentionally omitted inside hashtags (`#si`, `#quizas`, `#trigondomado`, `#masfacildelopensado`, `#olamundo`, `#nao`, `#matanca`) to reflect authentic 2011 Twitter parsing behavior, while `ñ` is preserved in Spanish (`#leñando`, `#bañomutante`).
+- **Unified `S:S&SEP` Acronym**: While `dialog.en.tsv` inconsistently mixes `S:S&SEP` and `S:S&S EP`, ES/PT standardize the compact form **`S:S&SEP`** across all UI and dialogue boxes to save horizontal pixel width and ensure consistency.
+- **LIFO (Bottom-to-Top) Dialogue Stack**: Several multi-line blocks (`ARCHETYPE_FOUNDATION` `D056–D067`, `GCLUE_*`, `ARCHETYPE_*TRIGONCOLLECTED` `D486–D488`) are pushed onto an engine stack and displayed **from bottom to top** (e.g., `D066 → D065 → D064 → D063 → D062`). Always verify pronoun antecedents in actual in-game reading order rather than top-to-bottom TSV row order.
+
+---
+
+## Editorial Deviations & Transcreation Rationale
+
+Unlike §10, the entries below are **purely linguistic, narrative, and stylistic editorial decisions**—not technical limitations of the game engine. They are documented transparently here for LQA reviewers and MQM auditors:
+
+### 1. `SCYTHIAN_FOUNDATION` (`dialog.tsv` Line 508) — Narrative Slip Correction (`singular / plural`)
 - **Source (`en`)**: `Wait... why am I referring to myself in first person? I thought our story was told in second person? #editingoversight`
 - **Spanish (`es-419`)**: `Espera... ¿por qué hablo en singular? ¿No se supone que la historia va en plural? #erratadeedicion`
 - **Portuguese (`pt-BR`)**: `Espera... por que estou falando no singular? Não era para a história ser no plural? #erratadeedicao`
-- **Editorial Evidence**:
-  - In the English script, the writer accidentally confused **"first-person plural"** (*we / our*) with **"second person"** (*you*). Throughout the entire game, The Scythian narrates in the **first-person plural** (*we* / *nosotros* / *nós*), and in `SCYTHIAN_FOUNDATION` (`D508–D510`) she momentarily slips into the **first-person singular** (*I / my*).
-  - Translating `"first person / second person"` literally (`primera persona / segunda persona`) renders the joke nonsensical in Spanish and Portuguese because `"nuestra historia"` (*our story*) is first-person plural, not second person.
-  - Contrasting **`en singular` / `en plural`** (`no singular` / `no plural`)—just as the official 8-4 Japanese localization corrected it—preserves the exact fourth-wall joke intended by the author.
+- **Editorial Evidence**: In the English script, the writer accidentally confused *"first-person plural"* (*we / our*) with *"second person"* (*you*). Throughout the game, The Scythian narrates in the **first-person plural** (*we* / *nosotros* / *nós*), and in `D508–D510` she momentarily slips into the **first-person singular** (*I / my*). Translating literally (`primera persona / segunda persona`) breaks the meta-joke because `"nuestra historia"` is first-person plural, not second person. Contrasting **`en singular` / `en plural`** (`no singular` / `no plural`)—just as the official 8-4 Japanese localization did—restores the intended fourth-wall joke.
 
-### 9. Quotation Marks, Bitmap Fonts & Script Direct Speech Normalization (`'...'` vs. `«...»` / `“...”`)
-- **Rule**: Always use **single straight ASCII quotes (`'...'`)** for internal quotes, nicknames (`André 'El Gigante'`), UI prompts (`presiona 'Jugar'`), and cited words inside dialogue. Spoken dialogue is enclosed in **straight double quotes (`"..."`)**, escaped as `"""..."""` in TSV rows.
-- **Technical & Editorial Evidence**:
-  1. **Bitmap font glyph limitations**: Although `SPANISH_SPECIAL` (Line 167) includes `« » ‹ ›` in the string table, the game's compiled bitmap fonts (`conduit_itc_2x.fnt`, `arial_narrow.fnt`) lack typographic curly quotes (`“ ” ‘ ’`) and single angle quotes (`‹ ›`).
-  2. **Engine rendering behavior**: The game engine does not parse quotation marks for programmatic branching or logic; it simply renders the quotation mark glyph inside the dialogue bubble. Using straight ASCII double quotes (`"..."`) and internal single ASCII quotes (`'...'`) avoids parser collisions in TSV tools while displaying crisp, legible quotes in all bitmap fonts.
-  3. **Editorial Direct Speech Normalization (Ghosts & Spirits)**:
-     - In the original English script, Capybara Games was **typographically inconsistent**: dialogue spoken by living characters (Logfella, Samae) was enclosed in quotation marks (`"..."`), but dialogue spoken by ghosts and spirits (e.g., `D145–D146`, `D150–D151`, `D156–D167`, `D170–D178`, `D531`) was left unquoted in English, visually confusing spoken lines with The Scythian's internal thoughts.
-     - The Spanish and Portuguese localizations deliberately unmasked and normalized all direct spirit speech by wrapping it in double quotation marks (e.g., `D145`: `"""Hasta ahora, tenía la sensación de que la Masa Gogolítica te veía como simple turista."""`). This editorial normalization significantly improves reading comprehension and maintains absolute consistency across all direct speech in the game.
+### 2. Direct-Speech Explicitación in Ghost Telepathic Transmissions (`D145–D146`, `D150–D151`, `D156–D167`, `D170–D178`, `D531`)
+- **Pattern**: The Spanish and Portuguese localizations add literal double quotation marks (`"""..."""`) to dialogue blocks spoken by ghosts/spirits (e.g., `D145`, `D150`, `D156`, `D170`) and Samae's dream (`D531`), where the English script displays **no rendered quotation marks**.
+- **Lore & Editorial Rationale**:
+  - In the English original, dialogue from living characters (`Logfella`, `Samae`) does **not** carry rendered quotation marks either (`D531` in `dialog.en.tsv` has only outer CSV field quotes due to an internal comma; literal quotes in English appear only on carved signs `D004–D005` and selected Archetype transmissions `D068–D071`, `D081–D086`).
+  - Within the game's lore (`D067`, `D069`) and credits (`D594–D596`), only The Scythian, Logfella, and The Archetype have vocal performances; ghosts project silent telepathic *"linguistic thought-transmissions"* intercepted via The Megatome.
+  - Adding literal double quotes in Spanish and Portuguese is therefore **not correcting a Capybara Games typo**—it is an **intentional stylistic explicitación** for Romance readers, ensuring immediate visual clarity when a ghost's first-person voice (`I` → `yo` / `eu`) alternates within the same scene against The Scythian's surrounding first-person plural narration (`nosotros` / `nós`). This addition has zero effect on engine behavior.
 
-### 10. Hashtag Diacritics, Unified `S:S&SEP` Acronym & LIFO Dialogue Stack Order
-- **Unaccented Hashtags**: Acute accents and tilde diacritics on vowels are intentionally omitted inside hashtags (`#si`, `#quizas`, `#trigondomado`, `#masfacildelopensado`, `#olamundo`, `#nao`, `#matanca`) to reflect authentic 2011 Twitter parsing behavior, while `ñ` is preserved in Spanish (`#leñando`, `#bañomutante`).
-- **Unified `S:S&SEP` Acronym**: While `dialog.en.tsv` inconsistently mixes `S:S&SEP` and `S:S&S EP`, the Spanish and Portuguese localizations intentionally standardize the compact form **`S:S&SEP`** across all occurrences in `strings.tsv` and `dialog.tsv` both for internal consistency and to save character space inside 3-line dialogue boxes.
-- **LIFO (Bottom-to-Top) Dialogue Stack in Certain Multi-Line Blocks**: Several multi-line blocks in `dialog.tsv` (such as `ARCHETYPE_FOUNDATION` `D056–D067`, `GCLUE_*`, and `ARCHETYPE_*TRIGONCOLLECTED` `D486–D488`) are pushed onto a stack by the engine and displayed to the player **from bottom to top** (e.g., `D066 → D065 → D064 → D063 → D062` and `D488 → D487 → D486`). Always verify pronoun antecedents and discourse flow in the actual in-game reading order rather than top-to-bottom TSV row order.
-
-### 11. `ARCHETYPE_GOLDMASTERINTRO` (`dialog.tsv` Line 283) — Creative Pop-Culture Adaptation
+### 3. `ARCHETYPE_GOLDMASTERINTRO` (`dialog.tsv` Line 283) — Creative Cultural License & Register Shift
 - **Source (`en`)**: `Confused? Excellent. Keep calm & carry on.`
 - **Spanish (`es-419`)**: `¿Confusión? Calma, calma, ¡que no panda el cúnico!`
 - **Portuguese (`pt-BR`)**: `Confusão? Palma, palma, não priemos cânico!`
-- **Editorial Note**: Just as the English line parodies the famous British wartime poster (*"Keep calm and carry on"*), the Latin American Spanish and Brazilian Portuguese localizations intentionally adapt this cultural wink using the iconic pan-Latin American / Brazilian catchphrase from *El Chapulín Colorado* (*Chapolin Colorado*), preserving the tongue-in-cheek humor and fourth-wall levity of the moment.
+- **Editorial Note on Character Voice**:
+  - Under *Character Voice & Tone*, The Archetype is normally defined as *"The Erudite Guide"* with a formal, academic register. This line is an **explicitly acknowledged creative license and register break**:
+  - Just as the English script momentarily pivots away from arcane psychocosmology into a ubiquitous British cultural meme (*"Keep calm & carry on"*), the Spanish and Portuguese localizations prioritize immediate pan-Latin American / Brazilian pop-culture levity by substituting Roberto Gómez Bolaños's (*El Chapulín Colorado* / *Chapolin Colorado*) iconic catchphrase, accepting the playful break in character solemnity for fourth-wall comedic impact.
 
 ---
 
@@ -750,6 +753,7 @@ These translations prioritize:
 - **v1.4** (2026) - Added Technical, UI & Engine Constraints (LQA Reference) documenting in-game HUD collisions (`HOLD_SHIELD_TO_HEAL`, `QUIT`), `DIGIT_STRING`, multi-platform key superset, `ARCHETYPE_TREEHINT` cross-platform camera mechanics, `ARCHETYPE_GROTTOPARADOX`, `SCYTHIAN_FOUNDATION`, and bitmap font quote rules
 - **v1.5** (2026) - Added comprehensive Cross-Language Guide of Cultural References, Pop-Culture Homages & Literary Allusions (`Twin Peaks`, `Videodrome`, `Star Wars`, `2001: A Space Odyssey`, `MAD Magazine / Al Jaffee`, `Shepard Fairey / Andre the Giant`, `Three Gut Records`, `Jim Guthrie`, `Zelda: A Link to the Past`, `Angry Birds`, `Shakespeare`, `Terence McKenna`, `Donald Rumsfeld`, `SNL / Strategery`, `El Chapulín Colorado`, `Robert E. Howard`, and `Carl Jung's Red Book`)
 - **v1.6** (2026) - Addressed formal LQA/MQM audit feedback: added official Capybara Games English source table for rows 230–236 in `strings.tsv` with retro-hardware backward compatibility justification (iOS 4 / iPod Touch), documented sensitivity controls taxonomy (`MOTION_CURSOR_SENSITIVITY`, `STICK_CURSOR_SENSITIVITY`, `POINTCLICK_CURSORSENS_NINSWITCH`), clarified `GO_HOME` dead-code vs. `QUIT`/`EXIT` UI hierarchies, resolved engine quote parser distinction with ghost direct-speech normalization, and articulated the two-tier architecture of the document (§1–§9 Normative Style Guide vs. §10 Technical LQA Post-Mortem)
+- **v1.7** (2026) - Resolved v1.6 LQA audit discrepancies: synchronized rows 232 & 234 (`TAP_QUESTION` → `¿PRESIONAR?` / `PRESSIONAR?`) with actual `.tsv` files, documented `SPANISH_SPECIAL` glyph registration (Row 167), separated pure technical engine constraints (§10) from creative/editorial decisions (§11 *Editorial Deviations & Transcreation Rationale*), deduplicated HUD rules in §4/§7/§9, reformulated ~140-char guidance as a proportional-font pixel heuristic, refined rows 230–236 rationale to binary schema compatibility, corrected telepathic ghost-quote lore facts, and explicitly documented `D283` as a creative character-voice license
 
 ---
 

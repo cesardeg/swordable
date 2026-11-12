@@ -1,5 +1,5 @@
 id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
-GIRL_TONGUES	Girl			Lejos de las estepas de Escitia, asoladas por la guerra, hallamos a una chica de cabello oscuro en un prado iluminado por el sol. #holamundo			72	001.jpg	Z0E1Q
+GIRL_TONGUES	Girl			Lejos de las estepas de Escitia, asoladas por la guerra, conocimos a una chica de cabello oscuro en un prado iluminado por el sol. #holamundo			72	001.jpg	Z0E1Q
 				Los montañeses del Cáucaso la llamaban Samae, y parecía muy simpática. #obvio					
 SIGN_TADPOL	The Scythian			"""Donde el fuego alumbra, el hogar se vislumbra."" #threegutrecordsx100pre"					
 SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia, todos son reinos de los hombres. Mingi Taw es el Reino de la Nube."""					
@@ -75,7 +75,7 @@ LOGFELLA_STORM	The Scythian			Tronquero había renunciado a cortar leña debido 
 GIRL_STORM	The Scythian			Samae, la chica de cabello oscuro, sentía la angustia. #angustia					
 			gourd/gourd	Desde que estalló la tormenta, había notado las susurrantes espumas de los espíritus silvanos que dormían en los bosques cercanos.					
 			gourd/gourd	Se preguntaba si los tres espíritus podrían ayudar a disipar la tormenta. #si					
-			gourd/gourd	Nos pidió investigar las espumas que brotaban del insondable estanque frente a la choza.					
+			gourd/gourd	Nos pidió investigar las susurrantes espumas que brotaban del insondable estanque frente a la choza.					
 			gourd/gourd	Mencionó un espíritu en un prado cercano y otro en un curioso nido, hogar de tres pájaros cantores empapados.					
 			gourd/gourd	Nos encomendó buscar las espumas de esos tres espíritus y enviarlos al cielo con la Canción de Espadancia.					
 ARCHETYPE_SWORCERY	The Archetype			"""Es hora de aprender la Canción de Espadancia, una técnica de expansión de la conciencia que revela una dimensión musical mística."""					
@@ -332,7 +332,7 @@ LOGFELLA_TRIFECTATIPS	The Scythian			Tronquero sentía una angustia tremenda por
 URSULA_AVATAR			Ursula/idleSEhandsonhip						
 DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
 AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Estos dos chiflados afirmaban estar entre los creadores de este mundo tan raro.			159	055.jpg	A5G55
-AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Estos dos excéntricos afirmaban estar entre los creadores de este mundo tan raro.			159	055.jpg	A5G55
+AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Estos dos bromistas afirmaban estar entre los creadores de este mundo tan raro.			159	055.jpg	A5G55
 GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano en la fértil tierra de un prado donde pastaban cuatro pares de ovejas inútiles.			52	056.jpg	15B63
 GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Entonamos la Canción de Espadancia y despertamos a un espíritu silvano de las frescas aguas de un insondable estanque. ¡Qué raro!			50	057.jpg	G5F78
 GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano en un curioso nido, rodeado de tres pájaros cantores empapados.					

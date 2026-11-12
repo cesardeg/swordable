@@ -75,7 +75,7 @@ LOGFELLA_STORM	The Scythian			Troncadeiro parou de cortar lenha devido à sinist
 GIRL_STORM	The Scythian			Samae, a garota de cabelos escuros, sentia a angústia. #angustia					
 			gourd/gourd	Desde que a tempestade estourou, ela observava as sussurrantes espumas dos espíritos silvanos adormecidos nas florestas próximas.					
 			gourd/gourd	Perguntava-se se os três espíritos poderiam ajudar a dissipar a tempestade. #sim					
-			gourd/gourd	Ela nos pediu que investigássemos as espumas que brotavam da insondável lagoa em frente à cabana.					
+			gourd/gourd	Ela nos pediu que investigássemos as sussurrantes espumas que brotavam da insondável lagoa em frente à cabana.					
 			gourd/gourd	Mencionou um espírito em uma campina próxima e outro em um curioso ninho, lar de três pássaros cantores encharcados.					
 			gourd/gourd	Ela nos pediu que buscássemos as espumas desses três espíritos e os enviássemos ao céu com a Canção da Espadância.					
 ARCHETYPE_SWORCERY	The Archetype			"""Chegou a hora de aprender a Canção da Espadância, uma técnica de expansão da consciência que revela uma dimensão musical mística."""					
@@ -332,7 +332,7 @@ LOGFELLA_TRIFECTATIPS	The Scythian			Troncadeiro sentia uma angústia imensa pel
 URSULA_AVATAR			Ursula/idleSEhandsonhip						
 DOG_AVATAR			AdventureUI/dudeDogfellaIdle1						
 AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Esses dois malucos afirmavam estar entre os criadores deste mundo estranho.			159	055.jpg	A5G55
-AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Esses dois excêntricos afirmavam estar entre os criadores deste mundo estranho.			159	055.jpg	A5G55
+AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Esses dois palhaços afirmavam estar entre os criadores deste mundo estranho.			159	055.jpg	A5G55
 GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito silvano na fértil terra de uma campina onde pastavam quatro pares de ovelhas inúteis.			52	056.jpg	15B63
 GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Entoamos a Canção da Espadância e despertamos um espírito silvano das frescas águas de uma insondável lagoa. Que estranho!			50	057.jpg	G5F78
 GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos um espírito silvano em um curioso ninho, cercado por três pássaros cantores encharcados.					
