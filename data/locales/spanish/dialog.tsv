@@ -15,7 +15,7 @@ SIGN_ANTECHAMBERLEFT	The Scythian			En un pasadizo subterráneo descubrimos una 
 INFO_CROSSMOUNTAINLEFT	The Scythian			En la pendiente rocosa de Mingi Taw, una tumba solitaria marcaba el final del sendero de grava.					
 INFO_CROSSMOUNTAINRIGHT	The Scythian			En la pendiente rocosa de Mingi Taw, una tumba solitaria marcaba el final del sendero de grava.					
 INFO_RIDGESKULLPOLE	The Scythian			En la cresta escarpada rumbo a la cima de Mingi Taw, se erguía un lúgubre poste decorado con una calavera astada.					
-INFO_CROSSRIDGE	The Scythian			En la cresta escarpada hacia la cima de Mingi Taw, una tumba solitaria recordaba lúgubremente cuánta gente había muerto aquí arriba.					
+INFO_CROSSRIDGE	The Scythian			En la cresta escarpada hacia la cima de Mingi Taw, una tumba solitaria era un lúgubre recordatorio de cuánta gente había muerto aquí arriba.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos el Megatomo aferrado entre dos manos huesudas, y sentimos nuestra espada estremecerse en la vaina. #megatomo			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Una pequeña puerta sin manija, hecha de un material desconocido. Un letrero dice: 'Solo personal autorizado'.					
 DOOR_UPSLOPEWOODS1	The Scythian			El antiguo camino hacia Mingi Taw estaba bloqueado por una puerta trancada.					
@@ -26,7 +26,7 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		El leñador leñaba 
 				Conocía bien nuestro funesto cometido y aceptó guiarnos por el antiguo camino.					
 				Aun así, teníamos la sensación de que no le emocionaba nada la idea.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		El leñador nos esperaba para seguir por el sendero hasta el inicio del antiguo camino.			12	008.jpg	U0D88
-LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos salvado el abismo y, sin exagerar, nos sentíamos unos genios.			22	009.jpg	L0B9S
+LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Habíamos salvado el abismo y nos sentíamos unos genios.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Le contamos a Tronquero que buscábamos un pesado libro de siniestra espadancia conocido como el Megatomo.					
 			adventureUI/megatomeItem	El Megatomo acechaba en algún lugar de la oscuridad embrujada más allá del Precipicio Peligroso, bajo Mingi Taw.					
 			adventureUI/megatomeItem	Decidimos ir por él y luego salir de allí con vida.					
@@ -59,8 +59,8 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&SEP no produce la experiencia trascende
 				Hemos descubierto que un individuo relajado y curioso es más propenso a tener una experiencia agradable con S:S&SEP.					
 				La 'Disposición' alude al estado mental y a la personalidad que aportas: tus pensamientos, tu ánimo y tus expectativas.					
 				Hablemos de la disposición y el entorno para una experiencia positiva con el altamente psicoactivo Superbrothers: Sword & Sworcery EP.					
-				La conciencia expandida, el potencial ilimitado de la mente, es lo que en Superbrothers llamamos 'sworcery' (o espadancia).					
-				La Canción de Espadancia puede entenderse como una técnica psiónica que permite percibir una realidad dentro de la que ya conoces.					
+				La conciencia expandida, el potencial ilimitado de la mente, es lo que en Superbrothers llamamos 'espadancia'.					
+				La Canción de Espadancia puede entenderse como una técnica psiónica que permite percibir una realidad dentro de la realidad que ya conoces.					
 				Para detener la Canción de Espadancia, presiona dos veces el aura que rodea a La Escita.					
 				Una vez entonada, mantén presionada el aura de espadancia y desliza para mirar alrededor.					
 				Para entonar la Canción de Espadancia, mantén presionada a La Escita por un momento y observa cómo se reúne el aura de espadancia.					
@@ -103,7 +103,7 @@ INFO_WELLNESS	The Scythian			Bien está lo que bien acaba. #pozo #sollozo #biene
 INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE					
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Junto a un insondable estanque, descubrimos una robusta choza de piedra con un tejado de paja.					
-INFO_CABINWOODPILE	The Scythian			Cerca de la choza, vimos una pila de leña, nada del otro mundo.					
+INFO_CABINWOODPILE	The Scythian			Vimos una pila de leña, nada del otro mundo.					
 INFO_SPUME	The Scythian			Localizamos las sutiles y susurrantes espumas de un espíritu silvano sumido en el sueño. Y ahora... ¿cómo lo despertamos?					
 INFO_NESTBOX	The Scythian			Avistamos un curioso nido que ahora era hogar de una colmena de escoria y villanía.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Avistamos un nido desgastado con un inquietante parecido a un rostro.					
@@ -132,7 +132,7 @@ INFO_MEGATOMBTRIFECTA	The Scythian			En la oscuridad bajo Mingi Taw distinguimos
 INFO_ROCKSHOWGIRL	The Scythian			En el concierto de rock encontramos a Samae. Nos pareció que susurró algo parecido a 'Fuego, camina conmigo'.					
 INFO_ROCKSHOWSKOLOTOI	The Scythian			Notamos a uno de esos esqueletos despreocupados disfrutando del ominoso ritmo en el concierto de rock.					
 INFO_ROCKSHOWJIM	The Scythian			Quien encabezaba el concierto de rock era nada menos que el misterioso músico conocido como Jim Guthrie.			160	020.jpg	T2G03
-INFO_ROCKSHOWBOOR	The Scythian			Vimos al Patán Canoso luciendo su onda nudista con mucho estilo en el concierto de rock.			121	021.jpg	E2G15
+INFO_ROCKSHOWBOOR	The Scythian			Vimos al Patán Canoso luciendo su estilo nudista en el concierto de rock.			121	021.jpg	E2G15
 INFO_ROCKSHOWCROWD	The Scythian			En el concierto de rock había una multitud considerable de damas y caballeros.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			Vimos en el concierto de rock al personaje conocido como el Arquetipo y nos preguntamos qué tramaba con todo aquello.					
 INFO_TRIGONGROVESKULLSTICK	The Scythian			Un lúgubre poste decorado con una calavera astada conectaba este lugar con el espectro inmortal que acecha bajo Mingi Taw.					
@@ -146,7 +146,7 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			En el Claro Trigónico, más allá de la c
 			triangle/Triangle	"""Ahora que dominas la Canción de Espadancia y has domado el Trigón Dorado, descubrirás que algo te acecha a cada paso."""					
 				No sabíamos si el fantasma intentaba animarnos, asustarnos o qué.					
 				Le contamos que pretendíamos detonar el Megatomo en la cima de Mingi Taw y liberar a la Masa Gogolítica de su inmortalidad.					
-			Archetype/trifecta	Le preguntamos por la Tríada Trigónica y por el paradero de los Trigones restantes, pero su respuesta fue irritantemente ambigua.					
+			Archetype/trifecta	Le preguntamos por la Tríada Trigónica y por el paradero de los Trigones restantes, pero su respuesta fue irritantemente obtusa.					
 				"""Los Trigones restantes solo existen en los sueños de los montañeses del Cáucaso."""			43	024.jpg	82E45
 				"""Encontrar los Trigones restantes no es una cuestión de dónde, sino de cuándo y cómo."""					
 				Sin duda, el fantasma resplandeciente decía un montón de tonterías inútiles.					
@@ -588,7 +588,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Concepto, arte, diseño, dirección y guion: representantes de Superbrothers A/V Inc.					
 				Diseño, liderazgo de proyecto, apoyo incansable y más: Kris Piotrowski, director creativo en Capy.					
 				Sistemas, arquitectura técnica, UI, motor y más: Jon Maur, programador técnico jefe de S:S&SEP en Capy.					
-				Scripting, combate y milagros: Frankie Leung, programador jefe de jugabilidad de S:S&SEP en Capy.					
+				Scripts, combate y milagros: Frankie Leung, programador jefe de jugabilidad de S:S&SEP en Capy.					
 				Inspiración, canciones, sonidos, alma y mucho más: Jim Guthrie, compositor, héroe del folk y rockero todoterreno.					
 				* * * ADEMÁS * * *					
 				Voz de Tronquero: Robert Ashley, creador del programa de radio A Life Well Wasted en alifewellwasted.com					
@@ -620,7 +620,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Apoyo adicional en la localización japonesa: Yutaka Ohbuchi, John Ricciardi y Masanobu Suto.					
 				Diseño del brutal logo japonés: POLYGRAPH en polygraph.jp					
 				Magia web japonesa: Jonathan Lumb en jonnyram.com					
-				Apoyo y amistad en Japón: Suda 51, Tomoaki Takahashi, Hideto Yamada. Remixers: Baiyon, Akira Yamaoka, Michiru Yamane, macotom3, Decasségui Hip.					
+				Apoyo y amistad en Japón: Suda 51, Tomoaki Takahashi, Hideto Yamada. Remezcladores: Baiyon, Akira Yamaoka, Michiru Yamane, macotom3, Decasségui Hip.					
 				* * * EL DOMINIO DE CANADÁ * * *					
 			Logos/omdc	Este proyecto fue posible gracias al apoyo financiero de Ontario Creates.					
 				* * * LOS QUEREMOS MUCHÍSIMO * * *					

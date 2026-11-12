@@ -15,7 +15,7 @@ SIGN_ANTECHAMBERLEFT	The Scythian			Num corredor subterrâneo, descobrimos uma e
 INFO_CROSSMOUNTAINLEFT	The Scythian			Na encosta rochosa de Mingi Taw, uma tumba solitária marcava o fim do caminho de cascalho.					
 INFO_CROSSMOUNTAINRIGHT	The Scythian			Na encosta rochosa de Mingi Taw, uma tumba solitária marcava o fim do caminho de cascalho.					
 INFO_RIDGESKULLPOLE	The Scythian			Na crista escarpada a caminho do topo de Mingi Taw, erguia-se um lúgubre poste decorado com uma caveira galhada.					
-INFO_CROSSRIDGE	The Scythian			Na crista escarpada rumo ao topo de Mingi Taw, uma tumba solitária lembrava lugubremente quanta gente havia morrido aqui em cima.					
+INFO_CROSSRIDGE	The Scythian			Na crista escarpada rumo ao topo de Mingi Taw, uma tumba solitária era uma lúgubre lembrança de quantas pessoas morreram aqui no alto.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos o Megatomo apertado entre duas mãos ossudas e sentimos a espada estremecer na bainha. #megatomo			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Uma pequena porta sem maçaneta, feita de um material desconhecido. Uma placa diz: 'Apenas Pessoal Autorizado'.					
 DOOR_UPSLOPEWOODS1	The Scythian			O antigo caminho para Mingi Taw estava bloqueado por uma porta trancada.					
@@ -26,7 +26,7 @@ LOGFELLA_INTRO_ADV	Logfella	AdventureUI/tweetIconBabelBook		O lenhador lenhava l
 				Conhecia bem nossa funesta missão e concordou em nos guiar pelo antigo caminho.					
 				Ainda assim, tínhamos a sensação de que ele não estava lá muito empolgado com a ideia.					
 LOGFELLA_TADPOL_WAITING	Logfella	AdventureUI/tweetIconBabelBook		O lenhador nos esperava para continuar pela trilha até o início do antigo caminho.			12	008.jpg	U0D88
-LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Tínhamos vencido o abismo e, sem exagerar, nos sentíamos gênios.			22	009.jpg	L0B9S
+LOGFELLA_INTRO_CHASM	The Scythian	AdventureUI/tweetIconBabelBook		Tínhamos vencido o abismo e nos sentíamos gênios.			22	009.jpg	L0B9S
 			adventureUI/megatomeItem	Contamos a Troncadeiro que buscávamos um pesado livro de sinistra espadância conhecido como o Megatomo.					
 			adventureUI/megatomeItem	O Megatomo espreitava em algum lugar nas trevas assombradas além do Precipício Perigoso, sob Mingi Taw.					
 			adventureUI/megatomeItem	Decidimos buscá-lo e depois escapar com vida.					
@@ -59,8 +59,8 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&SEP não produz a experiência transcen
 				Descobrimos que um indivíduo relaxado e curioso é mais propenso a ter uma experiência agradável com S:S&SEP.					
 				A 'Preparação' é o estado mental e a personalidade que você traz para a experiência: pensamentos, estados de espírito e expectativas.					
 				Falemos sobre a preparação e o ambiente para uma experiência positiva com o altamente psicoativo Superbrothers: Sword & Sworcery EP.					
-				A consciência expandida, o potencial ilimitado da mente, é o que chamamos de 'sworcery' (ou espadância) na Superbrothers.					
-				A Canção da Espadância pode ser entendida como uma técnica psiônica para perceber uma realidade dentro da que você já conhece.					
+				A consciência expandida, o potencial ilimitado da mente, é o que na Superbrothers chamamos de 'espadância'.					
+				A Canção da Espadância pode ser entendida como uma técnica psiônica para perceber uma realidade dentro da realidade que você já conhece.					
 				Para parar a Canção da Espadância, pressione duas vezes a aura que envolve a Citiana.					
 				Depois de entoada, mantenha a aura de espadância pressionada e deslize para olhar ao redor.					
 				Para entoar a Canção da Espadância, mantenha a Citiana pressionada por um momento e observe a aura de espadância se reunir.					
@@ -103,7 +103,7 @@ INFO_WELLNESS	The Scythian			Bem está o que bem acaba. #poco #soluco #bemestar
 INFO_WELLWHITESTAG	The Scythian			VIDA LONGA À NOVA CARNE					
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Ao lado de uma insondável lagoa, descobrimos uma robusta cabana de pedra com um telhado de palha.					
-INFO_CABINWOODPILE	The Scythian			Perto da cabana, encontramos uma pilha de lenha, nada de mais.					
+INFO_CABINWOODPILE	The Scythian			Encontramos uma pilha de lenha, nada de mais.					
 INFO_SPUME	The Scythian			Localizamos as sutis e sussurrantes espumas de um espírito silvano imerso em sonho. E agora... como vamos despertá-lo?					
 INFO_NESTBOX	The Scythian			Vimos um curioso ninho, agora lar de uma colmeia de escória e vilania.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Vimos um ninho desgastado com uma inquietante semelhança a um rosto.					
@@ -146,7 +146,7 @@ GRAVE_TRIGONGROVEGHOST	The Scythian			Na Clareira Trigônica, além da caverna c
 			triangle/Triangle	"""Agora que aprendeu a Canção da Espadância e domou o Trígono Dourado, descobrirá que algo te espreita a cada passo."""					
 				Não sabíamos se o fantasma tentava nos encorajar, nos apavorar, ou o quê.					
 				Revelamos a ele nossa intenção de detonar o Megatomo no topo de Mingi Taw e libertar a Massa Gogolítica de sua imortalidade.					
-			Archetype/trifecta	Perguntamos a ele sobre a Tríade Trigônica e a localização dos Trígonos restantes, mas sua resposta foi irritantemente ambígua.					
+			Archetype/trifecta	Perguntamos a ele sobre a Tríade Trigônica e a localização dos Trígonos restantes, mas sua resposta foi irritantemente obtusa.					
 				"""Os Trígonos restantes existem apenas nos sonhos dos montanheses do Cáucaso."""			43	024.jpg	82E45
 				"""Localizar os Trígonos restantes não é uma questão de onde, mas de quando e como."""					
 				Sem dúvida, o fantasma resplandecente falou um monte de baboseiras inúteis.					
@@ -588,7 +588,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Conceito, arte, design, direção e roteiro: representantes da Superbrothers A/V Inc.					
 				Design, liderança de projeto, apoio incansável e mais: Kris Piotrowski, diretor criativo na Capy.					
 				Sistemas, arquitetura técnica, UI, motor e mais: Jon Maur, programador técnico líder de S:S&SEP na Capy.					
-				Scripting, combate e milagres: Frankie Leung, programador líder de jogabilidade de S:S&SEP na Capy.					
+				Scripts, combate e milagres: Frankie Leung, programador líder de jogabilidade de S:S&SEP na Capy.					
 				Inspiração, músicas, sons, alma e muito mais: Jim Guthrie, compositor, herói do folk e estrela do rock em tempo integral.					
 				* * * ALÉM DISSO * * *					
 				Voz de Troncadeiro: Robert Ashley, criador do programa de rádio A Life Well Wasted em alifewellwasted.com					
@@ -620,7 +620,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Apoio adicional na localização japonesa: Yutaka Ohbuchi, John Ricciardi e Masanobu Suto.					
 				Design do brutal logo japonês: POLYGRAPH em polygraph.jp					
 				Magia web japonesa: Jonathan Lumb em jonnyram.com					
-				Apoio e amizade no Japão: Suda 51, Tomoaki Takahashi, Hideto Yamada. Remixers: Baiyon, Akira Yamaoka, Michiru Yamane, macotom3, Decasségui Hip.					
+				Apoio e amizade no Japão: Suda 51, Tomoaki Takahashi, Hideto Yamada. Remixadores: Baiyon, Akira Yamaoka, Michiru Yamane, macotom3, Decasségui Hip.					
 				* * * O DOMÍNIO DO CANADÁ * * *					
 			Logos/omdc	Este projeto foi possível graças ao apoio financeiro da Ontario Creates.					
 				* * * AMAMOS VOCÊS DEMAIS * * *					

@@ -58,7 +58,7 @@ TWITTER_NEVERMIND	ATRÁS
 TWITTER_TWEETING	TUITEANDO...	
 TWITTER_SIGNING_IN	INICIANDO SESIÓN...	
 TWITTER_SUCCESS	¡LISTO!	
-TWITTER_FAILED	ERROR	
+TWITTER_FAILED	HA FALLADO	
 TWITTER_WRONG_LOGIN	USUARIO O CONTRASEÑA INCORRECTOS	
 TWITTER_CONNECT_FAIL	FALLÓ LA CONEXIÓN	
 TWITTER_SIGN_IN_ONLY	INICIAR SESIÓN	
@@ -86,7 +86,7 @@ STOP_CONTROLS_ARROW	< < ¿TIP TAP PARA PARAR?
 SLAY	¿ANIQUILAR?	
 ZOOM_CONTROLS	< < < ¿ZOOM? > > >	
 LOOK_CONTROLS	MANTÉN Y DESLIZA EL AURA DE ESPADANCIA	
-LOOK_CONTROLS_2	MANTÉN Y DESLIZA PARA MIRAR ALREDEDOR	
+LOOK_CONTROLS_2	PRESIONA Y DESLIZA PARA MIRAR ALREDEDOR	
 TONGUE_TEXT	"Inclina, desenvaina y mantén tu espada escita en alto, en el arcoíris, durante unos segundos y ten fe"	
 TOUCH_HOLD	MANTÉN PRESIONADO	
 TOUCH_HOLD_ARROW_LEFT	< < MANTÉN PRESIONADO	
@@ -127,8 +127,8 @@ DIGIT_STRING	0123456789
 HOLD_SHIELD_TO_HEAL	MANTÉN PARA CURARTE	
 PRESS_START	PRESIONA <switch_button_l> + <switch_button_r>	
 VIBRATION	VIBRACIÓN	
-MOTION_CURSOR_SENSITIVITY	SENSIBILIDAD DE MOVIMIENTO	
-STICK_CURSOR_SENSITIVITY	SENSIBILIDAD DEL ANALÓGICO	
+MOTION_CURSOR_SENSITIVITY	SENSIBILIDAD: CURSOR POR MOVIMIENTO	
+STICK_CURSOR_SENSITIVITY	SENSIBILIDAD: CURSOR ANALÓGICO	
 CONTROLS	CONTROLES	
 SETTINGS	AJUSTES	
 OPTIONS	OPCIONES	
@@ -168,13 +168,13 @@ SPANISH_SPECIAL	Á á É é Í í Ó ó Ú ú Ñ ñ Ü ü ¿ ¡ º ª « » ‹ 
 TOUCHTRONIC_NINSWITCH	TOUCHTRONIC	
 POINTCLICK_NINSWITCH	APUNTAR Y HACER CLIC	
 FAMICOM_NINSWITCH	FAMICOM	
-	Sensibilidad del analógico	
+	Sensibilidad del cursor analógico	
 SOUTHPAW_NINSWITCH	MODO ZURDO	
 NORTHPAW_NINSWITCH	MODO DIESTRO	
 JOYCON_STRAP_MSG_NINSWITCH	Al usar los controles Joy-Con desacoplados, sigue las instrucciones, coloca las correas y sujétalos firmemente.	
-PHOTOSENSITIVIY_MSG_NINSWITCH	Existe la posibilidad de que un pequeño porcentaje de personas sufra ataques epilépticos ante la exposición a imágenes determinadas, incluidas las que presentan patrones luminosos o destellos. La exposición a ciertos patrones o fondos en una pantalla, o mientras se juega, puede desencadenar convulsiones epilépticas. Algunas condiciones pueden provocar síntomas epilépticos no detectados previamente en personas que nunca han tenido convulsiones ni epilepsia.	
+PHOTOSENSITIVIY_MSG_NINSWITCH	Existe la posibilidad de que un porcentaje muy pequeño de personas sufra ataques epilépticos ante la exposición a imágenes determinadas, incluidas las que presentan patrones luminosos o destellos. La exposición a ciertos patrones o fondos en una pantalla, o mientras se juega, puede desencadenar convulsiones epilépticas. Algunas condiciones pueden provocar síntomas epilépticos no detectados previamente en personas que nunca han tenido convulsiones ni epilepsia.	
 PHOTOSENSITIVIY_MSG_NINSWITCH2	Si tú o alguien de tu familia tiene epilepsia, consulta a un médico antes de jugar. Deja de usar el juego INMEDIATAMENTE y consulta a un médico antes de retomarlo si aparece alguno de los síntomas siguientes: mareos, problemas de visión, contracciones oculares o musculares, pérdida de conciencia, desorientación, movimientos involuntarios o convulsiones.	
-POINTCLICK_CURSORSENS_NINSWITCH	SENSIBILIDAD DEL PUNTERO	
+POINTCLICK_CURSORSENS_NINSWITCH	SENSIBILIDAD: APUNTAR Y HACER CLIC	
 FAM_CURSOR_NOT_USED	Sensibilidad del puntero FAMICOM	
 POINTCLICK_PROMPT_NINSWITCH	El modo Apuntar y hacer clic permite jugar con un solo Joy-Con como puntero. Se disfruta mejor cuando juegas en un televisor. ¿Confirmas que quieres activar el modo Apuntar y hacer clic?	
 POINTCLICK_PROMPT_ALT_NINSWITCH	El modo Apuntar y hacer clic permite jugar con un solo Joy-Con como puntero y se disfruta mejor cuando juegas en un televisor. ¿Confirmas que quieres activar los controles de Apuntar y hacer clic?	
