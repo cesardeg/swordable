@@ -129,11 +129,11 @@ INFO_CABINHEARTH	The Scythian			O fogo da cabana crepitava com um calor tranquil
 INFO_CABINSEAT	The Scythian			Em ambos os lados do fogo da cabana, observamos dois rústicos assentos de madeira.					
 INFO_GOGOLITHICMASS	The Scythian			Notamos uma caveira galhada flutuando nas trevas sob Mingi Taw.					
 INFO_MEGATOMBTRIFECTA	The Scythian			Nas trevas sob Mingi Taw, distinguimos uma representação pictográfica da Tríade Trigônica.					
-INFO_ROCKSHOWGIRL	The Scythian			No show de rock, encontramos Samae e nos pareceu que ela sussurrou algo como 'Fogo, caminha comigo'.					
+INFO_ROCKSHOWGIRL	The Scythian			No show de rock encontramos Samae e nos pareceu que ela sussurrou algo como 'Fogo, caminha comigo'.					
 INFO_ROCKSHOWSKOLOTOI	The Scythian			Notamos um daqueles esqueletos despreocupados curtindo o ritmo ominoso do show de rock.					
 INFO_ROCKSHOWJIM	The Scythian			Quem encabeçava o show de rock era ninguém menos que o misterioso músico conhecido como Jim Guthrie.			160	020.jpg	T2G03
-INFO_ROCKSHOWBOOR	The Scythian			Avistamos o Patife Grisalho exibindo seu estilo nudista no show.			121	021.jpg	E2G15
-INFO_ROCKSHOWCROWD	The Scythian			Havia uma multidão considerável de senhoras e senhores no show de rock.					
+INFO_ROCKSHOWBOOR	The Scythian			Avistamos o Patife Grisalho exibindo seu estilo nudista no show de rock.			121	021.jpg	E2G15
+INFO_ROCKSHOWCROWD	The Scythian			No show de rock havia uma multidão considerável de senhoras e senhores.					
 INFO_ROCKSHOWARCHETYPE	The Scythian			Distinguimos o personagem conhecido como o Arquétipo no show de rock e nos perguntamos o que ele estava tramando com tudo isso.					
 INFO_TRIGONGROVESKULLSTICK	The Scythian			Um lúgubre poste decorado com uma caveira galhada conectava este lugar ao espectro imortal que espreita sob Mingi Taw.					
 GRAVE_TRIGONGROVE	The Scythian			Na Clareira Trigônica, além da caverna cavernosa na campina, uma tumba solitária despertou nossa curiosidade.					
@@ -451,7 +451,7 @@ GIRL_AFTERYELLOWBEAM	The Scythian			Samae estava sentada em uma rocha perto de o
 			Archetype/trifecta	Pressentimos que os dois Trígonos restantes poderiam estar perdidos nos sonhos ou algo assim.					
 LOGFELLA_AFTERYELLOWBEAM	The Scythian			Troncadeiro havia voltado a cortar lenha, e era evidente que estava curtindo muito aquilo.					
 			triangle/Triangle	Tinha visto o feixe celestial que se erguia no céu atrás da campina, então perguntamos sobre os segredos da Clareira Trigônica.					
-				Ele nos contou uma história que seu povo narrava às crianças para lhes provocar arrepio.					
+				Ele nos contou uma história que seu povo narrava às crianças para lhes provocar arrepios.					
 			Archetype/trifecta	Troncadeiro nos falou de um grupo de citas que, há muitas luas, chegaram a estas montanhas esquecidas em busca da Tríade Trigônica.					
 			gourd/gourd	A comitiva aprendeu a buscar os espíritos silvanos e enviá-los ao céu... e depois procurou um lugar para operar um milagre.					
 			Archetype/trifecta	Esperavam ativar os três feixes celestiais na Clareira Trigônica, mas não sabiam onde nem quando encontrariam os Trígonos.					
@@ -566,7 +566,7 @@ ARCHETYPE_CRESCENTWANE	The Archetype			O ciclo lunar está quase completo. A Lua
 DARKMOONLOOMS_ARCHETYPE	The Archetype			A Lua Sombria se aproxima. O fim do ciclo lunar está muito perto.					
 DARKMOONBEGINS_ARCHETYPE	The Archetype			Contemple: a Lua Sombria!			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			Ao caminhar em sonhos, encontrei um parlamento de árvores atingido por um raio e senti a presença de algo profundamente sagrado.					
-DARKMOON_LOGFELLATHOUGHTS	Logfella			Ontem à noite, ouvi o som de uma música vibrante que se filtrava pelos bosques atrás de minha cabana. Que diabos é isso?					
+DARKMOON_LOGFELLATHOUGHTS	Logfella			Ontem à noite, ouvi o som de uma música vibrante que se filtrava pelos bosques atrás da minha cabana. Que diabos é isso?					
 DARKMOON_DOGFELLATHOUGHTS	Dogfella			Au Au Au. Em meu estado de sonho, só vislumbrei as sutis e sussurrantes espumas dos espíritos silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Reconstruímos a Tríade Trigônica e agora somos heróis.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Inexplicavelmente, assassinamos 3 coelhos indefesos.					
