@@ -145,7 +145,7 @@ This document serves as the **authoritative reference** for Superbrothers: Sword
 | move it move it | mover el bote | remexer | ✅ Fast movement, colloquial |
 | shield button | botón del escudo | botão do escudo | ✅ With article |
 | hold shield to heal (`HOLD_SHIELD_TO_HEAL`) | MANTÉN PARA CURARTE | SEGURE PARA SE CURAR | ✅ Deliberate omission of `"shield"` to prevent horizontal collision with the sword sprite (*see §10.1*) |
-| swing sword | blande la espada / golpea con la espada | branda a espada / rebata com a espada | ✅ |
+| swing sword | blande la espada / golpea con la espada | rebata com a espada / golpeie com a espada | ✅ |
 | dodge/evade | esquivar | esquivar | ✅ |
 
 ### Game States
