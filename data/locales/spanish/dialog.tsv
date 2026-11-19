@@ -1,7 +1,7 @@
 id	user	icon	portrait	English	Japanese	Final Notes	pic	Filenames	Codes
 GIRL_TONGUES	Girl			Lejos de las estepas de Escitia, asoladas por la guerra, conocimos a una chica de cabello oscuro en un prado iluminado por el sol. #holamundo			72	001.jpg	Z0E1Q
 				Los montañeses del Cáucaso la llamaban Samae, y parecía muy simpática. #obvio					
-SIGN_TADPOL	The Scythian			"""Donde el fuego alumbra, el hogar se vislumbra."" #threegutrecordsx100pre"					
+SIGN_TADPOL	The Scythian			"""El hogar está donde está el fogón."" #threegutrecordsx100pre"					
 SIGN_WALL	The Scythian			"""Escitia, Cimeria, Asiria y Persia, todos son reinos de los hombres. Mingi Taw es el Reino de la Nube."""					
 SIGN_CHASM	The Scythian			Al borde del Precipicio Peligroso se erguía una piedra tallada con el glifo de una espada alzada al cielo bajo los colores del arcoíris.					
 				Los escitas aborrecemos los arcoíris. #odiososarcoiris			21	002.jpg	40C27
@@ -38,7 +38,7 @@ LOGFELLA_HINT_SITTINGDOWN	The Scythian	AdventureUI/tweetIconBabelBook		Tronquero
 				Parecía saberlo todo sobre el odioso arcoíris y el glifo cercano que representaba una espada alzada al cielo.					
 				Y aun así, no nos dio ninguna pista sobre qué hacer después, lo cual nos irritó bastante, la verdad.					
 LOGFELLA_WOLF_HINT	The Scythian	AdventureUI/tweetIconBabelBook		El leñador había visto alguna criatura monstruosa y decidió dejar que nos encargáramos de ello.			26	010.jpg	Q1B00
-LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Habíamos recuperado el Megatomo y Tronquero estaba 100 % listo para mover el bote hasta la seguridad de su morada.					
+LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Habíamos recuperado el Megatomo y Tronquero estaba 100 % listo para apretar el paso hasta la seguridad de su morada.					
 				A pesar de la tormenta que se avecinaba, una pequeña canción brotó en nuestro corazón.					
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		Ante la inminente tormenta, Tronquero admitió que tenía los pelos de punta.					
 				¿Intentaba asustarnos a propósito? #si #no #quizas					
@@ -75,13 +75,13 @@ LOGFELLA_STORM	The Scythian			Tronquero había renunciado a cortar leña debido 
 GIRL_STORM	The Scythian			Samae, la chica de cabello oscuro, sentía la angustia. #angustia					
 			gourd/gourd	Desde que estalló la tormenta, había notado las susurrantes espumas de los espíritus silvanos que dormían en los bosques cercanos.					
 			gourd/gourd	Se preguntaba si los tres espíritus podrían ayudar a disipar la tormenta. #si					
-			gourd/gourd	Nos pidió investigar las susurrantes espumas que brotaban del insondable estanque frente a la choza.					
-			gourd/gourd	Mencionó un espíritu en un prado cercano y otro en un curioso nido, hogar de tres pájaros cantores empapados.					
+			gourd/gourd	Nos pidió investigar las susurrantes espumas que brotaban del estanque profundo frente a la choza.					
+			gourd/gourd	Mencionó un espíritu en un prado cercano y otro en una casita de pájaros, hogar de tres aves cantoras empapadas.					
 			gourd/gourd	Nos encomendó buscar las espumas de esos tres espíritus y enviarlos al cielo con la Canción de Espadancia.					
 ARCHETYPE_SWORCERY	The Archetype			"""Es hora de aprender la Canción de Espadancia, una técnica de expansión de la conciencia que revela una dimensión musical mística."""					
-			gourd/gourd	"""Mantén la calma y sigue mis instrucciones para despertar al espíritu silvano que duerme en las frescas aguas del insondable estanque."""					
+			gourd/gourd	"""Mantén la calma y sigue mis instrucciones para despertar al espíritu silvano que duerme en las frescas aguas del estanque profundo."""					
 ARCHETYPE_TADPOLES	The Archetype			Estaba 100 % claro que el hombre de ropas extrañas esperaba que hiciéramos algo, pero no teníamos ni idea de qué.					
-			gourd/gourd	"""¿Ves las susurrantes espumas en el insondable estanque? Un espíritu silvano duerme allí y debes despertarlo."""					
+			gourd/gourd	"""¿Ves las susurrantes espumas en el estanque profundo? Un espíritu silvano duerme allí y debes despertarlo."""					
 			gourd/gourd	"""Mantén presionada a La Escita para entonar la Canción de Espadancia y acceder a una realidad dentro de la que ya conoces."""					
 			gourd/gourd	"""Guía a las dos criaturitas que nadan hacia donde duerme el espíritu y envíalo al cielo con tres toques de espadancia."""			49	013.jpg	61D3A
 GIRL_LOSTKEY	The Scythian			Samae se resguardaba de la lluvia bajo el amplio tejado de madera del pozo.					
@@ -102,11 +102,11 @@ INFO_UNWELLWELL	The Scythian			El pozo soltó un sollozo. #pozo #sollozo
 INFO_WELLNESS	The Scythian			Bien está lo que bien acaba. #pozo #sollozo #bienestar					
 INFO_WELLWHITESTAG	The Scythian			LARGA VIDA A LA NUEVA CARNE					
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
-INFO_CABINCHIMNEY	The Scythian			Junto a un insondable estanque, descubrimos una robusta choza de piedra con un tejado de paja.					
+INFO_CABINCHIMNEY	The Scythian			Junto a un estanque profundo, descubrimos una robusta choza de piedra con un tejado de paja.					
 INFO_CABINWOODPILE	The Scythian			Vimos una pila de leña, nada del otro mundo.					
 INFO_SPUME	The Scythian			Localizamos las sutiles y susurrantes espumas de un espíritu silvano sumido en el sueño. Y ahora... ¿cómo lo despertamos?					
-INFO_NESTBOX	The Scythian			Avistamos un curioso nido que ahora era hogar de una colmena de escoria y villanía.			13	015.jpg	B1C5F
-INFO_NESTBOXWEATHERED	The Scythian			Avistamos un nido desgastado con un inquietante parecido a un rostro.					
+INFO_NESTBOX	The Scythian			Avistamos una curiosa casita de pájaros que ahora era hogar de una colmena de escoria y villanía.			13	015.jpg	B1C5F
+INFO_NESTBOXWEATHERED	The Scythian			Avistamos una casita de pájaros desgastada con un inquietante parecido a un rostro.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre un puente de troncos en el antiguo camino, se erguía un lúgubre mástil decorado con calaveras toscas y angulosas.					
 INFO_GOLDTRIGONALTAR	The Scythian			Más allá de la cueva cavernosa del prado, en un claro oculto, avistamos un extraño conjunto de estructuras de piedra.					
 			Archetype/trifecta	... ¿Era este el Claro Trigónico? #clarotrigonico			93	016.jpg	B1D6J
@@ -154,7 +154,7 @@ GRAVE_LOGBRIDGE	The Scythian			En un matorral cercano al antiguo camino, unas tu
 GRAVE_LOGBRIDGEGHOST	The Scythian			En un matorral cercano al antiguo camino, junto a unas tumbas, nos encontramos con unos fantasmas que parecían bastante amigables.			116	025.jpg	62B55
 				El fantasma que habló era un gigante que conocíamos de las viejas historias, cuyo célebre retrato exigía obediencia. #andre					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, junté a mi gente y nos lanzamos a reconstruir la Tríada Trigónica."""					
-				"""Habíamos oído hablar de la entrada al Arremolinado Infinito en la cima de Mingi Taw y pensamos que sería genial verlo."""					
+				"""Habíamos oído hablar de la entrada al Infinito Arremolinado en la cima de Mingi Taw y pensamos que sería genial verlo."""					
 			triangle/Triangle	"""Así que bueno, domamos el Trigón Dorado y le echamos un vistazo al Claro Trigónico antes de ir por el Trigón de la Luna Radiante."""					
 				"""Lo de encontrar el Trigón de la Luna Radiante no fue muy bien... nos perdimos por completo, la verdad."""					
 				"""Poco a poco comprendimos el valor del ciclo lunar y su influencia en los espíritus que duermen en los reinos del crepúsculo."""					
@@ -171,7 +171,7 @@ GRAVE_CHASMGHOST	The Scythian			Al filo del Precipicio Peligroso, ante la tumba 
 				"""Los demás del grupo están enterrados en un matorral cercano al antiguo camino, junto al puente de troncos."""					
 			triangle/Triangle	"""Localizamos y domamos el Trigón Dorado con bastante facilidad, pero después de eso nos quedamos totalmente estancados."""					
 				"""Buscábamos el Trigón de la Luna Radiante, así que nos sentamos a mirar el cielo, esperando que cambiara el humor de la luna."""					
-				"""¡Era aburridísimo! No iba a quedarme esperando días y días hasta que la Luna Radiante imperara."""					
+				"""¡Era aburridísimo! No iba a quedarme esperando días y días hasta que la Luna Radiante resplandeciera."""					
 				"""Dejé a esos pobres diablos dando vueltas sin rumbo mientras le buscaba la vuelta a este truco de la lógica lunar."""					
 				El viejo fantasma resplandeciente contó cómo había hecho trampa al salir de S:S&SEP y ajustar la fecha y hora de su dispositivo.					
 				Describió lo engorroso que fue el proceso, ¡pero nos dijo que eso le permitió alterar las fases de la luna!					
@@ -299,28 +299,28 @@ ARCHETYPE_TRIFECTAOUTRO	The Archetype		Archetype/trifecta	Entonces, ¿domaste lo
 			Archetype/trifecta	Eres especial y por eso mismo te quiero tanto.					
 				Fue un acto de gran valentía y generosidad ofrecer como mártir a La Escita en la cima de Mingi Taw.					
 				En serio, estamos en deuda contigo.					
-				Solo te queda arrastrar por la fuerza a La Escita hasta la cima y contemplar el Arremolinado Infinito.					
+				Solo te queda arrastrar por la fuerza a La Escita hasta la cima y contemplar el Infinito Arremolinado.					
 				Ten valor, ¡el final está cerca!					
 ARCHETYPE_GHOULINTRO	The Archetype								
 				Bueno, aquí estamos. Esta breve sesión marcará el fin del tratamiento de S:S&SEP.					
 				El funesto cometido de La Escita está casi cumplido.					
 				Por desgracia, el cuerpo y la psique de La Escita han sido gravemente mermados por la espadancia... ella está a las puertas de la muerte.			162	047.jpg	J4F7B
-			Archetype/trifecta	Todo lo que resta es descifrar los secretos del Claro Trigónico y subir el Megatomo al Arremolinado Infinito en la cima de Mingi Taw.					
+			Archetype/trifecta	Todo lo que resta es descifrar los secretos del Claro Trigónico y subir el Megatomo al Infinito Arremolinado en la cima de Mingi Taw.					
 				Presiona 'Jugar' solo si tienes el valor de presenciar el atroz tormento del martirio.					
-END	The Scythian			En la cima de Mingi Taw detonamos el Megatomo y lo eyectamos al Arremolinado Infinito.					
-END_CHEAT	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #trampa					
-END_CHEAT_NOBOOR	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #trampa #sincanoso					
-END_CHEAT_PSYCHO	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #trampa #psicopata					
-END_CHEAT_LOVE	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #trampa #amor			202	048.jpg	D4A81
-END_MOONGROTTO_PSYCHO	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #grutalunar #psicopata			180	049.jpg	74D9P
-END_MOONGROTTO_LOVE	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #grutalunar #amor			176	050.jpg	Y5F0P
-END_HONEST_PSYCHO	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #honesto #psicopata			179	051.jpg	M5C1H
-END_HONEST_LOVE	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #honesto #amor			177	052.jpg	55E2B
-END_HONEST_NOBOOR	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Arremolinado Infinito. #honesto #sincanoso			178	053.jpg	75G3V
+END	The Scythian			En la cima de Mingi Taw detonamos el Megatomo y lo eyectamos al Infinito Arremolinado.					
+END_CHEAT	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Infinito Arremolinado. #trampa					
+END_CHEAT_NOBOOR	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Infinito Arremolinado. #trampa #sincanoso					
+END_CHEAT_PSYCHO	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Infinito Arremolinado. #trampa #psicopata					
+END_CHEAT_LOVE	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Infinito Arremolinado. #trampa #amor			202	048.jpg	D4A81
+END_MOONGROTTO_PSYCHO	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Infinito Arremolinado. #grutalunar #psicopata			180	049.jpg	74D9P
+END_MOONGROTTO_LOVE	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Infinito Arremolinado. #grutalunar #amor			176	050.jpg	Y5F0P
+END_HONEST_PSYCHO	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Infinito Arremolinado. #honesto #psicopata			179	051.jpg	M5C1H
+END_HONEST_LOVE	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Infinito Arremolinado. #honesto #amor			177	052.jpg	55E2B
+END_HONEST_NOBOOR	The Scythian			En la cima de Mingi Taw subimos el Megatomo a la eterna seguridad del Infinito Arremolinado. #honesto #sincanoso			178	053.jpg	75G3V
 GIRL_GHOULTHOUGHTS	Girl			¿Sabrá La Escita que es posible detener a la Masa Gogolítica tocando su calavera con espadancia? Probablemente no.					
-				Espero que La Escita sepa que debe mantener presionado sobre el camino para mover el bote a toda velocidad... si no, estará frita.					
+				Espero que La Escita sepa que debe mantener presionado sobre el camino para apretar el paso... si no, estará frita.					
 				¿Dónde estoy? ¿Qué pasó? Lo último que recuerdo es que caminaba en sueños por el bosque cuando vi una inquietante luz rosada.					
-LOGFELLA_GHOULTHOUGHTS	Logfella			La Escita sigue hablando sobre su funesto cometido de abrir una entrada al Arremolinado Infinito en la cima de Mingi Taw.					
+LOGFELLA_GHOULTHOUGHTS	Logfella			La Escita sigue hablando sobre su funesto cometido de abrir una entrada al Infinito Arremolinado en la cima de Mingi Taw.					
 				Todo ha sido una locura lunática desde que La Escita apareció hace muchas lunas.					
 LOGFELLA_GHOUL	The Scythian			Cerca del Claro Trigónico, despertamos aturdidos de un profundo sueño, con Tronquero a nuestro lado.			88	054.jpg	J5D44
 				Tronquero nos contó que Samae había desaparecido la noche anterior.					
@@ -334,21 +334,21 @@ DOG_AVATAR			AdventureUI/dudeDogfellaIdle1
 AMPHITHEATRE_LEFT	The Scythian	AdventureUI/tweetIconInfo		Estos dos chiflados afirmaban estar entre los creadores de este mundo tan raro.			159	055.jpg	A5G55
 AMPHITHEATRE_RIGHT	The Scythian	AdventureUI/tweetIconInfo		Estos dos bromistas afirmaban estar entre los creadores de este mundo tan raro.			159	055.jpg	A5G55
 GOURD_MOUNTAINMEADOW	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano en la fértil tierra de un prado donde pastaban cuatro pares de ovejas inútiles.			52	056.jpg	15B63
-GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Entonamos la Canción de Espadancia y despertamos a un espíritu silvano de las frescas aguas de un insondable estanque. ¡Qué raro!			50	057.jpg	G5F78
-GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano en un curioso nido, rodeado de tres pájaros cantores empapados.					
+GOURD_CABIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Entonamos la Canción de Espadancia y despertamos a un espíritu silvano de las frescas aguas de un estanque profundo. ¡Qué raro!			50	057.jpg	G5F78
+GOURD_UPSLOPEWOODSONE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano en una curiosa casita de pájaros, rodeado de tres aves cantoras empapadas.					
 GOURD_UPSLOPEWOODSTWO	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano junto a un sólido puente de troncos, donde cuatro pares de árboles se alzan sobre un impetuoso río.					
 GOURD_UPSLOPEWOODSFOUR	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Despertamos a un espíritu silvano entre dos odiosos arcoíris al borde del Precipicio Peligroso.					
 GOURD_WATERFALLS	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Sombría reina, despertamos a un espíritu silvano rodeado por cinco cascadas.					
 GOURD_MOUNTAINTOP	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Sombría reina, despertamos a un espíritu silvano entre la maleza en lo alto de un peñasco rocoso.					
-GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano en un claro oculto donde casualmente se encontraba Jim Guthrie.			132	058.jpg	G5F8U
-GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano en un lago tranquilo donde una mamá pata se agitaba frenética.					
-GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano donde el reflejo del lago era sutilmente incongruente.			127	059.jpg	65D98
-GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano en un apacible lago bajo una tríada de búhos.					
+GOURD_SECRET2_STONESHELTER	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante resplandece, despertamos a un espíritu silvano en un claro oculto donde casualmente estaba Jim Guthrie.			132	058.jpg	G5F8U
+GOURD_MOUNTAINLAKESHORE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante resplandece, despertamos a un espíritu silvano en un lago calmo donde una mamá pata se agitaba frenética.					
+GOURD_LAKESHOREBUNNYSTRAIGHTAWAY	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante resplandece, despertamos a un espíritu silvano donde el reflejo del lago era sutilmente incongruente.			127	059.jpg	65D98
+GOURD_LAKESHORELAKE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante resplandece, despertamos a un espíritu silvano en un apacible lago bajo una tríada de búhos.					
 GOURD_PINKCOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Nos invadió la extraña sensación de que, quizá, solo quizá, era tiempo de milagros. #milagros					
 GOURD_MOUNTAINSIDE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Sombría reina, despertamos a un espíritu silvano rodeado por tres pequeñas cascadas.					
 GOURD_SECRET1_FOOTOFMOUNTAIN	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Sombría reina, despertamos a un espíritu silvano entre cuatro arbolitos redondos en lo más oscuro del bosque.					
 GOURD_BRISKLYWALKING	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Sombría reina, despertamos a un espíritu silvano entre la maleza al otro lado del lago.					
-GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante impera, despertamos a un espíritu silvano que acechaba entre las raíces de un árbol titánico.					
+GOURD_HUGETREE	The Scythian	AdventureUI/tweetIconGourd	gourd/gourd	Mientras la Luna Radiante resplandece, despertamos a un espíritu silvano que acechaba entre las raíces de un árbol titánico.					
 GOURD_BLUECOLLECTED	The Scythian	AdventureUI/tweetIconGourd	Archetype/trifecta	Nos invadió la extraña sensación de que, tal vez, era tiempo de milagros. ¿Y nuestros milagros dónde están? #milagros			77	060.jpg	86D06
 GCLUE_MOUNTAINMEADOW	Dogfella	AdventureUI/tweetIconGourd		Guau Guau Guau Guau Guau Guau. #ladrando			135	061.jpg	M6F1I
 				Guau Guau Guau. #sololadrando					
@@ -377,14 +377,14 @@ GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Mis troncos guardan muc
 GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Tal vez oíste hablar de una isla imposible bajo la Luna Radiante... ¿Quizá lo leíste en internet?			134	065.jpg	H6A5I
 				Hemos estado monitoreando tus acciones en silencio y queremos señalar que, a mayor vacilación, menor será la celebración.					
 				Parece que has progresado bastante en tu esfuerzo para localizar y domar el Trigón de la Luna Radiante, ¡muy bien hecho!					
-GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		¿Son los espíritus silvanos hijos de la Tierra o son visitantes solitarios del Arremolinado Infinito?					
+GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		¿Son los espíritus silvanos hijos de la Tierra o son visitantes solitarios del Infinito Arremolinado?					
 				Si te soy sincera, los espíritus silvanos me asustan muchísimo. O sea... ¿qué son? ¿De dónde vienen?					
 GCLUE_SECRET1_FOOTOFMOUNTAIN	Dogfella	AdventureUI/tweetIconGourd		Cuando los espíritus silvanos hayan sido enviados al cielo y llegue el tiempo de milagros, debes buscar el árbol titánico.					
 				Sé que sabes lo que sé y quiero que sepas que tienes 100 % de razón.			109	066.jpg	F6D6H
 				Guau Guau Guau Snif Guau Guau Guau.					
 GCLUE_BRISKLYWALKING	Dogfella	AdventureUI/tweetIconGourd		Solo el fin de tu funesto cometido traerá la paz de vuelta a nuestras vidas.					
 				Solo la Tríada Trigónica te permitirá comprender los secretos del Claro Trigónico.					
-				El Arremolinado Infinito en la cima de Mingi Taw te espera.					
+				El Infinito Arremolinado en la cima de Mingi Taw te espera.					
 				Guau Guau Guau.					
 GCLUE_WATERFALLS	Girl			¿Alguna vez notaste que a veces las palabras suenan como simple ruido, pero otras veces el ruido produce el sonido más bello?			132	058.jpg	G5F8U
 GCLUE_HUGETREE	Logfella	AdventureUI/tweetIconGourd		Hay un montón de dichos extraños aquí entre los montañeses del Cáucaso.					
@@ -395,7 +395,7 @@ BLUETRIGON_COLLECTED	The Scythian			Conquistamos el Trigón de la Luna Sombría.
 GCLUE_BLUECOLLECTED	Girl	AdventureUI/tweetIconGourd		Todos los espíritus de la Luna Sombría fueron enviados al cielo, así que volvió a ser tiempo de milagros. ¡Adoro los milagros!					
 JIM_HINT1_OFF	The Scythian			En un claro oculto, nos encontramos con un misterioso músico junto a un fuego crepitante.					
 JIM_PINKDAWN	The Scythian			En un claro oculto, nos encontramos con un misterioso músico junto a un fuego crepitante. #jimguthrie					
-JIM_BRIGHTMOON	The Scythian			Mientras la Luna Radiante impera, junto a un fuego crepitante hallamos a un misterioso músico llamado Jim Guthrie.			128	070.jpg	07G00
+JIM_BRIGHTMOON	The Scythian			Mientras la Luna Radiante resplandece, junto a un fuego crepitante hallamos a un misterioso músico llamado Jim Guthrie.			128	070.jpg	07G00
 JIM_POSTSWORCERY	The Scythian			El misterioso músico conocido como Jim Guthrie había presenciado nuestra espadancia y se lo tomó muy bien.					
 JIM_POSTGOURD	The Scythian			El misterioso músico conocido como Jim Guthrie dijo que estaba listo para tocar una pequeña canción si queríamos escucharla.					
 				Jim nos invitó a tomar asiento junto al fuego.					
@@ -438,10 +438,10 @@ DOGFELLA_GETDARKTRIGON	The Scythian			Después de activar otro haz celestial en 
 DOGFELLA_GETBRIGHTTRIGON	The Scythian			Después de activar otro haz celestial en el Claro Trigónico, notamos algo extraño en el perro llamado Perrero.					
 			Archetype/trifecta	De repente, pareció que lo entendíamos: nos instó a buscar el Trigón de la Luna Radiante y completar la Tríada Trigónica.					
 DOGFELLA_THREETRIGONS	The Scythian			Después de activar otro haz celestial en el Claro Trigónico, notamos algo extraño en el perro llamado Perrero.					
-			Archetype/trifecta	De repente, pareció que lo entendíamos: nos instó a activar el tercer haz celestial y abrir la entrada al Arremolinado Infinito.					
+			Archetype/trifecta	De repente, pareció que lo entendíamos: nos instó a activar el tercer haz celestial y abrir la entrada al Infinito Arremolinado.					
 DOGFELLA_TRUTHBOMB	Dogfella			Guau Guau Guau.					
 				Guau Guau Snif Guau.					
-				El cosmos del Arremolinado Infinito en la cima de Mingi Taw espera a quien carga el Megatomo.					
+				El cosmos infinito y arremolinado en la cima de Mingi Taw espera a quien porta el Megatomo.					
 				Guau Guau Guau Guau Guau.					
 				Guau Guau Guau.					
 GIRL_AFTERYELLOWBEAM	The Scythian			Samae estaba sentada en una roca cerca de donde el leñador cortaba leña.					
@@ -460,10 +460,10 @@ LOGFELLA_AFTERYELLOWBEAM	The Scythian			Tronquero había regresado a cortar leñ
 				Le dijimos a Tronquero que era un buen relato, aunque no nos había asustado demasiado.					
 GIRL_GRAVESCOMPLETETHOUGHTS	Girl								
 ARCHETYPE_MOONGROTTO	The Archetype			Veo que lograste alterar el humor de la luna en la Gruta Lunar. Me pregunto cuánto durará esta Paradoja Temporal.					
-MIRACLE2_ISLAND	The Scythian			Mientras la Luna Radiante impera, obramos un extrañísimo milagro de espejismo lunar en una isla imposible en medio de un apacible lago.			136	073.jpg	W7A3K
+MIRACLE2_ISLAND	The Scythian			Mientras la Luna Radiante resplandece, obramos un extrañísimo milagro de espejismo lunar en una isla imposible en medio de un apacible lago.			136	073.jpg	W7A3K
 MIRACLE2_PINKTRIGONCOLLECTED	The Scythian			Conseguimos el Trigón de la Luna Radiante. Por la gloria y por pura terquedad. #trigondomado			155	068.jpg	56F8U
 MIRACLE2_BRIGHTMOONTRIGONCOLLECTED	The Scythian			Sentimos la tentación de abandonar todo este asunto del funesto cometido, pero había algo tan atractivo en el martirio.					
-				Bueno, probablemente no importará mucho al final. Después de todo, entrar al Arremolinado Infinito no requiere un examen físico.					
+				Bueno, probablemente no importará mucho al final. Después de todo, entrar al Infinito Arremolinado no requiere un examen físico.					
 				Era evidente que tantos paseos oníricos y tanta doma de Trigones empezaban a pasar factura.					
 				Cuando amainaron la luz y el sonido, aparecimos en la orilla de un lago con un dolor de cabeza terrible y la nariz ensangrentada.					
 GIRL_BRIGHTMOONTRIGONCOLLECTED	The Scythian		Archetype/trifecta	Hablamos con Samae del encuentro onírico con el Trigón de la Luna Radiante y de reconstruir la Tríada Trigónica.					
@@ -503,7 +503,7 @@ ARCHETYPE_SPAREBOOR	The Archetype			Ahora, me imagino que te preguntarás para q
 LOGFELLA_FOUNDATION	Logfella			...					
 				...					
 				...					
-SCYTHIAN_FOUNDATION	The Scythian			Despertamos a un espíritu silvano en un insondable estanque con lirios junto a una choza de piedra. No sabemos qué significa.					
+SCYTHIAN_FOUNDATION	The Scythian			Despertamos a un espíritu silvano en un estanque profundo con lirios junto a una choza de piedra. No sabemos qué significa.					
 				Bajo una incesante tormenta, aprendimos a entonar la Canción de Espadancia y a despertar a un espíritu silvano dormido.					
 				Espera... ¿por qué hablo en singular? ¿No se supone que la historia va en plural? #erratadeedicion					
 				¿Mis pensamientos van en orden cronológico? ¿Esto es lo que pensaba hace unos segundos...?					
@@ -532,17 +532,17 @@ GIRL_HALFWAX	The Scythian			"""Anoche soñé que caminaba por el bosque y moría
 ARCHETYPE_HALFWAX	The Archetype			Algunos folcloristas lunáticos afirman que no existe una relación causal entre la locura y el humor de la luna.					
 LOGFELLA_ALMOSTWAX	The Scythian			El leñador dijo que casi nunca pensaba en la montaña agreste de Mingi Taw ni en la Masa Gogolítica.					
 				Sin embargo, mencionó que últimamente su presencia espectral había comenzado a acosarlo.					
-				De hecho, el leñador admitió que se le ponían los pelos de punta cuando la Luna Radiante imperaba... y cuando la Luna Sombría reinaba.					
-GIRL_ALMOSTWAX	The Scythian			Samae comentó algo sobre la luna creciente y se preguntaba cuánto tiempo pasaría hasta que la Luna Radiante imperara en el cielo.					
-ARCHETYPE_ALMOSTWAX	The Archetype			La luna crece un poco cada día... en unos pocos días, la Luna Radiante imperará... ¿Y eso qué?			165	046.jpg	P4B6A
-LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se volvía medio loco cada vez que la Luna Radiante imperaba en el cielo.			135	061.jpg	M6F1I
-GIRL_BRIGHTMOON	The Scythian			Samae habló de sus paseos oníricos por el bosque poco antes del amanecer, mientras la Luna Radiante imperaba en el cielo.					
+				De hecho, admitió que se le ponían los pelos de punta cuando la Luna Radiante resplandecía... y cuando la Luna Sombría reinaba.					
+GIRL_ALMOSTWAX	The Scythian			Samae comentó algo sobre la luna creciente y se preguntaba cuánto faltaría para que la Luna Radiante resplandeciera en el cielo.					
+ARCHETYPE_ALMOSTWAX	The Archetype			La luna crece un poco cada día... en unos pocos días, la Luna Radiante resplandecerá... ¿Y eso qué?			165	046.jpg	P4B6A
+LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se volvía medio loco cada vez que la Luna Radiante resplandecía en el cielo.			135	061.jpg	M6F1I
+GIRL_BRIGHTMOON	The Scythian			Samae habló de sus paseos oníricos por el bosque poco antes del amanecer, mientras la Luna Radiante resplandecía en el cielo.					
 				Mencionó el aire fresco de la mañana y una isla imposible en medio de un apacible lago.					
-ARCHETYPE_BRIGHTMOON	The Archetype			Sal y mira hacia arriba. ¡Maravíllate con la Luna Radiante que impera en el cielo!			95	079.jpg	07D95
+ARCHETYPE_BRIGHTMOON	The Archetype			Sal y mira hacia arriba. ¡Maravíllate con la Luna Radiante que resplandece en el cielo!			95	079.jpg	07D95
 LOGFELLA_ALMOSTWANE	The Scythian			El leñador no era mucho de historias y admitió que solían darle sueño, pero, pese a todo, sabía bastante del tema.					
 				Conocía todos los detalles sobre Mingi Taw y por qué era conocido como el Reino de la Nube.					
 				Sabía que Mingi Taw era la montaña más alta del mundo conocido, incluso más que el monte Olimpo, donde habitaban los dioses aqueos.					
-				Asimismo, sabía que la cima de Mingi Taw, siempre envuelta en nubes, era considerada la entrada al Arremolinado Infinito.					
+				Asimismo, sabía que la cima de Mingi Taw, siempre envuelta en nubes, era considerada la entrada al Infinito Arremolinado.					
 				El leñador nunca se había atrevido a poner un pie en las laderas malditas de Mingi Taw, y nunca lo haría.					
 GIRL_ALMOSTWANE	The Scythian			Samae se preguntaba por qué tantos hongos crecían justo antes y después de la Luna Radiante... ¿A qué se debería?					
 ARCHETYPE_ALMOSTWANE	The Archetype			La luna está un poco menos brillante que ayer, y el ciclo lunar empieza a llegar a su fin.					
@@ -555,7 +555,7 @@ GIRL_HALFWANE	The Scythian			Samae dijo haber caminado más allá del muro de pi
 ARCHETYPE_HALFWANE	The Archetype			El ciclo lunar está llegando a su fin y falta menos de una semana para la Luna Sombría.					
 LOGFELLA_CRESCENTWANE	The Scythian			El leñador no era mucho de historias y admitió que solían darle sueño, pero, pese a todo, sabía bastante del tema.					
 				Conocía a la Masa Gogolítica, el espectro inmortal que acechaba en la oscuridad bajo Mingi Taw.					
-				Nos habló del Arremolinado Infinito, más allá de nuestra comprensión, de donde provino el Megatomo en una remota Edad de Piedra.					
+				Nos habló del Infinito Arremolinado, más allá de nuestra comprensión, de donde provino el Megatomo en una remota Edad de Piedra.					
 				Habló de seres inmortales del espacio que despertaron en la humanidad una forma rudimentaria de transmisión de pensamiento lingüístico.					
 				Estos inmortales dieron a la humanidad el don de la civilización y, con ello, la condena de una inevitable extinción.					
 				Los escitas intentaron frenar el avance insidioso de la civilización; por eso aislaron el Megatomo con su guardián inmortal.					

@@ -78,10 +78,10 @@ This document serves as the **authoritative reference** for Superbrothers: Sword
 | **stone hut** | choza de piedra | cabana de pedra | ⚠️ Logfella's dwelling |
 | **stone wall** | muro de piedra | muro de pedra | ✅ Blocks the old road |
 | **meadow** | prado | campina | ✅ Starting area |
-| **deepwater pond** | insondable estanque | insondável lagoa | ✅ Adjective before noun (Epic tone) |
+| **deepwater pond** | estanque profundo | lagoa profunda | ✅ Natural Romance postpositive order (`lagoa` vs. `lago` in PT) |
 | **old road** | antiguo camino | antigo caminho | ✅ ES: Never "viejo". PT: Never "estrada velha" |
 | **log bridge** | puente de troncos | ponte de toras | ✅ |
-| **the whirling infinite** | el Arremolinado Infinito | o Remoinhado Infinito | ✅ Summit gateway |
+| **the whirling infinite** | el Infinito Arremolinado | o Infinito Remoinhado | ✅ Summit gateway |
 
 ### Sublocations
 
@@ -114,7 +114,7 @@ This document serves as the **authoritative reference** for Superbrothers: Sword
 | hearth | fuego / hogar | fogo / lareira / lar | ⚠️ `hogar` / `lareira / lar` used in poetic/proverbial contexts |
 | firewood | leña | lenha | ✅ |
 | well | pozo | poço | ✅ |
-| nestbox | curioso nido / nido | curioso ninho / ninho | ✅ |
+| nestbox | casita de pájaros | casa de passarinho | ✅ Matches visual birdhouse pixel art (`D079`, `D108–D109`, `D338`) |
 | mushroom | hongo | cogumelo | ✅ |
 | record | disco | disco | ✅ |
 
@@ -143,7 +143,7 @@ This document serves as the **authoritative reference** for Superbrothers: Sword
 | press & hold / touch & hold | mantén presionado | mantenha pressionado / segure | ✅ Primary interaction |
 | tap / tip tap | presiona / tip tap (`TOCAR` on `CNTRL_TOUCH`) | pressione / tip tap (`TOCAR` on `CNTRL_TOUCH`) | ✅ Quick button press (`TOCAR` for Switch touchscreen diagram `CNTRL_TOUCH`; `toca` / `toque` in narrative prose) |
 | swipe | desliza | deslize | ✅ Gesture |
-| move it move it | mover el bote | remexer | ✅ Fast movement, colloquial |
+| move it move it | mover el bote (`D035`) / apretar el paso (`D041`, `D321`) | remexer (`D035`) / dar no pé (`D041`, `D321`) | ✅ Musical *Madagascar* nod in `D035`; natural haste/flight idioms in `D041` and `D321` |
 | shield button | botón del escudo | botão do escudo | ✅ With article |
 | hold shield to heal (`HOLD_SHIELD_TO_HEAL`) | MANTÉN PARA CURARTE | SEGURE PARA SE CURAR | ✅ Deliberate omission of `"shield"` to prevent horizontal collision with the sword sprite (*see §10.1*) |
 | swing sword | blande la espada / golpea con la espada | rebata com a espada / golpeie com a espada | ✅ |
@@ -199,7 +199,7 @@ This document serves as the **authoritative reference** for Superbrothers: Sword
 
 | English | Spanish (ES) | Portuguese (PT-BR) | Notes |
 |---------|--------------|-------------------|-------|
-| **The Bright Moon looms** | **La** Luna Radiante **impera** | **A** Lua Radiante **paira** | ✅ ALWAYS with article |
+| **The Bright Moon looms** | **La** Luna Radiante **resplandece** | **A** Lua Radiante **paira** | ✅ ALWAYS with article |
 | **The Dark Moon reigns** | **La** Luna Sombría **reina** | **A** Lua Sombria **reina** | ✅ ALWAYS with article |
 | crescent moon | luna creciente | lua crescente | ✅ |
 | mood/humor of the moon | el humor de la luna | o humor da lua | ✅ |
@@ -208,9 +208,9 @@ This document serves as the **authoritative reference** for Superbrothers: Sword
 ### Usage Patterns
 
 **Spanish:**
-- ✅ "Mientras **la** Luna Radiante impera"
+- ✅ "Mientras **la** Luna Radiante resplandece"
 - ✅ "Mientras **la** Luna Sombría reina"
-- ❌ Never: "Mientras Luna Radiante impera" (missing article)
+- ❌ Never: "Mientras Luna Radiante resplandece" (missing article)
 
 **Portuguese:**
 - ✅ "Enquanto **a** Lua Radiante paira"
@@ -221,7 +221,7 @@ This document serves as the **authoritative reference** for Superbrothers: Sword
 
 | Phase | Spanish Verb | Portuguese Verb |
 |-------|--------------|-----------------|
-| Bright Moon | impera (present) / imperaba, imperara (past narrative) | paira (present) / pairava, pairasse (past narrative) |
+| Bright Moon | resplandece (present) / resplandecía, resplandeciera, resplandecerá (past/future) | paira (present) / pairava, pairasse, pairará (past/future) |
 | Dark Moon | reina (present) / reinaba, reinaría (past narrative) | reina (present) / reinava, reinaria (past narrative) |
 
 ---
@@ -293,13 +293,13 @@ This document serves as the **authoritative reference** for Superbrothers: Sword
 
 #### 1. **Article Usage with Moons**
 - ✅ ALWAYS use **"la"** before Luna Radiante/Sombría.
-- ✅ "**la** Luna Radiante **impera**"
+- ✅ "**la** Luna Radiante **resplandece**"
 - ✅ "**la** Luna Sombría **reina**"
 
 #### 2. **Verb Choice for Moons**
-- Bright Moon → **"impera"** (dominates/reigns supreme).
+- Bright Moon → **"resplandece"** (shines/glows vividly in the sky).
 - Dark Moon → **"reina"** (reigns).
-- Creates intentional contrast between the two moons
+- Creates intentional visual vs. sovereign contrast between the two moons
 
 #### 3. **"Heebie Jeebies" / Fear Translation**
 - Standard: **"los pelos de punta"** (heebie jeebies) ✅
@@ -356,7 +356,7 @@ This document serves as the **authoritative reference** for Superbrothers: Sword
 - ✅ Use **"paira"** for *Lua Radiante* and **"reina"** for *Lua Sombria* in present-tense milestone prompts (`Enquanto a Lua Radiante paira` / `Enquanto a Lua Sombria reina`), inflecting naturally (`pairava`, `pairasse`, `reinava`, `reinaria`) in narrative past and subordinate contexts.
 
 #### 3. **Lagoa vs Lago**
-- **"insondável lagoa"** = deepwater pond (small body of water)
+- **"lagoa profunda"** = deepwater pond (small body of water)
 - **"lago"** = lake (large body of water)
 - These are NOT interchangeable
 
@@ -663,7 +663,7 @@ Unlike §10, the entries below are **purely linguistic, narrative, and stylistic
 | Row & ID | English Source | Cultural Reference & Context | Spanish (`es-419`) & Portuguese (`pt-BR`) Adaptation | Advice for Other Languages |
 |---|---|---|---|---|
 | `D004` (`SIGN_TADPOL`) | `"""Home is where the hearth is."" #threegutrecords4ever"` | **Three Gut Records:** The influential Canadian independent record label co-founded by composer Jim Guthrie in Guelph/Toronto (1999–2005). Also a pun on *"Home is where the heart is"* vs. *"hearth"* (fireplace). | **ES:** `"""Donde el fuego alumbra, el hogar se vislumbra."" #threegutrecordsx100pre"`<br>**PT:** `"""Onde a lareira arde, o lar faz alarde."" #threegutrecordsprasempre"` | Keep `threegutrecords` intact in the hashtag and recreate the *heart/hearth* wordplay with a warm proverb or rhyme about fire (`fuego`/`lareira`) and home (`hogar`/`lar`). |
-| `D035`, `D321` | `...to move it move it move it.` / `...to move it move it extra fast...` | **Reel 2 Real feat. The Mad Stuntman – *"I Like to Move It"* (1993):** Eurodance classic popularized globally by King Julien in DreamWorks' *Madagascar* (2005). | **ES:** `¡y a mover, mover el bote!` / `mover el bote`<br>**PT:** `nos remexer, remexer, remexer!` / `se remexer` | Use the recognizable localized hook from the *Madagascar* dub in your language (`mover el bote` in LatAm Spanish; `eu me remexo muito` in Brazilian Portuguese). |
+| `D035` | `...to move it move it move it.` | **Reel 2 Real feat. The Mad Stuntman – *"I Like to Move It"* (1993):** Eurodance classic popularized globally by King Julien in DreamWorks' *Madagascar* (2005). *(Note: `D041` and `D321` use natural haste/flight idioms `apretar el paso` / `dar no pé` rather than dance phrasing.)* | **ES:** `¡y a mover, mover el bote!`<br>**PT:** `nos remexer, remexer, remexer!` | Use the recognizable localized hook from the *Madagascar* dub in your language (`mover el bote` in LatAm Spanish; `eu me remexo muito` in Brazilian Portuguese) for the triple-repetition line `D035`. |
 | `D127` (`INFO_CABINRECORD`) | `...above the hearth. #theballadofthespacebabies` | ***"The Ballad of the Space Babies"*:** Flagship track on Jim Guthrie's *Sword & Sworcery LP: The Ballad of the Space Babies* soundtrack. | Kept as `#theballadofthespacebabies` in ES and PT. | Leave the song title hashtag in English so it links directly to the official track title. |
 | `D170` (`GRAVE_MEADOWGHOST*`) | `Last year before the yuletide Andre The Giant assembled a posse...` | **André the Giant & Shepard Fairey's *"Andre the Giant Has a Posse"* (1989):** Dual nod to legendary wrestler/actor André the Giant (*The Princess Bride*) and Shepard Fairey's street-art sticker campaign (*OBEY*). | **ES:** `André 'El Gigante' juntó a su gente...`<br>**PT:** `André, 'O Gigante', juntou a galera...` | Translate the epithet (`The Giant`) while keeping `André` recognizable. |
 | `D250`, `D418` (`ARCHETYPE_MEADOWHINT`, `MIRACLE1_MOUNTAINMEADOW`) | `...the miraculous fold-in abilities of the great wizard Al Jaffee.` / `...in the fold-in fashion of the mad wizard Al Jaffee.` | **Al Jaffee (1921–2023) & *MAD Magazine* Fold-Ins:** Jaffee created the back-cover *MAD Fold-In*, where folding the page inward brings two distant edges together to form a new image—the exact gameplay mechanic of the Meadow Miracle. | **ES:** `los milagrosos poderes de plegado del gran mago Al Jaffee`<br>**PT:** `os milagrosos poderes de dobra do grande mago Al Jaffee` | Keep **Al Jaffee** untouched and use the word for *folding* a page (`plegado` / `dobra`) so the visual puzzle hint remains clear. |
@@ -706,7 +706,7 @@ Unlike §10, the entries below are **purely linguistic, narrative, and stylistic
 | 2 | Sworcery | Espadancia | Espadância |
 | 3 | The Megatome | El Megatomo | O Megatomo |
 | 4 | sylvan sprite | espíritu silvano | espírito silvano |
-| 5 | The Bright Moon looms | La Luna Radiante impera | A Lua Radiante paira |
+| 5 | The Bright Moon looms | La Luna Radiante resplandece | A Lua Radiante paira |
 | 6 | The Dark Moon reigns | La Luna Sombría reina | A Lua Sombria reina |
 | 7 | woeful errand | funesto cometido | funesta missão |
 | 8 | Logfella | Tronquero | Troncadeiro |
@@ -715,12 +715,12 @@ Unlike §10, the entries below are **purely linguistic, narrative, and stylistic
 | 11 | Trigon Trifecta | Tríada Trigónica | Tríade Trigônica |
 | 12 | sonorous spume | susurrantes espumas | sussurrantes espumas |
 | 13 | dream-walking | paseos oníricos / caminar en sueños | caminhadas oníricas / caminhar em sonhos |
-| 14 | the whirling infinite | Arremolinado Infinito | Remoinhado Infinito |
+| 14 | the whirling infinite | Infinito Arremolinado | Infinito Remoinhado |
 | 15 | press & hold / touch & hold | mantén presionado | mantenha pressionado / segure |
 | 16 | Perilous Precipice | Precipicio Peligroso | Precipício Perigoso |
 | 17 | old road | antiguo camino | antigo caminho |
 | 18 | stone hut | choza de piedra | cabana de pedra |
-| 19 | deepwater pond | insondable estanque | insondável lagoa |
+| 19 | deepwater pond | estanque profundo | lagoa profunda |
 | 20 | heebie jeebies | los pelos de punta | frio na espinha |
 
 ---
@@ -761,7 +761,7 @@ These translations prioritize:
 - **v1.6** (2026) - Addressed formal LQA/MQM audit feedback: added official Capybara Games English source table for rows 230–236 in `strings.tsv` with retro-hardware backward compatibility justification (iOS 4 / iPod Touch), documented sensitivity controls taxonomy (`MOTION_CURSOR_SENSITIVITY`, `STICK_CURSOR_SENSITIVITY`, `POINTCLICK_CURSORSENS_NINSWITCH`), clarified `GO_HOME` dead-code vs. `QUIT`/`EXIT` UI hierarchies, resolved engine quote parser distinction with ghost direct-speech normalization, and articulated the two-tier architecture of the document (§1–§9 Normative Style Guide vs. §10 Technical LQA Post-Mortem)
 - **v1.7** (2026) - Resolved v1.6 LQA audit discrepancies: synchronized rows 232 & 234 (`TAP_QUESTION` → `¿PRESIONAR?` / `PRESSIONAR?`) with actual `.tsv` files, documented `SPANISH_SPECIAL` glyph registration (Row 167), separated pure technical engine constraints (§10) from creative/editorial decisions (§11 *Editorial Deviations & Transcreation Rationale*), deduplicated HUD rules in §4/§7/§9, reformulated ~140-char guidance as a proportional-font pixel heuristic, refined rows 230–236 rationale to binary schema compatibility, corrected telepathic ghost-quote lore facts, and explicitly documented `D283` as a creative character-voice license
 - **v1.8** (2026) - Comprehensive MQM/LQA audit pass for `es-419`: standardized Nintendo Switch thumbstick terminology to first-party `palanca/palancas` (`S131`, `S136`, `S171`, `S181`, `S188`, `S205`, `S215`), shortened `CNTRL_TOUCH` → `TOCAR`, disambiguated `RESET` → `RESTABLECER` and `SLAY` → `¿MATAR?`, synchronized `S232`/`S236` and `D230` char counts (ES 140 / PT 137), added `espadancista` (`sworcerer`) to §4, corrected major ES findings (`nosequé` → `artilugio`, `D138` tense harmony, `D184` restored `espíritus silvanos`, Peninsularisms `desvelar`/`tiempo`/`pararme`, `D517/520/524/539` possessives, `D680` false friend `crudo` → `rudimentario`), aligned punctual recent-past verbs to `es-419` simple preterite, unified RAE punctuation/ellipses/credits, fixed `§10.10` → `§10.9` and `§11.2` ghost-quote line ranges, and explicitly documented the deliberate dialogue-box quotation-period convention (§10.8 & §11.2)
-- **v1.9** (2026) - Comprehensive MQM/LQA audit pass for `pt-BR`: standardized Nintendo Switch thumbstick terminology to Nintendo Brasil `alavanca/alavancas` (`S131`, `S136`, `S171`, `S181`, `S188`, `S205`, `S215`), shortened `CNTRL_TOUCH` → `TOCAR`, `SLAY` → `MATAR?`, and `PRESS_A_NINSWITCH` → `QUANDO QUISER`, restored `NESTES` (`S069`) and diagnostic `S232`, fixed all 6 major PT-BR patterns (`D138` tense harmony, `D184` restored `espíritos silvanos` with rhyme, `D191` past-tense narrative consistency, `D267` restored combat speed cue, `D517/520/524/539` possessives `suas`, and all 12 sentence-initial + 3 colon-initial + 3 post-comma oblique clitics per §9 Pan-Lusophone rule), elevated Archetype register while preserving strict gender neutrality for the player (`D258`, `D275`, `D288`, `D299`, `D379`, `D462`, `D495–D496`, `D499–D500`), restored Rumsfeld pun `substantivos incógnitos` (`D372`), unified `lembrar-se de` regência, punctuation, ellipses, credits, and trimmed widest narration/dialogue boxes while preserving all documented quotation marks untouched
+- **v1.9** (2026) - Comprehensive MQM/LQA audit pass for `pt-BR` + cross-lingual glossary update: standardized Nintendo Switch thumbstick terminology to Nintendo Brasil `alavanca/alavancas` (`S131`, `S136`, `S171`, `S181`, `S188`, `S205`, `S215`), shortened `CNTRL_TOUCH` → `TOCAR`, `SLAY` → `MATAR?`, and `PRESS_A_NINSWITCH` → `QUANDO QUISER`, restored `NESTES` (`S069`) and diagnostic `S232`, fixed all 6 major PT-BR patterns (`D138` tense harmony, `D184` restored `espíritos silvanos` with rhyme, `D191` past-tense narrative consistency, `D267` restored combat speed cue, `D517/520/524/539` possessives `suas`, and all 12 sentence-initial + 3 colon-initial + 3 post-comma oblique clitics per §9 Pan-Lusophone rule), elevated Archetype register while preserving strict gender neutrality for the player (`D258`, `D275`, `D288`, `D299`, `D379`, `D462`, `D495–D496`, `D499–D500`), restored Rumsfeld pun `substantivos incógnitos` (`D372`), unified `lembrar-se de` regência, punctuation, ellipses, credits, trimmed widest narration/dialogue boxes while preserving all documented quotation marks untouched, and standardized `the whirling infinite` across ES/PT (`D157–D558` + `D444`) to `el Infinito Arremolinado` / `o Infinito Remoinhado`, `deepwater pond` to `estanque profundo` / `lagoa profunda`, `nestbox` to `casita de pájaros` / `casa de passarinho`, `The Bright Moon looms` (ES) to `la Luna Radiante resplandece`, `move it move it` (`D041`/`D321`) to `apretar el paso` / `dar no pé`, and PT sheep/fatigue idioms (`à toa`, `meio moídos`)
 
 ---
 
