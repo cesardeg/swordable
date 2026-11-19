@@ -42,7 +42,7 @@ LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Tínhamos recuperado o
 				Apesar da tempestade que se formava, uma pequena canção começou a brotar em nosso coração.					
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		Diante da iminente tempestade, Troncadeiro admitiu que sentia um frio na espinha.					
 				Estaria tentando nos assustar de propósito? #sim #nao #talvez					
-				De qualquer forma, o mais sensato era ficar no abrigo por um tempo.					
+				De qualquer forma, provavelmente era superseguro se abrigar um pouco.					
 QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	Conseguimos o Megatomo e somos os mais espertos! #tenhomegatomo			40	011.jpg	81C1E
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
@@ -104,7 +104,7 @@ INFO_WELLWHITESTAG	The Scythian			VIDA LONGA À NOVA CARNE
 ARCHETYPE_UNWELLWELLOUTRO	The Archetype								
 INFO_CABINCHIMNEY	The Scythian			Ao lado de uma insondável lagoa, descobrimos uma robusta cabana de pedra com um telhado de palha.					
 INFO_CABINWOODPILE	The Scythian			Encontramos uma pilha de lenha, nada de mais.					
-INFO_SPUME	The Scythian			Localizamos as sutis e sussurrantes espumas de um espírito silvano imerso em sonho. E agora... como vamos despertá-lo?					
+INFO_SPUME	The Scythian			Localizamos as sutis e sussurrantes espumas de um espírito silvano imerso em sono. E agora... como vamos despertá-lo?					
 INFO_NESTBOX	The Scythian			Vimos um curioso ninho, agora lar de uma colmeia de escória e vilania.			13	015.jpg	B1C5F
 INFO_NESTBOXWEATHERED	The Scythian			Vimos um ninho desgastado com uma inquietante semelhança a um rosto.					
 INFO_FLAGPOLELOGBRIDGE	The Scythian			Sobre uma ponte de toras no antigo caminho, erguia-se um lúgubre mastro decorado com crânios toscos e angulosos.					
@@ -171,7 +171,7 @@ GRAVE_CHASMGHOST	The Scythian			À beira do Precipício Perigoso, junto à tumba
 				"""Os outros membros da galera foram enterrados em um matagal perto do antigo caminho, junto à ponte de toras."""					
 			triangle/Triangle	"""Localizamos e domamos o Trígono Dourado com bastante facilidade, mas depois disso ficamos completamente empacados."""					
 				"""Estávamos atrás do Trígono da Lua Radiante, então decidimos sentar e observar o céu, esperando o humor da lua mudar."""					
-				"""Foi super chato! Eu não estava disposto a esperar dias e dias até que a Lua Radiante pairasse."""					
+				"""Foi superchato! Eu não estava disposto a esperar dias e dias até que a Lua Radiante pairasse."""					
 				"""Deixei esses otários vagando sem rumo enquanto eu ia mais a fundo nesse truque da lógica lunar."""					
 				O velho fantasma resplandecente contou como havia trapaceado ao sair de S:S&SEP e ajustar a data e a hora de seu dispositivo.					
 				Descreveu o quão incômodo foi o processo, mas nos disse que isso lhe permitiu alterar as fases da lua!					
@@ -219,7 +219,7 @@ GIRL_FOUNDKEY	The Scythian			Em uma trilha junto ao caminho, encontramos Samae, 
 			gourd/gourd	Mencionou uns tênues arco-íris que surgiam à beira do Precipício Perigoso.					
 			adventureUI/megatomeItem	... e então, angustiada, sugeriu que consultássemos o Megatomo caso nos sentíssemos perdidos ou desorientados.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Tô super de boa com a Citiana ficar com a chave se isso significa que ela vai dissipar a tempestade.					
-				Devo ter dado uma cochilada em algum momento da história super épica da Citiana. Não sou muito de histórias.					
+				Devo ter dado uma cochilada em algum momento da história superépica da Citiana. Não sou muito de histórias.					
 				Perguntei na lata para a Citiana sobre sua funesta missão... e ela veio com um papo sobre estepes e o dedo de Deus.					
 GIRL_FOUNDKEYTHOUGHTS	Girl			Enviar mais um ou dois espíritos silvanos ao céu dissipará a incessante tempestade... e então será tempo de milagres! #milagres			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			Ao caminhar em sonhos, há uma calma emocionante quando a lua brilha mais... e quando está escura, as florestas se tornam selvagens.					
@@ -237,7 +237,7 @@ ARCHETYPE_MUSHROOMHINT	The Archetype			Chegou-se a afirmar que os cogumelos adiv
 				Os cogumelos da floresta podem oferecer uma visão oblíqua sobre o paradeiro de um espírito silvano e seus peculiares gatilhos.			60	035.jpg	53A5Y
 ARCHETYPE_TRIGONGROVE	The Archetype			Sente? Começa a entender? Os símbolos esotéricos do Megatomo agora ganham um novo significado?					
 				Este feixe conecta o mundo dos vivos ao dos mortos, então talvez você encontre algum fantasma para conversar na jornada.					
-				Me informaram que você ativou o primeiro feixe celestial na Clareira Trigônica.					
+				Fui informado de que você ativou o primeiro feixe celestial na Clareira Trigônica.					
 GIRL_CABINSHEEP	The Scythian			Perguntamos a Samae sobre as ovelhas inúteis que estavam vadiando ao redor da cabana e ela comentou que elas se assustaram há um tempo.					
 			gourd/gourd	Contamos que havíamos enviado cinco espíritos silvanos ao céu e ela nos disse que talvez um tempo de milagres estivesse próximo.					
 				Supusemos que talvez devêssemos investigar a campina onde as ovelhas costumavam vadiar.					
@@ -402,7 +402,7 @@ JIM_POSTGOURD	The Scythian			O misterioso músico conhecido como Jim Guthrie dis
 JIM_POSTSONG	The Scythian			Jim Guthrie nos ensinou que não se pode negar pensamentos ruins, assim como não se pode negar a mordida de um dragão.					
 			Archetype/trifecta	Nos revelou que tinha um show de rock programado do outro lado do lago em duas semanas.					
 JIM_LOGFELLATHOUGHTS	Logfella			A música soa tão familiar... Onde será que já ouvi isso antes? #1000songs					
-				De repente, me veio uma musiquinha super esquisita, mas genial, na cabeça. #andwegotolder					
+				De repente, me veio uma musiquinha superesquisita, mas genial, na cabeça. #andwegotolder					
 LOGFELLA_JIMTHOUGHTS	Logfella			Tenho essa cançãozinha na cabeça há anos... apenas algumas notas que se repetem sem parar. Me pergunto por que será.					
 ARCHETYPE_OTHERSIDEOFLAKE	The Archetype			Atravessar o limiar da liminaridade em segurança é simples: procure por lugares familiares e pelo calor do lar.					
 				Se você conseguir estabilizar sua lucidez, poderá cocriar com ela... em vez de combatê-la, resistir a ela e amaldiçoá-la.					
@@ -485,7 +485,7 @@ LOGFELLA_DARKMOONTRIGONCOLLECTED	The Scythian			O lenhador notava que tantas cam
 			Archetype/trifecta	Troncadeiro nos perguntou se tínhamos visitado o Cachorreiro na Clareira Trigônica... Talvez pudéssemos ativar outro feixe celestial?					
 ARCHETYPE_DARKMOONTRIGONCOLLECTED	The Archetype			Agora a pergunta é... o que vem a seguir?					
 				Apesar das poucas informações úteis que lhe fornecemos, você conseguiu dominar esta enigmática geometria.					
-				Me informaram que você recuperou o Trígono da Lua Sombria. É uma notícia realmente formidável.					
+				Fui informado de que você recuperou o Trígono da Lua Sombria. É uma notícia realmente formidável.					
 LOGFELLA_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	O lenhador não reconheceu a chave que tínhamos encontrado e não fazia ideia de para que servia.					
 			AdventureUI/keyItem	...?					
 GIRL_FOUNDBOORKEY	The Scythian		AdventureUI/keyItem	Samae viu a chave que tínhamos encontrado e nos incentivou a ficar de olho em uma porta trancada.					
@@ -495,11 +495,11 @@ ARCHETYPE_GROTTOPARADOX	The Archetype
 ARCHETYPE_KILLBOOR	The Archetype			Agora, imagino que você esteja se perguntando para que serve essa chave. Pra ser sincero, não faço a menor ideia.			119	075.jpg	87C5S
 				Não estou sugerindo que você tenha tendências sociopatas... hehe... Sei que você tinha suas razões, né? #opatifegrisalho					
 				Incluímos o Patife Grisalho em S:S&SEP para tentar os participantes a se identificarem como sociopatas violentos.					
-				Me informaram que o Patife Grisalho foi assassinado... Você sabe algo a respeito? #matanca					
+				Fui informado de que o Patife Grisalho foi assassinado... Você sabe algo a respeito? #matanca					
 ARCHETYPE_SPAREBOOR	The Archetype			Agora, imagino que você esteja se perguntando para que serve essa chave. Pra ser sincero, não faço a menor ideia.			119	075.jpg	87C5S
 				Sim, isso mesmo, é incrível e te amamos demais por isso!					
 				Incluímos o Patife Grisalho em S:S&SEP para permitir que os participantes se identifiquem como pessoas compassivas e razoáveis.					
-				Me informaram que permitiram que o Patife Grisalho escapasse ileso. É uma notícia encorajadora.					
+				Fui informado de que permitiram que o Patife Grisalho escapasse ileso. É uma notícia encorajadora.					
 LOGFELLA_FOUNDATION	Logfella			...					
 				...					
 				...					
@@ -522,7 +522,7 @@ GIRL_DARKMOON	The Scythian			Samae falou sobre caminhadas oníricas pela florest
 				Sabíamos exatamente a qual árvore oca titânica ela se referia.					
 ARCHETYPE_DARKMOON	The Archetype			Tenha cuidado. A Lua Sombria reina.			94	076.jpg	I7F69
 LOGFELLA_CRESCENTWAX	The Scythian			O lenhador falou sobre caminhadas oníricas pela floresta pouco antes do amanhecer, sob a luz de uma lua crescente.					
-				Falou de uma criatura com a qual havia se deparado, algo ou alguém estranho e nu. Era um urso? Um homem? Ou... O Patife Grisalho?			57	077.jpg	I7G7U
+				Falou de uma criatura com a qual havia se deparado, algo ou alguém estranho e nu. Era um urso? Um homem? Ou... o Patife Grisalho?			57	077.jpg	I7G7U
 GIRL_CRESCENTWAX	The Scythian			Samae estava animada. Hoje começava um novo mês lunar! Ela mal podia esperar para passar longos dias sentada sobre rochas.					
 ARCHETYPE_CRESCENTWAX	The Archetype			Um fino filete de lua crescente apareceu, marcando o início de um novo ciclo lunar de vinte e oito dias.			118	045.jpg	Y4E5Q
 LOGFELLA_HALFWAX	The Scythian			O lenhador admitiu que sim, de fato, tinha cortado uma boa quantidade de lenha em sua vida.					
@@ -538,7 +538,7 @@ ARCHETYPE_ALMOSTWAX	The Archetype			A lua cresce um pouco a cada dia... em pouco
 LOGFELLA_BRIGHTMOON	The Scythian			O lenhador admitiu que seu cachorro ficava meio maluco toda vez que a Lua Radiante pairava no céu.			135	061.jpg	M6F1I
 GIRL_BRIGHTMOON	The Scythian			Samae falou sobre caminhadas oníricas pela floresta pouco antes do amanhecer, enquanto a Lua Radiante pairava no céu.					
 				Ela mencionou o ar fresco da manhã e uma ilha impossível no meio de um plácido lago.					
-ARCHETYPE_BRIGHTMOON	The Archetype			Saia lá fora e olhe para cima. Maravilhe-se com a Lua Radiante que paira no céu!			95	079.jpg	07D95
+ARCHETYPE_BRIGHTMOON	The Archetype			Vá lá fora e olhe para cima. Maravilhe-se com a Lua Radiante que paira no céu!			95	079.jpg	07D95
 LOGFELLA_ALMOSTWANE	The Scythian			O lenhador não era muito de histórias e admitiu que elas costumavam lhe dar sono, mas, apesar de tudo, sabia bastante do assunto.					
 				Conhecia todos os detalhes sobre Mingi Taw e por que era conhecido como o Reino da Nuvem.					
 				Sabia que Mingi Taw era a montanha mais alta do mundo conhecido, ainda mais alta que o Monte Olimpo, onde habitavam os deuses aqueus.					
@@ -567,7 +567,7 @@ DARKMOONLOOMS_ARCHETYPE	The Archetype			A Lua Sombria se aproxima. O fim do cicl
 DARKMOONBEGINS_ARCHETYPE	The Archetype			Contemple: a Lua Sombria!			94	076.jpg	I7F69
 DARKMOON_GIRLTHOUGHTS	Girl			Ao caminhar em sonhos, encontrei um parlamento de árvores atingido por um raio e senti a presença de algo profundamente sagrado.					
 DARKMOON_LOGFELLATHOUGHTS	Logfella			Ontem à noite, ouvi o som de uma música vibrante que se filtrava pelos bosques atrás da minha cabana. Que diabos é isso?					
-DARKMOON_DOGFELLATHOUGHTS	Dogfella			Au Au Au. Em meu estado de sonho, só vislumbrei as sutis e sussurrantes espumas dos espíritos silvanos.					
+DARKMOON_DOGFELLATHOUGHTS	Dogfella			Au Au Au. Em meu estado de sono, só vislumbrei as sutis e sussurrantes espumas dos espíritos silvanos.					
 AMPHITHEATRE_OUTRO	The Scythian			Reconstruímos a Tríade Trigônica e agora somos heróis.			164	081.jpg	48G1Q
 RABBITS_3MURDERS	The Scythian			Inexplicavelmente, assassinamos 3 coelhos indefesos.					
 RABBITS_7MURDERS	The Scythian			Inexplicavelmente, assassinamos 7 coelhos indefesos. Será isso evidência de uma mente transtornada?					
@@ -596,10 +596,10 @@ ARCHETYPE_CREDITS	The Archetype
 				Voz do Arquétipo: o artista e cineasta Clive Holden em cliveholden.com					
 				Sons cósmicos da Gruta Lunar: Scientific American em scntfc.com					
 				* * * APOIO DA CAPY * * *					
-				Produtor executivo, herói do povo, liderança e estrategueria: Nathan Vella, presidente da Capy.					
+				Produtor executivo, herói do povo, liderança e estrategeria: Nathan Vella, presidente da Capy.					
 				Produtor de PC, assistência técnica de áudio, integração FMOD e muitíssimos sons: Sean 'Uber' Lohrisch, cofundador da Capy.					
 				Nintendo Switch Produc-tron e assistência geral de negócios: Matt Repetski, cofundador da Capy.					
-				Controle de qualidade e megaherói de testes de jogo: Christian 'Sea Dawg' Meyer na Capy.					
+				Controle de qualidade e mega-herói de testes de jogo: Christian 'Sea Dawg' Meyer na Capy.					
 				Programação principal para a versão de Nintendo Switch e computadores domésticos: nada menos que Hubert Wong na Capy.					
 				Conceitos de design, implementação e bruxaria de Nintendo Switch: Sadie Lee na Capy.					
 				Diversas tarefas pesadas, incluindo apoio de programação para PC/Mac/Linux e para Nintendo Switch: Drew Grainge na Capy.					

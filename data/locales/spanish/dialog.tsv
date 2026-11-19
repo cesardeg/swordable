@@ -42,7 +42,7 @@ LOGFELLA_DOWNSLOPE	The Scythian		adventureUI/megatomeItem	Habíamos recuperado e
 				A pesar de la tormenta que se avecinaba, una pequeña canción brotó en nuestro corazón.					
 LOGFELLA_CABINMEGATOME	The Scythian	AdventureUI/tweetIconBabelBook		Ante la inminente tormenta, Tronquero admitió que tenía los pelos de punta.					
 				¿Intentaba asustarnos a propósito? #si #no #quizas					
-				En cualquier caso, lo mejor era quedarse a resguardo durante un tiempo.					
+				En cualquier caso, probablemente era del todo seguro refugiarse un rato.					
 QUESTCOMPLETE_MEGATOME			adventureUI/megatomeItem	¡Conseguimos el Megatomo y somos los más listos! #tengomegatomo			40	011.jpg	81C1E
 GIRL_AVATAR			AdventureUI/dudeDaughterIdle1						
 ARCHETYPE_AVATAR			AdventureUI/dudeArchetypeIdle1						
@@ -219,7 +219,7 @@ GIRL_FOUNDKEY	The Scythian			En un sendero junto al camino encontramos a Samae, 
 			gourd/gourd	Mencionó unos tenues arcoíris que se formaban al borde del Precipicio Peligroso.					
 			adventureUI/megatomeItem	... y luego, angustiada, nos sugirió consultar el Megatomo si llegábamos a sentirnos perdidos o desorientados.					
 LOGFELLA_FOUNDKEYTHOUGHTS	Logfella			Por mí, genial que La Escita se quede con la llave si con eso disipa la tormenta.					
-				Debí de quedarme dormido en algún momento de la historia súper épica de La Escita. No soy mucho de historias.					
+				Debí de quedarme dormido en algún momento de la historia superépica de La Escita. No soy mucho de historias.					
 				Le pregunté sin rodeos a La Escita sobre su funesto cometido... y me salió con todo un cuento sobre las estepas y el dedo de Dios.					
 GIRL_FOUNDKEYTHOUGHTS	Girl			Enviar uno o dos espíritus silvanos más al cielo disipará la incesante tormenta... ¡y entonces será tiempo de milagros! #milagros			129	034.jpg	33A44
 GIRL_SUPERMOTHERTREE	Girl			Al caminar en sueños, hay una calma emocionante cuando la luna brilla más... y cuando está oscura, los bosques se vuelven salvajes.					
@@ -522,7 +522,7 @@ GIRL_DARKMOON	The Scythian			Samae habló sobre paseos oníricos por el bosque p
 				Sabíamos exactamente a qué árbol hueco titánico se refería.					
 ARCHETYPE_DARKMOON	The Archetype			Ten cuidado. La Luna Sombría reina.			94	076.jpg	I7F69
 LOGFELLA_CRESCENTWAX	The Scythian			El leñador habló sobre paseos oníricos por el bosque poco antes del amanecer, bajo la luz de una luna creciente.					
-				Habló de una criatura que había encontrado, algo o alguien extraño y desnudo. ¿Era un oso? ¿Un hombre? O... ¿El Patán Canoso?			57	077.jpg	I7G7U
+				Habló de una criatura que había encontrado, algo o alguien extraño y desnudo. ¿Era un oso? ¿Un hombre? O... ¿el Patán Canoso?			57	077.jpg	I7G7U
 GIRL_CRESCENTWAX	The Scythian			Samae estaba emocionada. ¡Hoy comenzaba un nuevo mes lunar! Ansiaba pasar largos días sentada sobre rocas.					
 ARCHETYPE_CRESCENTWAX	The Archetype			Un fino gajo de luna creciente ha aparecido, marcando el inicio de un nuevo ciclo lunar de veintiocho días.			118	045.jpg	Y4E5Q
 LOGFELLA_HALFWAX	The Scythian			El leñador admitió que sí, de hecho, había cortado una buena cantidad de leña en su vida.					
@@ -596,7 +596,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Voz del Arquetipo: el artista y cineasta Clive Holden en cliveholden.com					
 				Sonidos cósmicos de la Gruta Lunar: Scientific American en scntfc.com					
 				* * * APOYO DE CAPY * * *					
-				Productor ejecutivo, héroe del pueblo, liderazgo y estrategeria: Nathan Vella, presidente de Capy.					
+				Productor ejecutivo, héroe del pueblo, liderazgo y estrategería: Nathan Vella, presidente de Capy.					
 				Productor de PC, asistencia técnica de audio, integración FMOD y muchísimos sonidos: Sean 'Uber' Lohrisch, cofundador de Capy.					
 				Nintendo Switch Produc-tron y asistencia general de negocios: Matt Repetski, cofundador de Capy.					
 				Control de calidad y megahéroe de pruebas de juego: Christian 'Sea Dawg' Meyer en Capy.					
