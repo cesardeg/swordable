@@ -170,7 +170,7 @@ This document serves as the **authoritative Portuguese (`pt-BR`) reference** for
 | **woeful errand** | funesta missão | ✅ The Scythian's quest |
 | **martyrdom** | martírio | ✅ The Scythian's fate |
 | **deathless specter** | espectro imortal | ✅ The Gogolithic Mass |
-| **heebie jeebies** | frio na espinha | ✅ Physical sensation of fear |
+| **heebie jeebies** | frio na espinha / frio na barriga (`D178`) | ✅ Physical sensation of eerie dread (`D043`, `D247`, `D535`); nervous guilt/anxiety for the cheating ghost (`D178`), preserving the `frio na...` echo |
 | **cosmic friends forever** | amigos cósmicos para sempre | ✅ Ending phrase |
 | **for glory & for spite** | pela glória e por pura teimosia | ✅ Deliberate adaptation: in English gaming idiom, doing something `"out of spite / for spite"` means stubborn defiance (`"por pura teimosia"`), avoiding unintended vindictive/romantic connotations |
 | **time of woe** | tempo de angústia | ✅ Session II Theme (mirrors *tempo de milagres*) |
@@ -303,7 +303,7 @@ This document serves as the **authoritative Portuguese (`pt-BR`) reference** for
 ### 4. **"Hearth" Translation Context**
 - **"fogo"** = fire (standard narrative and dialogue references)
 - **"lareira / lar"** = hearth (formal/poetic contexts)
-- Special phrase: **"Onde a lareira arde, o lar faz alarde"** ✅ (Poetic wordplay using rhyme and meter).
+- Special phrase: **"O lar é onde a lareira arde"** ✅ (Natural *lar / lareira* wordplay echoing *"O lar é onde está o coração"* and English *heart / hearth*).
 
 ### 5. **Conjunctions vs. English Ampersands (`e` / `+` instead of `&`)**
 - ✅ **Natural Conjunctions:** Replace the English stylistic `&` with the standard Portuguese conjunction **`e`** across all UI prompts (`SEGURE E DESLIZE`, `APONTAR E CLICAR`), ancient signs (`Cítia, Ciméria, Assíria e Pérsia`), and narrative prose.
@@ -492,7 +492,7 @@ Unlike [§12](#portuguese-technical-implementations--lqa-reference), the entries
 
 | Row & ID | English Source | Reference | Portuguese (`pt-BR`) Adaptation |
 |---|---|---|---|
-| `D004` (`SIGN_TADPOL`) | `"""Home is where the hearth is."" #threegutrecords4ever"` | Three Gut Records + *heart/hearth* pun | `"""Onde a lareira arde, o lar faz alarde."" #threegutrecordsprasempre"` |
+| `D004` (`SIGN_TADPOL`) | `"""Home is where the hearth is."" #threegutrecords4ever"` | Three Gut Records + *heart/hearth* pun | `"""O lar é onde a lareira arde."" #threegutrecordsprasempre"` |
 | `D035` | `...to move it move it move it.` | *"I Like to Move It"* / *Madagascar* (2005) | `nos remexer, remexer, remexer!` *(Note: `D041` & `D321` use natural haste idiom `dar no pé`.)* |
 | `D127` (`INFO_CABINRECORD`) | `#theballadofthespacebabies` | Jim Guthrie OST flagship track | Kept as `#theballadofthespacebabies` |
 | `D170` (`GRAVE_MEADOWGHOST*`) | `...Andre The Giant assembled a posse...` | André the Giant / Shepard Fairey | `André, 'O Gigante', juntou a galera...` |

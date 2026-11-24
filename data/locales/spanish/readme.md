@@ -130,6 +130,7 @@ This document serves as the **authoritative Spanish (`es-419`) reference** for *
 |---------|--------------------|-------|
 | **Sworcery** | espadancia | ✅ Lowercase as common noun (magic/science). Cap only in Title/Intro. |
 | **sworcerer** | espadancista | ✅ Practitioner of sworcery (`D280`, `D282`). Gender-invariable (`-ista`). |
+| **swources** | espadantiales | ✅ Portmanteau (*espada* + *manantiales*, mirroring *sword* + *sources* in `D281`). |
 | **Song of Sworcery** | Canción de Espadancia | ✅ Main ability (Proper noun) |
 | **sworcery aura** | aura de espadancia | ✅ Visual indicator |
 | **sylvan sprite** | espíritu silvano | ✅ Collectible creatures |
@@ -170,7 +171,7 @@ This document serves as the **authoritative Spanish (`es-419`) reference** for *
 | **woeful errand** | funesto cometido | ✅ The Scythian's quest |
 | **martyrdom** | martirio | ✅ The Scythian's fate |
 | **deathless specter** | espectro inmortal | ✅ The Gogolithic Mass |
-| **heebie jeebies** | los pelos de punta | ✅ Physical sensation of fear |
+| **heebie jeebies** | los pelos de punta / los nervios de punta (`D178`) | ✅ Physical sensation of fear/dread (`D043`, `D247`, `D535`); nervous guilt/jitters for the cheating ghost (`D178`) |
 | **cosmic friends forever** | amigos cósmicos para siempre | ✅ Ending phrase |
 | **for glory & for spite** | por la gloria y por pura terquedad | ✅ Deliberate adaptation: in English gaming idiom, doing something `"out of spite / for spite"` means stubborn defiance (`"por pura terquedad"`), whereas Spanish *por despecho* carries an unintended romantic/heartbreak connotation (*mal de amores*) |
 | **time of woe** | tiempo de angustia | ✅ Session II Theme (mirrors *tiempo de milagros*) |
@@ -297,8 +298,9 @@ This document serves as the **authoritative Spanish (`es-419`) reference** for *
 - Creates intentional visual vs. sovereign contrast between the two moons.
 
 ### 3. **"Heebie Jeebies" / Fear Translation**
-- Standard: **"los pelos de punta"** (heebie jeebies) ✅
-- Alternate: **"manojo de nervios"** (freaking out)
+- Standard (eerie dread/chills): **"los pelos de punta"** (`D043`, `D247`, `D535`) ✅
+- Contextual (nervous guilt/jitters): **"los nervios de punta"** (`D178`, the cheating ghost's anxiety and shame) ✅
+- Alternate (`freaking out`): **"manojo de nervios"** (`D088`, `D190`, `D201`)
 - Never mix within the same context.
 
 ### 4. **Old Road**
@@ -484,7 +486,7 @@ Unlike [§12](#spanish-technical-implementations--lqa-reference), the entries be
 
 | Row & ID | English Source | Reference | Spanish (`es-419`) Adaptation |
 |---|---|---|---|
-| `D004` (`SIGN_TADPOL`) | `"""Home is where the hearth is."" #threegutrecords4ever"` | Three Gut Records + *heart/hearth* pun | `"""Donde el fuego alumbra, el hogar se vislumbra."" #threegutrecordsx100pre"` |
+| `D004` (`SIGN_TADPOL`) | `"""Home is where the hearth is."" #threegutrecords4ever"` | Three Gut Records + *heart/hearth* pun | `"""El hogar está donde arde el fogón."" #threegutrecordsx100pre"` |
 | `D035` | `...to move it move it move it.` | *"I Like to Move It"* / *Madagascar* (2005) | `¡y a mover, mover el bote!` *(Note: `D041` & `D321` use natural haste idiom `apretar el paso`.)* |
 | `D127` (`INFO_CABINRECORD`) | `#theballadofthespacebabies` | Jim Guthrie OST flagship track | Kept as `#theballadofthespacebabies` |
 | `D170` (`GRAVE_MEADOWGHOST*`) | `...Andre The Giant assembled a posse...` | André the Giant / Shepard Fairey | `André 'El Gigante' juntó a su gente...` |
@@ -553,6 +555,7 @@ Unlike [§12](#spanish-technical-implementations--lqa-reference), the entries be
 - Treated as a lowercase common noun (like *magia* or *ciencia*), capitalized only in the title/intro or the proper noun **`Canción de Espadancia`**.
 - The `-ancia` suffix (like `constancia`, `elegancia`) gives `"espadancia"` an abstract, psionic, and philosophical quality—matching the game's description of sworcery as a *"consciousness expansion technique"* rather than conventional magic.
 - Practitioner form: **`espadancista`** (gender-invariable `-ista`, used in `D280`, `D282`).
+- Source portmanteau: **`espadantiales`** (*espada* + *manantiales*, mirroring English *swources of sworcery* in `D281`).
 
 ### Character Names: `Tronquero` & `Perrero`
 - **`Logfella` → `Tronquero`:** Combining `Tronco` + `-ero` creates a rustic, descriptive nickname reflecting the character's profession that sounds like an authentic *apodo de pueblo*.

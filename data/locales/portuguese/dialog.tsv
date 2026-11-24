@@ -12,8 +12,8 @@ SIGN_BIRDTREEDECIPHERED	The Scythian			Em uma trilha junto ao antigo caminho, en
 				Será que é a Gruta Lunar...? #grutalunar #queisso #eummisterio			205	003.jpg	60D3C
 SIGN_WOLF	The Scythian			À beira do antigo caminho, deparamo-nos com uma pedra talhada com um par de glifos em forma de espada e escudo. #ficaadica			16	004.jpg	T0C4X
 SIGN_ANTECHAMBERLEFT	The Scythian			Num corredor subterrâneo, descobrimos uma estátua ominosa, mas não nos preocupamos muito com isso. #historias			29	005.jpg	V0B53
-INFO_CROSSMOUNTAINLEFT	The Scythian			Na encosta rochosa de Mingi Taw, uma tumba solitária marcava o fim do caminho de cascalho.					
-INFO_CROSSMOUNTAINRIGHT	The Scythian			Na encosta rochosa de Mingi Taw, uma tumba solitária marcava o fim do caminho de cascalho.					
+INFO_CROSSMOUNTAINLEFT	The Scythian			Na encosta rochosa de Mingi Taw, uma tumba solitária marcava o fim de um caminho de cascalho.					
+INFO_CROSSMOUNTAINRIGHT	The Scythian			Na encosta rochosa de Mingi Taw, uma tumba solitária marcava o fim de um caminho de cascalho.					
 INFO_RIDGESKULLPOLE	The Scythian			Na crista escarpada a caminho do topo de Mingi Taw, erguia-se um lúgubre poste decorado com um crânio com galhada.					
 INFO_CROSSRIDGE	The Scythian			Na crista escarpada rumo ao topo de Mingi Taw, uma tumba solitária era a lúgubre lembrança de quantos morreram aqui no alto.					
 INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos o Megatomo apertado entre duas mãos ossudas e sentimos a espada estremecer na bainha. #megatomo			33	006.jpg	30D6C
@@ -77,7 +77,7 @@ GIRL_STORM	The Scythian			Samae, a garota de cabelos escuros, sentia a angústia
 			gourd/gourd	Perguntava-se se os três espíritos poderiam ajudar a dissipar a tempestade. #sim					
 			gourd/gourd	Ela nos pediu que investigássemos as sussurrantes espumas que brotavam da lagoa profunda em frente à cabana.					
 			gourd/gourd	Mencionou um espírito em uma campina próxima e outro em uma casa de passarinho, lar de três aves cantoras encharcadas.					
-			gourd/gourd	Ela nos pediu que buscássemos as espumas desses três espíritos e os enviássemos ao céu com a Canção da Espadância.					
+			gourd/gourd	Ela nos pediu que buscássemos as sussurrantes espumas desses três espíritos e os enviássemos ao céu com a Canção da Espadância.					
 ARCHETYPE_SWORCERY	The Archetype			"""Chegou a hora de aprender a Canção da Espadância, uma técnica de expansão da consciência que revela uma dimensão musical mística."""					
 			gourd/gourd	"""Mantenha a calma e siga minhas instruções para despertar o espírito silvano que dorme nas frescas águas da lagoa profunda."""					
 ARCHETYPE_TADPOLES	The Archetype			Estava 100% claro que o homem de roupas estranhas esperava que fizéssemos algo, mas não tínhamos a menor ideia do quê.					
@@ -175,7 +175,7 @@ GRAVE_CHASMGHOST	The Scythian			À beira do Precipício Perigoso, junto à tumba
 				"""Deixei esses otários vagando sem rumo enquanto eu ia mais a fundo nesse truque da lógica lunar."""					
 				O velho fantasma resplandecente contou como havia trapaceado ao sair de S:S&SEP e ajustar a data e a hora de seu dispositivo.					
 				Descreveu o quão incômodo foi o processo, mas nos disse que isso lhe permitiu alterar as fases da lua!					
-				"""O caso é que fiquei com aquele frio na espinha desde que trapaceei... e foi por isso que morri de vergonha."""					
+				"""O caso é que fiquei com um frio na barriga desde que trapaceei... e foi por isso que morri de vergonha."""					
 GRAVE_HOLLOW	The Scythian			Dentro de uma árvore oca titânica, uma tumba solitária despertou nossa curiosidade.					
 GRAVE_HOLLOWGHOST	The Scythian			Dentro de uma árvore oca titânica, junto a uma tumba solitária, um fantasma incrível mandou uma rima maluca.			117	028.jpg	E2A80
 				"""Observe o humor da lua sem hesitar, e saberá quando estar, onde agir e como lá chegar."""					
@@ -268,7 +268,7 @@ ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Você pode já ter encontrado o odio
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Sombria envolve projéteis triangulares sutis e furtivos. Destrua-os e você sobreviverá.					
 ARCHETYPE_MEGATOMEOUTRO	The Archetype	AdventureUI/tweetIconBabelBook		Então você despertou o espectro imortal que dormitava nas trevas sob Mingi Taw... Caramba!					
 				Como consequência, uma sinistra tempestade paira ameaçadora e as pessoas adoráveis da cabana de pedra estão um pouco desconsoladas.					
-			adventureUI/megatomeItem	A boa notícia é que você tem um pesado livro conhecido como o Megatomo. Na próxima sessão, falaremos sobre seu estranho propósito.					
+			adventureUI/megatomeItem	O resultado é que você tem um pesado livro conhecido como o Megatomo. Na próxima sessão, falaremos sobre seu estranho propósito.					
 				Nossa pesquisa mostra que a exposição prolongada à psicocosmologia mitopoética de S:S&SEP pode causar efeitos adversos.					
 				Agora que você completou a Sessão I, que tal uma pausa? Estarei aqui quando você quiser começar a Sessão II.					
 ARCHETYPE_GOLDMASTERINTRO	The Archetype	AdventureUI/tweetIconBabelBook							
