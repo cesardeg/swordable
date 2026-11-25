@@ -51,15 +51,15 @@ This document serves as the **authoritative Portuguese (`pt-BR`) reference** for
 
 | English | Portuguese (`pt-BR`) | Notes |
 |---------|----------------------|-------|
-| **The Scythian (heroine)** | A Citiana | ✅ Player character. `"A Citiana"` is preserved to avoid homophonic clash with *cita/citar*. |
+| **The Scythian (heroine)** | A Citiana | ✅ Player character (`a Citiana` / `da Citiana` with lowercase article in running prose; `"Citiana"` avoids homophonic clash with *cita/citar*). |
 | **Scythians (demonym / tribe)** | os citas / cita | ✅ Demonym for the Scythian people. Regularized to `"citas / cita"`. |
 | **Logfella** | Troncadeiro | ✅ The woodcutter. See [Portuguese Translation Philosophy](#portuguese-translation-philosophy). |
 | **Girl / Samae** | Samae | ✅ Always `"Samae"` after introduction |
 | | A garota de cabelos escuros | First appearance description |
-| **The Archetype** | O Arquétipo | ✅ The guide character (contracts as `do Arquétipo` after prepositions) |
+| **The Archetype** | o Arquétipo | ✅ The guide character (lowercase article in running prose; contracts as `do Arquétipo`) |
 | **Dogfella** | Cachorreiro | ✅ The dog. See [Portuguese Translation Philosophy](#portuguese-translation-philosophy). |
 | **Jim Guthrie** | Jim Guthrie | ✅ Never translate proper name |
-| **The Grizzled Boor** | O Patife Grisalho | ✅ Antagonist (appears as `o Patife Grisalho` in running prose) |
+| **The Grizzled Boor** | o Patife Grisalho | ✅ Antagonist (lowercase article in running prose) |
 | **Andre (The Giant)** | André, 'O Gigante' | ✅ Ghost character, maintain single quotes |
 | **The Gogolithic Mass** | a Massa Gogolítica | ✅ The deathless specter (lowercase article in running prose) |
 
@@ -130,6 +130,7 @@ This document serves as the **authoritative Portuguese (`pt-BR`) reference** for
 |---------|----------------------|-------|
 | **Sworcery** | espadância | ✅ Lowercase as common noun (magic/science). Cap only in Title/Intro. |
 | **sworcerer** | espadancista | ✅ Practitioner of sworcery (`D280`, `D282`). Gender-invariable (`-ista`). |
+| **swources** | espadascentes | ✅ Portmanteau (*espada* + *nascentes*, mirroring *sword* + *sources* in `D281`). |
 | **Song of Sworcery** | Canção da Espadância | ✅ Main ability (Proper noun) |
 | **sworcery aura** | aura de espadância | ✅ Visual indicator |
 | **sylvan sprite** | espírito silvano | ✅ Collectible creatures |
@@ -495,7 +496,7 @@ Unlike [§12](#portuguese-technical-implementations--lqa-reference), the entries
 | `D004` (`SIGN_TADPOL`) | `"""Home is where the hearth is."" #threegutrecords4ever"` | Three Gut Records + *heart/hearth* pun | `"""O lar é onde a lareira arde."" #threegutrecordsprasempre"` |
 | `D035` | `...to move it move it move it.` | *"I Like to Move It"* / *Madagascar* (2005) | `nos remexer, remexer, remexer!` *(Note: `D041` & `D321` use natural haste idiom `dar no pé`.)* |
 | `D127` (`INFO_CABINRECORD`) | `#theballadofthespacebabies` | Jim Guthrie OST flagship track | Kept as `#theballadofthespacebabies` |
-| `D170` (`GRAVE_MEADOWGHOST*`) | `...Andre The Giant assembled a posse...` | André the Giant / Shepard Fairey | `André, 'O Gigante', juntou a galera...` |
+| `D170` (`GRAVE_CHASMGHOST`) | `...Andre The Giant assembled a posse...` | André the Giant / Shepard Fairey | `André, 'O Gigante', juntou a galera...` |
 | `D250`, `D418` (`ARCHETYPE_MEADOWHINT`, `MIRACLE1_MOUNTAINMEADOW`) | `...fold-in abilities of the great wizard Al Jaffee.` | Al Jaffee & *MAD* Fold-Ins | `os milagrosos poderes de dobra do grande mago Al Jaffee` |
 | `D355` (`GCLUE_MOUNTAINMEADOW`) | `...what a dog's gotta do do.` | Turntable skip + *do-do* pun | `... o que um cão tem que fa-fa-fazer.` |
 | `D404`, `D405` (`JIM_LOGFELLATHOUGHTS`) | `#1000songs` / `#andwegotolder` | Jim Guthrie discography | Kept as `#1000songs` and `#andwegotolder` |
@@ -509,20 +510,20 @@ Unlike [§12](#portuguese-technical-implementations--lqa-reference), the entries
 | `D006`, `D038` (`SIGN_CHASM`, `LOGFELLA_PRECIPICE_DONE`) | `...skyward sword...` | *Zelda: Skyward Sword* (2010 reveal) | `... uma espada apontada ao céu...` |
 | `D089`, `D098`, `D251` (`INFO_BIRDEYESCULPTURE`, `ARCHETYPE_MEADOWHINT`) | `...angry bird sculpture... #subtlereference` | *Angry Birds* (2009) | `... um pássaro zangado... #sutilreferencia` |
 | `D308`, `D311–D319` | `...upload The Megatome...` | Cloud computing pun (*Kingdom of the Cloud*) | `subir o Megatomo` / `subimos o Megatomo` |
-| `D675` (`CREDITS`) | `S:S&S EP is a link to the past.` | *Zelda: A Link to the Past* (1991) | `S:S&SEP é um 'Link' com o passado.` |
-| `D683` (`CREDITS`) | `...originally going to be called 'Poopsock'...` | MMORPG `"Poopsock"` slang | `S:S&SEP ia se chamar 'Poopsock' originalmente. Isso é totalmente verdade.` |
+| `D675` (`ARCHETYPE_CREDITS`) | `S:S&S EP is a link to the past.` | *Zelda: A Link to the Past* (1991) | `S:S&SEP é um 'Link' com o passado.` |
+| `D683` (`ARCHETYPE_CREDITS`) | `...originally going to be called 'Poopsock'...` | MMORPG `"Poopsock"` slang | `S:S&SEP ia se chamar 'Poopsock' originalmente. Isso é totalmente verdade.` |
 
 ### 4. Literature, Philosophy, Politics & Folklore
 
 | Row & ID | English Source | Reference | Portuguese (`pt-BR`) Adaptation |
 |---|---|---|---|
 | `D101–D102` (`INFO_UNWELLWELL`, `INFO_WELLNESS`) | `The well seemed unwell.` / `All's well that ends well.` | Shakespeare (c. 1604) | `O poço soltou um soluço. #poco #soluco` / `Bem está o que bem acaba.` |
-| `D234` (`ARCHETYPE_MUSHROOMHINT`) | `It has even been asserted that divinatory mushrooms...` | Terence McKenna (*Stoned Ape*) | `Chegou-se a afirmar que os cogumelos adivinhatórios podem ter desempenhado um papel significativo no desenvolvimento da psique humana.` |
+| `D234` (`ARCHETYPE_MUSHROOMHINT`) | `It has even been asserted that divinatory mushrooms...` | Terence McKenna (*Stoned Ape*) | `Chegou-se a afirmar que cogumelos adivinhatórios podem ter tido um papel importante no desenvolvimento da psique humana.` |
 | `D283` (`ARCHETYPE_GOLDMASTERINTRO`) | `Confused? Excellent. Keep calm & carry on.` | British poster → *Chapolin Colorado* | `Confusão? Palma, palma, não priemos cânico!` |
 | `D372–D373`, `D383` (`GCLUE_*`) | `...known unknowns & the unknown unknowns.` / `unknown nouns` | Donald Rumsfeld (2002) | `Há dois tipos de incógnitas: as incógnitas conhecidas e as incógnitas desconhecidas.` / `... os substantivos incógnitos...` |
-| `D599` (`CREDITS`) | `...leadership & strategery...` | *SNL* / Will Ferrell (2000) | `... liderança e estrategeria...` |
-| `D674` (`CREDITS`) | `...Robert E. Howard's sword and sorcery stories...` | Robert E. Howard | `... as histórias de espada e feitiçaria de Robert E. Howard.` |
-| `D678` (`CREDITS`) | `...Carl G. Jung & his fascinating ""Red Book""...` | Carl G. Jung (*Liber Novus*) | `... Carl G. Jung e seu fascinante 'Livro Vermelho'...` |
+| `D599` (`ARCHETYPE_CREDITS`) | `...leadership & strategery...` | *SNL* / Will Ferrell (2000) | `... liderança e estrategeria...` |
+| `D674` (`ARCHETYPE_CREDITS`) | `...Robert E. Howard's sword and sorcery stories...` | Robert E. Howard | `... as histórias de espada e feitiçaria de Robert E. Howard.` |
+| `D678` (`ARCHETYPE_CREDITS`) | `...Carl G. Jung & his fascinating ""Red Book""...` | Carl G. Jung (*Liber Novus*) | `... Carl G. Jung e seu fascinante 'Livro Vermelho'...` |
 
 ---
 
@@ -561,6 +562,7 @@ Unlike [§12](#portuguese-technical-implementations--lqa-reference), the entries
 - Treated as a lowercase common noun (like *magia* or *ciência*), capitalized only in the title/intro or the proper noun **`Canção da Espadância`**.
 - The `-ância` suffix creates an abstract, mystical, and unique feel matching the game's description of sworcery as a *"consciousness expansion technique"* rather than conventional magic.
 - Practitioner form: **`espadancista`** (gender-invariable `-ista`, used in `D280`, `D282`).
+- Source portmanteau: **`espadascentes`** (*espada* + *nascentes*, mirroring English *swources of sworcery* in `D281`).
 
 ### Character Names: `Troncadeiro` & `Cachorreiro`
 - **`Logfella` → `Troncadeiro`:** A creative rustic neologism for *"the one who deals with logs"*, reflecting Logfella's down-to-earth woodsman identity.

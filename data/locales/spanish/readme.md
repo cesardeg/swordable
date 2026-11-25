@@ -51,15 +51,15 @@ This document serves as the **authoritative Spanish (`es-419`) reference** for *
 
 | English | Spanish (`es-419`) | Notes |
 |---------|--------------------|-------|
-| **The Scythian (heroine)** | La Escita | ✅ Player character. Retains capitalized article as a substantivized protagonist name (`a La Escita`, `de La Escita`). |
+| **The Scythian (heroine)** | la Escita | ✅ Player character (lowercase article in running prose per RAE norms: `a la Escita`, `de la Escita`; `La Escita` at sentence start or standalone UI label). |
 | **Scythians (demonym / tribe)** | los escitas / escita | ✅ Demonym for the Scythian people. |
 | **Logfella** | Tronquero | ✅ The woodcutter. See [Spanish Translation Philosophy](#spanish-translation-philosophy). |
 | **Girl / Samae** | Samae | ✅ Always `"Samae"` after introduction |
 | | La chica de cabello oscuro | First appearance description |
-| **The Archetype** | El Arquetipo | ✅ The guide character (contracts as `del Arquetipo` after prepositions) |
+| **The Archetype** | el Arquetipo | ✅ The guide character (lowercase article in running prose per RAE norms; contracts as `del Arquetipo`) |
 | **Dogfella** | Perrero | ✅ The dog. See [Spanish Translation Philosophy](#spanish-translation-philosophy). |
 | **Jim Guthrie** | Jim Guthrie | ✅ Never translate proper name |
-| **The Grizzled Boor** | El Patán Canoso | ✅ Antagonist (contracts as `al Patán Canoso` in running prose) |
+| **The Grizzled Boor** | el Patán Canoso | ✅ Antagonist (lowercase article in running prose per RAE norms; contracts as `al Patán Canoso`) |
 | **Andre (The Giant)** | André 'El Gigante' | ✅ Ghost character, maintain single quotes |
 | **The Gogolithic Mass** | la Masa Gogolítica | ✅ The deathless specter (lowercase article in running prose per RAE norms) |
 
@@ -310,7 +310,7 @@ This document serves as the **authoritative Spanish (`es-419`) reference** for *
 ### 5. **Formatting & Capitalization**
 - Trigon names: **"Trigón Dorado"** (both words capitalized)
 - Location & item names: **"el Precipicio Peligroso"**, **"la Gruta Lunar"**, **"el Megatomo"**, **"la Masa Gogolítica"**, **"la Tríada Trigónica"** (proper nouns capitalized; preceding definite article in lowercase in running prose per RAE orthography, contracting normally as `al` / `del`)
-- Protagonist & character titles: **"La Escita"** retains its capitalized article as a substantivized protagonist name (`a La Escita`, `de La Escita`), whereas descriptive epithets contract naturally in prose (`al Patán Canoso`, `del Arquetipo`).
+- Protagonist & character titles: **"la Escita"**, **"el Arquetipo"**, and **"el Patán Canoso"** use a lowercase definite article in running prose per RAE norms (`a la Escita`, `de la Escita`, `del Arquetipo`, `al Patán Canoso`), capitalizing the article only at sentence start or in standalone UI speaker labels (`La Escita`, `El Arquetipo`).
 - Moon phases: **"Luna Radiante"** / **"Luna Sombría"** (both capitalized, preceded by lowercase article `la`)
 
 ### 6. **Majestic Plural & Gender Agreement (`Plural Mayestático`)**
@@ -379,7 +379,7 @@ To avoid repetition of the verb `"avistar"`, use a flexible set of synonyms base
 | **Logfella** | Tronquero | **El Leñador Práctico.** Habla de forma sencilla y directa. Es amigable pero rudo. No es `"mucho de historias"` y prefiere lo práctico (cortar leña). Su apodo `"Tronquero"` refleja un carácter rústico y cercano. |
 | **Girl (Samae)** | Samae | **La Observadora Gentil.** Su tono es inocente, curioso y melancólico. Está conectada con lo místico (espíritus, sueños). Habla con una sencillez poética, en contraste con la complejidad del Arquetipo. |
 | **Dogfella** | Perrero | **El Can Críptico.** Ladra (`"Guau"`), pero sus pensamientos son sorprendentemente filosóficos o graciosos. El nombre `"Perrero"` lo vincula con el estilo de `"Tronquero"`. |
-| **The Grizzled Boor** | El Patán Canoso | **El Antagonista Silencioso.** No tiene diálogos. Su amenaza se percibe a través de las descripciones de La Escita. Su nombre `"El Patán Canoso"` debe sonar intimidante. |
+| **The Grizzled Boor** | El Patán Canoso | **El Antagonista Silencioso.** No tiene diálogos. Su amenaza se percibe a través de las descripciones de la Escita. Su nombre `"El Patán Canoso"` debe sonar intimidante. |
 | **Ghosts** | Fantasmas / Espíritus | **Los Espíritus Expositivos.** Cada fantasma cuenta su tragedia. Su tono es de lamento, arrepentimiento o, a veces, dicen `"tonterías inútiles"` irritantes. Son vehículos para la historia del mundo. |
 
 ---
@@ -486,10 +486,10 @@ Unlike [§12](#spanish-technical-implementations--lqa-reference), the entries be
 
 | Row & ID | English Source | Reference | Spanish (`es-419`) Adaptation |
 |---|---|---|---|
-| `D004` (`SIGN_TADPOL`) | `"""Home is where the hearth is."" #threegutrecords4ever"` | Three Gut Records + *heart/hearth* pun | `"""El hogar está donde arde el fogón."" #threegutrecordsx100pre"` |
+| `D004` (`SIGN_TADPOL`) | `"""Home is where the hearth is."" #threegutrecords4ever"` | Three Gut Records + *heart/hearth* pun | `"""El hogar está donde arde el fuego."" #threegutrecordsx100pre"` |
 | `D035` | `...to move it move it move it.` | *"I Like to Move It"* / *Madagascar* (2005) | `¡y a mover, mover el bote!` *(Note: `D041` & `D321` use natural haste idiom `apretar el paso`.)* |
 | `D127` (`INFO_CABINRECORD`) | `#theballadofthespacebabies` | Jim Guthrie OST flagship track | Kept as `#theballadofthespacebabies` |
-| `D170` (`GRAVE_MEADOWGHOST*`) | `...Andre The Giant assembled a posse...` | André the Giant / Shepard Fairey | `André 'El Gigante' juntó a su gente...` |
+| `D170` (`GRAVE_CHASMGHOST`) | `...Andre The Giant assembled a posse...` | André the Giant / Shepard Fairey | `André 'El Gigante' juntó a su gente...` |
 | `D250`, `D418` (`ARCHETYPE_MEADOWHINT`, `MIRACLE1_MOUNTAINMEADOW`) | `...fold-in abilities of the great wizard Al Jaffee.` | Al Jaffee & *MAD* Fold-Ins | `los milagrosos poderes de plegado del gran mago Al Jaffee` |
 | `D355` (`GCLUE_MOUNTAINMEADOW`) | `...what a dog's gotta do do.` | Turntable skip + *do-do* pun | `... lo que un perro tiene que ha-ha-hacer.` |
 | `D404`, `D405` (`JIM_LOGFELLATHOUGHTS`) | `#1000songs` / `#andwegotolder` | Jim Guthrie discography | Kept as `#1000songs` and `#andwegotolder` |
@@ -503,8 +503,8 @@ Unlike [§12](#spanish-technical-implementations--lqa-reference), the entries be
 | `D006`, `D038` (`SIGN_CHASM`, `LOGFELLA_PRECIPICE_DONE`) | `...skyward sword...` | *Zelda: Skyward Sword* (2010 reveal) | `... una espada alzada al cielo...` |
 | `D089`, `D098`, `D251` (`INFO_BIRDEYESCULPTURE`, `ARCHETYPE_MEADOWHINT`) | `...angry bird sculpture... #subtlereference` | *Angry Birds* (2009) | `... un pájaro enojado... #sutilreferencia` |
 | `D308`, `D311–D319` | `...upload The Megatome...` | Cloud computing pun (*Kingdom of the Cloud*) | `subir el Megatomo` / `subimos el Megatomo` |
-| `D675` (`CREDITS`) | `S:S&S EP is a link to the past.` | *Zelda: A Link to the Past* (1991) | `S:S&SEP es un 'Link' al pasado.` |
-| `D683` (`CREDITS`) | `...originally going to be called 'Poopsock'...` | MMORPG `"Poopsock"` slang | `S:S&SEP iba a llamarse 'Poopsock' originalmente. Esto es totalmente cierto.` |
+| `D675` (`ARCHETYPE_CREDITS`) | `S:S&S EP is a link to the past.` | *Zelda: A Link to the Past* (1991) | `S:S&SEP es un 'Link' al pasado.` |
+| `D683` (`ARCHETYPE_CREDITS`) | `...originally going to be called 'Poopsock'...` | MMORPG `"Poopsock"` slang | `S:S&SEP iba a llamarse 'Poopsock' originalmente. Esto es totalmente cierto.` |
 
 ### 4. Literature, Philosophy, Politics & Folklore
 
@@ -514,9 +514,9 @@ Unlike [§12](#spanish-technical-implementations--lqa-reference), the entries be
 | `D234` (`ARCHETYPE_MUSHROOMHINT`) | `It has even been asserted that divinatory mushrooms...` | Terence McKenna (*Stoned Ape*) | `Incluso se ha postulado que los hongos adivinatorios pudieron haber tenido un papel clave en el desarrollo de la psique humana.` |
 | `D283` (`ARCHETYPE_GOLDMASTERINTRO`) | `Confused? Excellent. Keep calm & carry on.` | British poster → *El Chapulín Colorado* | `¿Confusión? Calma, calma, ¡que no panda el cúnico!` |
 | `D372–D373`, `D383` (`GCLUE_*`) | `...known unknowns & the unknown unknowns.` / `unknown nouns` | Donald Rumsfeld (2002) | `Hay dos tipos de incógnitas: las incógnitas conocidas y las incógnitas desconocidas.` / `... los sustantivos incógnitos...` |
-| `D599` (`CREDITS`) | `...leadership & strategery...` | *SNL* / Will Ferrell (2000) | `... liderazgo y estrategería...` |
-| `D674` (`CREDITS`) | `...Robert E. Howard's sword and sorcery stories...` | Robert E. Howard | `... las historias de espada y hechicería de Robert E. Howard.` |
-| `D678` (`CREDITS`) | `...Carl G. Jung & his fascinating ""Red Book""...` | Carl G. Jung (*Liber Novus*) | `... Carl G. Jung y su fascinante 'Libro Rojo'...` |
+| `D599` (`ARCHETYPE_CREDITS`) | `...leadership & strategery...` | *SNL* / Will Ferrell (2000) | `... liderazgo y estrategería...` |
+| `D674` (`ARCHETYPE_CREDITS`) | `...Robert E. Howard's sword and sorcery stories...` | Robert E. Howard | `... las historias de espada y hechicería de Robert E. Howard.` |
+| `D678` (`ARCHETYPE_CREDITS`) | `...Carl G. Jung & his fascinating ""Red Book""...` | Carl G. Jung (*Liber Novus*) | `... Carl G. Jung y su fascinante 'Libro Rojo'...` |
 
 ---
 
