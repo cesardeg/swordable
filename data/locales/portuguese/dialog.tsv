@@ -16,7 +16,7 @@ INFO_CROSSMOUNTAINLEFT	The Scythian			Na encosta rochosa de Mingi Taw, uma tumba
 INFO_CROSSMOUNTAINRIGHT	The Scythian			Na encosta rochosa de Mingi Taw, uma tumba solitária marcava o fim de um caminho de cascalho.					
 INFO_RIDGESKULLPOLE	The Scythian			Na crista escarpada a caminho do topo de Mingi Taw, erguia-se um lúgubre poste decorado com um crânio com galhada.					
 INFO_CROSSRIDGE	The Scythian			Na crista escarpada rumo ao topo de Mingi Taw, uma tumba solitária era a lúgubre lembrança de quantos morreram aqui no alto.					
-INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos o Megatomo apertado entre duas mãos ossudas e sentimos a espada estremecer na bainha. #megatomo			33	006.jpg	30D6C
+INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos o Megatomo apertado entre duas mãos de osso e sentimos a espada estremecer na bainha. #megatomo			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Uma pequena porta sem maçaneta, feita de um material desconhecido. Uma placa diz: 'Apenas Pessoal Autorizado'.					
 DOOR_UPSLOPEWOODS1	The Scythian			O antigo caminho para Mingi Taw estava bloqueado por uma porta trancada.					
 DOOR_UPSLOPEWOODS3	The Scythian			Uma porta trancada se escondia entre a mata abaixo do antigo caminho que levava a Mingi Taw. #grutalunar					
@@ -67,7 +67,7 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&SEP não produz a experiência transcen
 				Como vê, o Megatomo coleta transmissões de pensamento linguístico. Role para ver meus pensamentos prévios.					
 ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muito bem, você aprendeu a Canção da Espadância e agora o inescrutável poder do Megatomo é seu."""			47	012.jpg	31E2F
 			adventureUI/megatomeItem	"""O Megatomo intercepta transmissões de pensamento linguístico e contém tudo o que precisa para sua funesta missão."""					
-			adventureUI/megatomeItem	"""Estou pensando em algo agora mesmo... que tal abrir o Megatomo e me procurar para ler minha mente?"""					
+			adventureUI/megatomeItem	"""Estou pensando em algo agora mesmo... Que tal abrir o Megatomo e me procurar para ler minha mente?"""					
 				"""Procure um triângulo branco no canto superior direito; pressione-o e equipe o Megatomo para revelar o oculto."""					
 LOGFELLA_STORM	The Scythian			Troncadeiro parou de cortar lenha devido à sinistra tempestade. #botasmolhadas					
 			adventureUI/megatomeItem	Ele nos lembrou de como a tempestade havia estourado logo após recuperarmos o Megatomo sob Mingi Taw.					
@@ -162,11 +162,11 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			Em um matagal perto do antigo caminho, junto
 				"""Morremos de tédio esperando que o humor da lua mudasse."""					
 				"""Bem, na verdade, morremos por causa de uma briga que tivemos por puro tédio."""					
 				"""Pra falar a verdade, prefiro não entrar em detalhes agora, se não se importar."""					
-				"""Acontece que um de nós era um trapaceiro inveterado, e o pegamos com a boca na botija."""					
+				"""Acontece que um de nós era um trapaceiro traiçoeiro, e o pegamos com a boca na botija."""					
 				"""Rolou uma briga e o trapaceiro fugiu pelo antigo caminho em direção ao Precipício Perigoso."""					
 				"""Aí ficamos lá, de bobeira, pensando no que fazer... quando, de repente, a Massa Gogolítica apareceu... Credo!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			À beira do Precipício Perigoso, uma tumba solitária despertou nossa curiosidade.					
-GRAVE_CHASMGHOST	The Scythian			À beira do Precipício Perigoso, junto à tumba do trapaceiro inveterado, encontramos um velho fantasma resplandecente.					
+GRAVE_CHASMGHOST	The Scythian			À beira do Precipício Perigoso, junto à tumba do trapaceiro traiçoeiro, encontramos um velho fantasma resplandecente.					
 			Archetype/trifecta	"""No ano passado, antes das festas de Yule, André, 'O Gigante', juntou a galera e partimos para remontar a Tríade Trigônica."""					
 				"""Os outros membros da galera foram enterrados em um matagal perto do antigo caminho, junto à ponte de toras."""					
 			triangle/Triangle	"""Localizamos e domamos o Trígono Dourado com bastante facilidade, mas depois disso ficamos completamente empacados."""					
@@ -262,7 +262,7 @@ ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			O Trígono Dourado deve ser domado
 				No terceiro padrão, rebata os pequenos projéteis triangulares com a espada e esquive dos ataques de raio.					
 				No segundo padrão, espere pelo ataque de raio e pressione o botão do escudo no momento adequado para esquivar.					
 				No primeiro padrão, rebata a bola de energia com a espada.					
-ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Talvez tenha notado que o Trígono da Lua Radiante fulmina lá do alto... espere o momento certo e pressione o escudo para esquivar.			144	041.jpg	84E11
+ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Talvez tenha notado que o Trígono da Lua Radiante fulmina lá do alto... Espere o momento certo e pressione o escudo para esquivar.			144	041.jpg	84E11
 ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Radiante exigirá que você rebata os projéteis com a espada e esquive dos ataques de raio carregado.					
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Você pode já ter encontrado o odioso ataque de arco-íris do Trígono da Lua Sombria. Fatie-o o mais forte e rápido que puder.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			O padrão final do Trígono da Lua Sombria envolve projéteis triangulares sutis e furtivos. Destrua-os e você sobreviverá.					
@@ -374,7 +374,7 @@ GCLUE_LAKESHOREBUNNYSTRAIGHTAWAY	Dogfella	AdventureUI/tweetIconGourd		Existem ta
 				Au Au Au.					
 GCLUE_LAKESHORELAKE	Logfella	AdventureUI/tweetIconGourd		Meus troncos guardam muitos segredos sobre espíritos silvanos e ilhas impossíveis. Infelizmente, não falo tronquês.					
 				Pela minha experiência, às vezes as corujas não são o que parecem, enquanto outras vezes são apenas corujas comuns.			126	064.jpg	86A47
-GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Talvez você já tenha ouvido falar de uma ilha impossível sob a Lua Radiante... talvez tenha lido sobre isso na internet?			134	065.jpg	H6A5I
+GCLUE_PINKCOLLECTED	The Archetype	AdventureUI/tweetIconGourd		Talvez você já tenha ouvido falar de uma ilha impossível sob a Lua Radiante... Talvez tenha lido sobre isso na internet?			134	065.jpg	H6A5I
 				Estivemos monitorando suas ações em silêncio e queremos ressaltar que, quanto maior a hesitação, menor será a comemoração.					
 				Parece que você progrediu bastante em seu esforço para localizar e domar o Trígono da Lua Radiante. Muito bem feito!					
 GCLUE_MOUNTAINSIDE	Girl	AdventureUI/tweetIconGourd		Os espíritos silvanos são filhos da Terra ou são visitantes solitários do Infinito Remoinhado?					
@@ -419,7 +419,7 @@ MIRACLE1_MOUNTAINMEADOW	The Scythian			Em uma campina ensolarada, operamos um mi
 MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			Em uma campina ensolarada, ficamos confusos e atordoados, com uma dor de cabeça terrível.					
 LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Atordoados e sem uma lembrança clara, acordamos de um profundo sono.					
 			triangle/Triangle	Nós nos lembramos do milagre da campina e do nosso encontro com o Trígono Dourado...					
-			triangle/Triangle	... que novos poderes teríamos recebido?					
+			triangle/Triangle	... Que novos poderes teríamos recebido?					
 			triangle/Triangle	Troncadeiro ficou totalmente impressionado com o quão incrível e estranha a luta contra o Trígono Dourado soava.			81	071.jpg	R7C14
 			triangle/Triangle	Ele se perguntava se talvez o Trígono pudesse estar relacionado aos lúgubres mistérios além do portão de ferro da campina...					
 				Mas Troncadeiro não era fã de lúgubres mistérios, então preferiu ir para casa cortar lenha. #lenhando					
@@ -431,7 +431,7 @@ SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			O lenhador e sua filha velaram
 				Percebemos que a campina continuava a mesma: todo vestígio do nosso encontro místico havia desaparecido.					
 GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae ouviu em silêncio nossa estranha história do encontro com o Trígono Dourado.					
 			triangle/Triangle	Ela se perguntava sobre os segredos da Clareira Trigônica além da caverna cavernosa na campina... Poderia haver alguma conexão?					
-GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Estou muito preocupada com a Citiana... ela sumiu por dias depois que a tempestade se dissipou. Tomara que esteja bem.					
+GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Estou muito preocupada com a Citiana... Ela sumiu por dias depois que a tempestade se dissipou. Tomara que esteja bem.					
 GIRL_URSULAMEADOW_OFF	Girl			Nossa, então a Citiana estava desacordada na campina? Que loucura.					
 DOGFELLA_GETDARKTRIGON	The Scythian			Depois de ativar outro feixe celestial na Clareira Trigônica, notamos algo estranho no cachorro chamado Cachorreiro.					
 			Archetype/trifecta	De repente, parecia que o entendíamos: ele nos instigou a buscar o Trígono da Lua Sombria e completar a Tríade Trigônica.					
@@ -534,7 +534,7 @@ LOGFELLA_ALMOSTWAX	The Scythian			O lenhador disse que raramente pensava na mont
 				No entanto, ele mencionou que ultimamente sua presença espectral começou a atormentá-lo.					
 				De fato, o lenhador admitiu que sentia um frio na espinha quando a Lua Radiante pairava... e quando a Lua Sombria reinava.					
 GIRL_ALMOSTWAX	The Scythian			Samae comentou sobre a lua crescente e se perguntava quanto tempo levaria até que a Lua Radiante pairasse no céu.					
-ARCHETYPE_ALMOSTWAX	The Archetype			A lua cresce um pouco a cada dia... em poucos dias, a Lua Radiante pairará... E daí?			165	046.jpg	P4B6A
+ARCHETYPE_ALMOSTWAX	The Archetype			A lua cresce um pouco a cada dia... Em poucos dias, a Lua Radiante pairará... E daí?			165	046.jpg	P4B6A
 LOGFELLA_BRIGHTMOON	The Scythian			O lenhador admitiu que seu cachorro ficava meio maluco toda vez que a Lua Radiante pairava no céu.			135	061.jpg	M6F1I
 GIRL_BRIGHTMOON	The Scythian			Samae falou sobre suas caminhadas oníricas pela floresta pouco antes do amanhecer, enquanto a Lua Radiante pairava no céu.					
 				Ela mencionou o ar fresco da manhã e uma ilha impossível no meio de um plácido lago.					
@@ -618,7 +618,7 @@ ARCHETYPE_CREDITS	The Archetype
 				Tradução japonesa: o mestre das palavras RYUTA YAZAWA.					
 				Edição japonesa, conselhos cruciais e apoio infinito: MASAHIRO YUKI da Grasshopper Manufacture em grasshopper.co.jp					
 				Apoio adicional na localização japonesa: Yutaka Ohbuchi, John Ricciardi e Masanobu Suto.					
-				Design do brutal logo japonês: POLYGRAPH em polygraph.jp					
+				Design do logo japonês arrasador: POLYGRAPH em polygraph.jp					
 				Magia web japonesa: Jonathan Lumb em jonnyram.com					
 				Apoio e amizade no Japão: Suda 51, Tomoaki Takahashi e Hideto Yamada. Remixadores: Baiyon, Akira Yamaoka, Michiru Yamane, macotom3 e Decasségui Hip.					
 				* * * O DOMÍNIO DO CANADÁ * * *					

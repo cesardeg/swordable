@@ -16,7 +16,7 @@ INFO_CROSSMOUNTAINLEFT	The Scythian			En la pendiente rocosa de Mingi Taw, una t
 INFO_CROSSMOUNTAINRIGHT	The Scythian			En la pendiente rocosa de Mingi Taw, una tumba solitaria marcaba el final de un sendero de grava.					
 INFO_RIDGESKULLPOLE	The Scythian			En la cresta escarpada rumbo a la cima de Mingi Taw, se erguía un lúgubre poste decorado con un cráneo astado.					
 INFO_CROSSRIDGE	The Scythian			En la cresta escarpada hacia la cima de Mingi Taw, una tumba solitaria era un lúgubre recordatorio de cuánta gente murió aquí arriba.					
-INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos el Megatomo aferrado entre dos manos huesudas, y sentimos nuestra espada estremecerse en la vaina. #megatomo			33	006.jpg	30D6C
+INFO_MEGATOMESTUCK	The Scythian		adventureUI/megatomeItem	Encontramos el Megatomo aferrado entre dos manos de hueso, y sentimos nuestra espada estremecerse en la vaina. #megatomo			33	006.jpg	30D6C
 DOOR_SIDEBMEADOW	The Scythian			Una pequeña puerta sin manija, hecha de un material desconocido. Un letrero dice: 'Solo personal autorizado'.					
 DOOR_UPSLOPEWOODS1	The Scythian			El antiguo camino hacia Mingi Taw estaba bloqueado por una puerta cerrada con llave.					
 DOOR_UPSLOPEWOODS3	The Scythian			Entre la maleza se escondía una puerta cerrada con llave, bajo el antiguo camino que llevaba hacia Mingi Taw. #grutalunar					
@@ -67,7 +67,7 @@ ARCHETYPE_FOUNDATION	The Archetype			S:S&SEP no produce la experiencia trascende
 				Como ves, el Megatomo recopila transmisiones de pensamiento lingüístico. Desplázate para ver mis pensamientos previos.					
 ARCHETYPE_MEGATOMETUTORIAL	The Scythian		adventureUI/megatomeItem	"""Muy bien, aprendiste la Canción de Espadancia y ahora el inescrutable poder del Megatomo es tuyo."""			47	012.jpg	31E2F
 			adventureUI/megatomeItem	"""El Megatomo intercepta transmisiones de pensamiento lingüístico y contiene todo lo necesario para tu funesto cometido."""					
-			adventureUI/megatomeItem	"""Ahora mismo estoy pensando en algo... ¿qué tal si abres el Megatomo y me buscas para leer mi mente?"""					
+			adventureUI/megatomeItem	"""Ahora mismo estoy pensando en algo... ¿Qué tal si abres el Megatomo y me buscas para leer mi mente?"""					
 				"""Busca un triángulo blanco en la esquina superior derecha; presiónalo y equipa el Megatomo para revelar lo oculto."""					
 LOGFELLA_STORM	The Scythian			Tronquero había renunciado a cortar leña debido a la siniestra tormenta. #botasmojadas					
 			adventureUI/megatomeItem	Nos recordó cómo la tormenta había estallado justo después de recuperar el Megatomo bajo Mingi Taw.					
@@ -118,7 +118,7 @@ INFO_BRIGHTTRIGONALTAR	The Scythian			En el Claro Trigónico descubrimos otra es
 INFO_STONEHEAD	The Scythian			En el Precipicio Peligroso notamos una enorme cabeza de aspecto familiar, tallada en la roca con la boca abierta de par en par.			24	017.jpg	61B76
 INFO_STONEHEADSHUT	The Scythian			En el Precipicio Peligroso notamos una enorme cabeza de aspecto familiar, tallada en la roca.					
 INFO_STONEHEADFLAGPOLE	The Scythian			Sobre la enorme escultura en la roca se erguía un lúgubre mástil decorado con cráneos toscos y angulosos, o algo así.					
-INFO_CHASMSTONESHELTER	The Scythian			A un lado del Precipicio Peligroso se alzaba un maravilloso dolmen con dos cómodos asientos de piedra.			25	018.jpg	O1C8M
+INFO_CHASMSTONESHELTER	The Scythian			A un lado del Precipicio Peligroso se alzaba una especie de dolmen maravilloso con dos cómodos asientos de piedra.			25	018.jpg	O1C8M
 INFO_SKULLPOLE	The Scythian			Sobre un puente tambaleante se erguía un lúgubre poste decorado con un cráneo astado.					
 INFO_TRIFECTASYMBOL	The Scythian			Sobre la entrada excavada en la roca del templo de la montaña vimos una representación pictográfica de la Tríada Trigónica.					
 INFO_MOUNTAINGATE	The Scythian			En lo profundo del templo de la montaña hallamos un portón de hierro inamovible. Tras él se veía el nublado paisaje de Mingi Taw.					
@@ -162,11 +162,11 @@ GRAVE_LOGBRIDGEGHOST	The Scythian			En un matorral cercano al antiguo camino, ju
 				"""Morimos de aburrimiento esperando que cambiara el humor de la luna."""					
 				"""Bueno... en realidad, morimos por una discusión que tuvimos por puro aburrimiento."""					
 				"""La verdad, prefiero no entrar en detalles ahora, si no te importa."""					
-				"""Resulta que uno de los nuestros era un tramposo redomado, y lo atrapamos con las manos en la masa."""					
+				"""Resulta que uno de los nuestros era un tramposo taimado, y lo atrapamos con las manos en la masa."""					
 				"""Se armó una pelea y el tramposo huyó por el antiguo camino hacia el Precipicio Peligroso."""					
 				"""Así que nos quedamos ahí pasando el rato, viendo qué hacer... cuando de pronto apareció la Masa Gogolítica... ¡Caramba!"""			113	027.jpg	62B75
 GRAVE_CHASM	The Scythian			Al filo del Precipicio Peligroso, una tumba solitaria despertó nuestra curiosidad.					
-GRAVE_CHASMGHOST	The Scythian			Al filo del Precipicio Peligroso, ante la tumba del tramposo redomado, nos topamos con un viejo fantasma resplandeciente.					
+GRAVE_CHASMGHOST	The Scythian			Al filo del Precipicio Peligroso, ante la tumba del tramposo taimado, nos topamos con un viejo fantasma resplandeciente.					
 			Archetype/trifecta	"""El año pasado, antes de las fiestas de Yule, André 'El Gigante' juntó a su gente y nos lanzamos a reconstruir la Tríada Trigónica."""					
 				"""Los demás del grupo están enterrados en un matorral cercano al antiguo camino, junto al puente de troncos."""					
 			triangle/Triangle	"""Localizamos y domamos el Trigón Dorado con bastante facilidad, pero después de eso nos quedamos totalmente estancados."""					
@@ -244,13 +244,13 @@ GIRL_CABINSHEEP	The Scythian			Le preguntamos a Samae sobre las ovejas inútiles
 LOGFELLA_CABINSHEEP	The Scythian			Tronquero sentía que era tiempo de milagros y se preguntaba si estaba por ocurrir algo increíble.			79	036.jpg	V3G62
 GIRL_CABINSHEEPTHOUGHTS	Girl			¡No lo puedo creer...! ¡Dejó de llover! ¿Se estará disipando la tormenta? Espero que sí.					
 				Esta tormenta me tiene desanimada. ¡Todo ha estado tan lúgubre!					
-LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... se me están poniendo los pelos de punta... Sin duda algo está pasando... ¿Se estará empezando a disipar la tormenta?					
+LOGFELLA_CABINSHEEPTHOUGHTS	Logfella			Hmm... Se me están poniendo los pelos de punta... Sin duda algo está pasando... ¿Se estará empezando a disipar la tormenta?					
 				¿Sabes? Siempre que necesito recobrar fuerzas, me siento aquí junto al fuego a calentarme las botas.					
 DOGFELLA_CABINSHEEPTHOUGHTS	Dogfella			Guau Guau Guau Guau Guau Guau Guau Guau. #sigoladrando #milagros			84	037.jpg	V3C7I
 ARCHETYPE_MEADOWHINT	The Archetype			Una vez que el sol esté alineado, recibirás los milagrosos poderes de plegado del gran mago Al Jaffee.					
 				¿Sientes esa extraña vibra? ¡Es tiempo de milagros! Entona la Canción de Espadancia y mira hacia los imponentes pájaros enojados.			76	038.jpg	A3G84
 ARCHETYPE_MEADOWHINTTWO	The Archetype			Busca en los cielos una visión oblicua sobre el milagro del prado y admira el Trigón Dorado.					
-ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... resulta interesante la forma en que manejaste ese encuentro con el individuo caníbal con cabeza de oso.			120	039.jpg	O3G9D
+ARCHETYPE_SIDE_B	The Archetype	AdventureUI/tweetIconInfo		Hmm... Resulta interesante la forma en que manejaste ese encuentro con el individuo caníbal con cabeza de oso.			120	039.jpg	O3G9D
 				No, no, está bien, solo es curioso. Nunca vi a nadie hacer eso. Es algo excepcional, pero no te alarmes.					
 				Bien, prosigamos. Queda muchísimo más de la experiencia S:S&SEP por disfrutar, particularmente en el Lado B.					
 ARCHETYPE_GOLDTRIGONHINTONE	The Archetype			Para domar el Trigón Dorado debes sobrevivir a los tres movimientos de su extraña canción usando una mezcla de ataque y defensa.					
@@ -262,7 +262,7 @@ ARCHETYPE_GOLDTRIGONHINTTHREE	The Archetype			El Trigón Dorado debe ser domado.
 				En el tercer patrón, golpea los pequeños proyectiles triangulares con la espada y esquiva los ataques de rayo.					
 				En el segundo patrón, espera su ataque de rayo y presiona el botón del escudo en el momento adecuado para esquivarlo.					
 				En el primer patrón, blande la espada para devolver la bola de energía.					
-ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Quizá notaste que el Trigón de la Luna Radiante fulmina desde lo alto... espera el momento justo y presiona el escudo para esquivar.			144	041.jpg	84E11
+ARCHETYPE_BRIGHTTRIGONHINTONE	The Archetype			Quizá notaste que el Trigón de la Luna Radiante fulmina desde lo alto... Espera el momento justo y presiona el escudo para esquivar.			144	041.jpg	84E11
 ARCHETYPE_BRIGHTTRIGONHINTTWO	The Archetype			El patrón final del Trigón de la Luna Radiante requerirá que golpees los proyectiles con la espada y esquives sus ataques de rayo cargados.					
 ARCHETYPE_DARKTRIGONHINTONE	The Archetype			Quizá ya te enfrentaste al odioso ataque de arcoíris del Trigón de la Luna Sombría. Rebana ese arcoíris tan fuerte y rápido como puedas.					
 ARCHETYPE_DARKTRIGONHINTTWO	The Archetype			El patrón final del Trigón de la Luna Sombría implica proyectiles triangulares sutiles y furtivos. Destrúyelos y sobrevivirás.					
@@ -419,7 +419,7 @@ MIRACLE1_MOUNTAINMEADOW	The Scythian			En un prado soleado, obramos un milagro d
 MIRACLE1_YELLOWTRIGONCOLLECTED	The Scythian			En un prado soleado, quedamos confundidos y aturdidos, con un dolor de cabeza terrible.					
 LOGFELLA_YELLOWTRIGONCOLLECTED	The Scythian			Aturdidos y sin un recuerdo claro, despertamos de un profundo sueño.					
 			triangle/Triangle	Recordamos el milagro del prado y nuestro encuentro con el Trigón Dorado...					
-			triangle/Triangle	... ¿qué nuevos poderes se nos habrían concedido?					
+			triangle/Triangle	... ¿Qué nuevos poderes se nos habrían concedido?					
 			triangle/Triangle	Tronquero quedó impresionado por lo increíble y extraño que sonaba el combate contra el Trigón Dorado.			81	071.jpg	R7C14
 			triangle/Triangle	Se preguntaba por la conexión del Trigón con los lúgubres misterios más allá del portón de hierro del prado.					
 				Pero a Tronquero no le gustaban los lúgubres misterios, así que prefirió irse a casa y cortar leña. #leñando					
@@ -431,7 +431,7 @@ SCYTHIAN_YELLOWTRIGONCOLLECTED_OFF	The Scythian			El leñador y su hija velaron 
 				El prado seguía igual: toda evidencia de nuestro encuentro místico había desaparecido.					
 GIRL_YELLOWTRIGONCOLLECTED	The Scythian			Samae escuchó en silencio nuestra extraña historia sobre el encuentro con el Trigón Dorado.					
 			triangle/Triangle	Se preguntaba por los secretos del Claro Trigónico más allá de la cueva cavernosa del prado... ¿Habría alguna conexión?					
-GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... me preocupa mucho la Escita... desapareció durante varios días después de que se disipara la tormenta. Ojalá esté bien.					
+GIRL_YELLOWTRIGONTHOUGHTS	Girl			Hmm... Me preocupa mucho la Escita... Desapareció durante varios días después de que se disipara la tormenta. Ojalá esté bien.					
 GIRL_URSULAMEADOW_OFF	Girl			¡¿Cómo?! ¿Así que la Escita estaba desmayada en el prado? Qué locura.					
 DOGFELLA_GETDARKTRIGON	The Scythian			Después de activar otro haz celestial en el Claro Trigónico, notamos algo extraño en el perro llamado Perrero.					
 			Archetype/trifecta	De repente, pareció que lo entendíamos: nos instó a buscar el Trigón de la Luna Sombría y completar la Tríada Trigónica.					
@@ -534,7 +534,7 @@ LOGFELLA_ALMOSTWAX	The Scythian			El leñador dijo que casi nunca pensaba en la 
 				Sin embargo, mencionó que últimamente su presencia espectral había comenzado a acosarlo.					
 				De hecho, admitió que se le ponían los pelos de punta cuando la Luna Radiante resplandecía... y cuando la Luna Sombría reinaba.					
 GIRL_ALMOSTWAX	The Scythian			Samae comentó algo sobre la luna creciente y se preguntaba cuánto faltaría para que la Luna Radiante resplandeciera en el cielo.					
-ARCHETYPE_ALMOSTWAX	The Archetype			La luna crece un poco cada día... en unos pocos días, la Luna Radiante resplandecerá... ¿Y eso qué?			165	046.jpg	P4B6A
+ARCHETYPE_ALMOSTWAX	The Archetype			La luna crece un poco cada día... En unos pocos días, la Luna Radiante resplandecerá... ¿Y eso qué?			165	046.jpg	P4B6A
 LOGFELLA_BRIGHTMOON	The Scythian			El leñador admitió que su perro se volvía medio loco cada vez que la Luna Radiante resplandecía en el cielo.			135	061.jpg	M6F1I
 GIRL_BRIGHTMOON	The Scythian			Samae habló de sus paseos oníricos por el bosque poco antes del amanecer, mientras la Luna Radiante resplandecía en el cielo.					
 				Mencionó el aire fresco de la mañana y una isla imposible en medio de un apacible lago.					
